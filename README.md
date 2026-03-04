@@ -1,0 +1,2 @@
+# pemikir
+Direktori pemikir Indonesia
