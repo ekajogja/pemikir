@@ -84,11 +84,13 @@ Konten deskripsi bebas ditulis dalam Markdown setelah front matter. Bagian ini b
 - **Sumber daring**: Jika informasi diambil dari situs web, jurnal online, atau arsip digital, cantumkan URL lengkap di bagian `sumber`.
 - **Sumber cetak (buku, jurnal fisik)**: Jika informasi berasal dari buku atau dokumen fisik yang tidak tersedia secara daring, Anda WAJIB menyertakan **foto atau pindaian halaman terkait** sebagai bukti. Foto tersebut dapat diunggah ke folder `assets/bukti/` dengan nama file yang merujuk pada tokoh (misal: `rocky-gerung-buku1.jpg`), lalu cantumkan path lokal sebagai sumber.
   - Contoh:
+
     ```yaml
     sumber:
       - url: /assets/bukti/rocky-gerung-hal-45.jpg
         label: Buku "Filsafat Politik" hlm. 45 (foto pribadi)
     ```
+
 - **Wawancara atau komunikasi pribadi**: Tidak diperkenankan, kecuali dapat diverifikasi melalui rekaman atau transkrip yang juga diunggah.
 
 Dengan aturan ini, setiap klaim dapat ditelusuri dan dipertanggungjawabkan.
@@ -128,19 +130,33 @@ Setiap Pull Request akan ditinjau oleh pengelola. Jika ada kekurangan, kami akan
 
 1. Pastikan Ruby dan Bundler terinstal.
 2. Clone repositori:
+
    ```bash
    git clone https://github.com/ekajogja/pemikir.git
    cd pemikir
    ```
+
 3. Install dependensi:
+
    ```bash
    bundle install
    ```
+
 4. Jalankan server lokal:
+
    ```bash
    bundle exec jekyll serve
    ```
+
 5. Akses `http://localhost:4000` untuk melihat situs.
+
+> **Catatan Khusus untuk Pengguna Ubuntu/Linux:**
+> Sering kali `bundle install` gagal karena ekosistem dependensi Jekyll terbaru membutuhkan kompilasi native (seperti `sass-embedded` atau `json`). Jika Anda menemui masalah tersebut, Anda dapat melompati langkah Bundler sepenuhnya dengan menginstal paket bawaan Ubuntu:
+>
+> ```bash
+> sudo apt install jekyll
+> jekyll serve
+> ```
 
 ## Lisensi
 
