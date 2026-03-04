@@ -1,0 +1,110 @@
+---
+layout: default
+---
+
+<article class="tokoh-page">
+
+    <!-- Header profil -->
+    <div class="tokoh-header">
+        <h1 class="tokoh-nama">{{ page.nama }}</h1>
+        <div class="tokoh-meta-line">
+            {% if page.tempat_lahir %}{{ page.tempat_lahir }}{% endif %}
+            {% if page.lahir %} · {{ page.lahir | slice: 0, 4 }}{% endif %}
+            {% if page.wafat %} – {{ page.wafat | slice: 0, 4 }}{% endif %}
+        </div>
+        <div class="tokoh-bidang-badges">
+            {% if page.periode %}
+            <span class="badge badge-periode">{{ page.periode | capitalize }}</span>
+            {% endif %}
+            {% for b in page.bidang %}
+            <span class="badge">{{ b }}</span>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Infobox kanan ala ensiklopedia -->
+    <div class="tokoh-infobox">
+        <div class="infobox-title">{{ page.nama }}</div>
+        <table>
+            {% if page.lahir %}
+            <tr>
+                <td>Lahir</td>
+                <td>{{ page.lahir | date: "%-d %B %Y" }}{% if page.tempat_lahir %}<br><em>{{ page.tempat_lahir }}</em>{%
+                    endif %}</td>
+            </tr>
+            {% endif %}
+            {% if page.wafat %}
+            <tr>
+                <td>Wafat</td>
+                <td>{{ page.wafat | date: "%-d %B %Y" }}</td>
+            </tr>
+            {% endif %}
+            {% if page.afiliasi %}
+            <tr>
+                <td>Afiliasi</td>
+                <td>{{ page.afiliasi }}</td>
+            </tr>
+            {% endif %}
+            {% if page.pendidikan %}
+            <tr>
+                <td>Pendidikan</td>
+                <td>
+                    <ul style="margin:0;padding-left:1em;font-size:0.9em;">
+                        {% for p in page.pendidikan %}
+                        <li>{{ p }}</li>
+                        {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endif %}
+            {% if page.bidang %}
+            <tr>
+                <td>Bidang</td>
+                <td>{{ page.bidang | join: ", " }}</td>
+            </tr>
+            {% endif %}
+        </table>
+    </div>
+
+    <!-- Pokok pikiran -->
+    {% if page.pokok_pikiran %}
+    <h2>Pokok Pikiran &amp; Kontribusi</h2>
+    <p><em>{{ page.pokok_pikiran }}</em></p>
+    {% endif %}
+
+    <!-- Narasi lengkap -->
+    <div class="tokoh-narasi">
+        {{ content }}
+    </div>
+
+    <!-- Karya utama -->
+    {% if page.karya_utama %}
+    <h2>Karya Utama</h2>
+    <ul class="karya-list">
+        {% for karya in page.karya_utama %}
+        <li>
+            <span class="karya-judul">{{ karya.judul }}</span>
+            {% if karya.tahun %}<span class="karya-tahun">({{ karya.tahun }})</span>{% endif %}
+            {% if karya.jenis %}<span class="karya-jenis">{{ karya.jenis }}</span>{% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    <!-- Sumber referensi -->
+    {% if page.sumber %}
+    <h2>Sumber Referensi</h2>
+    <ul class="sumber-list">
+        {% for s in page.sumber %}
+        <li>
+            {% if s.url contains "http" %}
+            <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label | default: s.url }}</a>
+            {% else %}
+            {{ s.label | default: s.url }}
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+</article>

@@ -1,0 +1,444 @@
+/* ===================================================
+   DIREKTORI PEMIKIR INDONESIA
+   Tipografi & gaya ensiklopedia klasik
+   =================================================== */
+
+/* --- Google Fonts import (ditambahkan via layout default) ---
+   IM Fell English      → body text (serif klasik, kesan tua)
+   Cinzel               → heading/judul (display Roman klasik)
+   IM Fell English SC   → dropcap / label kecil
+*/
+
+/* --- Variabel warna & font --- */
+:root {
+    --color-bg: #faf6ef;
+    /* krem perkamen */
+    --color-bg-alt: #f2ead8;
+    /* krem lebih gelap untuk sidebar/kartu */
+    --color-text: #2c1a0e;
+    /* coklat tinta tua */
+    --color-text-mute: #6b4c30;
+    /* coklat muda */
+    --color-accent: #8b2500;
+    /* merah bata */
+    --color-border: #c9b08a;
+    /* garis buku tua */
+    --color-link: #5a1500;
+    --color-link-hover: #c0392b;
+
+    --font-body: 'IM Fell English', Georgia, 'Times New Roman', serif;
+    --font-heading: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', serif;
+    --font-meta: 'IM Fell English', Georgia, serif;
+}
+
+/* --- Reset & base --- */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* --- Tipografi heading --- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-heading);
+    color: var(--color-accent);
+    letter-spacing: 0.03em;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.4em;
+}
+
+h2 {
+    font-size: 1.7rem;
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 0.2em;
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-top: 1.2em;
+}
+
+/* --- Link --- */
+a {
+    color: var(--color-link);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--color-border);
+    transition: color 0.2s, border-color 0.2s;
+}
+
+a:hover {
+    color: var(--color-link-hover);
+    border-bottom-color: var(--color-link-hover);
+}
+
+/* --- Site header override --- */
+.site-header {
+    background-color: var(--color-text);
+    border-top: 4px solid var(--color-accent);
+    border-bottom: 2px solid var(--color-border);
+    padding: 1rem 0;
+}
+
+.site-title,
+.site-title:visited {
+    font-family: var(--font-heading);
+    font-size: 1.6rem;
+    color: var(--color-bg) !important;
+    letter-spacing: 0.08em;
+    border-bottom: none;
+}
+
+.site-title:hover {
+    color: var(--color-bg-alt) !important;
+}
+
+.site-nav .page-link {
+    font-family: var(--font-heading);
+    font-size: 0.9rem;
+    color: var(--color-bg-alt);
+    letter-spacing: 0.05em;
+    border-bottom: none;
+}
+
+.site-nav .page-link:hover {
+    color: #fff;
+}
+
+/* --- Halaman utama: tagline --- */
+.home-intro {
+    text-align: center;
+    padding: 2.5rem 1rem 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: 2rem;
+}
+
+.home-intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.3em;
+}
+
+.home-intro p {
+    font-size: 1.05rem;
+    color: var(--color-text-mute);
+    font-style: italic;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* --- Filter & pencarian --- */
+.filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+    margin-bottom: 1.8rem;
+    padding: 1rem 1.2rem;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 2px;
+}
+
+.filter-bar input[type="text"],
+.filter-bar select {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+    padding: 0.4rem 0.7rem;
+    border-radius: 2px;
+    outline: none;
+}
+
+.filter-bar input[type="text"] {
+    flex: 1;
+    min-width: 160px;
+}
+
+.filter-bar input[type="text"]:focus,
+.filter-bar select:focus {
+    border-color: var(--color-accent);
+}
+
+.filter-bar label {
+    font-size: 0.85rem;
+    color: var(--color-text-mute);
+    font-style: italic;
+}
+
+/* --- Grid kartu tokoh --- */
+.tokoh-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.4rem;
+    margin-bottom: 3rem;
+}
+
+.tokoh-card {
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-top: 3px solid var(--color-accent);
+    padding: 1.2rem 1.4rem;
+    transition: box-shadow 0.2s, transform 0.2s;
+    position: relative;
+}
+
+.tokoh-card:hover {
+    box-shadow: 0 4px 16px rgba(44, 26, 14, 0.15);
+    transform: translateY(-2px);
+}
+
+.tokoh-card h3 {
+    font-size: 1.1rem;
+    margin: 0 0 0.3em;
+    color: var(--color-accent);
+}
+
+.tokoh-card .card-meta {
+    font-size: 0.82rem;
+    color: var(--color-text-mute);
+    font-style: italic;
+    margin-bottom: 0.6rem;
+    line-height: 1.5;
+}
+
+.tokoh-card .card-bidang {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-bottom: 0.8rem;
+}
+
+.badge {
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    color: var(--color-text-mute);
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+    text-transform: uppercase;
+}
+
+.badge-periode {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #faf6ef;
+}
+
+.tokoh-card .card-pokok {
+    font-size: 0.9rem;
+    color: var(--color-text);
+    line-height: 1.6;
+    margin-bottom: 0.8rem;
+}
+
+.tokoh-card a.card-link {
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    color: var(--color-accent);
+    letter-spacing: 0.04em;
+    border-bottom: none;
+    text-transform: uppercase;
+}
+
+.tokoh-card a.card-link:hover {
+    color: var(--color-link-hover);
+}
+
+/* Marker ketika disembunyikan filter */
+.tokoh-card.hidden {
+    display: none;
+}
+
+/* --- Halaman profil tokoh --- */
+.tokoh-header {
+    border-bottom: 2px solid var(--color-border);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.tokoh-header .tokoh-nama {
+    font-size: 2.4rem;
+    margin-bottom: 0.2em;
+}
+
+.tokoh-header .tokoh-meta-line {
+    font-size: 0.95rem;
+    color: var(--color-text-mute);
+    font-style: italic;
+    margin-bottom: 0.6rem;
+}
+
+.tokoh-header .tokoh-bidang-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.4rem;
+}
+
+/* Tabel info tokoh (sidebar style) */
+.tokoh-infobox {
+    float: right;
+    clear: right;
+    margin: 0 0 1.5rem 2rem;
+    width: 280px;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    font-size: 0.88rem;
+    line-height: 1.6;
+}
+
+.tokoh-infobox .infobox-title {
+    font-family: var(--font-heading);
+    background: var(--color-accent);
+    color: #faf6ef;
+    text-align: center;
+    padding: 0.5rem 0.8rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.06em;
+}
+
+.tokoh-infobox table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tokoh-infobox td {
+    padding: 0.35rem 0.7rem;
+    vertical-align: top;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.tokoh-infobox td:first-child {
+    font-weight: bold;
+    color: var(--color-text-mute);
+    white-space: nowrap;
+    width: 45%;
+}
+
+.tokoh-infobox td:last-child {
+    color: var(--color-text);
+}
+
+/* Daftar karya utama */
+.karya-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 1.5rem;
+}
+
+.karya-list li {
+    padding: 0.4rem 0;
+    border-bottom: 1px dotted var(--color-border);
+    font-size: 0.95rem;
+}
+
+.karya-list li:last-child {
+    border-bottom: none;
+}
+
+.karya-list .karya-judul {
+    font-style: italic;
+}
+
+.karya-list .karya-tahun {
+    color: var(--color-text-mute);
+    font-size: 0.85rem;
+    margin-left: 0.4rem;
+}
+
+.karya-list .karya-jenis {
+    color: var(--color-accent);
+    font-size: 0.78rem;
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-left: 0.4rem;
+    border: 1px solid var(--color-accent);
+    padding: 0 0.3rem;
+}
+
+/* Daftar sumber */
+.sumber-list {
+    list-style: disc;
+    padding-left: 1.4rem;
+    font-size: 0.88rem;
+    color: var(--color-text-mute);
+}
+
+.sumber-list a {
+    color: var(--color-text-mute);
+    font-style: italic;
+}
+
+/* Konten narasi tokoh */
+.tokoh-narasi {
+    max-width: 780px;
+}
+
+.tokoh-narasi p:first-of-type::first-letter {
+    font-family: var(--font-heading);
+    font-size: 3.5rem;
+    float: left;
+    line-height: 0.8;
+    margin: 0.08em 0.12em 0 0;
+    color: var(--color-accent);
+}
+
+/* --- Footer override --- */
+.site-footer {
+    background-color: var(--color-text);
+    color: var(--color-bg-alt);
+    border-top: 3px solid var(--color-accent);
+    font-size: 0.85rem;
+    font-style: italic;
+}
+
+.site-footer a {
+    color: var(--color-bg-alt);
+    border-bottom-color: rgba(196, 176, 138, 0.4);
+}
+
+.site-footer a:hover {
+    color: #fff;
+}
+
+/* --- Responsive --- */
+@media (max-width: 640px) {
+    .tokoh-infobox {
+        float: none;
+        width: 100%;
+        margin: 0 0 1.5rem 0;
+    }
+
+    .home-intro h1 {
+        font-size: 1.7rem;
+    }
+
+    h1 {
+        font-size: 1.7rem;
+    }
+
+    .tokoh-header .tokoh-nama {
+        font-size: 1.7rem;
+    }
+}

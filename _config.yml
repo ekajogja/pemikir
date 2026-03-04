@@ -1,0 +1,52 @@
+title: "Direktori Pemikir Indonesia"
+description: "Dokumentasi sistematis para intelektual, ilmuwan, budayawan, filsuf, dan pemikir Indonesia lintas zaman."
+baseurl: "/pemikir"
+url: "https://ekajogja.github.io"
+lang: id
+
+author:
+  name: "Kontributor Direktori Pemikir Indonesia"
+
+# Koleksi tokoh
+collections:
+  tokoh:
+    output: true
+    permalink: /tokoh/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "tokoh"
+    values:
+      layout: tokoh
+
+# Plugin
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+theme: minima
+minima:
+  skin: classic
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "*.gem"
+  - vendor/
+  - .gitignore
+  - README.md
+  - node_modules/
+
+# Navigation
+header_pages:
+  - about.md
