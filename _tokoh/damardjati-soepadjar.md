@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Damardjati Soepadjar
 lahir: 1934-01-01
 wafat: 2009-12-22

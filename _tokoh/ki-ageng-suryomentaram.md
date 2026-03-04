@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Ki Ageng Suryomentaram
 lahir: 1892-05-20
 wafat: 1962-03-18

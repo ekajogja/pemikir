@@ -107,4 +107,18 @@ layout: default
     </ul>
     {% endif %}
 
+    <!-- Credit kontributor -->
+    {% if page.kontributor %}
+    <div class="tokoh-kontributor">
+        <h2>Kontributor</h2>
+        <p>
+            {% if page.kontributor.first %}
+                {{ page.kontributor | join: ", " }}
+            {% else %}
+                {{ page.kontributor }}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+
 </article>

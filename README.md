@@ -31,6 +31,7 @@ Dengan semangat **open source**, kami mengundang siapa pun untuk berkontribusiâ€
   - Pokok pikiran/kontribusi utama  
   - Daftar karya utama  
   - Sumber referensi (wajib)
+  - Kontributor
 
 - **Pencarian & Filter**  
   Cari berdasarkan nama, periode, bidang, atau institusi.

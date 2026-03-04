@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Karlina Supelli
 lahir: 1958-10-15
 wafat:

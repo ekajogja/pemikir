@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Nurcholish Madjid
 lahir: 1939-03-17
 wafat: 2005-08-29

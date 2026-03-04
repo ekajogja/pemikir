@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Pramoedya Ananta Toer
 lahir: 1925-02-06
 wafat: 2006-04-30

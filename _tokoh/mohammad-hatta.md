@@ -1,5 +1,6 @@
 ---
 layout: tokoh
+kontributor: Eka Y Saputra
 nama: Mohammad Hatta
 lahir: 1902-08-12
 wafat: 1980-03-14

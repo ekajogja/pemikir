@@ -55,6 +55,8 @@ Nama file mengikuti aturan:
 
 ### 3. Isi file dengan template berikut
 
+> ⚠️ **PENTING**: Jangan lupa mencantumkan nama Anda di field `kontributor` dalam template file tokoh. Ini penting untuk memberikan pengakuan atas kontribusi Anda.
+
 Lihat [Format File Tokoh](#format-file-tokoh) untuk panduan lengkap.
 
 ### 4. (Jika ada sumber cetak) Unggah foto bukti
@@ -72,8 +74,9 @@ Jika menemukan kesalahan data (tahun lahir keliru, karya utama tidak lengkap, dl
 
 1. Fork dan buat branch baru: `git checkout -b perbaiki-data-nama-tokoh`
 2. Edit file yang bersangkutan di `_tokoh/`
-3. Di pesan commit, jelaskan **apa** yang diubah dan **mengapa** (sertakan sumber)
-4. Buat Pull Request ke branch `main`
+3. **Tambahkan nama Anda di field `kontributor`** dengan format: `kontributor: [Nama Sebelumnya], [Nama Anda]`
+4. Di pesan commit, jelaskan **apa** yang diubah dan **mengapa** (sertakan sumber)
+5. Buat Pull Request ke branch `main`
 
 > ⚠️ **Penting**: Setiap perubahan data faktual **wajib disertai sumber baru** yang mendukung perubahan tersebut.
 
@@ -195,7 +198,8 @@ Fork repo → Buat branch → Tambah/edit file → Commit → Push → Buat PR
 1. Pastikan satu PR hanya memuat satu tokoh (atau satu koreksi data spesifik)
 2. Judul PR: `Menambahkan tokoh: [Nama Tokoh]` atau `Memperbaiki data: [Nama Tokoh]`
 3. Isi deskripsi PR dengan ringkasan perubahan dan daftar sumber yang digunakan
-4. Pengelola akan meninjau dalam 7 hari kerja
+4. **Pastikan field `kontributor` sudah diisi dengan nama Anda**
+5. Pengelola akan meninjau selambatnya dalam 7 hari kerja
 
 ---
 

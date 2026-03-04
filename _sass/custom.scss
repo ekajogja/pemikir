@@ -26,9 +26,9 @@
     --color-link: #5a1500;
     --color-link-hover: #c0392b;
 
-    --font-body: 'IM Fell English', Georgia, 'Times New Roman', serif;
+    --font-body: Georgia, 'Times New Roman', serif;
     --font-heading: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', serif;
-    --font-meta: 'IM Fell English', Georgia, serif;
+    --font-meta: Georgia, serif;
 }
 
 /* --- Reset & base --- */
@@ -422,6 +422,25 @@ a:hover {
     color: #fff;
 }
 
+/* --- Credit kontributor --- */
+.tokoh-kontributor {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
+    
+    h2 {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+        color: var(--color-accent);
+    }
+    
+    p {
+        font-size: 0.9rem;
+        color: var(--color-text-mute);
+        margin: 0;
+    }
+}
+
 /* --- Responsive --- */
 @media (max-width: 640px) {
     .tokoh-infobox {
@@ -440,5 +459,15 @@ a:hover {
 
     .tokoh-header .tokoh-nama {
         font-size: 1.7rem;
+    }
+
+    /* Perbaikan warna background site-nav mobile */
+    .site-nav {
+        background-color: var(--color-text);
+    }
+    
+    .site-nav .page-link {
+        color: var(--color-bg);
+        background-color: var(--color-text);
     }
 }
