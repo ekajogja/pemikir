@@ -15,23 +15,23 @@ layout: default
     <label for="filter-periode">Periode:</label>
     <select id="filter-periode" onchange="filterTokoh()">
         <option value="">Semua</option>
-        <option value="klasik">Klasik / Tradisional</option>
-        <option value="pergerakan">Pergerakan Nasional</option>
-        <option value="pasca-kemerdekaan">Pasca-Kemerdekaan</option>
-        <option value="kontemporer">Kontemporer</option>
+        {% assign all_periode = site.tokoh | map: 'periode' | uniq | sort %}
+        {% for p in all_periode %}
+        {% if p %}
+        <option value="{{ p | downcase }}">{{ p | capitalize }}</option>
+        {% endif %}
+        {% endfor %}
     </select>
 
     <label for="filter-bidang">Bidang:</label>
     <select id="filter-bidang" onchange="filterTokoh()">
         <option value="">Semua</option>
-        <option value="filsafat">Filsafat</option>
-        <option value="sastra">Sastra</option>
-        <option value="politik">Politik</option>
-        <option value="ekonomi">Ekonomi</option>
-        <option value="agama">Agama</option>
-        <option value="antropologi">Antropologi</option>
-        <option value="jurnalisme">Jurnalisme</option>
-        <option value="astronomi">Astronomi</option>
+        {% assign all_bidang = site.tokoh | map: 'bidang' | join: ',' | split: ',' | uniq | sort %}
+        {% for b in all_bidang %}
+        {% if b != "" %}
+        <option value="{{ b | strip | downcase }}">{{ b | strip | capitalize }}</option>
+        {% endif %}
+        {% endfor %}
     </select>
 </div>
 
@@ -39,11 +39,11 @@ layout: default
 <div class="tokoh-grid" id="tokoh-grid">
     {% assign tokoh_sorted = site.tokoh | sort: "lahir" %}
     {% for tokoh in tokoh_sorted %}
-    <div class="tokoh-card" data-nama="{{ tokoh.nama | downcase }}" data-periode="{{ tokoh.periode | downcase }}"
-        data-bidang="{{ tokoh.bidang | join: ' ' | downcase }}">
+    <a href="{{ tokoh.url | relative_url }}" class="tokoh-card" data-nama="{{ tokoh.nama | downcase }}"
+        data-periode="{{ tokoh.periode | downcase }}" data-bidang="{{ tokoh.bidang | join: ' ' | downcase }}">
         <h3>{{ tokoh.nama }}</h3>
         <div class="card-meta">
-            {{ tokoh.tempat_lahir }}{% if tokoh.lahir %} · {{ tokoh.lahir | slice: 0, 4 }}{% endif %}{% if tokoh.wafat
+            {% if tokoh.lahir %}{{ tokoh.lahir | slice: 0, 4 }}{% endif %}{% if tokoh.wafat
             %} – {{ tokoh.wafat | slice: 0, 4 }}{% endif %}
         </div>
         <div class="card-bidang">
@@ -52,9 +52,8 @@ layout: default
             <span class="badge">{{ b }}</span>
             {% endfor %}
         </div>
-        <p class="card-pokok">{{ tokoh.pokok_pikiran | truncate: 120 }}</p>
-        <a href="{{ tokoh.url | relative_url }}" class="card-link">Baca profil →</a>
-    </div>
+        <p class="card-pokok">{{ tokoh.pokok_pikiran | truncate: 288 }}</p>
+    </a>
     {% endfor %}
 </div>
 
@@ -77,4 +76,24 @@ layout: default
             card.classList.toggle('hidden', !(matchQ && matchPer && matchBid));
         });
     }
+
+    // Jalankan filter saat halaman dimuat jika ada parameter di URL
+    document.addEventListener('DOMContentLoaded', function () {
+        const params = new URLSearchParams(window.location.search);
+        const per = params.get('periode');
+        const bid = params.get('bidang');
+
+        if (per) {
+            const el = document.getElementById('filter-periode');
+            if (el) el.value = per.toLowerCase();
+        }
+        if (bid) {
+            const el = document.getElementById('filter-bidang');
+            if (el) el.value = bid.toLowerCase();
+        }
+
+        if (per || bid) {
+            filterTokoh();
+        }
+    });
 </script>

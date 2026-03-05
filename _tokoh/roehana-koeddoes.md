@@ -1,6 +1,7 @@
 ---
 layout: tokoh
 kontributor: Eka Y Saputra
+diperbarui: 2026-03-06
 nama: Roehana Koeddoes
 lahir: 1884-12-20
 wafat: 1972-08-17

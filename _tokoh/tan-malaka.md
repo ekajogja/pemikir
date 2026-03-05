@@ -1,6 +1,7 @@
 ---
 layout: tokoh
 kontributor: Eka Y Saputra
+diperbarui: 2026-03-06
 nama: Tan Malaka
 lahir: 1897-06-02
 wafat: 1949-02-21

@@ -192,17 +192,22 @@ a:hover {
 }
 
 .tokoh-card {
+    display: block;
     background: var(--color-bg);
     border: 1px solid var(--color-border);
     border-top: 3px solid var(--color-accent);
     padding: 1.2rem 1.4rem;
     transition: box-shadow 0.2s, transform 0.2s;
     position: relative;
+    border-bottom: 1px solid var(--color-border) !important;
+    /* Menimpa global border-bottom link jika perlu */
+    text-decoration: none !important;
 }
 
 .tokoh-card:hover {
     box-shadow: 0 4px 16px rgba(44, 26, 14, 0.15);
     transform: translateY(-2px);
+    border-bottom-color: var(--color-border) !important;
 }
 
 .tokoh-card h3 {
@@ -236,12 +241,29 @@ a:hover {
     padding: 0.15rem 0.5rem;
     border-radius: 2px;
     text-transform: uppercase;
+    text-decoration: none !important;
+    border-bottom: 1px solid var(--color-border) !important;
+    transition: all 0.2s ease;
+}
+
+.badge:hover {
+    background: var(--color-border);
+    color: var(--color-text);
+    border-bottom-color: var(--color-border) !important;
 }
 
 .badge-periode {
     background: var(--color-accent);
     border-color: var(--color-accent);
     color: #faf6ef;
+    border-bottom-color: var(--color-accent) !important;
+}
+
+.badge-periode:hover {
+    background: var(--color-link-hover);
+    border-color: var(--color-link-hover);
+    color: #fff;
+    border-bottom-color: var(--color-link-hover) !important;
 }
 
 .tokoh-card .card-pokok {
@@ -251,18 +273,6 @@ a:hover {
     margin-bottom: 0.8rem;
 }
 
-.tokoh-card a.card-link {
-    font-family: var(--font-heading);
-    font-size: 0.82rem;
-    color: var(--color-accent);
-    letter-spacing: 0.04em;
-    border-bottom: none;
-    text-transform: uppercase;
-}
-
-.tokoh-card a.card-link:hover {
-    color: var(--color-link-hover);
-}
 
 /* Marker ketika disembunyikan filter */
 .tokoh-card.hidden {
@@ -427,13 +437,13 @@ a:hover {
     margin-top: 2rem;
     padding-top: 1.5rem;
     border-top: 1px solid var(--color-border);
-    
+
     h2 {
         font-size: 1.1rem;
         margin-bottom: 0.5rem;
         color: var(--color-accent);
     }
-    
+
     p {
         font-size: 0.9rem;
         color: var(--color-text-mute);
@@ -465,7 +475,7 @@ a:hover {
     .site-nav {
         background-color: var(--color-text);
     }
-    
+
     .site-nav .page-link {
         color: var(--color-bg);
         background-color: var(--color-text);

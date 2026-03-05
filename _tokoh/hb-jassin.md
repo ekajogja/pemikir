@@ -1,6 +1,7 @@
 ---
 layout: tokoh
 kontributor: Eka Y Saputra
+diperbarui: 2026-03-06
 nama: H.B. Jassin
 lahir: 1917-07-31
 wafat: 2000-03-11

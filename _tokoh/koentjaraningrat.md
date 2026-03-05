@@ -1,6 +1,7 @@
 ---
 layout: tokoh
 kontributor: Eka Y Saputra
+diperbarui: 2026-03-06
 nama: Koentjaraningrat
 lahir: 1923-06-15
 wafat: 1999-03-23

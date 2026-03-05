@@ -32,6 +32,7 @@ Dengan semangat **open source**, kami mengundang siapa pun untuk berkontribusiâ€
   - Daftar karya utama  
   - Sumber referensi (wajib)
   - Kontributor
+  - Tanggal terakhir diperbarui
 
 - **Pencarian & Filter**  
   Cari berdasarkan nama, periode, bidang, atau institusi.
@@ -51,6 +52,8 @@ Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder
 ---
 layout: tokoh
 nama: Rocky Gerung
+kontributor: Eka Y Saputra
+diperbarui: 2026-03-06
 lahir: 1959-01-20
 wafat: 
 tempat_lahir: Manado, Sulawesi Utara

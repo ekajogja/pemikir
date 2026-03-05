@@ -14,10 +14,11 @@ layout: default
         </div>
         <div class="tokoh-bidang-badges">
             {% if page.periode %}
-            <span class="badge badge-periode">{{ page.periode | capitalize }}</span>
+            <a href="{{ '/' | relative_url }}?periode={{ page.periode | url_encode }}" class="badge badge-periode">{{
+                page.periode | capitalize }}</a>
             {% endif %}
             {% for b in page.bidang %}
-            <span class="badge">{{ b }}</span>
+            <a href="{{ '/' | relative_url }}?bidang={{ b | url_encode }}" class="badge">{{ b }}</a>
             {% endfor %}
         </div>
     </div>
@@ -113,12 +114,37 @@ layout: default
         <h2>Kontributor</h2>
         <p>
             {% if page.kontributor.first %}
-                {{ page.kontributor | join: ", " }}
+            {{ page.kontributor | join: ", " }}
             {% else %}
-                {{ page.kontributor }}
+            {{ page.kontributor }}
             {% endif %}
         </p>
     </div>
     {% endif %}
+
+    <!-- Info pembaruan manual -->
+    <div class="tokoh-update-info"
+        style="margin-top: 1rem; font-size: 0.85rem; color: var(--color-text-mute); font-style: italic;">
+        {% assign lma = page.diperbarui %}
+        {% if lma %}
+        {% assign m = lma | date: "%B" %}
+        {% case m %}
+        {% when 'January' %}{% assign bulan = 'Januari' %}
+        {% when 'February' %}{% assign bulan = 'Februari' %}
+        {% when 'March' %}{% assign bulan = 'Maret' %}
+        {% when 'April' %}{% assign bulan = 'April' %}
+        {% when 'May' %}{% assign bulan = 'Mei' %}
+        {% when 'June' %}{% assign bulan = 'Juni' %}
+        {% when 'July' %}{% assign bulan = 'Juli' %}
+        {% when 'August' %}{% assign bulan = 'Agustus' %}
+        {% when 'September' %}{% assign bulan = 'September' %}
+        {% when 'October' %}{% assign bulan = 'Oktober' %}
+        {% when 'November' %}{% assign bulan = 'November' %}
+        {% when 'December' %}{% assign bulan = 'Desember' %}
+        {% else %}{% assign bulan = m %}
+        {% endcase %}
+        Diperbarui: {{ lma | date: "%-d" }} {{ bulan }} {{ lma | date: "%Y" }}
+        {% endif %}
+    </div>
 
 </article>

@@ -55,7 +55,7 @@ Nama file mengikuti aturan:
 
 ### 3. Isi file dengan template berikut
 
-> ⚠️ **PENTING**: Jangan lupa mencantumkan nama Anda di field `kontributor` dalam template file tokoh. Ini penting untuk memberikan pengakuan atas kontribusi Anda.
+> ⚠️ **PENTING**: Jangan lupa mencantumkan nama Anda di field `kontributor` dan tanggal saat ini di field `diperbarui` dalam template file tokoh. Ini penting untuk pelacakan perubahan dan pengakuan kontribusi Anda.
 
 Lihat [Format File Tokoh](#format-file-tokoh) untuk panduan lengkap.
 
@@ -74,7 +74,7 @@ Jika menemukan kesalahan data (tahun lahir keliru, karya utama tidak lengkap, dl
 
 1. Fork dan buat branch baru: `git checkout -b perbaiki-data-nama-tokoh`
 2. Edit file yang bersangkutan di `_tokoh/`
-3. **Tambahkan nama Anda di field `kontributor`** dengan format: `kontributor: [Nama Sebelumnya], [Nama Anda]`
+3. **Tambahkan nama Anda di field `kontributor`** dengan format: `kontributor: [Nama Sebelumnya], [Nama Anda]` dan **perbarui tanggal** pada field `diperbarui: YYYY-MM-DD`.
 4. Di pesan commit, jelaskan **apa** yang diubah dan **mengapa** (sertakan sumber)
 5. Buat Pull Request ke branch `main`
 
@@ -92,6 +92,8 @@ Setiap file tokoh terdiri dari dua bagian: **front matter YAML** (metadata) dan 
 ---
 layout: tokoh
 nama: Nama Lengkap Tokoh
+kontributor: Nama Lengkap Kontributor
+diperbarui: YYYY-MM-DD          # Wajib diisi: tanggal terakhir entri ini diperbarui
 lahir: YYYY-MM-DD          # format ISO 8601; isi perkiraan jika tidak pasti
 wafat: YYYY-MM-DD          # kosongkan jika masih hidup
 tempat_lahir: Kota, Provinsi/Wilayah
