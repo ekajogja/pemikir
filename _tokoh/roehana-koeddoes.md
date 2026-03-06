@@ -8,15 +8,18 @@ wafat: 1972-08-17
 tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Soenting Melajoe (Pendiri), Amai Setia
 periode: pra-kemerdekaan
-bidang: [jurnalisme, pendidikan perempuan, emansipasi]
+bidang:
+  - jurnalisme
+  - pendidikan perempuan
+  - emansipasi
 pendidikan:
   - Belajar Mandiri (Otodidak) - Ayah (Mohamad Rasjad Maharadja Soetan)
-pokok_pikiran: "Emansipasi perempuan melalui kecerdasan intelektual dan ekonomi; kemandirian berpikir kaum wanita Minangkabau; pendidikan sebagai alat melawan kolonialisme; jurnalisme sebagai suara bagi perempuan yang terpingit."
+pokok_pikiran: Emansipasi perempuan melalui kecerdasan intelektual dan ekonomi; kemandirian berpikir kaum wanita Minangkabau; pendidikan sebagai alat melawan kolonialisme; jurnalisme sebagai suara bagi perempuan yang terpingit.
 karya_utama:
-  - judul: "Soenting Melajoe" (Surat Kabar Perempuan pertama)
+  - judul: '"Soenting Melajoe" (Surat Kabar Perempuan pertama)'
     tahun: 1912
     jenis: Media Massa
-  - judul: "Sekolah Kerajinan Amai Setia" (KAS)
+  - judul: '"Sekolah Kerajinan Amai Setia" (KAS)'
     tahun: 1911
     jenis: Institusi Pendidikan
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://tirto.id/roehana-koeddoes-wartawati-pertama-yang-jadi-pahlawan-nasional-en9x
     label: Tirto - Wartawati Pertama Pahlawan Nasional
 ---
-
 Roehana Koeddoes adalah permata intelektual dari tanah Minang yang mencatatkan diri sebagai jurnalis perempuan pertama di Indonesia. Meskipun lahir di era ketika pendidikan bagi perempuan bumiputera sangat terbatas, Roehana berhasil memerdekakan pikirannya secara mandiri melalui kegemarannya membaca buku-buku berbahasa Belanda dan Melayu yang dibawa ayahnya. Ia bukan sekadar pejuang emansipasi dalam arti sempit; ia adalah seorang visioner yang meyakini bahwa pembebasan perempuan harus dimulai dari kedaulatan ekonomi dan ketajaman nalar.
 
 Sumbangsih sejarahnya yang paling fenomenal adalah pendirian surat kabar *Soenting Melajoe* pada tahun 1912. Media ini ia jadikan sebagai corong penyambung lidah bagi perempuan di seluruh Sumatera dan luar daerah untuk saling bertukar pikiran tentang hak-hak mereka. Melalui tulisan-tulisannya, ia mendorong perempuan untuk keluar dari stagnasi adat yang mengekang tanpa harus kehilangan identitas budayanya. Ia mengajarkan bahwa "Perempuan tidak akan pernah maju hanya dengan menunggu belas kasihan, tetapi harus bergerak maju dengan ilmu pengetahuan."

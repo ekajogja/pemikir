@@ -8,16 +8,19 @@ wafat: 1950-01-29
 tempat_lahir: Purbalingga, Jawa Tengah
 afiliasi: Muhammadiyah, PETA, TNI (Panglima Besar pertama)
 periode: pra-kemerdekaan / transisi
-bidang: [militer, etika kepemimpinan, strategi pertahanan]
+bidang:
+  - militer
+  - etika kepemimpinan
+  - strategi pertahanan
 pendidikan:
   - Sekolah Guru Muhammadiyah (Surakarta)
   - Pendidikan Militer PETA (Bogor)
-pokok_pikiran: "Pertahanan Rakyat Semesta (Perang Gerilya); Netralitas TNI (Tentara adalah Milik Bangsa, bukan golongan); Kepemimpinan melalui pengorbanan (Manunggal dengan Rakyat); pentingnya integritas moral bagi prajurit."
+pokok_pikiran: Pertahanan Rakyat Semesta (Perang Gerilya); Netralitas TNI (Tentara adalah Milik Bangsa, bukan golongan); Kepemimpinan melalui pengorbanan (Manunggal dengan Rakyat); pentingnya integritas moral bagi prajurit.
 karya_utama:
-  - judul: "Amanat Panglima Besar Jenderal Soedirman"
-    tahun: -
+  - judul: Amanat Panglima Besar Jenderal Soedirman
+    tahun: ''
     jenis: Kumpulan Pidato
-  - judul: "Strategi Perang Gerilya (Implementasi Lapangan)"
+  - judul: Strategi Perang Gerilya (Implementasi Lapangan)
     tahun: 1948-1949
     jenis: Strategi Militer
 sumber:
@@ -26,7 +29,6 @@ sumber:
   - url: https://tni.mil.id/view-2423-panglima-besar-jenderal-sudirman.html
     label: website TNI - Profil Panglima Besar
 ---
-
 Jenderal Besar Soedirman adalah personifikasi dari ruh kemandirian dan keberanian Indonesia. Ia adalah Panglima Besar pertama Tentara Nasional Indonesia yang terpilih secara demokratis oleh rekan-rekan sejawatnya, sebuah fenomena unik dalam sejarah militer dunia. Sebelum menjadi tentara, Soedirman adalah seorang guru sekolah Muhammadiyah yang religius dan disiplin. Latar belakang sebagai pendidik inilah yang membentuk karakternya sebagai pemimpin yang lebih mengutamakan persuasi moral dan keteladanan daripada sekadar perintah komando kaku.
 
 Pokok pemikirannya yang menjadi fondasi militer Indonesia adalah doktrin "Pertahanan Rakyat Semesta". Ketika Belanda melancarkan Agresi Militer II dan pemimpin sipil ditawan, Soedirman yang saat itu menderita tuberkulosis parah memilih untuk tetap bergerilya di dalam hutan. Ia mengajarkan bahwa kedaulatan negara tidak boleh menyerah pada kekuatan fisik musuh. Baginya, tentara harus menyatu dengan rakyat bagaikan ikan dengan air. Keputusannya untuk tetap memimpin perang dari atas tandu adalah simbol pengorbanan tertinggi yang berhasil membakar semangat perlawanan di seluruh pelosok Nusantara.

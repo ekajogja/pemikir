@@ -8,15 +8,18 @@ wafat: 1952-11-05
 tempat_lahir: Banjarmasin, Kalimantan Selatan
 afiliasi: Partai Tionghoa Indonesia (PTI), BPUPKI, Sin Tit Po
 periode: pra-kemerdekaan
-bidang: [politik, jurnalisme, nasionalisme]
+bidang:
+  - politik
+  - jurnalisme
+  - nasionalisme
 pendidikan:
   - Europesche Lagere School (ELS), Banjarmasin
-pokok_pikiran: "Konsep 'Indonesierschap' (Kewarganegaraan Indonesia); integrasi etnis Tionghoa ke dalam bangsa Indonesia; nasionalisme berbasis tanah air (Hindia Belanda/Indonesia) bukan ras."
+pokok_pikiran: Konsep 'Indonesierschap' (Kewarganegaraan Indonesia); integrasi etnis Tionghoa ke dalam bangsa Indonesia; nasionalisme berbasis tanah air (Hindia Belanda/Indonesia) bukan ras.
 karya_utama:
-  - judul: "The Chinese in Indonesia"
+  - judul: The Chinese in Indonesia
     tahun: 1947
     jenis: Buku/Artikel
-  - judul: "Indonesier of niet?"
+  - judul: Indonesier of niet?
     tahun: 1932
     jenis: Polemik/Artikel
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://tirto.id/liem-koen-hian-nasionalis-indonesia-yang-mati-tanpa-negara-cs7D
     label: Tirto - Profil Liem Koen Hian
 ---
-
 Liem Koen Hian adalah seorang jurnalis dan politikus revolusioner yang menjadi salah satu tokoh Tionghoa paling penting dalam sejarah pergerakan nasional Indonesia. Di tengah perdebatan identitas pada masa kolonial, ia mengambil sikap radikal dengan menyatakan bahwa etnis Tionghoa peranakan adalah bagian integral dari bangsa Indonesia. Melalui surat kabar *Sin Tit Po* di Surabaya, ia secara konsisten menyuarakan dukungan terhadap kemerdekaan dan integrasi politik, menentang pandangan arus utama yang saat itu masih berorientasi pada Tiongkok atau Belanda.
 
 Kontribusi filosofis-politiknya yang paling fundamental adalah konsep "Indonesierschap". Liem berargumen bahwa status bangsa Indonesia tidak ditentukan oleh darah atau asal-usul ras, melainkan oleh tekad dan kesetiaan terhadap tanah air Indonesia. Ia percaya bahwa orang Tionghoa yang lahir, hidup, dan ingin berjuang di Indonesia harus dianggap dan menganggap diri mereka sebagai bangsa Indonesia. Pemikiran ini ia manifestasikan dengan mendirikan Partai Tionghoa Indonesia (PTI) pada tahun 1932, sebagai tandingan terhadap organisasi Tionghoa lain yang cenderung eksklusif.

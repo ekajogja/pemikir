@@ -8,29 +8,31 @@ wafat: 2009-12-22
 tempat_lahir: Yogyakarta
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: pasca-kemerdekaan
-bidang: [filsafat, metafisika, etika]
+bidang:
+  - filsafat
+  - metafisika
+  - etika
 pendidikan:
   - Doktorandus Filsafat, Universitas Gadjah Mada
   - Doktor Ilmu Filsafat, UGM
-pokok_pikiran: "Filsafat sebagai pencarian makna hidup yang otentik; eksplorasi metafisika dalam konteks tradisi kearifan lokal Nusantara; pengembangan filsafat Indonesia yang tidak sekadar transplantasi pemikiran Barat."
+pokok_pikiran: Filsafat sebagai pencarian makna hidup yang otentik; eksplorasi metafisika dalam konteks tradisi kearifan lokal Nusantara; pengembangan filsafat Indonesia yang tidak sekadar transplantasi pemikiran Barat.
 karya_utama:
-  - judul: "Filsafat Seni"
+  - judul: Filsafat Seni
     tahun: 1993
     jenis: Buku
-  - judul: "Alam Pikiran: Telaah Filsafat"
+  - judul: 'Alam Pikiran: Telaah Filsafat'
     tahun: 1988
     jenis: Buku
-  - judul: "Mawas Diri"
+  - judul: Mawas Diri
     tahun: 1990
     jenis: Buku
-  - judul: "Kamus Istilah Filsafat"
+  - judul: Kamus Istilah Filsafat
     tahun: 1991
     jenis: Kamus
 sumber:
   - url: https://id.wikipedia.org/wiki/Damardjati_Soepadjar
     label: Wikipedia – Damardjati Soepadjar
 ---
-
 Prof. Dr. Damardjati Soepadjar (1934–2009) adalah seorang filsuf Indonesia terkemuka yang mendedikasikan seluruh karier akademiknya untuk menghidupkan tradisi berpikir filosofis di Universitas Gadjah Mada. Ia dikenal sebagai pemikir yang mampu menjembatani kedalaman metafisika dengan persoalan hidup sehari-hari melalui perspektif kearifan lokal, khususnya Jawa.
 
 Minat filosofis Damardjati sangat luas, mencakup metafisika, etika, dan estetika. Ia selalu menekankan bahwa berfilsafat bukan sekadar menghafal teori dari Barat, melainkan sebuah proses "mawas diri" untuk menemukan jati diri yang otentik di tengah dunia. Baginya, filsafat Indonesia harus tumbuh dari akar budayanya sendiri agar bisa memberikan makna yang nyata bagi manusia yang menghidupinya.

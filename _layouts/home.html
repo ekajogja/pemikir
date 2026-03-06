@@ -37,14 +37,14 @@ layout: default
 
 <!-- Grid kartu tokoh -->
 <div class="tokoh-grid" id="tokoh-grid">
-    {% assign tokoh_sorted = site.tokoh | sort: "lahir" %}
+    {% assign tokoh_sorted = site.tokoh %}
     {% for tokoh in tokoh_sorted %}
     <a href="{{ tokoh.url | relative_url }}" class="tokoh-card" data-nama="{{ tokoh.nama | downcase }}"
         data-periode="{{ tokoh.periode | downcase }}" data-bidang="{{ tokoh.bidang | join: ' ' | downcase }}">
         <h3>{{ tokoh.nama }}</h3>
         <div class="card-meta">
-            {% if tokoh.lahir %}{{ tokoh.lahir | slice: 0, 4 }}{% endif %}{% if tokoh.wafat
-            %} – {{ tokoh.wafat | slice: 0, 4 }}{% endif %}
+            {% if tokoh.lahir and tokoh.lahir != "" %}{{ tokoh.lahir | slice: 0, 4 }}{% endif %}{% if tokoh.wafat and
+            tokoh.wafat != "" %} – {{ tokoh.wafat | slice: 0, 4 }}{% endif %}
         </div>
         <div class="card-bidang">
             <span class="badge badge-periode">{{ tokoh.periode | capitalize }}</span>
@@ -62,7 +62,8 @@ layout: default
         const q = document.getElementById('cari-tokoh').value.toLowerCase().trim();
         const per = document.getElementById('filter-periode').value.toLowerCase();
         const bid = document.getElementById('filter-bidang').value.toLowerCase();
-        const cards = document.querySelectorAll('#tokoh-grid .tokoh-card');
+        const grid = document.getElementById('tokoh-grid');
+        const cards = Array.from(grid.querySelectorAll('.tokoh-card'));
 
         cards.forEach(card => {
             const nama = card.dataset.nama || '';
@@ -75,25 +76,45 @@ layout: default
 
             card.classList.toggle('hidden', !(matchQ && matchPer && matchBid));
         });
+
+        // Jika ada filter aktif (periode atau bidang), urutkan berdasarkan nama
+        if (per || bid) {
+            cards.sort((a, b) => (a.dataset.nama || '').localeCompare(b.dataset.nama || ''));
+            cards.forEach(card => grid.appendChild(card));
+        }
     }
 
-    // Jalankan filter saat halaman dimuat jika ada parameter di URL
+    function shuffleCards() {
+        const grid = document.getElementById('tokoh-grid');
+        const cards = Array.from(grid.querySelectorAll('.tokoh-card'));
+        for (let i = cards.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [cards[i], cards[j]] = [cards[j], cards[i]];
+        }
+        cards.forEach(card => grid.appendChild(card));
+    }
+
+    // Jalankan saat halaman dimuat
     document.addEventListener('DOMContentLoaded', function () {
         const params = new URLSearchParams(window.location.search);
-        const per = params.get('periode');
-        const bid = params.get('bidang');
+        const per = (params.get('periode') || '').toLowerCase();
+        const bid = (params.get('bidang') || '').toLowerCase();
 
         if (per) {
             const el = document.getElementById('filter-periode');
-            if (el) el.value = per.toLowerCase();
+            if (el) el.value = per;
         }
         if (bid) {
             const el = document.getElementById('filter-bidang');
-            if (el) el.value = bid.toLowerCase();
+            if (el) el.value = bid;
         }
 
         if (per || bid) {
+            // Jika ada filter, urutkan berdasarkan nama (otomatis lewat filterTokoh)
             filterTokoh();
+        } else {
+            // Jika tidak ada filter, acak urutan kartu
+            shuffleCards();
         }
     });
 </script>

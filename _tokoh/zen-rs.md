@@ -4,29 +4,32 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Zen RS
 lahir: 1981-04-18
-wafat: 
+wafat: ''
 tempat_lahir: Cirebon, Jawa Barat
 afiliasi: PanditFootball, Narasi TV, Tirto.id
 periode: kontemporer
-bidang: [jurnalisme, kebudayaan, esai, olahraga]
+bidang:
+  - jurnalisme
+  - kebudayaan
+  - esai
+  - olahraga
 pendidikan:
   - Universitas Negeri Yogyakarta (Ilmu Sejarah)
-pokok_pikiran: "Sepak bola sebagai mikrokosmos sosial-politik; narasi tandingan (counter-narrative) melalui sejarah; literasi sebagai alat pembebasan nalar; jurnalisme naratif yang mendalam."
+pokok_pikiran: Sepak bola sebagai mikrokosmos sosial-politik; narasi tandingan (counter-narrative) melalui sejarah; literasi sebagai alat pembebasan nalar; jurnalisme naratif yang mendalam.
 karya_utama:
-  - judul: "Simulakra Sepak Bola"
+  - judul: Simulakra Sepak Bola
     tahun: 2016
     jenis: Buku (Esai)
-  - judul: "Muslim Tanpa Mitos: Dunia Kuntowijoyo"
+  - judul: 'Muslim Tanpa Mitos: Dunia Kuntowijoyo'
     tahun: 2005
     jenis: Buku (Analisis)
-  - judul: "Jalan Lain ke Tulehu"
+  - judul: Jalan Lain ke Tulehu
     tahun: 2014
     jenis: Novel
 sumber:
   - url: https://id.wikipedia.org/wiki/Zen_RS
     label: Wikipedia - Zen RS
 ---
-
 Zen Rachmat Sugito, atau yang lebih dikenal sebagai Zen RS, adalah salah satu intelektual publik kontemporer yang berhasil menjembatani dunia budaya populer dengan analisis sejarah dan politik yang mendalam. Memiliki latar belakang pendidikan sejarah dari Universitas Negeri Yogyakarta, Zen membawa ketelitian riset arsip ke dalam tulisan-tulisannya yang mengalir dan penuh daya gugat. Ia adalah sosok yang membuktikan bahwa membicarakan sepak bola bisa seilmiah membicarakan filsafat, dan sebaliknya.
 
 Salah satu sumbangsih intelektualnya yang paling menonjol adalah kemampuannya menggunakan sepak bola sebagai "pintu masuk" untuk memahami struktur sosial dan kegagalan politik bangsa. Melalui karyanya *Simulakra Sepak Bola*, ia membedah bagaimana olahraga bukan sekadar permainan 90 menit di lapangan, melainkan sebuah medan tempur simbolis antara identitas, kekuasaan, dan harapan rakyat. Pengaruh gaya penulisan Romo Sindhunata terasa kuat dalam narasi Zen yang sering kali puitis namun tetap tajam secara sosiologis.

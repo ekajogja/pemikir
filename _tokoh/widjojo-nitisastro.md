@@ -8,16 +8,19 @@ wafat: 2012-03-09
 tempat_lahir: Malang, Jawa Timur
 afiliasi: Bappenas, Fakultas Ekonomi UI, Mafia Berkeley
 periode: pasca-kemerdekaan (Orde Baru)
-bidang: [ekonomi, perencanaan pembangunan, demografi]
+bidang:
+  - ekonomi
+  - perencanaan pembangunan
+  - demografi
 pendidikan:
   - Universitas Indonesia (Ekonomi)
   - University of California, Berkeley, AS (Doktor Ekonomi, 1961)
-pokok_pikiran: "Widjojonomics (Pembangunan ekonomi berbasis stabilitas dan pertumbuhan); perencanaan pembangunan nasional (Repelita); pengendalian penduduk; integrasi ekonomi Indonesia ke pasar global."
+pokok_pikiran: Widjojonomics (Pembangunan ekonomi berbasis stabilitas dan pertumbuhan); perencanaan pembangunan nasional (Repelita); pengendalian penduduk; integrasi ekonomi Indonesia ke pasar global.
 karya_utama:
-  - judul: "Population Trends in Indonesia"
+  - judul: Population Trends in Indonesia
     tahun: 1970
     jenis: Buku (Demografi)
-  - judul: "The Socio-Economic Basis of the Indonesian State"
+  - judul: The Socio-Economic Basis of the Indonesian State
     tahun: 1961
     jenis: Disertasi/Buku
 sumber:
@@ -26,7 +29,6 @@ sumber:
   - url: https://tirto.id/widjojo-nitisastro-arsitek-ekonomi-orde-baru-yang-anti-populisme-cs7n
     label: Tirto - Profil Widjojo Nitisastro
 ---
-
 Prof. Dr. Widjojo Nitisastro adalah tokoh sentral yang sering dijuluki sebagai "Arsitek Utama Ekonomi Orde Baru". Sebagai pemimpin kelompok ekonom yang dikenal sebagai "Mafia Berkeley", ia memegang kendali atas kebijakan ekonomi Indonesia selama hampir tiga dekade di bawah kepemimpinan Presiden Soeharto. Widjojo adalah sosok yang sangat tenang, teknokratis, dan percaya bahwa stabilitas makroekonomi adalah syarat mutlak bagi pembangunan nasional sebuah negara yang tengah bangkit dari krisis.
 
 Inti dari pemikiran ekonominya, yang sering disebut sebagai "Widjojonomics", berpusat pada penggunaan perencanaan yang sistematis melalui Rencana Pembangunan Lima Tahun (Repelita). Ia berhasil membawa Indonesia keluar dari hiperinflasi di akhir era 1960-an dan menata kembali sistem fiskal serta moneter yang berantakan. Widjojo percaya bahwa untuk membangun Indonesia, diperlukan keterbukaan terhadap modal asing dan kerja sama internasional, sebuah langkah yang di satu sisi membawa pertumbuhan ekonomi yang pesat, namun di sisi lain sering kali dikritik karena dianggap terlalu bergantung pada utang luar negeri.

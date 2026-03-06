@@ -8,17 +8,19 @@ wafat: 2014-11-11
 tempat_lahir: Ubud, Bali
 afiliasi: Hutama Karya, Universitas Gadjah Mada
 periode: pasca-kemerdekaan
-bidang: [teknik sipil, inovasi konstruksi]
+bidang:
+  - teknik sipil
+  - inovasi konstruksi
 pendidikan:
   - Institut Teknologi Bandung (Teknik Sipil, 1962)
   - Universitas Gadjah Mada (Doktor Teknik Sipil, 1996)
-pokok_pikiran: "Teknik Sosrobahu (Landasan Putar Bebas Hambatan); efisiensi pembangunan infrastruktur di lahan sempit; aplikasi hukum Pascal untuk solusi teknik raksasa; inovasi 'wangsit' yang teruji secara ilmiah."
+pokok_pikiran: Teknik Sosrobahu (Landasan Putar Bebas Hambatan); efisiensi pembangunan infrastruktur di lahan sempit; aplikasi hukum Pascal untuk solusi teknik raksasa; inovasi 'wangsit' yang teruji secara ilmiah.
 karya_utama:
-  - judul: "Temuan Teknik Sosrobahu"
+  - judul: Temuan Teknik Sosrobahu
     tahun: 1988
     jenis: Inovasi Teknik
-  - judul: "Pemutaran Bahu Lengan Beton Jalan Layang"
-    tahun: -
+  - judul: Pemutaran Bahu Lengan Beton Jalan Layang
+    tahun: ''
     jenis: Metodologi Konstruksi
 sumber:
   - url: https://id.wikipedia.org/wiki/Tjokorda_Raka_Sukawati
@@ -26,7 +28,6 @@ sumber:
   - url: https://www.merdeka.com/tjokorda-raka-sukawati/profil/
     label: Merdeka - Profil Tjokorda Raka
 ---
-
 Dr. Ir. Tjokorda Raka Sukawati adalah begawan teknik sipil asal Bali yang namanya mendunia berkat penemuan teknik Sosrobahu (Landasan Putar Bebas Hambatan). Penemuan ini merupakan salah satu sumbangan terbesar Indonesia dalam dunia konstruksi sipil global. Tjokorda berhasil memecahkan kebuntuan pembangunan jalan layang di kota metropolitan yang padat seperti Jakarta, di mana pembangunan infrastruktur seringkali melumpuhkan arus lalu lintas di bawahnya.
 
 Titik balik intelektualnya terjadi pada tahun 1988 saat ia mengerjakan proyek jalan tol Cawang-Tanjung Priok. Ia menemukan cara untuk membangun lengan beton raksasa di atas jalan yang sudah ada tanpa harus menutup jalan tersebut. Caranya adalah dengan membangun lengan beton sejajar dengan jalan di bawahnya, kemudian memutarnya 90 derajat setelah beton kering. Rahasianya terletak pada penggunaan tekanan minyak yang sangat tinggi di atas lubang fondasi untuk mengangkat lengan beton seberat ratusan ton tersebut, sehingga dapat diputar dengan tenaga yang sangat minim—layaknya memutar gasing di atas permukaan licin.

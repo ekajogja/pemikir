@@ -4,23 +4,26 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Emil Salim
 lahir: 1930-06-08
-wafat: 
+wafat: ''
 tempat_lahir: Lahat, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Lingkungan Hidup, Mafia Berkeley
 periode: pasca-kemerdekaan
-bidang: [ekonomi pembangunan, etika lingkungan, kebijakan publik]
+bidang:
+  - ekonomi pembangunan
+  - etika lingkungan
+  - kebijakan publik
 pendidikan:
   - Universitas Indonesia (Ekonomi)
   - University of California, Berkeley, AS (Doktor Ekonomi, 1964)
-pokok_pikiran: "Pembangunan Berkelanjutan (Sustainable Development); integrasi dimensi lingkungan dalam perencanaan ekonomi; keberlanjutan sumber daya alam untuk generasi mendatang; tanggung jawab etis terhadap ekosistem."
+pokok_pikiran: Pembangunan Berkelanjutan (Sustainable Development); integrasi dimensi lingkungan dalam perencanaan ekonomi; keberlanjutan sumber daya alam untuk generasi mendatang; tanggung jawab etis terhadap ekosistem.
 karya_utama:
-  - judul: "Pembangunan Berkelanjutan: Strategi Adaptasi terhadap Perubahan Iklim"
+  - judul: 'Pembangunan Berkelanjutan: Strategi Adaptasi terhadap Perubahan Iklim'
     tahun: 2010
     jenis: Buku
-  - judul: "Lingkungan Hidup dan Pembangunan"
+  - judul: Lingkungan Hidup dan Pembangunan
     tahun: 1980
     jenis: Buku
-  - judul: "Kembali ke Jalan Lurus"
+  - judul: Kembali ke Jalan Lurus
     tahun: 2010
     jenis: Buku/Esai
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://tokoh.id/tokoh/direktori/emil-salim/
     label: Tokoh.id - Profil Emil Salim
 ---
-
 Prof. Dr. Emil Salim adalah sosok legendaris yang dikenal sebagai "Bapak Lingkungan Hidup Indonesia". Seorang intelektual yang memiliki gelar doktor ekonomi dari Berkeley, ia mengambil peran yang sangat menantang di era Orde Baru: menjadi pengingat di tengah demam pembangunan fisik yang masif bahwa alam memiliki batas daya tampung. Emil Salim adalah orang pertama yang membawa isu lingkungan hidup dari pinggiran aktivisme ke pusat pengambilan kebijakan negara dengan menjabat sebagai Menteri Negara Pengawasan Pembangunan dan Lingkungan Hidup.
 
 Kontribusi intelektual terbesarnya adalah introduksi konsep "Pembangunan Berkelanjutan" (*Sustainable Development*) di Indonesia, jauh sebelum istilah ini populer di kancah global. Ia berargumen secara konsisten bahwa ekonomi dan ekologi bukanlah dua kutub yang harus saling meniadakan. Baginya, pembangunan yang sejati adalah pembangunan yang memenuhi kebutuhan saat ini tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka sendiri. Ia adalah arsitek di balik lahirnya Undang-Undang Lingkungan Hidup pertama di Indonesia dan sistem Analisis Mengenai Dampak Lingkungan (AMDAL).

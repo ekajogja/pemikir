@@ -4,31 +4,33 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Okky Madasari
 lahir: 1984-10-30
-wafat: 
+wafat: ''
 tempat_lahir: Magetan, Jawa Timur
 afiliasi: OM Institute, National University of Singapore (NUS)
 periode: kontemporer
-bidang: [sastra, sosiologi, kritik sosial]
+bidang:
+  - sastra
+  - sosiologi
+  - kritik sosial
 pendidikan:
   - Universitas Gadjah Mada (Ilmu Hubungan Internasional)
   - Universitas Indonesia (Magister Sosiologi)
   - National University of Singapore (Ph.D Sosiologi)
-pokok_pikiran: "Sastra sebagai kritik sosial; pemihakan terhadap kelompok minoritas dan terpinggirkan; resistensi terhadap totalitarianisme dan korupsi; pentingnya nalar kritis dalam demokrasi; sensor dan produksi pengetahuan."
+pokok_pikiran: Sastra sebagai kritik sosial; pemihakan terhadap kelompok minoritas dan terpinggirkan; resistensi terhadap totalitarianisme dan korupsi; pentingnya nalar kritis dalam demokrasi; sensor dan produksi pengetahuan.
 karya_utama:
-  - judul: "Entrok"
+  - judul: Entrok
     tahun: 2010
     jenis: Novel
-  - judul: "Maryam"
+  - judul: Maryam
     tahun: 2012
     jenis: Novel
-  - judul: "Pasung Jiwa"
+  - judul: Pasung Jiwa
     tahun: 2013
     jenis: Novel
 sumber:
   - url: https://id.wikipedia.org/wiki/Okky_Madasari
     label: Wikipedia - Okky Madasari
 ---
-
 Okky Madasari adalah seorang novelis dan intelektual muda yang konsisten menggunakan sastra sebagai sarana kritik sosial yang tajam terhadap ketidakadilan di Indonesia. Dengan latar belakang pendidikan sosiologi yang kuat, Okky menulis fiksi bukan hanya untuk bercerita, melainkan untuk membongkar struktur kekuasaan yang menindas, mendiskriminasi minoritas, dan mencederai kemanusiaan. Ia adalah salah satu penulis terkemuka dari generasinya yang secara berani mengangkat isu-isu sensitif yang sering dihindari oleh penulis lain.
 
 Pemikiran utamanya berpusat pada konsep resistensi individu terhadap represi sistemik. Dalam novel debutnya *Entrok*, ia membedah bagaimana kekuasaan militer dan modal bekerja sama menindas rakyat kecil di era Orde Baru. Melalui *Maryam*, ia memberikan suara bagi komunitas Ahmadiyah yang terpersekusi, sementara dalam *Pasung Jiwa*, ia mengeksplorasi perjuangan mencari kebebasan dari berbagai belenggu sosial, agama, dan gender. Bagi Okky, sastra memiliki tanggung jawab sosial untuk memanusiakan manusia dan menjadi cermin bagi keburukan masyarakat agar dapat diperbaiki bersama.

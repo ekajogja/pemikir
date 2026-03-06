@@ -8,18 +8,21 @@ wafat: 1953-04-19
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama, BPUPKI, Panitia Sembilan, Menteri Agama pertama
 periode: pra-kemerdekaan (Transisi)
-bidang: [politik keagamaan, pendidikan, diplomasi]
+bidang:
+  - politik keagamaan
+  - pendidikan
+  - diplomasi
 pendidikan:
   - Pondok Pesantren Tebuireng
   - Lirboyo dan Siwalan Panji
   - Makkah (Studi Mandiri)
-pokok_pikiran: "Sintesis Nasional Islam (Modernis-Tradisionalis); jembatan antara kelompok Islam dan Sekuler dalam BPUPKI; modernisasi kurikulum pesantren; prinsip Ketuhanan Yang Maha Esa sebagai dasar persatuan."
+pokok_pikiran: Sintesis Nasional Islam (Modernis-Tradisionalis); jembatan antara kelompok Islam dan Sekuler dalam BPUPKI; modernisasi kurikulum pesantren; prinsip Ketuhanan Yang Maha Esa sebagai dasar persatuan.
 karya_utama:
-  - judul: "Mempermodern Madrasah"
-    tahun: -
+  - judul: Mempermodern Madrasah
+    tahun: ''
     jenis: Esai/Kebijakan
-  - judul: "Kumpulan Tulisan K.H. Wahid Hasyim"
-    tahun: -
+  - judul: Kumpulan Tulisan K.H. Wahid Hasyim
+    tahun: ''
     jenis: Buku (Koleksi Esai)
 sumber:
   - url: https://id.wikipedia.org/wiki/Wahid_Hasjim
@@ -27,7 +30,6 @@ sumber:
   - url: https://inilah.com/wahid-hasyim-tokoh-islam-yang-menyatukan-bangsa/
     label: Inilah.com - Profil Wahid Hasyim
 ---
-
 K.H. Abdul Wahid Hasyim adalah salah satu arsitek terpenting dalam konsensus nasional yang membentuk Dasar Negara Indonesia. Sebagai putra dari Hadratussyaikh Hasyim Asy'ari, ia mewarisi kedalaman spiritual tradisionalis, namun ia melengkapinya dengan wawasan modern yang luas, penguasaan bahasa asing, dan kelenturan diplomatik. Wahid Hasyim adalah sosok "jembatan" yang paling menentukan dalam Panitia Sembilan saat merumuskan Piagam Jakarta yang kemudian berevolusi menjadi Pembukaan UUD 1945.
 
 Peran sejarahnya yang paling krusial adalah saat ia dengan sangat bijaksana menyetujui penghapusan "tujuh kata" dalam Piagam Jakarta demi menjaga keutuhan Indonesia yang baru lahir. Pemikirannya menekankan bahwa substansi nilai-nilai Islam dapat hidup dengan baik di bawah payung "Ketuhanan Yang Maha Esa" tanpa harus menjadi negara agama secara formal. Baginya, keselamatan bangsa yang majemuk adalah prioritas syariat yang paling tinggi. Ia menunjukkan sebuah kelas kepemimpinan Muslim yang sangat matang dalam bernegara.

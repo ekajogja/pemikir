@@ -8,27 +8,29 @@ wafat: 2005-02-22
 tempat_lahir: Bantul, Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM)
 periode: kontemporer
-bidang: [sejarah, sastra, ilmu sosial profetik]
+bidang:
+  - sejarah
+  - sastra
+  - ilmu sosial profetik
 pendidikan:
   - Sarjana Sejarah, UGM
   - M.A. American Studies, University of Connecticut
   - Ph.D. Sejarah, Columbia University (1990)
-pokok_pikiran: "Mengembangkan gagasan 'Ilmu Sosial Profetik' yang mengintegrasikan nilai-nilai kenabian (humanisasi, liberasi, transendensi) dalam analisis sejarah dan sosial Indonesia."
+pokok_pikiran: Mengembangkan gagasan 'Ilmu Sosial Profetik' yang mengintegrasikan nilai-nilai kenabian (humanisasi, liberasi, transendensi) dalam analisis sejarah dan sosial Indonesia.
 karya_utama:
-  - judul: "Paradigma Islam: Interpretasi untuk Aksi"
+  - judul: 'Paradigma Islam: Interpretasi untuk Aksi'
     tahun: 1991
     jenis: Buku
-  - judul: "Pengantar Ilmu Sejarah"
+  - judul: Pengantar Ilmu Sejarah
     tahun: 1995
     jenis: Buku
-  - judul: "Khotbah di Atas Bukit"
+  - judul: Khotbah di Atas Bukit
     tahun: 1976
     jenis: Novel
 sumber:
   - url: https://id.wikipedia.org/wiki/Kuntowijoyo
     label: Wikipedia – Kuntowijoyo
 ---
-
 Prof. Dr. Kuntowijoyo (1943–2005) adalah seorang sejarawan, sastrawan, dan budayawan yang sangat berpengaruh dalam perkembangan pemikiran Islam kontemporer di Indonesia. Ia dikenal sebagai sosok intelektual Muslim yang mampu mensintesiskan kedalaman spiritual dengan kecanggihan metodologi ilmu sosial modern.
 
 Sumbangan terbesarnya bagi dunia pemikiran adalah konsep "Ilmu Sosial Profetik" (ISP). Berdasarkah pada nilai-nilai dasar Al-Qur'an, ISP menekankan tiga pilar utama bagi transformasi sosial: Humanisasi (memanusiakan manusia), Liberasi (pembebasan dari penindasan), dan Transendensi (menghubungkan segala aktivitas dengan dimensi ketuhanan). Baginya, ilmu sosial tidak boleh netral terhadap nilai; ia harus memiliki orientasi yang jelas untuk memperbaiki nasib umat manusia.

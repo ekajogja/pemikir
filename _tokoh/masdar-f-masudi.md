@@ -4,23 +4,26 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Masdar F. Mas’udi
 lahir: 1954
-wafat: 
+wafat: ''
 tempat_lahir: Purwokerto, Jawa Tengah
 afiliasi: Perhimpunan Pengembangan Pesantren dan Masyarakat (P3M), Nahdlatul Ulama (PBNU)
 periode: kontemporer
-bidang: [fiqih sosial, etika politik, teologi emansipatoris]
+bidang:
+  - fiqih sosial
+  - etika politik
+  - teologi emansipatoris
 pendidikan:
   - IAIN Sunan Kalijaga, Yogyakarta (Fakultas Syariah)
   - Universitas Indonesia (Pascasarjana Filsafat)
-pokok_pikiran: "Zakat sebagai instrumen keadilan sosial dan pajak (Zakat-Pajak); Islam Emansipatoris; reinterpretasi fiqih untuk hak-hak perempuan; kritik terhadap model kepemimpinan karismatik tertutup."
+pokok_pikiran: Zakat sebagai instrumen keadilan sosial dan pajak (Zakat-Pajak); Islam Emansipatoris; reinterpretasi fiqih untuk hak-hak perempuan; kritik terhadap model kepemimpinan karismatik tertutup.
 karya_utama:
-  - judul: "Agama Keadilan: Risalah Zakat (Pajak) dalam Islam"
+  - judul: 'Agama Keadilan: Risalah Zakat (Pajak) dalam Islam'
     tahun: 1991
     jenis: Buku
-  - judul: "Islam dan Hak-hak Reproduksi Perempuan"
+  - judul: Islam dan Hak-hak Reproduksi Perempuan
     tahun: 1997
     jenis: Buku/Risalah
-  - judul: "Fiqih Perempuan: Perjalanan Mendekat Diri"
+  - judul: 'Fiqih Perempuan: Perjalanan Mendekat Diri'
     tahun: 1997
     jenis: Buku
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://nu.or.id/tokoh/masdar-farid-masudi-intelektual-organik-nu-cs7m
     label: NU Online - Profil KH Masdar
 ---
-
 K.H. Masdar Farid Mas’udi adalah salah satu pemikir paling progresif di tubuh Nahdlatul Ulama (NU) yang dikenal karena kemampuannya melakukan rekontekstualisasi hukum Islam (fiqih) untuk menjawab isu-isu kemanusiaan kontemporer. Sebagai seorang kiai yang berlatar belakang pesantren namun berpikiran liberal-demokratis, ia menjadi motor penggerak bagi gerakan "Islam Emansipatoris". Masdar percaya bahwa agama tidak boleh hanya menjadi tumpukan dogma yang membelenggu, melainkan harus menjadi alat pembebasan bagi kaum yang tertindas dan terabaikan.
 
 Salah satu kontribusi intelektualnya yang paling fenomenal dan sempat menuai perdebatan panjang adalah gagasannya tentang penyatuan konsep zakat dan pajak. Dalam bukunya *Agama Keadilan*, ia berargumen bahwa dalam konteks negara modern yang demokratis, pajak yang dibayarkan warga negara kepada negara yang berorientasi pada kemaslahatan publik seharusnya bisa dianggap sebagai pemenuhan kewajiban zakat secara sosiopolitik. Baginya, esensi zakat adalah keadilan redistributif, dan efektivitas redistribusi tersebut di masa kini lebih terjamin melalui institusi negara yang akuntabel.

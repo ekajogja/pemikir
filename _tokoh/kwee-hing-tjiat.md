@@ -8,15 +8,18 @@ wafat: 1939-09-27
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Sin Po (Mantan Pemred), Harian Matahari, PTI (Simpatisan)
 periode: pra-kemerdekaan
-bidang: [jurnalisme, politik, ekonomi]
+bidang:
+  - jurnalisme
+  - politik
+  - ekonomi
 pendidikan:
   - Otodidak (Pendidikan Mandiri/Pengalaman Luar Negeri)
-pokok_pikiran: "Evolusi dari Nasionalisme Tionghoa ke Asimilasi Total; perjuangan kesetaraan hak ekonomi dan politik bagi etnis Tionghoa; kritik tajam terhadap birokrasi kolonial; visi jurnalisme sebagai penggerak perubahan sosial."
+pokok_pikiran: Evolusi dari Nasionalisme Tionghoa ke Asimilasi Total; perjuangan kesetaraan hak ekonomi dan politik bagi etnis Tionghoa; kritik tajam terhadap birokrasi kolonial; visi jurnalisme sebagai penggerak perubahan sosial.
 karya_utama:
-  - judul: "Doea Poeloe Lima Tahon Sejarahnja Pergerakan Tionghoa di Indonesia"
+  - judul: Doea Poeloe Lima Tahon Sejarahnja Pergerakan Tionghoa di Indonesia
     tahun: 1926
     jenis: Buku Sejarah
-  - judul: "Matahari" (Harian)
+  - judul: '"Matahari" (Harian)'
     tahun: 1934
     jenis: Media/Pers
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://www.tionghoa.info/kwee-hing-tjiat-sosok-jurnalis-nasionalis-tionghoa/
     label: Tionghoa.info - Profil Kwee Hing Tjiat
 ---
-
 Kwee Hing Tjiat adalah salah satu intelektual jurnalis paling dinamis dan kontroversial di Hindia Belanda pada paruh pertama abad ke-20. Sebagai mantan pemimpin redaksi *Sin Po*, ia awalnya merupakan pengikut setia garis keras nasionalisme Tionghoa yang menolak keterlibatan etnis Tionghoa dalam politik kolonial. Namun, setelah menghabiskan waktu bertahun-tahun di Eropa dan Tiongkok, ia kembali ke Indonesia dengan membawa perubahan paradigma yang drastis: ia menjadi penganjur utama asimilasi total kaum Tionghoa ke dalam masyarakat lokal.
 
 Transformasi pemikirannya dituangkan dalam harian *Matahari* yang ia dirikan di Semarang. Ia berargumen bahwa etnis Tionghoa tidak memiliki masa depan jika terus mengisolasi diri atau berorientasi pada negeri leluhur yang jauh. Baginya, satu-satunya cara untuk bertahan dan maju adalah dengan melebur sepenuhnya—secara budaya dan hati—ke dalam identitas bangsa yang tengah tumbuh di Indonesia. Pemikirannya ini sering kali memicu polemik sengit dengan kelompok Tionghoa konservatif, namun ia tetap teguh pada visinya bahwa kesetiaan politik harus berlabuh pada tanah tempat seseorang menghirup napas dan mencari nafkah.

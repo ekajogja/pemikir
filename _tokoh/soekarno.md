@@ -8,18 +8,21 @@ wafat: 1970-06-21
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: PNI, BPUPKI, Presiden RI pertama
 periode: pra-kemerdekaan / pasca-kemerdekaan
-bidang: [politik, filsafat negara, ideologi]
+bidang:
+  - politik
+  - filsafat negara
+  - ideologi
 pendidikan:
   - Technische Hoogeschool (THS) Bandung (Arsitektur)
-pokok_pikiran: "Pancasila (Gotong Royong); Marhaenisme (Sosio-Nasionalisme & Sosio-Demokrasi); Revolusi Belum Selesai; Anti-Imperialisme (NEFO vs OLDEFO); Jasmerah (Jangan Sekali-kali Meninggalkan Sejarah)."
+pokok_pikiran: Pancasila (Gotong Royong); Marhaenisme (Sosio-Nasionalisme & Sosio-Demokrasi); Revolusi Belum Selesai; Anti-Imperialisme (NEFO vs OLDEFO); Jasmerah (Jangan Sekali-kali Meninggalkan Sejarah).
 karya_utama:
-  - judul: "Lahirnya Pancasila"
+  - judul: Lahirnya Pancasila
     tahun: 1945
     jenis: Pidato/Dokumen Dasar
-  - judul: "Indonesia Menggugat"
+  - judul: Indonesia Menggugat
     tahun: 1930
     jenis: Pidato Pembelaan (Pledoi)
-  - judul: "Di Bawah Bendera Revolusi"
+  - judul: Di Bawah Bendera Revolusi
     tahun: 1963
     jenis: Kumpulan Tulisan
 sumber:
@@ -28,7 +31,6 @@ sumber:
   - url: https://blitarkota.go.id/id/profil-bung-karno/
     label: Kota Blitar - Profil Bung Karno
 ---
-
 Ir. Soekarno, atau Bung Karno, adalah Proklamator sekaligus Presiden pertama Republik Indonesia yang pemikirannya merupakan sintesis paling brilian dari berbagai arus ideologi besar dunia. Sebagai seorang arsitek secara pendidikan dan "Arsitek Bangsa" secara politik, ia berhasil merumuskan sebuah payung filosofis yang mampu menyatukan ribuan pulau dan ratusan etnis dalam satu wadah negara. Bung Karno bukan sekadar pemimpin politik, ia adalah seorang ideolog yang memiliki kemampuan retorika dan kedalaman visi yang sangat memukau dunia internasional.
 
 Sumbangsih pemikirannya yang paling monumental adalah Pancasila. Dalam pidatonya 1 Juni 1945, ia menggali nilai-nilai luhur nusantara dan merumuskannya dalam lima prinsip yang ia peras menjadi satu inti: Gotong Royong. Ia juga mengembangkan Marhaenisme, sebuah ideologi yang membela hak-hak rakyat kecil (petani, pengrajin) yang memiliki alat produksi sendiri namun tetap tertindas oleh sistem kapitalisme dan kolonialisme. Baginya, kemerdekaan politik harus dibarengi dengan kedaulatan ekonomi dan kepribadian dalam kebudayaan (Trisakti).

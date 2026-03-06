@@ -8,15 +8,18 @@ wafat: 1925-11-03
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pendiri/Pemimpin Redaksi)
 periode: pra-kemerdekaan
-bidang: [jurnalisme, politik, aktivisme]
+bidang:
+  - jurnalisme
+  - politik
+  - aktivisme
 pendidikan:
   - Otodidak (Pendidikan Mandiri/Tradisional)
-pokok_pikiran: "Nasionalisme Tionghoa di Hindia Belanda; menentang Undang-Undang Kewarganegaraan Belanda; penegasan jati diri sebagai bangsa Tionghoa; penggunaan pers sebagai alat penyadar politik."
+pokok_pikiran: Nasionalisme Tionghoa di Hindia Belanda; menentang Undang-Undang Kewarganegaraan Belanda; penegasan jati diri sebagai bangsa Tionghoa; penggunaan pers sebagai alat penyadar politik.
 karya_utama:
-  - judul: "Lima Tahun Kemudian" (Novel)
+  - judul: '"Lima Tahun Kemudian" (Novel)'
     tahun: 1913
     jenis: Sastra
-  - judul: "Salah Pilih" (Novel)
+  - judul: '"Salah Pilih" (Novel)'
     tahun: 1913
     jenis: Sastra
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://www.tionghoa.info/profil-tjoe-bou-san-pendiri-koran-sin-po/
     label: Tionghoa.info - Profil Tjoe Bou San
 ---
-
 Tjoe Bou San adalah tokoh kunci yang mengubah wajah pers dan kesadaran politik kaum Tionghoa di Hindia Belanda pada awal abad ke-20. Sebagai otak di balik kesuksesan surat kabar *Sin Po*, ia berhasil menciptakan sebuah institusi media yang tidak hanya dominan secara komersial, tetapi juga menjadi instrumen politik yang sangat disegani. Meskipun tidak menempuh pendidikan formal tinggi, ketajaman analisis dan semangat juangnya menjadikannya salah satu intelektual publik paling berpengaruh di kalangan peranakan pada zamannya.
 
 Pokok pemikiran Tjoe Bou San berpusat pada penegasan jati diri dan kedaulatan politik etnis Tionghoa. Ia memimpin kampanye besar-besaran untuk menolak Undang-Undang Kawula Negara Belanda (*Nederlandsch Onderdaanschap*) yang ingin memaksa orang Tionghoa menjadi warga negara kelas dua di bawah kolonial. Baginya, martabat kaum Tionghoa di perantauan hanya bisa dijaga jika mereka tetap memegang teguh identitas kebangsaannya sendiri dan berani melawan kebijakan diskriminatif pemerintah kolonial.

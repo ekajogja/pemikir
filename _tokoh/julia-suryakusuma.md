@@ -4,23 +4,27 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Julia Suryakusuma
 lahir: 1954-07-19
-wafat: 
+wafat: ''
 tempat_lahir: New Delhi, India
 afiliasi: Jurnal Perempuan, Komunitas Salihara, Yayasan Almanak Politik Indonesia (API)
 periode: kontemporer
-bidang: [studi gender, sosiologi, politik, jurnalisme]
+bidang:
+  - studi gender
+  - sosiologi
+  - politik
+  - jurnalisme
 pendidikan:
   - City University, London (Sosiologi)
   - Institute of Social Studies, Den Haag (M.Sc. Politik)
-pokok_pikiran: "Ibuisme Negara (State Ibuism); kritik terhadap konstruksi gender Orde Baru; hubungan antara seksualitas, kekuasaan, dan agama; feminisme yang provokatif dan intelektual."
+pokok_pikiran: Ibuisme Negara (State Ibuism); kritik terhadap konstruksi gender Orde Baru; hubungan antara seksualitas, kekuasaan, dan agama; feminisme yang provokatif dan intelektual.
 karya_utama:
-  - judul: "Ibuisme Negara: Konstruksi Sosial Keperempuanan Orde Baru"
+  - judul: 'Ibuisme Negara: Konstruksi Sosial Keperempuanan Orde Baru'
     tahun: 1988/2011
     jenis: Buku (Kompilasi Riset)
-  - judul: "Sex, Power and Nation"
+  - judul: Sex, Power and Nation
     tahun: 2004
     jenis: Antologi Esai
-  - judul: "Julia’s Jihad"
+  - judul: Julia’s Jihad
     tahun: 2013
     jenis: Buku (Koleksi Kolom)
 sumber:
@@ -29,7 +33,6 @@ sumber:
   - url: https://www.jurnalperempuan.org/toko/julia-suryakusuma
     label: Jurnal Perempuan - Profil Julia
 ---
-
 Julia Suryakusuma adalah salah satu pemikir feminis paling provokatif, tajam, dan intelektual di Indonesia. Namanya dikenal secara internasional melalui teori "Ibuisme Negara" (*State Ibuism*), sebuah analisis brilian tentang bagaimana rezim Orde Baru mengonstruksi peran perempuan hanya sebagai pendamping suami dan pengurus rumahtangga demi stabilitas politik dan pembangunan ekonomi. Melalui tulisan-tulisannya yang blak-blakan, Julia membongkar mekanisme kekuasaan yang bekerja di bilik-bilik domestik hingga ke puncak birokrasi negara.
 
 Inti dari pemikiran Julia adalah hubungan segitiga antara Seks, Kekuasaan, dan Agama. Ia berargumen bahwa penindasan terhadap perempuan sering kali dilakukan melalui pelabelan moralitas yang dikontrol oleh negara dan tafsir agama yang kaku. Dengan gaya bahasa yang satir namun berbasis data akademik yang kuat, ia menggugat segala bentuk kemunafikan sosial di Indonesia—mulai dari poligami terselubung pejabat, komersialisasi tubuh perempuan, hingga politisasi identitas. Baginya, otonomi tubuh perempuan adalah syarat mutlak bagi kesehatan sebuah demokrasi.

@@ -8,20 +8,24 @@ wafat: 2021-02-15
 tempat_lahir: Bandung, Jawa Barat
 afiliasi: IJABI, Universitas Padjadjaran, PDI-P
 periode: kontemporer
-bidang: [ilmu komunikasi, filsafat Islam, tasawuf, psikologi]
+bidang:
+  - ilmu komunikasi
+  - filsafat Islam
+  - tasawuf
+  - psikologi
 pendidikan:
   - Universitas Padjadjaran (Ilmu Komunikasi)
   - Iowa State University, AS (M.Sc. Komunikasi)
   - Australian National University (Doktor Ilmu Politik)
-pokok_pikiran: "Psikologi Komunikasi (Eksistensi manusia dalam interaksi); Islam Kerakyatan; pencerahan melalui akhlak daripada fiqih; pengenalan pemikiran Syiah yang moderat dan intelektual (IJABI)."
+pokok_pikiran: Psikologi Komunikasi (Eksistensi manusia dalam interaksi); Islam Kerakyatan; pencerahan melalui akhlak daripada fiqih; pengenalan pemikiran Syiah yang moderat dan intelektual (IJABI).
 karya_utama:
-  - judul: "Psikologi Komunikasi"
+  - judul: Psikologi Komunikasi
     tahun: 1985
     jenis: Buku (Akademik)
-  - judul: "Islam Aktual: Refleksi Sosial Seorang Cendekiawan Muslim"
+  - judul: 'Islam Aktual: Refleksi Sosial Seorang Cendekiawan Muslim'
     tahun: 1991
     jenis: Buku
-  - judul: "The Road to Allah: Tahapan-tahapan Perjalanan Ruhani"
+  - judul: 'The Road to Allah: Tahapan-tahapan Perjalanan Ruhani'
     tahun: 2007
     jenis: Buku (Tasawuf)
 sumber:
@@ -30,7 +34,6 @@ sumber:
   - url: https://majulah-ijabi.org/jalaluddin-rakhmat/
     label: IJABI - Profil Kang Jalal
 ---
-
 Jalaluddin Rakhmat, yang akrab disapa Kang Jalal, adalah seorang intelektual publik terkemuka yang berhasil menjembatani dunia sains (ilmu komunikasi) dengan kedalaman spiritual Islam. Melalui bukunya yang legendaris, *Psikologi Komunikasi*, ia meletakkan dasar bagi studi komunikasi di Indonesia dengan pendekatan yang humanistik dan psikologis. Namun, bagi publik luas, Kang Jalal lebih dikenal sebagai "Singa Podium" yang mampu membawakan ceramah agama dengan logika yang jernih, menyentuh hati, dan selalu berorientasi pada pembelaan kaum miskin.
 
 Pokok pemikirannya bergeser dari puritanisme (Muhammadiyah) menuju apresiasi yang mendalam terhadap tradisi intelektual dan spiritual Islam yang lebih luas, termasuk tasawuf dan pemikiran Syiah. Melalui organisasi IJABI yang didirikannya, ia memperkenalkan wajah Islam yang menekankan pada "Akhlak" di atas segalanya. Ia berargumen bahwa perbedaan mazhab atau fiqih tidak boleh menjadi alasan untuk saling membenci; yang utama adalah bagaimana Islam bisa menjadi kekuatan transformatif untuk menciptakan keadilan sosial bagi seluruh rakyat.

@@ -8,19 +8,22 @@ wafat: 2008-06-18
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: IKIP Jakarta, Petisi 50, Griffith University
 periode: pasca-kemerdekaan
-bidang: [ilmu politik, sejarah Islam, gerakan sosial]
+bidang:
+  - ilmu politik
+  - sejarah Islam
+  - gerakan sosial
 pendidikan:
   - Universitas Indonesia
   - Cornell University, AS (Doktor Ilmu Politik, 1963)
-pokok_pikiran: "Analisis sistematis atas gerakan modern Islam di Indonesia; hubungan antara agama dan politik; kritik terhadap sentralisme kekuasaan (otoritarianisme); pentingnya oposisi yang jujur dalam demokrasi."
+pokok_pikiran: Analisis sistematis atas gerakan modern Islam di Indonesia; hubungan antara agama dan politik; kritik terhadap sentralisme kekuasaan (otoritarianisme); pentingnya oposisi yang jujur dalam demokrasi.
 karya_utama:
-  - judul: "The Modernist Muslim Movement in Indonesia, 1900-1942"
+  - judul: The Modernist Muslim Movement in Indonesia, 1900-1942
     tahun: 1973
     jenis: Buku (Disertasi)
-  - judul: "Ideologi Politik"
+  - judul: Ideologi Politik
     tahun: 1983
     jenis: Buku
-  - judul: "Islam dan Politik"
+  - judul: Islam dan Politik
     tahun: 2003
     jenis: Buku
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://tirto.id/deliar-noer-ilmuwan-politik-indonesia-yang-tak-pernah-bungkam-cs7m
     label: Tirto - Profil Deliar Noer
 ---
-
 Prof. Dr. Deliar Noer adalah ilmuwan politik pertama di Indonesia yang meraih gelar doktor dari Cornell University dan merupakan sosok intelektual yang dikenal karena integritas dan keberanian moralnya. Melalui karya monumentalnya tentang gerakan modern Islam di Indonesia, ia berhasil memberikan peta yang sangat jelas tentang bagaimana aspirasi keagamaan bertransformasi menjadi kekuatan politik dan sosial yang membentuk sejarah modern bangsa. Deliar bukan hanya seorang akademisi yang rajin, tetapi juga seorang kritikus kekuasaan yang tak pernah mau diam demi kenyamanan pribadi.
 
 Sebagai pemikir politik, Deliar menekankan pada pentingnya moralitas dan etika dalam bernegara. Ia sangat kritis terhadap gaya kepemimpinan yang cenderung memusatkan kekuasaan pada satu orang atau satu kelompok, yang ia lihat terjadi baik di era Orde Lama maupun Orde Baru. Keberaniannya menyuarakan kritik secara terbuka membuatnya sering kali mendapatkan tekanan politik, termasuk pelarangan mengajar di universitas dalam negeri dan pencekalan. Hal ini membawanya ke pengasingan intelektual di Australia, namun suaranya tetap bergema di hati para aktivis dan cendekiawan Indonesia.

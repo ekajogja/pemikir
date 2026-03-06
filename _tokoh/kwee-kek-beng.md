@@ -8,19 +8,22 @@ wafat: 1975-05-31
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pemimpin Redaksi)
 periode: pra-kemerdekaan
-bidang: [jurnalisme, politik, sastra]
+bidang:
+  - jurnalisme
+  - politik
+  - sastra
 pendidikan:
   - Hollandsch Chineesche School (HCS)
   - MULO, Batavia
-pokok_pikiran: "Nasionalisme Tionghoa-Indonesia; dukungan terhadap perjuangan kemerdekaan melalui jurnalisme; kritik terhadap kebijakan diskriminatif kolonial; dokumentasi kehidupan masyarakat peranakan."
+pokok_pikiran: Nasionalisme Tionghoa-Indonesia; dukungan terhadap perjuangan kemerdekaan melalui jurnalisme; kritik terhadap kebijakan diskriminatif kolonial; dokumentasi kehidupan masyarakat peranakan.
 karya_utama:
-  - judul: "Bekti: Tjerita di Betawi"
+  - judul: 'Bekti: Tjerita di Betawi'
     tahun: 1923
     jenis: Sastra/Novel
-  - judul: "Dua Puluh Lima Tahun di Dalam Jurnalistik"
+  - judul: Dua Puluh Lima Tahun di Dalam Jurnalistik
     tahun: 1948
     jenis: Memoar
-  - judul: "Ke Tiongkok Baru"
+  - judul: Ke Tiongkok Baru
     tahun: 1952
     jenis: Buku Perjalanan
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://tirto.id/jasa-kwee-kek-beng-mencetak-pertama-kali-lagu-indonesia-raya-gp6N
     label: Tirto - Jasa Kwee Kek Beng
 ---
-
 Kwee Kek Beng adalah maestro jurnalisme Tionghoa-Indonesia yang memegang kepemimpinan redaksi *Sin Po*, surat kabar paling berpengaruh pada masanya, selama lebih dari dua dekade. Di bawah kendalinya, *Sin Po* bukan hanya menjadi media informasi bagi komunitas Tionghoa, tetapi juga menjadi corong penting bagi gerakan kemerdekaan Indonesia. Kwee dikenal sebagai jurnalis yang tajam, kritis, dan memiliki jaringan luas dengan tokoh-tokoh pergerakan nasional seperti Soekarno dan W.R. Supratman.
 
 Satu jasa sejarahnya yang paling monumental bagi Indonesia adalah keberaniannya memuat dan mencetak lirik serta notasi lagu "Indonesia Raya" untuk pertama kali di harian *Sin Po* pada tahun 1928. Di saat media lain merasa takut akan tekanan intelijen kolonial Belanda, Kwee Kek Beng justru memberikan ruang bagi simbol persatuan bangsa tersebut. Baginya, jurnalisme adalah alat perjuangan untuk membongkar ketidakadilan kolonial dan membangun jembatan solidaritas antara berbagai etnis yang tertindas di Hindia Belanda.

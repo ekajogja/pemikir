@@ -8,15 +8,18 @@ wafat: 1989-04-25
 tempat_lahir: Kutaraja (Banda Aceh)
 afiliasi: Peradin, LBH (Pendiri), Gereja Kristen Indonesia (GKI)
 periode: pasca-kemerdekaan
-bidang: [hukum, hak asasi manusia, kesetaraan minoritas]
+bidang:
+  - hukum
+  - hak asasi manusia
+  - kesetaraan minoritas
 pendidikan:
   - Rijksuniversiteit Leiden, Belanda (Doktor Ilmu Hukum)
-pokok_pikiran: "Keadilan yang tidak memihak ideologi; hak hukum bagi kaum tertindas; pembelaan terhadap tahanan politik (apapun latar belakangnya); integritas tanpa kompromi (Anti-Suap); pembela minoritas di hadapan mayoritas."
+pokok_pikiran: Keadilan yang tidak memihak ideologi; hak hukum bagi kaum tertindas; pembelaan terhadap tahanan politik (apapun latar belakangnya); integritas tanpa kompromi (Anti-Suap); pembela minoritas di hadapan mayoritas.
 karya_utama:
-  - judul: "Pokok-pokok Pemikiran Yap Thiam Hien tentang Hukum dan Keadilan"
-    tahun: -
+  - judul: Pokok-pokok Pemikiran Yap Thiam Hien tentang Hukum dan Keadilan
+    tahun: ''
     jenis: Kumpulan Tulisan
-  - judul: "Pembelaan terhadap Soebandrio, Oei Tjoe Tat, dkk."
+  - judul: Pembelaan terhadap Soebandrio, Oei Tjoe Tat, dkk.
     tahun: 1966-Sekarang
     jenis: Risalah Pembelaan Hukum (Pledoi)
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://legalfinansial.id/profil-yap-thiam-hien-sang-pendekar-ham/
     label: Profil Yap Thiam Hien
 ---
-
 Yap Thiam Hien dijuluki sebagai "Pendekar Hukum" paling lurus yang pernah dilahirkan oleh bumi Indonesia. Sebagai pengacara keturunan Tionghoa yang lahir di Aceh, ia memiliki perspektif yang sangat unik tentang minoritas dan keindonesiaan. Bagi Yap, hukum bukanlah sekadar pasal-pasal dalam buku, melainkan alat suci untuk menegakkan keadilan Tuhan di bumi. Integritasnya yang legendaris, yang membuatnya berani memenjarakan polisi yang menyuapnya atau membela musuh politiknya sendiri, telah menjadikannya standar moral tertinggi bagi profesi advokat di Indonesia.
 
 Pokok pemikirannya yang paling mendasar adalah "Keadilan Tanpa Pandang Bulu". Ia adalah pembela yang sangat radikal bagi siapa pun yang hak hukumnya diinjak-injak, tidak peduli apa ideologinya. Ia pernah membela tokoh kiri pasca-1965 seperti Soebandrio, namun di saat yang sama ia juga menuntut pembebasan tokoh Islam seperti Mohammad Natsir yang ditahan tanpa proses pengadilan. Baginya, jika hak seorang komunis dilanggar, maka ia akan membelanya; jika hak seorang fundamentalis dilanggar, ia pun akan pasang badan. Inilah esensi perlindungan HAM: bahwa keadilan harus buta terhadap warna politik.

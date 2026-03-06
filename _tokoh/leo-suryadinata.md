@@ -4,28 +4,32 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Leo Suryadinata
 lahir: 1941-02-21
-wafat: 
+wafat: ''
 tempat_lahir: Jakarta
 afiliasi: National University of Singapore (NUS), ISEAS - Yusof Ishak Institute, LIPI
 periode: kontemporer
-bidang: [sinologi, ilmu politik, sejarah, sosiologi]
+bidang:
+  - sinologi
+  - ilmu politik
+  - sejarah
+  - sosiologi
 pendidikan:
   - Universitas Indonesia (Sastra)
   - Nanyang University, Singapura (B.A.)
   - Universitas Gadjah Mada (M.A. Sejarah)
   - American University (Ph.D. Ilmu Politik)
-pokok_pikiran: "Etnisitas dan identitas politik Tionghoa di Asia Tenggara; sejarah gerakan nasional Tionghoa di Indonesia; integrasi dan asimilasi sebagai proses sosiopolitik; dokumentasi biografi tokoh-tokoh penting Tionghoa-Indonesia."
+pokok_pikiran: Etnisitas dan identitas politik Tionghoa di Asia Tenggara; sejarah gerakan nasional Tionghoa di Indonesia; integrasi dan asimilasi sebagai proses sosiopolitik; dokumentasi biografi tokoh-tokoh penting Tionghoa-Indonesia.
 karya_utama:
-  - judul: "Tokoh Tionghoa dan Identitas Indonesia"
+  - judul: Tokoh Tionghoa dan Identitas Indonesia
     tahun: 2008
     jenis: Buku
-  - judul: "Negara dan Etnis Tionghoa: Kasus Indonesia"
+  - judul: 'Negara dan Etnis Tionghoa: Kasus Indonesia'
     tahun: 2002
     jenis: Buku
-  - judul: "Prominent Indonesian Chinese: Biographical Sketches"
+  - judul: 'Prominent Indonesian Chinese: Biographical Sketches'
     tahun: 1972
     jenis: Buku
-  - judul: "Kebudayaan Minoritas Tionghoa di Indonesia"
+  - judul: Kebudayaan Minoritas Tionghoa di Indonesia
     tahun: 1988
     jenis: Buku
 sumber:
@@ -34,7 +38,6 @@ sumber:
   - url: https://www.iseas.edu.sg/about-us/specialists/dr-leo-suryadinata/
     label: ISEAS - Profile Leo Suryadinata
 ---
-
 Prof. Leo Suryadinata adalah ilmuwan terkemuka dunia yang mendedikasikan karier akademisnya untuk membedah dinamika kompleks etnisitas, identitas, dan politik kaum Tionghoa di Asia Tenggara, khususnya Indonesia. Sebagai sarjana multidisipliner yang menguasai sejarah, sosiologi, dan ilmu politik, ia berhasil menyusun narasi sejarah Tionghoa-Indonesia yang objektif dan ilmiah, membersihkannya dari prasangka-prasangka rasial yang seringkali mengaburkan fakta objektif.
 
 Kontribusi intelektual terpentingnya terletak pada upaya mendokumentasikan biografi dan pemikiran tokoh-tokoh Tionghoa dalam kerangka nasionalisme Indonesia. Melalui buku-bukunya seperti *Tokoh Tionghoa dan Identitas Indonesia*, ia menunjukkan bahwa kontribusi kelompok minoritas ini bukanlah fenomena di pinggiran, melainkan bagian substansial dari proses pembentukan bangsa. Ia membedah bagaimana orientasi identitas Tionghoa berubah dari "orientasi Tiongkok" menjadi "orientasi Indonesia" melalui proses integrasi yang terkadang menyakitkan namun produktif.

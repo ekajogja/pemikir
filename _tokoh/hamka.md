@@ -8,22 +8,26 @@ wafat: 1981-07-24
 tempat_lahir: Tanah Sirah, Agam, Sumatera Barat
 afiliasi: Muhammadiyah, Majelis Ulama Indonesia (MUI), Masyumi
 periode: pasca-kemerdekaan
-bidang: [tafsir Al-Qur'an, sastra, filsafat, tasawuf]
+bidang:
+  - tafsir Al-Qur'an
+  - sastra
+  - filsafat
+  - tasawuf
 pendidikan:
   - Pelatihan di Sumatera Thawalib, Padang Panjang
   - Belajar mandiri (Otodidak) di Mekkah dan perpustakaan-perpustakaan besar
-pokok_pikiran: "Tasawuf Modern; integrasi Islam, sastra, dan budaya; kebebasan dan martabat manusia; pembaruan Islam melalui pendekatan etika skriptural; keadilan sosial."
+pokok_pikiran: Tasawuf Modern; integrasi Islam, sastra, dan budaya; kebebasan dan martabat manusia; pembaruan Islam melalui pendekatan etika skriptural; keadilan sosial.
 karya_utama:
-  - judul: "Tafsir al-Azhar"
+  - judul: Tafsir al-Azhar
     tahun: 1967
     jenis: Kitab Tafsir (30 Juz)
-  - judul: "Tasawuf Modern"
+  - judul: Tasawuf Modern
     tahun: 1939
     jenis: Buku
-  - judul: "Tenggelamnya Kapal Van der Wijck"
+  - judul: Tenggelamnya Kapal Van der Wijck
     tahun: 1938
     jenis: Novel
-  - judul: "Falsafah Hidup"
+  - judul: Falsafah Hidup
     tahun: 1940
     jenis: Buku
 sumber:
@@ -32,7 +36,6 @@ sumber:
   - url: https://republika.co.id/berita/q50123430/hamka-sang-pujangga-dan-ulama-besar-nusantara
     label: Republika - Profil Buya Hamka
 ---
-
 Haji Abdul Malik Karim Amrullah, lebih dikenal dengan nama pena Hamka, adalah raksasa intelektual Indonesia yang langka—seorang ulama besar, filsuf, sekaligus sastrawan terkemuka. Sebagai putra dari reformis Islam Minangkabau (Haji Rasul), Hamka mewarisi semangat pembaruan namun membungkusnya dengan kelembutan sastra dan kedalaman rasa. Ia adalah sosok otodidak yang mampu menguasai berbagai bahasa dan disiplin ilmu, menjadikannya salah satu figur paling dicintai dalam sejarah Islam modern di Nusantara.
 
 Kontribusi intelektual terpentingnya adalah konsep "Tasawuf Modern". Dalam buku terkenalnya dengan judul yang sama, Hamka mereformasi pandangan tentang tasawuf yang selama ini dianggap sebagai pelarian dari dunia (asketisme ekstrem). Ia mengajarkan bahwa tasawuf sejati justru harus melahirkan individu yang produktif, berani, dan giat bekerja di dunia demi mencari ridha Allah. Baginya, kesalehan spiritual harus berbanding lurus dengan kemajuan sosial dan keberanian membela kebenaran.

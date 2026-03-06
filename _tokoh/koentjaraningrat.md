@@ -8,23 +8,26 @@ wafat: 1999-03-23
 tempat_lahir: Yogyakarta
 afiliasi: Universitas Indonesia, Lembaga Ilmu Pengetahuan Indonesia (LIPI)
 periode: pasca-kemerdekaan
-bidang: [antropologi, sosiologi, ilmu budaya]
+bidang:
+  - antropologi
+  - sosiologi
+  - ilmu budaya
 pendidikan:
   - Criminologische Instituten, Batavia (Rechtshoogeschool)
   - Yale University, AS (M.A. Antropologi, 1956)
   - Universitas Indonesia (Ph.D., 1958)
-pokok_pikiran: "Pembangunan ilmu antropologi Indonesia yang sistematis dan berpijak pada realitas masyarakat lokal; mentalitas masyarakat sebagai kunci memahami pembangunan; dokumentasi kebudayaan-kebudayaan Indonesia secara ensiklopedis."
+pokok_pikiran: Pembangunan ilmu antropologi Indonesia yang sistematis dan berpijak pada realitas masyarakat lokal; mentalitas masyarakat sebagai kunci memahami pembangunan; dokumentasi kebudayaan-kebudayaan Indonesia secara ensiklopedis.
 karya_utama:
-  - judul: "Manusia dan Kebudayaan di Indonesia"
+  - judul: Manusia dan Kebudayaan di Indonesia
     tahun: 1971
     jenis: Buku
-  - judul: "Kebudayaan, Mentalitas dan Pembangunan"
+  - judul: Kebudayaan, Mentalitas dan Pembangunan
     tahun: 1974
     jenis: Buku
-  - judul: "Pengantar Ilmu Antropologi"
+  - judul: Pengantar Ilmu Antropologi
     tahun: 1965
     jenis: Buku Teks
-  - judul: "Masyarakat Desa di Indonesia"
+  - judul: Masyarakat Desa di Indonesia
     tahun: 1964
     jenis: Buku
 sumber:
@@ -33,7 +36,6 @@ sumber:
   - url: https://www.perpusnas.go.id/koleksi-terpilih/tokoh/koentjaraningrat
     label: Perpusnas – Koentjaraningrat
 ---
-
 Koentjaraningrat (1923–1999) adalah bapak antropologi Indonesia—gelar yang layak ia sandang bukan sebagai basa-basi kehormatan, melainkan sebagai pengakuan atas kontribusinya yang paling menentukan dalam membangun dan melembagakan disiplin antropologi di Indonesia.
 
 Lahir di Yogyakarta, ia menempuh pendidikan tinggi di masa kolonial yang penuh pergolakan dan kemudian melanjutkan studi di Yale University. Sepulang dari Amerika, ia mengabdikan diri di Universitas Indonesia dan menjadi kekuatan penggerak di balik pendirian Jurusan Antropologi di sana. Selama berpuluh tahun, ia mendidik generasi demi generasi antropolog Indonesia.

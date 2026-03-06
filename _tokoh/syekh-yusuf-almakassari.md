@@ -8,24 +8,27 @@ wafat: 1699-05-23
 tempat_lahir: Moncongloe, Gowa, Sulawesi Selatan
 afiliasi: Kesultanan Banten, Tarekat Khalwatiyah, Kesultanan Gowa
 periode: klasik (abad 17)
-bidang: [tasawuf, teologi, perjuangan anti-kolonial]
+bidang:
+  - tasawuf
+  - teologi
+  - perjuangan anti-kolonial
 pendidikan:
   - Gowa/Cikoang
   - Banten & Aceh
   - Yaman, Mekkah, Madinah, dan Damaskus
-pokok_pikiran: "Penyelarasan syariat dan hakikat; ajaran tasawuf sebagai kekuatan moral melawan penindasan; tauhid sebagai kesadaran eksistensial ke-fanaan makhluk; penyebaran Islam di Afrika Selatan."
+pokok_pikiran: Penyelarasan syariat dan hakikat; ajaran tasawuf sebagai kekuatan moral melawan penindasan; tauhid sebagai kesadaran eksistensial ke-fanaan makhluk; penyebaran Islam di Afrika Selatan.
 karya_utama:
-  - judul: "Zubdat al-Asrar" (Intisari Rahasia-rahasia)
+  - judul: '"Zubdat al-Asrar" (Intisari Rahasia-rahasia)'
     tahun: 1676
     jenis: Teologi/Tasawuf
-  - judul: "Ad-Dur al-Nafis" (Mutiara Berharga)
-    tahun: 
+  - judul: '"Ad-Dur al-Nafis" (Mutiara Berharga)'
+    tahun: ''
     jenis: Tasawuf
-  - judul: "Kayfiyat az-Zikir"
-    tahun: 
+  - judul: Kayfiyat az-Zikir
+    tahun: ''
     jenis: Tasawuf/Zikir
-  - judul: "Sirr al-Asrar"
-    tahun: 
+  - judul: Sirr al-Asrar
+    tahun: ''
     jenis: Tasawuf
 sumber:
   - url: https://id.wikipedia.org/wiki/Syekh_Yusuf_al-Makassari
@@ -33,7 +36,6 @@ sumber:
   - url: https://historia.id/agama/articles/syekh-yusuf-al-makassari-sufi-pejuang-dari-gowa-v9E1P
     label: Historia - Syekh Yusuf al-Makassari
 ---
-
 Syekh Yusuf Abul Mahasin Tajul Khalwati Al-Makassari Al-Bantani adalah figur lintas samudra yang menghubungkan Nusantara dengan dunia Islam global dan perlawanan terhadap kolonialisme. Dikenal sebagai "Tuanta Salamaka ri Gowa" (Tuan Guru Penyelamat dari Gowa), ia tidak hanya seorang ulama besar dan mursyid Tarekat Khalwatiyah, tetapi juga panglima gerilya yang gigih melawan VOC di Banten bersama Sultan Ageng Tirtayasa.
 
 Perjalanan intelektualnya mencakup rute kosmopolitan abad ke-17, mulai dari Gowa ke Banten, Aceh, hingga pusat-pusat ilmu di Yaman, Mekkah, Madinah, dan Damaskus selama 20 tahun. Di sana, ia memperoleh ijazah dari berbagai tarekat besar (Qadiriyah, Naqshabandiyah, Ba'lawiyah, dan Syattariyah), menjadikannya salah satu ulama paling otoritatif di Asia Tenggara pada masanya. Ketika kembali, ia menemukan Makassar telah jatuh ke tangan Belanda, sehingga ia menetap di Banten dan menjadi penasihat utama Sultan Ageng.

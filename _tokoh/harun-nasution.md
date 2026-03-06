@@ -8,24 +8,27 @@ wafat: 1998-09-18
 tempat_lahir: Pematangsiantar, Sumatera Utara
 afiliasi: IAIN Syarif Hidayatullah, Kementerian Luar Negeri
 periode: pasca-kemerdekaan
-bidang: [teologi Islam, filsafat, pendidikan Islam]
+bidang:
+  - teologi Islam
+  - filsafat
+  - pendidikan Islam
 pendidikan:
   - Moderne Islamietische Kweekschool, Bukittinggi
   - Universitas Al-Azhar, Kairo, Mesir
   - American University of Cairo
   - McGill University, Kanada (Doktor Filsafat, 1968)
-pokok_pikiran: "Rekonstruksi Islam Rasional; pembaruan teologi dari fatalistik (Asy'ariyah) menuju teologi rasional (Neo-Mu'tazilah); integrasi akal dan wahyu; Islam sebagai peradaban yang luas melampaui fikih."
+pokok_pikiran: Rekonstruksi Islam Rasional; pembaruan teologi dari fatalistik (Asy'ariyah) menuju teologi rasional (Neo-Mu'tazilah); integrasi akal dan wahyu; Islam sebagai peradaban yang luas melampaui fikih.
 karya_utama:
-  - judul: "Islam Ditinjau Dari Berbagai Aspeknya"
+  - judul: Islam Ditinjau Dari Berbagai Aspeknya
     tahun: 1974
     jenis: Buku
-  - judul: "Akal dan Wahyu dalam Islam"
+  - judul: Akal dan Wahyu dalam Islam
     tahun: 1981
     jenis: Buku
-  - judul: "Teologi Islam: Aliran-Aliran Sejarah Analisa Perbandingan"
+  - judul: 'Teologi Islam: Aliran-Aliran Sejarah Analisa Perbandingan'
     tahun: 1972
     jenis: Buku
-  - judul: "Pembaharuan dalam Islam: Sejarah Pemikiran dan Gerakan"
+  - judul: 'Pembaharuan dalam Islam: Sejarah Pemikiran dan Gerakan'
     tahun: 1975
     jenis: Buku
 sumber:
@@ -34,7 +37,6 @@ sumber:
   - url: https://uinjkt.ac.id/profil-harun-nasution/
     label: UIN Jakarta - Profil Harun Nasution
 ---
-
 Harun Nasution adalah arsitek utama perubahan paradigma pendidikan tinggi Islam di Indonesia. Sebagai Rektor IAIN Syarif Hidayatullah (kini UIN Jakarta) selama lebih dari satu dekade, ia mentransformasi lembaga pendidikan tersebut dari sekolah agama yang bersifat doktrinal menjadi pusat studi Islam yang kritis, rasional, dan multidisipliner. Ia percaya bahwa kejumudan umat Islam Indonesia berakar pada cara berpikir fatalistik yang harus dibongkar dengan nalar rasional.
 
 Kontribusi intelektual terbesarnya adalah pengenalan kembali teologi Muktazilah—yang ia sebut sebagai "Neo-Mu'tazilah"—ke dalam kurikulum pesantren dan perguruan tinggi Islam. Harun berpendapat bahwa kemajuan Barat berakar pada penghargaan tinggi terhadap akal, sementara umat Islam tertinggal karena terlalu terpaku pada teologi Asy'ariyah yang cenderung mengecilkan peran rasio. Melalui bukunya *Akal dan Wahyu dalam Islam*, ia menegaskan bahwa wahyu tidak pernah bertentangan dengan akal yang sehat; justru akal diperlukan untuk memahami maksud terdalam dari wahyu tersebut.

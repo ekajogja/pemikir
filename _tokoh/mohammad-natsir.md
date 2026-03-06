@@ -8,18 +8,21 @@ wafat: 1993-02-06
 tempat_lahir: Alahan Panjang, Sumatera Barat
 afiliasi: Partai Masyumi, Perdana Menteri RI ke-5, DDII
 periode: pra-kemerdekaan / pasca-kemerdekaan
-bidang: [politik Islam, diplomasi, pendidikan]
+bidang:
+  - politik Islam
+  - diplomasi
+  - pendidikan
 pendidikan:
   - AMS (Algemeene Middelbare School), Bandung
-pokok_pikiran: "Mosi Integral Natsir (Kembali ke NKRI); Islam sebagai dasar integral kehidupan dan negara; integrasi masjid, kampus, dan pesantren; politik sebagai dakwah; hubungan harmonis antara agama dan modernitas."
+pokok_pikiran: Mosi Integral Natsir (Kembali ke NKRI); Islam sebagai dasar integral kehidupan dan negara; integrasi masjid, kampus, dan pesantren; politik sebagai dakwah; hubungan harmonis antara agama dan modernitas.
 karya_utama:
-  - judul: "Fiqhud Da’wah"
+  - judul: Fiqhud Da’wah
     tahun: 1970
     jenis: Buku (Teologi/Dakwah)
-  - judul: "Capita Selecta"
+  - judul: Capita Selecta
     tahun: 1954
     jenis: Kumpulan Tulisan Politik/Agama
-  - judul: "Mosi Integral Natsir"
+  - judul: Mosi Integral Natsir
     tahun: 1950
     jenis: Pidato/Dokumen Politik
 sumber:
@@ -28,7 +31,6 @@ sumber:
   - url: https://tirto.id/mohammad-natsir-perdana-menteri-yang-sangat-sederhana-cs7n
     label: Tirto - Profil Natsir
 ---
-
 Mohammad Natsir adalah seorang negarawan ulung, ulama, sekaligus politikus paling berpengaruh dari garis Islam di masa awal kemerdekaan Indonesia. Sebagai pemimpin utama Partai Masyumi, ia dikenal karena integritas moralnya yang sangat tinggi dan gaya hidupnya yang sangat sederhana melampaui kedudukannya sebagai Perdana Menteri. Natsir adalah sosok yang membuktikan bahwa seorang Muslim yang taat dapat menjadi demokrat yang tangguh dan diplomat yang sangat dihormati oleh lawan-lawan politiknya.
 
 Jasa sejarahnya yang paling fenomenal adalah "Mosi Integral Natsir" pada 3 April 1950. Melalui kepiawaian diplomasinya, ia berhasil meyakinkan negara-negara bagian dalam Republik Indonesia Serikat (RIS) untuk kembali melebur menjadi Negara Kesatuan Republik Indonesia (NKRI) secara sukarela. Tanpa Mosi Integral ini, mungkin Indonesia akan terjebak dalam fragmentasi politik permanen akibat politik adu domba Van Mook. Natsir adalah penyelamat NKRI di saat-saat paling kritis setelah penyerahan kedaulatan.

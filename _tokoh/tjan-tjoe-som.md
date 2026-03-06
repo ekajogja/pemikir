@@ -8,17 +8,20 @@ wafat: 1969-02-14
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Universitas Indonesia (Fakultas Sastra), Lembaga Sinologi
 periode: pasca-kemerdekaan
-bidang: [sinologi, filsafat Tiongkok, sejarah budaya]
+bidang:
+  - sinologi
+  - filsafat Tiongkok
+  - sejarah budaya
 pendidikan:
   - Hollandsch Chineesche School (HCS)
   - AMS, Yogyakarta
   - Universitas Leiden, Belanda (Doktor Sinologi, 1949)
-pokok_pikiran: "Filsafat klasik Tiongkok sebagai bagian dari warisan intelektual manusia; pengenalan studi Sinologi ilmiah di Indonesia; pencarian titik temu antara nilai-nilai luhur Timur dan modernitas."
+pokok_pikiran: Filsafat klasik Tiongkok sebagai bagian dari warisan intelektual manusia; pengenalan studi Sinologi ilmiah di Indonesia; pencarian titik temu antara nilai-nilai luhur Timur dan modernitas.
 karya_utama:
-  - judul: "Po Hu T’ung: The Comprehensive Discussions in the White Tiger Hall"
+  - judul: 'Po Hu T’ung: The Comprehensive Discussions in the White Tiger Hall'
     tahun: 1949
     jenis: Buku (Disertasi)
-  - judul: "Sumbangan Kebudayaan Tionghoa kepada Kebudayaan Indonesia"
+  - judul: Sumbangan Kebudayaan Tionghoa kepada Kebudayaan Indonesia
     tahun: 1954
     jenis: Artikel/Esai
 sumber:
@@ -27,7 +30,6 @@ sumber:
   - url: https://bolong.id/id/1121/tjan-tjoe-som-bapak-sinologi-indonesia
     label: Bolong.id - Bapak Sinologi Indonesia
 ---
-
 Prof. Dr. Tjan Tjoe Som adalah "Bapak Sinologi Indonesia" yang telah meletakkan landasan akademis bagi studi tentang kebudayaan dan pemikiran Tiongkok di tanah air. Lahir dalam keluarga intelektual di Surakarta, ia meraih gelar doktor dari Universitas Leiden dengan disertasi tentang teks klasik Dinasti Han yang diakui secara internasional. Kembalinya ia ke Indonesia pasca-kemerdekaan membawa misi untuk membangun jembatan pemahaman budaya yang lebih ilmiah dan mendalam antara masyarakat Indonesia dan tradisi leluhur Tiongkok.
 
 Di Universitas Indonesia, Tjan Tjoe Som mendirikan dan memimpin Lembaga Sinologi serta Jurusan Sinologi. Ia dikenal sebagai pendidik yang memiliki ketelitian luar biasa dan penguasaan mendalam atas teks-teks filsafat klasik seperti Konghucu (Konfusianisme) dan Taoisme. Baginya, mempelajari filsafat Tiongkok bukan sekadar urusan bernostalgia dengan masa lalu, melainkan upaya untuk menemukan perangkat etis dan kearifan yang bisa disumbangkan bagi pembangunan karakter bangsa Indonesia yang baru merdeka.

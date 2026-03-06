@@ -4,28 +4,30 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Bivitri Susanti
 lahir: 1974-10-05
-wafat: 
+wafat: ''
 tempat_lahir: Jakarta
 afiliasi: PSHK (Pusat Studi Hukum dan Kebijakan), STH Indonesia Jentera
 periode: kontemporer
-bidang: [hukum tata negara, sosiologi hukum, kebijakan publik]
+bidang:
+  - hukum tata negara
+  - sosiologi hukum
+  - kebijakan publik
 pendidikan:
   - Universitas Indonesia (Sarjana Hukum)
   - University of Warwick, Inggris (LL.M.)
   - University of Washington School of Law, AS (Doktor)
-pokok_pikiran: "Supremasi hukum vs Rule by Law; kritik terhadap oligarki dalam pembuatan UU; konstitusionalisme warga; pentingnya masyarakat sipil dalam pengawasan hukum; reformasi pendidikan hukum yang progresif."
+pokok_pikiran: Supremasi hukum vs Rule by Law; kritik terhadap oligarki dalam pembuatan UU; konstitusionalisme warga; pentingnya masyarakat sipil dalam pengawasan hukum; reformasi pendidikan hukum yang progresif.
 karya_utama:
-  - judul: "Menata Kebijakan: Perspektif Hukum dan Politik"
-    tahun: -
+  - judul: 'Menata Kebijakan: Perspektif Hukum dan Politik'
+    tahun: ''
     jenis: Buku
-  - judul: "Dirty Vote" (Narator & Narasumber Utama)
+  - judul: '"Dirty Vote" (Narator & Narasumber Utama)'
     tahun: 2024
     jenis: Film Dokumenter
 sumber:
   - url: https://id.wikipedia.org/wiki/Bivitri_Susanti
     label: Wikipedia - Bivitri Susanti
 ---
-
 Bivitri Susanti, atau yang akrab disapa Bibip, adalah seorang pakar hukum tata negara dan intelektual publik yang menjadi salah satu suara paling jernih dalam menjaga marwah konstitusi Indonesia. Sebagai akademisi dan pendiri PSHK, ia dikenal karena kemampuannya membedah anatomi kekuasaan yang sering kali menggunakan hukum (law) sebagai instrumen untuk melanggengkan kepentingan elit (oligarki), sebuah praktik yang ia sebut sebagai "Rule by Law" (pemerintahan oleh hukum) yang berbahaya bagi demokrasi.
 
 Kontribusi intelektual terbesarnya terletak pada upayanya untuk membumikan konsep konstitusionalisme kepada warga biasa. Bibip percaya bahwa hukum tidak boleh menjadi milik para ahli saja; ia harus dimengerti dan dijaga oleh setiap warga negara agar tidak disalahgunakan. Ia adalah kritikus paling gigih terhadap proses pembuatan undang-undang yang dianggapnya tidak partisipatif dan "dibajak" oleh kepentingan bisnis-politik, seperti dalam kasus UU Cipta Kerja dan revisi UU KPK. Penampilannya dalam film dokumenter *Dirty Vote* menunjukkan integritasnya dalam mempertaruhkan reputasi akademik demi memberikan pendidikan politik yang jujur kepada publik.

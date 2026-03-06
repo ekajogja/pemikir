@@ -4,30 +4,33 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Seno Gumira Ajidarma
 lahir: 1958-06-19
-wafat: 
+wafat: ''
 tempat_lahir: Boston, Amerika Serikat
 afiliasi: Institut Kesenian Jakarta (IKJ), Jurnal Jakarta, Komunitas Salihara
 periode: kontemporer
-bidang: [sastra, jurnalisme, budaya visual, film]
+bidang:
+  - sastra
+  - jurnalisme
+  - budaya visual
+  - film
 pendidikan:
   - Institut Kesenian Jakarta (Sinematografi)
   - Universitas Indonesia (Magister Filsafat & Doktor Ilmu Sastra)
-pokok_pikiran: "Sastra sebagai saksi sejarah; 'Ketika jurnalisme dibungkam, sastra harus bicara'; pentingnya imajinasi sebagai alat kritik sosial; kemanusiaan sebagai nilai tertinggi di atas politik."
+pokok_pikiran: Sastra sebagai saksi sejarah; 'Ketika jurnalisme dibungkam, sastra harus bicara'; pentingnya imajinasi sebagai alat kritik sosial; kemanusiaan sebagai nilai tertinggi di atas politik.
 karya_utama:
-  - judul: "Saksi Mata"
+  - judul: Saksi Mata
     tahun: 1994
     jenis: Kumpulan Cerpen
-  - judul: "Jazz, Parfum, dan Insiden"
+  - judul: Jazz, Parfum, dan Insiden
     tahun: 1996
     jenis: Novel
-  - judul: "Tiada Ojek di Paris"
+  - judul: Tiada Ojek di Paris
     tahun: 2015
     jenis: Kumpulan Esai
 sumber:
   - url: https://id.wikipedia.org/wiki/Seno_Gumira_Ajidarma
     label: Wikipedia - Seno Gumira Ajidarma
 ---
-
 Seno Gumira Ajidarma (SGA) adalah seorang pemikir multidimensi dan sastrawan paling berpengaruh dalam sejarah kebudayaan Indonesia modern. Dikenal dengan pameo legendarisnya, "Ketika jurnalisme dibungkam, sastra harus bicara," Seno membuktikan bahwa kekuatan kata-kata mampu menembus tembok represi yang paling tebal sekalipun. Perjalanan intelektualnya yang melintasi dunia film, jurnalisme, filsafat, dan sastra menjadikannya sosok "Manusia Renaisans" Indonesia yang mampu membedah kenyataan dengan pisau analisis yang sangat tajam sekaligus estetis.
 
 Kontribusi intelektual terbesarnya adalah dalam penggunaan fiksi sebagai bentuk perlawanan terhadap kebisuan paksa atas pelanggaran hak asasi manusia. Melalui kumpulan cerpen *Saksi Mata*, ia menyuarakan tragedi pembantaian di Timor Timur dengan cara yang melampaui pelaporan berita konvensional; ia berhasil membangkitkan empati kemanusiaan yang mendalam melalui kekuatan imajinasi. Bagi Seno, sastra bukan sekadar hiburan, melainkan sebuah bentuk pertanggungjawaban moral seorang intelektual terhadap zamannya. Ia percaya bahwa sastra mampu menyampaikan kebenaran yang sering kali disensor oleh mekanisme kekuasaan politik.

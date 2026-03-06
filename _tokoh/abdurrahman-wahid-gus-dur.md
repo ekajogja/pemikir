@@ -8,23 +8,27 @@ wafat: 2009-12-30
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (NU), Forum Demokrasi, Partai Kebangkitan Bangsa (PKB)
 periode: pasca-kemerdekaan (Reformasi)
-bidang: [agama, politik, pluralisme, humanisme]
+bidang:
+  - agama
+  - politik
+  - pluralisme
+  - humanisme
 pendidikan:
   - Pesantren Krapyak, Tegalrejo, dan Tambakberas
   - Universitas Al-Azhar, Kairo, Mesir
   - Universitas Baghdad, Irak
-pokok_pikiran: "Pribumisasi Islam sebagai penolakan terhadap Arabisasi; pluralisme sebagai pengakuan terhadap keberagaman; demokrasi sebagai proses budaya; humanisme universal di mana 'Tuhan tak perlu dibela'."
+pokok_pikiran: Pribumisasi Islam sebagai penolakan terhadap Arabisasi; pluralisme sebagai pengakuan terhadap keberagaman; demokrasi sebagai proses budaya; humanisme universal di mana 'Tuhan tak perlu dibela'.
 karya_utama:
-  - judul: "Islamku, Islam Anda, Islam Kita"
+  - judul: Islamku, Islam Anda, Islam Kita
     tahun: 2006
     jenis: Buku
-  - judul: "Tuhan Tak Perlu Dibela"
+  - judul: Tuhan Tak Perlu Dibela
     tahun: 1982
     jenis: Kumpulan Esai
-  - judul: "Muslim di Tengah Pergumulan"
+  - judul: Muslim di Tengah Pergumulan
     tahun: 1981
     jenis: Buku
-  - judul: "Prisma Pemikiran Gus Dur"
+  - judul: Prisma Pemikiran Gus Dur
     tahun: 1999
     jenis: Buku
 sumber:
@@ -33,7 +37,6 @@ sumber:
   - url: https://gusdurian.net/tentang-gus-dur/
     label: Jaringan Gusdurian - Profil Gus Dur
 ---
-
 K.H. Abdurrahman Wahid, atau yang lebih dikenal sebagai Gus Dur, adalah intelektual Muslim paling unik dan transformatif dalam sejarah Indonesia modern. Sebagai cucu dari pendiri Nahdlatul Ulama (K.H. Hasyim Asy'ari), ia membawa otoritas tradisional pesantren ke dalam diskursus modern mengenai demokrasi, hak asasi manusia, dan pluralisme. Bagi Gus Dur, Islam bukan hanya sekadar ritual formal, melainkan energi moral yang harus membela kaum tertindas dan minoritas.
 
 Gagasan "Pribumisasi Islam" adalah salah satu kontribusi teoretis terpentingnya. Ia berargumen bahwa Islam di Indonesia harus memiliki karakter budaya Nusantara yang khas tanpa kehilangan substansi ajarannya. Gus Dur secara tegas menolak arus "Arabisasi" yang dianggapnya bisa mencerabut akar budaya bangsa. Baginya, Islam adalah rahmat yang bersifat inklusif, sehingga ekspresi keislaman di Indonesia dapat menggunakan "sarung" dan "peci" tanpa harus memaksakan simbol-simbol luar yang asing bagi kedaulatan budaya lokal.

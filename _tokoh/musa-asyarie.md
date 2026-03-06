@@ -4,27 +4,30 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Musa Asy’arie
 lahir: 1951-12-31
-wafat: 
+wafat: ''
 tempat_lahir: Pekajangan, Pekalongan, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Muhammadiyah
 periode: pasca-kemerdekaan
-bidang: [filsafat Islam, etika ekonomi, kewirausahaan]
+bidang:
+  - filsafat Islam
+  - etika ekonomi
+  - kewirausahaan
 pendidikan:
   - Pondok Pesantren Tremas, Pacitan
   - IAIN Sunan Kalijaga, Yogyakarta (Doktor Filsafat, 1991)
   - The University of Chicago (di bawah bimbingan Fazlur Rahman)
-pokok_pikiran: "Revolusi Kebudayaan Tanpa Kekerasan; konsep manusia sebagai pembentuk kebudayaan; filsafat Islam sebagai 'sunnah Nabi dalam berpikir'; etika kewirausahaan (Entrepreneurship) berbasis religiusitas; rasional transendental."
+pokok_pikiran: Revolusi Kebudayaan Tanpa Kekerasan; konsep manusia sebagai pembentuk kebudayaan; filsafat Islam sebagai 'sunnah Nabi dalam berpikir'; etika kewirausahaan (Entrepreneurship) berbasis religiusitas; rasional transendental.
 karya_utama:
-  - judul: "Filsafat Islam: Sunnah Nabi dalam Berpikir"
+  - judul: 'Filsafat Islam: Sunnah Nabi dalam Berpikir'
     tahun: 1999
     jenis: Buku
-  - judul: "Menggagas Revolusi Kebudayaan Tanpa Kekerasan"
+  - judul: Menggagas Revolusi Kebudayaan Tanpa Kekerasan
     tahun: 2002
     jenis: Buku
-  - judul: "Filsafat Ekonomi Islam"
+  - judul: Filsafat Ekonomi Islam
     tahun: 2015
     jenis: Buku
-  - judul: "Konsep Manusia Sebagai Pembentuk Kebudayaan dalam Al-Qur'an"
+  - judul: Konsep Manusia Sebagai Pembentuk Kebudayaan dalam Al-Qur'an
     tahun: 1991
     jenis: Buku (Disertasi)
 sumber:
@@ -33,7 +36,6 @@ sumber:
   - url: https://uin-suka.ac.id/id/profil/65
     label: UIN Sunan Kalijaga - Profil Musa Asy'arie
 ---
-
 Prof. Dr. Musa Asy’arie adalah seorang filsuf dan cendekiawan Muslim yang unik karena mampu memadukan kedalaman teoretis filsafat Islam dengan praktik nyata dunia bisnis. Sebagai mantan Rektor UIN Sunan Kalijaga Yogyakarta, ia bukan hanya seorang pemikir akademis, tetapi juga praktisi kewirausahaan yang sukses. Baginya, filsafat bukan sekadar abstraksi di awang-awang, melainkan alat transformatif untuk mengubah realitas kehidupan masyarakat.
 
 Salah satu pokok pemikiran terpentingnya adalah gagasan "Revolusi Kebudayaan Tanpa Kekerasan". Ia berargumen bahwa perubahan besar dalam masyarakat tidak harus dilakukan melalui pertumpahan darah atau gejolak politik yang destruktif, melainkan melalui perubahan nalar dan mentalitas budaya. Perubahan ini bermula dari pemahaman yang benar tentang hakikat manusia. Dalam disertasinya, Musa menegaskan bahwa manusia dalam Al-Qur'an adalah makhluk yang "mencipta", yang artinya eksistensinya dinilai dari karya nyata dan amal saleh yang memberikan dampak bagi peradaban.

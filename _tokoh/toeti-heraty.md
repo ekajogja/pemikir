@@ -8,23 +8,27 @@ wafat: 2021-06-13
 tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Indonesia, Jurnal Perempuan, Institut Kesenian Jakarta (IKJ)
 periode: pasca-kemerdekaan
-bidang: [filsafat, feminisme, psikologi, sastra]
+bidang:
+  - filsafat
+  - feminisme
+  - psikologi
+  - sastra
 pendidikan:
   - Universitas Indonesia (Psikologi)
   - Rijksuniversiteit Leiden, Belanda (Filsafat, 1974)
   - Universitas Indonesia (Doktor Filsafat, 1979)
-pokok_pikiran: "Feminisme sebagai kesadaran subjek perempuan; kritik terhadap patriarki melalui simbol budaya (Calon Arang); 'Aku dalam Budaya' sebagai proses pembentukan identitas; pemberdayaan perempuan melalui literatur dan aktivisme."
+pokok_pikiran: Feminisme sebagai kesadaran subjek perempuan; kritik terhadap patriarki melalui simbol budaya (Calon Arang); 'Aku dalam Budaya' sebagai proses pembentukan identitas; pemberdayaan perempuan melalui literatur dan aktivisme.
 karya_utama:
-  - judul: "Aku dalam Budaya"
+  - judul: Aku dalam Budaya
     tahun: 1982
     jenis: Buku (Disertasi)
-  - judul: "Calon Arang: Kisah Perempuan Korban Patriarki"
+  - judul: 'Calon Arang: Kisah Perempuan Korban Patriarki'
     tahun: 2000
     jenis: Prosa Lirik
-  - judul: "Sajak-sajak 33"
+  - judul: Sajak-sajak 33
     tahun: 1973
     jenis: Puisi
-  - judul: "Mimpi dan Pretensi"
+  - judul: Mimpi dan Pretensi
     tahun: 1982
     jenis: Puisi
 sumber:
@@ -33,7 +37,6 @@ sumber:
   - url: https://jurnalperempuan.org/penerbitan/toeti-heraty-dan-filsafat-feminisme
     label: Jurnal Perempuan - Profil Toeti Heraty
 ---
-
 Prof. Dr. Toeti Heraty Noerhadi Roosseno adalah tokoh sentral dalam sejarah intelektual perempuan di Indonesia. Sebagai filsuf perempuan pertama di Indonesia yang meraih gelar doktor, ia memecah dominasi maskulin dalam diskursus filsafat nasional. Toeti bukan hanya seorang akademisi yang mendalam, tetapi juga seorang penyair dan aktivis yang menempatkan pengalaman nyata perempuan sebagai pusat dari seluruh pencarian intelektualnya.
 
 Gagasan fundamental Toeti Heraty tertuang dalam disertasinya, *Aku dalam Budaya*. Ia mengeksplorasi posisi subjek manusia di tengah struktur kebudayaan yang seringkali mengungkung. Sebagai seorang feminis, ia melakukan kritik tajam terhadap bagaimana kebudayaan patriarki telah menempatkan perempuan hanya sebagai objek atau instrumen, bukan sebagai subjek yang berdaulat. Melalui karya prosa liriknya, *Calon Arang*, ia melakukan "rehabiltasi" terhadap tokoh mitologi yang selama ini dicap jahat, dengan membacanya kembali sebagai korban penindasan sistem patriarki yang maskulin.

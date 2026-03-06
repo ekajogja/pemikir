@@ -4,27 +4,31 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Armahedi Mahzar
 lahir: 1943
-wafat: 
+wafat: ''
 tempat_lahir: Genteng, Banyuwangi, Jawa Timur
 afiliasi: Institut Teknologi Bandung (ITB), Masjid Salman ITB
 periode: pasca-kemerdekaan
-bidang: [fisika, filsafat Islam, integralisme, sains Islam]
+bidang:
+  - fisika
+  - filsafat Islam
+  - integralisme
+  - sains Islam
 pendidikan:
   - Institut Teknologi Bandung (S1 Fisika, 1972)
   - University of Arizona, AS (Geofisika)
   - Institut Teknologi Bandung (M.Si. Fisika, 1984)
-pokok_pikiran: "Integralisme Islam sebagai solusi dikotomi ilmu; kesatuan realitas (Unity of Reality) antara materi, informasi, dan nilai; rekonstruksi paradigma sains dan teknologi yang berbasis pada tauhid."
+pokok_pikiran: Integralisme Islam sebagai solusi dikotomi ilmu; kesatuan realitas (Unity of Reality) antara materi, informasi, dan nilai; rekonstruksi paradigma sains dan teknologi yang berbasis pada tauhid.
 karya_utama:
-  - judul: "Integralisme: Sebuah Rekonstruksi Filsafat Islam"
+  - judul: 'Integralisme: Sebuah Rekonstruksi Filsafat Islam'
     tahun: 1983
     jenis: Buku
-  - judul: "Revolusi Integralisme Islam"
+  - judul: Revolusi Integralisme Islam
     tahun: 2004
     jenis: Buku
-  - judul: "Islam Masa Depan"
+  - judul: Islam Masa Depan
     tahun: 1993
     jenis: Buku
-  - judul: "Merumuskan Paradigma Sains dan Teknologi Islami"
+  - judul: Merumuskan Paradigma Sains dan Teknologi Islami
     tahun: 2004
     jenis: Buku
 sumber:
@@ -33,7 +37,6 @@ sumber:
   - url: https://ibtimes.id/armahedi-mahzar-penggagas-integralisme-islam/
     label: IB Times - Profil Armahedi Mahzar
 ---
-
 Armahedi Mahzar adalah seorang fisikawan sekaligus filsuf yang memainkan peran pionir dalam upaya mengintegrasikan sains modern dengan teologi Islam di Indonesia. Sebagai salah satu tokoh penting di lingkungan Masjid Salman ITB, ia berupaya menunjukkan bahwa antara nalar saintifik yang eksak dan keimanan Islam yang transendental sebenarnya terdapat jembatan logis yang kokoh. Pemikirannya menjadi inspirasi bagi banyak ilmuwan Muslim yang gelisah terhadap pemisahan antara agama dan ilmu pengetahuan.
 
 Konsep fundamental yang ia perkenalkan adalah "Integralisme Islam". Mahzar berargumen bahwa realitas tidak boleh dilihat secara fragmented atau terpecah-pecah. Ia membangun sebuah peta realitas yang mencakup dimensi materi (fisika), energi, informasi (biologi/sibernetika), nilai (etika/budaya), hingga puncaknya pada Sumber Nilai (Tuhan). Baginya, sains tanpa nilai spiritual akan menjadi destruktif, sementara agama yang menjauhi sains akan menjadi ketinggalan zaman dan tidak operasional dalam memecahkan masalah kemanusiaan.

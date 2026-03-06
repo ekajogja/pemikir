@@ -4,23 +4,26 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Taufik Abdullah
 lahir: 1936-01-03
-wafat: 
+wafat: ''
 tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: LIPI (BRIN), Universitas Gadjah Mada, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: kontemporer
-bidang: [ilmu sejarah, sosiologi sejarah, intelektualitas Islam]
+bidang:
+  - ilmu sejarah
+  - sosiologi sejarah
+  - intelektualitas Islam
 pendidikan:
   - Universitas Gadjah Mada (Sejarah, 1961)
   - Cornell University, AS (M.A. & Ph.D. Sejarah, 1970)
-pokok_pikiran: "Sejarah sebagai dialog antara masa lalu dan masa kini; pendekatan interdisipliner dalam historiografi; sejarah intelektual sebagai pembentuk identitas nasional; dinamika 'Kaum Muda' dalam sejarah sosial Minangkabau."
+pokok_pikiran: Sejarah sebagai dialog antara masa lalu dan masa kini; pendekatan interdisipliner dalam historiografi; sejarah intelektual sebagai pembentuk identitas nasional; dinamika 'Kaum Muda' dalam sejarah sosial Minangkabau.
 karya_utama:
-  - judul: "Schools and Politics: The Kaum Muda Movement in West Sumatra (1927-1933)"
+  - judul: 'Schools and Politics: The Kaum Muda Movement in West Sumatra (1927-1933)'
     tahun: 1971
     jenis: Buku (Disertasi)
-  - judul: "Islam dan Masyarakat: Pantulan Sejarah Indonesia"
+  - judul: 'Islam dan Masyarakat: Pantulan Sejarah Indonesia'
     tahun: 1987
     jenis: Buku
-  - judul: "Indonesia: Towards Democracy"
+  - judul: 'Indonesia: Towards Democracy'
     tahun: 2009
     jenis: Buku
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://lipi.go.id/peneliti/taufik-abdullah/146
     label: LIPI - Profil Taufik Abdullah
 ---
-
 Prof. Dr. Taufik Abdullah adalah salah satu begawan sejarah Indonesia yang berhasil membawa historiografi nasional ke tingkat intelektualitas yang lebih mendalam dan bernuansa sosiologis. Sebagai ilmuwan didikan Cornell University, ia adalah pelopor yang menekankan bahwa sejarah bukan sekadar deretan angka tahun dan nama pahlawan, melainkan sebuah proses dialektika yang kompleks antara ide, struktur sosial, dan kekuasaan. Taufik Abdullah membantu bangsa Indonesia memahami "siapa dirinya" melalui penelusuran sejarah intelektual yang sangat jernih.
 
 Kontribusi utamanya terletak pada kajiannya tentang sejarah sosial Minangkabau dan peran cendekiawan dalam perubahan masyarakat. Disertasinya yang legendaris tentang gerakan "Kaum Muda" membongkar bagaimana institusi pendidikan dan ide-ide keagamaan baru mampu mengguncang struktur kekuasaan mapan dan menjadi embrio bagi nasionalisme Indonesia. Ia percaya bahwa "Sejarah adalah cermin masa depan"; dengan memahami kegagalan dan keberhasilan para perintis bangsa di masa lalu, kita dapat menavigasi arah demokrasi Indonesia di masa kini dengan lebih bijaksana.

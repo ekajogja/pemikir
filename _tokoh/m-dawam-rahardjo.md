@@ -8,18 +8,22 @@ wafat: 2018-05-30
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: LP3ES, Jurnal Prisma, ICMI, Universitas Muhammadiyah Malang
 periode: pasca-kemerdekaan
-bidang: [ekonomi Islam, filsafat sosial, pluralisme, jurnalisme intelektual]
+bidang:
+  - ekonomi Islam
+  - filsafat sosial
+  - pluralisme
+  - jurnalisme intelektual
 pendidikan:
   - Universitas Gadjah Mada (Ekonomi, 1969)
-pokok_pikiran: "Ekonomi sebagai jihad kemanusiaan; Islam dan pluralisme (pembelaan terhadap minoritas); transformasi sosial melalui pemikiran Al-Qur'an; integrasi intelektual Muslim dalam pembangunan nasional."
+pokok_pikiran: Ekonomi sebagai jihad kemanusiaan; Islam dan pluralisme (pembelaan terhadap minoritas); transformasi sosial melalui pemikiran Al-Qur'an; integrasi intelektual Muslim dalam pembangunan nasional.
 karya_utama:
-  - judul: "Ensiklopedia Al-Qur'an: Tafsir Sosial Berdasarkan Tema-tema Pokok"
+  - judul: 'Ensiklopedia Al-Qur''an: Tafsir Sosial Berdasarkan Tema-tema Pokok'
     tahun: 1996
     jenis: Buku/Referensi
-  - judul: "Etika Ekonomi Islam"
+  - judul: Etika Ekonomi Islam
     tahun: 1990
     jenis: Buku
-  - judul: "Intelektual, Inteligensia dan Perilaku Politik Bangsa"
+  - judul: Intelektual, Inteligensia dan Perilaku Politik Bangsa
     tahun: 1993
     jenis: Buku
 sumber:
@@ -28,7 +32,6 @@ sumber:
   - url: https://www.nu.or.id/obituari/dawam-rahardjo-intelektual-pluralis-pembela-kaum-lemah-cs7m
     label: NU Online - Obituari Dawam Rahardjo
 ---
-
 Prof. Dr. M. Dawam Rahardjo adalah seorang intelektual Muslim yang memiliki cakrawala pemikiran sangat luas, melampaui latar belakang pendidikan ekonominya. Sebagai salah satu pendiri LP3ES dan pimpinan jurnal *Prisma*, ia berperan sentral dalam membangun diskursus ilmu sosial yang kritis dan relevan di Indonesia. Dawam adalah sosok "begawan" yang dikenal karena keberaniannya merangkul isu-isu yang dianggap kontroversial, terutama dalam hal pembelaan terhadap kelompok minoritas dan kebebasan beragama.
 
 Pokok pemikiran Dawam Rahardjo berpusat pada integrasi antara nilai-nilai Islam dengan keadilan sosial-ekonomi. Dalam karyanya yang monumental, *Ensiklopedia Al-Qur'an*, ia melakukan pendekatan sosiologis yang segar terhadap teks suci, menjadikannya alat analisis untuk membedah masalah-masalah kemanusiaan modern seperti kemiskinan, kekuasaan, dan gender. Baginya, iman harus mewujud dalam "amal saleh" sosial yang nyata, bukan sekadar urusan ritual yang sempit. Ia adalah pengusung apa yang ia sebut sebagai "Ekonomi Islam" yang berorientasi pada pemberdayaan kaum lemahy (*mustad'afin*).

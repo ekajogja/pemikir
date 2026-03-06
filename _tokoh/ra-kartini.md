@@ -8,16 +8,19 @@ wafat: 1904-09-17
 tempat_lahir: Jepara, Jawa Tengah
 afiliasi: Pelopor Emansipasi, Sekolah Kartini
 periode: pra-kemerdekaan (Kolonial)
-bidang: [pendidikan, feminisme, kebudayaan]
+bidang:
+  - pendidikan
+  - feminisme
+  - kebudayaan
 pendidikan:
   - Europese Lagere School (ELS), Jepara
-pokok_pikiran: "Emansipasi wanita melalui pendidikan; kritik terhadap feodalisme dan patriarki; pentingnya kesetaraan hak bagi kaum bumiputera; nasionalisme berbasis kemanusiaan universal."
+pokok_pikiran: Emansipasi wanita melalui pendidikan; kritik terhadap feodalisme dan patriarki; pentingnya kesetaraan hak bagi kaum bumiputera; nasionalisme berbasis kemanusiaan universal.
 karya_utama:
-  - judul: "Door Duisternis tot Licht" (Habis Gelap Terbitlah Terang)
+  - judul: '"Door Duisternis tot Licht" (Habis Gelap Terbitlah Terang)'
     tahun: 1911
     jenis: Kumpulan Surat
-  - judul: "Gedachten van Kartini" (Pikiran-pikiran Kartini)
-    tahun: -
+  - judul: '"Gedachten van Kartini" (Pikiran-pikiran Kartini)'
+    tahun: ''
     jenis: Esai/Memoar
 sumber:
   - url: https://id.wikipedia.org/wiki/Kartini
@@ -25,7 +28,6 @@ sumber:
   - url: https://tirto.id/kartini-dan-surat-suratnya-yang-mengubah-indonesia-gp6N
     label: Tirto - Sosok Kartini
 ---
-
 Raden Ajeng Kartini adalah cahaya pertama bagi gerakan emansipasi perempuan di Indonesia yang pemikirannya melampaui tembok pingitan feodalitas Jawa pada masanya. Meskipun hidup dalam batasan tradisi yang ketat, Kartini memiliki nalar yang sangat merdeka berkat kegemarannya membaca buku dan berkorespondensi dengan teman-temannya di Eropa. Ia bukan sekadar pejuang hak memakai kebaya atau sekolah menjahit, melainkan seorang filsuf sosial yang menggugat akar ketidakadilan gender dan kolonialisme secara sangat intelektual.
 
 Inti dari pemikirannya tersimpan dalam surat-suratnya yang kemudian dibukukan menjadi *Habis Gelap Terbitlah Terang*. Kartini mempertanyakan mengapa perempuan tidak diberi hak untuk belajar dan menentukan nasibnya sendiri. Ia berargumen bahwa kemajuan sebuah bangsa sangat bergantung pada kecerdasan kaum perempuannya, karena ibu adalah pendidik pertama bagi generasi mendatang. Baginya, emansipasi bukanlah upaya untuk menjadi laki-laki, melainkan upaya agar perempuan diakui martabatnya sebagai subjek manusia yang utuh dan berdaya.

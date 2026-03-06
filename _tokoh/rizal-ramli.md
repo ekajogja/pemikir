@@ -8,23 +8,25 @@ wafat: 2024-01-02
 tempat_lahir: Padang, Sumatera Barat
 afiliasi: ECONIT Advisory Group, Menko Ekuin, Menteri Keuangan, Menko Kemaritiman
 periode: kontemporer
-bidang: [ekonomi makro, politik ekonomi, aktivisme]
+bidang:
+  - ekonomi makro
+  - politik ekonomi
+  - aktivisme
 pendidikan:
   - Institut Teknologi Bandung (Teknik Fisika)
   - Boston University (Ph.D Ekonomi)
-pokok_pikiran: "Ekonomi Konstitusi; kritik terhadap 'utang untuk membayar bunga utang'; kedaulatan energi; perlunya terobosan ekonomi yang tidak konvensional (thinking out of the box)."
+pokok_pikiran: Ekonomi Konstitusi; kritik terhadap 'utang untuk membayar bunga utang'; kedaulatan energi; perlunya terobosan ekonomi yang tidak konvensional (thinking out of the box).
 karya_utama:
-  - judul: "Membedah Krisis Ekonomi"
-    tahun: -
+  - judul: Membedah Krisis Ekonomi
+    tahun: ''
     jenis: Buku
-  - judul: "Analisis ECONIT tentang Ekonomi Indonesia"
-    tahun: -
+  - judul: Analisis ECONIT tentang Ekonomi Indonesia
+    tahun: ''
     jenis: Kumpulan Analisis
 sumber:
   - url: https://id.wikipedia.org/wiki/Rizal_Ramli
     label: Wikipedia - Rizal Ramli
 ---
-
 Dr. Rizal Ramli adalah salah satu "pendebat" ekonomi paling ulung yang pernah dimiliki Indonesia. Merupakan putra Minang dengan kecerdasan yang diasah di ITB dan Boston University, ia dikenal sebagai tokoh yang memadukan keahlian teknis ekonomi dengan semangat aktivisme yang membara. Rizal adalah sosok yang sangat percaya pada kekuatan pemikiran orisinal untuk memecahkan masalah-masalah ekonomi nasional yang pelik, tanpa harus selalu tunduk pada pakem-pakem yang ditetapkan oleh institusi keuangan internasional.
 
 Gagasan besarnya sering dirangkum dalam konsep "Ekonomi Konstitusi", yang menuntut agar seluruh kebijakan ekonomi harus berujung pada kesejahteraan rakyat sesuai amanat UUD 1945. Ia adalah pengkritik paling gigih terhadap ketergantungan Indonesia pada utang luar negeri, yang ia sebut sebagai "lingkaran setan gali lubang tutup lubang". Sebagai birokrat, ia dikenal dengan gaya "kepret"-nya—yaitu tindakan tegas membongkar ketidakefisienan dan kepentingan-kepentingan yang menghambat kemajuan bangsa, baik saat ia menjabat sebagai Kepala Bulog, menteri keuangan, maupun menteri koordinator.

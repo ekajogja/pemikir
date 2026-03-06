@@ -4,25 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Fahruddin Faiz
 lahir: 1975-08-16
-wafat: 
+wafat: ''
 tempat_lahir: Mojokerto, Jawa Timur
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Masjid Jenderal Sudirman Yogyakarta
 periode: kontemporer
-bidang: [filsafat Islam, hermeneutika, etika, filsafat populer]
+bidang:
+  - filsafat Islam
+  - hermeneutika
+  - etika
+  - filsafat populer
 pendidikan:
   - UIN Sunan Kalijaga Yogyakarta (S1, S2, Doktor Filsafat Islam)
-pokok_pikiran: "Ngaji Filsafat sebagai sarana 'menjernihkan pikiran dan menenangkan hati'; filsafat bukan untuk berdebat tetapi untuk memahami diri dan Tuhan; integrasi etika Islam dengan kearifan filsafat dunia (Barat, Timur, Klasik)."
+pokok_pikiran: Ngaji Filsafat sebagai sarana 'menjernihkan pikiran dan menenangkan hati'; filsafat bukan untuk berdebat tetapi untuk memahami diri dan Tuhan; integrasi etika Islam dengan kearifan filsafat dunia (Barat, Timur, Klasik).
 karya_utama:
-  - judul: "Menjadi Manusia Menjadi Hamba"
+  - judul: Menjadi Manusia Menjadi Hamba
     tahun: 2020
     jenis: Buku
-  - judul: "Filsafat Kebahagiaan"
+  - judul: Filsafat Kebahagiaan
     tahun: 2018
     jenis: Buku
-  - judul: "Ihwal Sesat Pikir dan Cacat Logika"
+  - judul: Ihwal Sesat Pikir dan Cacat Logika
     tahun: 2020
     jenis: Buku
-  - judul: "Filosofi Cinta Kahlil Gibran"
+  - judul: Filosofi Cinta Kahlil Gibran
     tahun: 2012
     jenis: Buku
 sumber:
@@ -31,7 +35,6 @@ sumber:
   - url: https://uin-suka.ac.id/id/akademik/dosen/197508162002121002-fahruddin-faiz
     label: Profil Dosen UIN Sunan Kalijaga - Fahruddin Faiz
 ---
-
 Dr. Fahruddin Faiz adalah seorang filsuf dan akademisi yang berhasil mendobrak tembok eksklusivitas filsafat di Indonesia. Melalui program rutin "Ngaji Filsafat" di Masjid Jenderal Sudirman Yogyakarta, ia mengubah disiplin ilmu yang selama ini dianggap rumit, berat, dan "berbahaya" bagi iman menjadi konsumsi publik yang menyejukkan. Dengan gaya penyampaian yang tenang, santun, dan sangat membumi, ia mampu menarik ribuan anak muda untuk kembali belajar berpikir secara sistematis dan bijaksana.
 
 Gagasan sentral Fahruddin Faiz adalah bahwa filsafat harus berfungsi sebagai sarana "muhasabah" (introspeksi) dan jalan menuju ketenangan hati. Ia menekankan bahwa berfilsafat sebenarnya adalah perintah agama, karena Islam sangat menghargai penggunaan akal untuk memahami tanda-tanda kebesaran Tuhan. Baginya, filsafat bukan tentang memenangkan perdebatan intelektual, melainkan tentang menjernihkan pikiran agar seseorang bisa menjadi manusia yang lebih baik dan hamba yang lebih tulus.

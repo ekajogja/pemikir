@@ -8,19 +8,23 @@ wafat: 1989-12-21
 tempat_lahir: Sawahlunto, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PBB, Universitas PBB (UNU)
 periode: pasca-kemerdekaan
-bidang: [filsafat pembangunan, sejarah, sosiologi, diplomasi]
+bidang:
+  - filsafat pembangunan
+  - sejarah
+  - sosiologi
+  - diplomasi
 pendidikan:
   - Sekolah Tinggi Kedokteran (Ika Daigaku), Jakarta (Tidak Selesai)
   - Harvard University, AS
-pokok_pikiran: "Pembangunan sebagai proses pembebasan manusia; visi 'Indonesiasentris' dalam sejarah; peran intelektual sebagai penjaga nilai di tengah kekuasaan; hubungan antara kebudayaan, agama, dan demokrasi."
+pokok_pikiran: Pembangunan sebagai proses pembebasan manusia; visi 'Indonesiasentris' dalam sejarah; peran intelektual sebagai penjaga nilai di tengah kekuasaan; hubungan antara kebudayaan, agama, dan demokrasi.
 karya_utama:
-  - judul: "Etika Pembebasan"
+  - judul: Etika Pembebasan
     tahun: 1984
     jenis: Buku
-  - judul: "An Introduction to Indonesian Historiography" (Editor)
+  - judul: '"An Introduction to Indonesian Historiography" (Editor)'
     tahun: 1964
     jenis: Buku Sejarah
-  - judul: "Dimensi Manusia dalam Pembangunan"
+  - judul: Dimensi Manusia dalam Pembangunan
     tahun: 1983
     jenis: Kumpulan Esai
 sumber:
@@ -29,7 +33,6 @@ sumber:
   - url: https://membacasoedjatmoko.com/
     label: Membaca Soedjatmoko - Arsip Digital
 ---
-
 Soedjatmoko, yang akrab disapa Bung Koko, adalah salah satu pemikir Indonesia paling cemerlang yang diakui di panggung intelektual dunia. Sebagai sosok yang multidimensional—diplomat, sejarawan, sekaligus filsuf pembangunan—ia memiliki kemampuan langka untuk membedah problem lokal Indonesia dengan lensa global yang canggih. Meski tidak memiliki gelar akademik formal karena gejolak perang, ia pernah menjabat sebagai Rektor Universitas Perserikatan Bangsa-Bangsa (UNU) di Tokyo, sebuah pengakuan atas kapasitas intelektualnya yang melampaui sekat institusional.
 
 Inti dari pemikiran Soedjatmoko adalah konsep "Pembangunan yang Memanusiakan". Ia adalah kritikus vokal terhadap pola pembangunan yang hanya mengejar pertumbuhan angka statistik materiil namun mengabaikan dimensi spiritual dan kedaulatan manusia. Dalam karyanya, *Etika Pembebasan*, ia menekankan bahwa tujuan akhir dari bernegara dan membangun ekonomi adalah memerdekakan rakyat dari kebodohan, rasa takut, dan kemiskinan. Baginya, pembangunan yang sejati harus memberikan ruang bagi ekspresi kebudayaan dan kebebasan berpikir.

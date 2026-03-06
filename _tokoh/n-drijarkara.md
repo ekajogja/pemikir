@@ -8,21 +8,24 @@ wafat: 1967-02-11
 tempat_lahir: Kedunggubah, Purworejo, Jawa Tengah
 afiliasi: Serikat Yesus (Jesuit), STF Driyarkara (Pendiri), Sanata Dharma
 periode: pasca-kemerdekaan
-bidang: [filsafat manusia (antropologi metafisik), pendidikan, etika]
+bidang:
+  - filsafat manusia (antropologi metafisik)
+  - pendidikan
+  - etika
 pendidikan:
   - Universitas Gregoriana, Roma (Doktor Filsafat, 1952)
-pokok_pikiran: "Hominisasi dan Humanisasi (Memanusiakan manusia); Cinta Kasih sebagai penggerak eksistensi; pendidikan sebagai pembebasan potensi kemanusiaan; keselarasan antara iman katolik dan nasionalisme Pancasila."
+pokok_pikiran: Hominisasi dan Humanisasi (Memanusiakan manusia); Cinta Kasih sebagai penggerak eksistensi; pendidikan sebagai pembebasan potensi kemanusiaan; keselarasan antara iman katolik dan nasionalisme Pancasila.
 karya_utama:
-  - judul: "Filsafat Manusia"
+  - judul: Filsafat Manusia
     tahun: 1969
     jenis: Buku (Kumpulan Tulisan)
-  - judul: "Kemanusiaan yang Adil dan Beradab"
+  - judul: Kemanusiaan yang Adil dan Beradab
     tahun: 1960
     jenis: Buku/Esai
-  - judul: "Percikan Filsafat"
+  - judul: Percikan Filsafat
     tahun: 1966
     jenis: Buku
-  - judul: "Karya Tulis Drijarkara" (Koleksi lengkap)
+  - judul: '"Karya Tulis Drijarkara" (Koleksi lengkap)'
     tahun: 2006
     jenis: Buku
 sumber:
@@ -31,7 +34,6 @@ sumber:
   - url: https://driyarkara.ac.id/profil-sejarah/nicolaus-driyarkara-sj/
     label: STF Driyarkara - Profil Nicolaus Driyarkara
 ---
-
 Nicolaus Drijarkara, S.J., adalah "Bapak Filsafat Indonesia" modern yang telah meletakkan landasan ontologis bagi kemanusiaan dan pendidikan nasional. Sebagai seorang intelektual Jesuit, ia adalah orang Indonesia pertama yang secara sistematis mengajarkan filsafat Barat di tingkat universitas setelah meraih gelar doktor dari Roma. Drijarkara hidup di masa krusial pembentukan jati diri bangsa, dan ia menggunakan filsafat bukan untuk berabstraksi, melainkan untuk membangun dasar kemanusiaan bagi republik yang masih muda.
 
 Gagasan sentral yang menjadi warisan abadi Drijarkara adalah konsep "Hominisasi" dan "Humanisasi". Baginya, menjadi manusia bukanlah sebuah fakta yang statis sejak lahir, melainkan sebuah proses perjuangan yang tiada henti. Hominisasi adalah proses teknis-biologis menjadi spesies manusia, namun Humanisasi adalah proses moral-spiritual untuk menjadi "manusia yang beradab". Dalam pandangannya, pendidikan bukan sekadar transfer ilmu, melainkan upaya "memanusiakan manusia muda" agar mereka mampu mencintai kebenaran, keadilan, dan sesama.

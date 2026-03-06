@@ -8,19 +8,23 @@ wafat: 2011-04-14
 tempat_lahir: Kubu Gadang, Sumatera Barat
 afiliasi: Harian Pedoman, PWI, Perfini
 periode: pasca-kemerdekaan
-bidang: [jurnalisme, sejarah, sastra, kritik film]
+bidang:
+  - jurnalisme
+  - sejarah
+  - sastra
+  - kritik film
 pendidikan:
   - AMS-A Yogyakarta (Klasik Barat)
   - Yale University (School of Journalism)
-pokok_pikiran: "Jurnalisme sebagai pencatat sejarah sekaligus pengkritik kekuasaan; kejujuran intelektual wartawan; 'Menulis apa yang terjadi, bukan apa yang diinginkan penguasa'; pentingnya memori kolektif bangsa dalam bentuk catatan harian sejarah."
+pokok_pikiran: Jurnalisme sebagai pencatat sejarah sekaligus pengkritik kekuasaan; kejujuran intelektual wartawan; 'Menulis apa yang terjadi, bukan apa yang diinginkan penguasa'; pentingnya memori kolektif bangsa dalam bentuk catatan harian sejarah.
 karya_utama:
-  - judul: "Sejarah Kecil (Petite Histoire) Indonesia" (Multi-volume)
+  - judul: '"Sejarah Kecil (Petite Histoire) Indonesia" (Multi-volume)'
     tahun: 2004-2012
     jenis: Buku (Sejarah)
-  - judul: "Menulis Dalam Air" (Autobiografi)
+  - judul: '"Menulis Dalam Air" (Autobiografi)'
     tahun: 1983
     jenis: Buku
-  - judul: "Harian Pedoman" (Redaktur Pelaksana)
+  - judul: '"Harian Pedoman" (Redaktur Pelaksana)'
     tahun: 1948-1974
     jenis: Media Massa
 sumber:
@@ -29,7 +33,6 @@ sumber:
   - url: https://tirto.id/rosihan-anwar-wartawan-lima-zaman-yang-tak-pernah-pensiun-gp6N
     label: Tirto - Wartawan Lima Zaman
 ---
-
 H. Rosihan Anwar adalah begawan jurnalisme Indonesia yang dijuluki sebagai "Wartawan Lima Zaman". Kariernya yang membentang sejak masa penjajahan Belanda, pendudukan Jepang, era Soekarno, Soeharto, hingga masa Reformasi, menjadikannya sebagai saksi mata sekaligus pencatat sejarah paling tekun yang pernah dimiliki bangsa ini. Rosihan bukan sekadar pelapor berita; ia adalah seorang intelektual publik yang menggunakan pena sebagai senjata untuk menjaga akal sehat bangsa dari distorsi kekuasaan.
 
 Kontribusi intelektual terbesarnya adalah dalam genre *Petite Histoire* atau "Sejarah Kecil". Ia percaya bahwa sejarah suatu bangsa tidak hanya dibentuk oleh keputusan-keputusan besar di istana, melainkan juga oleh detail-detail kemanusiaan, anekdot, dan peristiwa kecil yang sering kali diabaikan oleh sejarawan formal. Melalui ribuan kolomnya, ia merajut memori kolektif Indonesia dengan gaya bahasa yang segar, kritis, dan penuh humor satir. Baginya, jurnalisme adalah "literatur dalam ketergesaan" yang harus tetap berpijak pada kejujuran fakta yang tak tergoyahkan.

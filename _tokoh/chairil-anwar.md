@@ -8,18 +8,20 @@ wafat: 1949-04-28
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: Pelopor Angkatan '45, Redaktur "Gelanggang"
 periode: pra-kemerdekaan / transisi
-bidang: [puisi, sastra modern]
+bidang:
+  - puisi
+  - sastra modern
 pendidikan:
   - MULO (Tidak tamat)
-pokok_pikiran: "Individualisme yang merdeka (Vitalisme); revolusi bahasa puisi dari kata-kata klise; 'Si Binatang Jalang' sebagai simbol pemberontakan eksistensial; vitalitas hidup di tengah bayang-bayang kematian."
+pokok_pikiran: Individualisme yang merdeka (Vitalisme); revolusi bahasa puisi dari kata-kata klise; 'Si Binatang Jalang' sebagai simbol pemberontakan eksistensial; vitalitas hidup di tengah bayang-bayang kematian.
 karya_utama:
-  - judul: "Deru Campur Debu"
+  - judul: Deru Campur Debu
     tahun: 1949
     jenis: Kumpulan Puisi
-  - judul: "Kerikil Tajam dan yang Terampas dan yang Putus"
+  - judul: Kerikil Tajam dan yang Terampas dan yang Putus
     tahun: 1949
     jenis: Kumpulan Puisi
-  - judul: "Aku" (Sajak legendaris)
+  - judul: '"Aku" (Sajak legendaris)'
     tahun: 1943
     jenis: Puisi
 sumber:
@@ -28,7 +30,6 @@ sumber:
   - url: https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Chairil_Anwar
     label: Ensiklopedia Sastra - Profil Chairil
 ---
-
 Chairil Anwar adalah "meteorit" dalam cakrawala kesusastraan Indonesia yang kehadirannya secara radikal mengubah arah puisi nusantara selamanya. Dalam usianya yang sangat singkat, 27 tahun, ia berhasil meruntuhkan dominasi gaya bahasa Pujangga Baru yang mendayu-dayu dan menggantinya dengan diksi yang tajam, jujur, dan penuh vitalitas. Chairil bukan sekadar pembuat sajak, ia adalah manifestasi dari semangat zaman revolusi—seorang individu yang memproklamirkan kemerdekaan jiwanya bahkan sebelum negara ini resmi berdaulat.
 
 Pokok pemikirannya berpusat pada pemuliaan terhadap eksistensi individu yang bebas dan liar, yang ia rangkum dalam metafora "Si Binatang Jalang". Melalui puisi-puisinya, ia mengajarkan bahwa hidup harus dijalani dengan penuh keberanian (*vitalisme*) meskipun maut terus mengintai. Ia menanggalkan eufemisme dan kesantunan palsu dalam berbahasa, menggunakan kata-kata yang "kasar" namun bertenaga untuk mengungkapkan gejolak asmara, kesepian, hingga nasionalisme yang membara. Bagi Chairil, "Sekali berarti, sudah itu mati" adalah filosofi hidup yang ia pegang sampai napas terakhir.

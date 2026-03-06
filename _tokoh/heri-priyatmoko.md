@@ -4,27 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Heri Priyatmoko
 lahir: 1985-01-01
-wafat: 
+wafat: ''
 tempat_lahir: Solo (Surakarta), Jawa Tengah
 afiliasi: Universitas Sanata Dharma, Solo Societeit
 periode: kontemporer
-bidang: [sejarah publik, sejarah kuliner, sejarah lokal Solo]
+bidang:
+  - sejarah publik
+  - sejarah kuliner
+  - sejarah lokal Solo
 pendidikan:
   - Universitas Sanata Dharma (Pendidikan Sejarah)
   - Universitas Gadjah Mada (Magister Sejarah)
-pokok_pikiran: "Sejarah sebagai milik publik (Public History); pelestarian ingatan kota melalui narasi populer; sejarah kuliner sebagai identitas budaya lokal; pentingnya napak tilas sejarah berbasis riset arsip."
+pokok_pikiran: Sejarah sebagai milik publik (Public History); pelestarian ingatan kota melalui narasi populer; sejarah kuliner sebagai identitas budaya lokal; pentingnya napak tilas sejarah berbasis riset arsip.
 karya_utama:
-  - judul: "Sejarah Solo: Dari Desa ke Kota"
-    tahun: -
+  - judul: 'Sejarah Solo: Dari Desa ke Kota'
+    tahun: ''
     jenis: Buku
-  - judul: "Sejarah Kuliner Tradisional Jawa"
-    tahun: -
+  - judul: Sejarah Kuliner Tradisional Jawa
+    tahun: ''
     jenis: Riset/Tulisan
 sumber:
   - url: https://tirto.id/author/heri-priyatmoko
     label: Tirto - Penulis Heri Priyatmoko
 ---
-
 Heri Priyatmoko adalah representasi dari generasi baru sejarawan Indonesia yang berhasil membumikan ilmu sejarah ke tengah-tengah ruang publik dengan cara yang sangat menarik. Sebagai putra asli Solo, ia mentransformasikan sejarah yang sering dianggap membosankan di bangku sekolah menjadi petualangan naratif yang hidup melalui komunitas *Solo Societeit* yang ia dirikan. Heri adalah seorang "pendongeng kota" yang memiliki ketepatan riset akademik seorang sejarawan profesional, namun dengan gaya penyampaian yang inklusif untuk masyarakat awam.
 
 Pemikiran utamanya berfokus pada pentingnya "Sejarah Publik" (*Public History*). Baginya, sejarah tidak boleh hanya terkunci di perpustakaan universitas atau disimpan dalam bentuk jargon-jargon rumit; sejarah harus ada di jalanan, di pasar, dan di dapur masyarakat. Ia sangat vokal dalam mengangkat sejarah kuliner sebagai bagian integral dari pembentukan identitas bangsa. Dengan menelusuri asal-usul masakan tradisional, Heri berhasil menjelaskan bagaimana sejarah migrasi, diplomasi, dan pertukaran budaya terekam secara nyata dalam apa yang kita makan sehari-hari.

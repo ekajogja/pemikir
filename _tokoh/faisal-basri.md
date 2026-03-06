@@ -8,23 +8,25 @@ wafat: 2024-09-05
 tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Universitas Indonesia (FEUI), INDEF, Tim Reformasi Tata Kelola Migas
 periode: kontemporer
-bidang: [ekonomi pembangunan, politik ekonomi, antikorupsi]
+bidang:
+  - ekonomi pembangunan
+  - politik ekonomi
+  - antikorupsi
 pendidikan:
   - Universitas Indonesia (Ekonomi)
   - Vanderbilt University, AS (M.A. Ekonomi)
-pokok_pikiran: "Ekonomi inklusif; pemberantasan korupsi sistemik dan mafia anggaran; hilirisasi yang berkeadilan; pentingnya integritas data; penguatan masyarakat sipil dalam kontrol kebijakan ekonomi."
+pokok_pikiran: Ekonomi inklusif; pemberantasan korupsi sistemik dan mafia anggaran; hilirisasi yang berkeadilan; pentingnya integritas data; penguatan masyarakat sipil dalam kontrol kebijakan ekonomi.
 karya_utama:
-  - judul: "Perekonomian Indonesia"
+  - judul: Perekonomian Indonesia
     tahun: 2002
     jenis: Buku Teks
-  - judul: "Lanskap Ekonomi Indonesia"
+  - judul: Lanskap Ekonomi Indonesia
     tahun: 2010
     jenis: Buku
 sumber:
   - url: https://id.wikipedia.org/wiki/Faisal_Basri
     label: Wikipedia - Faisal Basri
 ---
-
 Faisal Basri adalah simbol integritas ekonomi Indonesia modern. Sebagai intelektual publik yang melintasi batas kampus dan panggung politik, ia dikenal karena dedikasinya yang tak tergoyahkan dalam melawan korupsi dan praktik mafia dalam kebijakan ekonomi negara. Faisal bukan sekadar akademisi yang berkutat pada kurva dan angka, melainkan seorang "moralis ekonomi" yang meyakini bahwa kemajuan sebuah bangsa sangat ditentukan oleh kebersihan birokrasinya dan kejujuran para pengambil keputusannya.
 
 Pokok pemikirannya sering berfokus pada ketimpangan struktural dan bahaya "mafianomics"—istilah untuk menggambarkan kolusi antara elit politik dan pengusaha besar yang menghisap sumber daya rakyat. Salah satu kontribusi sosiopolitiknya yang paling dikenang adalah kepemimpinannya dalam Tim Reformasi Tata Kelola Migas, di mana ia secara berani mengidentifikasi dan mencoba membongkar struktur mafia migas yang telah lama berurat akar. Bagi Faisal, kebijakan ekonomi yang baik adalah kebijakan yang mampu memberikan kesempatan yang sama (level playing field) bagi seluruh warga negara, bukan hanya bagi mereka yang dekat dengan kekuasaan.

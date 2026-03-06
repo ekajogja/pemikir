@@ -4,23 +4,27 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Komaruddin Hidayat
 lahir: 1953-10-18
-wafat: 
+wafat: ''
 tempat_lahir: Magelang, Jawa Tengah
 afiliasi: UIN Syarif Hidayatullah, UIII, Paramadina
 periode: kontemporer
-bidang: [filsafat agama, hermeneutika, psikologi kematian, pendidikan]
+bidang:
+  - filsafat agama
+  - hermeneutika
+  - psikologi kematian
+  - pendidikan
 pendidikan:
   - IAIN Syarif Hidayatullah Jakarta
   - Middle East Technical University, Turki (Ph.D Filsafat)
-pokok_pikiran: "Psikologi Kematian (Memahami hidup melalui kesadaran akan maut); Hermeneutika Al-Qur'an; Islam yang inklusif dan progresif; pendidikan sebagai sarana pencerahan ruhani dan intelektual."
+pokok_pikiran: Psikologi Kematian (Memahami hidup melalui kesadaran akan maut); Hermeneutika Al-Qur'an; Islam yang inklusif dan progresif; pendidikan sebagai sarana pencerahan ruhani dan intelektual.
 karya_utama:
-  - judul: "Memahami Bahasa Agama: Sebuah Kajian Hermeneutik"
+  - judul: 'Memahami Bahasa Agama: Sebuah Kajian Hermeneutik'
     tahun: 1996
     jenis: Buku (Filsafat)
-  - judul: "Psikologi Kematian: Mengubah Ketakutan Menjadi Optimisme"
+  - judul: 'Psikologi Kematian: Mengubah Ketakutan Menjadi Optimisme'
     tahun: 2005
     jenis: Buku (Spiritualitas)
-  - judul: "Ungkapan-ungkapan Filosofis Al-Qur'an"
+  - judul: Ungkapan-ungkapan Filosofis Al-Qur'an
     tahun: 2003
     jenis: Buku
 sumber:
@@ -29,7 +33,6 @@ sumber:
   - url: https://www.uinsuka.ac.id/id/berita/detail/3238/rekaman-pemikiran-prof-dr-komaruddin-hidayat
     label: UIN Suka - Rekaman Pemikiran
 ---
-
 Prof. Dr. Komaruddin Hidayat adalah seorang cendekiawan Muslim dan filsuf agama kontemporer yang dikenal karena kemampuannya menyajikan kedalaman filosofis melalui bahasa yang populer dan menyentuh hati. Sebagai mantan Rektor UIN Syarif Hidayatullah Jakarta, ia adalah salah satu pilar pengembang tradisi intelektual Islam yang moderat, rasional, namun tetap sangat spiritual. Komaruddin berhasil membawa diskursus filsafat yang berat ke tengah-tengah ruang publik Indonesia, menjadikannya oase bagi mereka yang mencari makna hidup di tengah modernitas yang bising.
 
 Kontribusi intelektualnya yang paling unik dan mendalam adalah dalam bidang "Psikologi Kematian". Berbeda dengan pendekatan pada umumnya yang melihat kematian sebagai hal yang menakutkan, Komaruddin justru mengajak umat untuk merayakan kehidupan melalui kesadaran akan maut. Baginya, maut adalah pengingat paling jujur agar manusia tidak terjebak dalam kesombongan dan kefanaan dunia. Melalui bukunya yang populer, ia menawarkan perspektif bahwa memahami kematian adalah kunci untuk mencapai optimisme hidup yang sejati dan tanggung jawab moral yang tinggi.

@@ -8,24 +8,28 @@ wafat: 1999-02-10
 tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: Gereja Katolik, STF Driyarkara, Dinamika Edukasi Dasar
 periode: pasca-kemerdekaan
-bidang: [arsitektur, sastra, teologi pembebasan, pendidikan]
+bidang:
+  - arsitektur
+  - sastra
+  - teologi pembebasan
+  - pendidikan
 pendidikan:
   - Seminari Tinggi St. Paulus, Yogyakarta
   - Institut Teknologi Bandung (Arsitektur)
   - Rheinisch-Westfälische Technische Hochschule Aachen, Jerman (Dipl.-Ing. Arsitektur)
-pokok_pikiran: "Teologi pembebasan dalam konteks Indonesia (Keberpihakan pada wong cilik); arsitektur sebagai ruang manusiawi dan religius; pendidikan eksploratif; kritik terhadap pembangunan yang mengorbankan rakyat."
+pokok_pikiran: Teologi pembebasan dalam konteks Indonesia (Keberpihakan pada wong cilik); arsitektur sebagai ruang manusiawi dan religius; pendidikan eksploratif; kritik terhadap pembangunan yang mengorbankan rakyat.
 karya_utama:
-  - judul: "Burung-Burung Manyar"
+  - judul: Burung-Burung Manyar
     tahun: 1981
     jenis: Novel
-  - judul: "Wastu Citra"
+  - judul: Wastu Citra
     tahun: 1988
     jenis: Buku Arsitektur
-  - judul: "Sastra dan Religiositas"
+  - judul: Sastra dan Religiositas
     tahun: 1982
     jenis: Esai
-  - judul: "Gerakan Pendidikan Eksploratif"
-    tahun: -
+  - judul: Gerakan Pendidikan Eksploratif
+    tahun: ''
     jenis: Pendidikan
 sumber:
   - url: https://id.wikipedia.org/wiki/Y.B._Mangunwijaya
@@ -33,7 +37,6 @@ sumber:
   - url: https://mangunwijaya.id/
     label: Yayasan Mangunwijaya
 ---
-
 Yusuf Bilyarta Mangunwijaya, yang lebih dicintai dengan panggilan Romo Mangun, adalah seorang intelektual-rahib yang mewujudkan pemikirannya melalui aksi nyata di garis massa. Sebagai perpaduan unik antara pastor, arsitek, dan sastrawan, ia tidak hanya bicara tentang kemanusiaan di atas mimbar atau meja tulis, tetapi ia memilih untuk hidup di tengah lumpur kemiskinan pinggir kali Code, Yogyakarta. Romo Mangun adalah simbol dari hati nurani bangsa yang selalu gelisah melihat ketidakadilan.
 
 Konsep fundamentalnya adalah "Religiositas" yang berbeda dari sekadar "Agama". Baginya, religiositas adalah kedalaman batin yang menuntun manusia untuk mencintai sesama dan alam tanpa memandang sekat formalitas ritual. Dalam arsitektur, ia memperkenalkan filosofi *Wastu Citra*, di mana sebuah bangunan tidak boleh hanya indah secara visual (citra), tetapi harus memiliki ruh dan fungsi manusiawi yang mendalam (wastu). Karyanya di Kali Code yang berhasil menata pemukiman kumuh menjadi ruang yang bermartabat adalah bukti nyata dari arsitektur yang berpihak pada rakyat miskin.

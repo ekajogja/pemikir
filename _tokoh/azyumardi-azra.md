@@ -8,19 +8,22 @@ wafat: 2022-09-18
 tempat_lahir: Lubuk Alung, Sumatera Barat
 afiliasi: UIN Syarif Hidayatullah Jakarta, Dewan Pers, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: kontemporer
-bidang: [sejarah Islam, pendidikan Islam, sosiologi agama]
+bidang:
+  - sejarah Islam
+  - pendidikan Islam
+  - sosiologi agama
 pendidikan:
   - IAIN Syarif Hidayatullah Jakarta
   - Columbia University, AS (M.A., M.Phil., Ph.D. Sejarah)
-pokok_pikiran: "Jaringan Ulama Nusantara dan Timur Tengah; modernisasi pendidikan Islam (integrasi agama dan sains); Islam Wasathiyah (Modernisme/Moderat); peran intelektual Muslim dalam penguatan demokrasi dan masyarakat sipil."
+pokok_pikiran: Jaringan Ulama Nusantara dan Timur Tengah; modernisasi pendidikan Islam (integrasi agama dan sains); Islam Wasathiyah (Modernisme/Moderat); peran intelektual Muslim dalam penguatan demokrasi dan masyarakat sipil.
 karya_utama:
-  - judul: "Jaringan Ulama Nusantara dan Timur Tengah Abad XVII dan XVIII"
+  - judul: Jaringan Ulama Nusantara dan Timur Tengah Abad XVII dan XVIII
     tahun: 1994
     jenis: Buku (Disertasi)
-  - judul: "Paradigma Baru Pendidikan Nasional: Rekonstruksi dan Demokratisasi"
+  - judul: 'Paradigma Baru Pendidikan Nasional: Rekonstruksi dan Demokratisasi'
     tahun: 2002
     jenis: Buku
-  - judul: "Esei-esei Intelektual Muslim dan Pendidikan Islam"
+  - judul: Esei-esei Intelektual Muslim dan Pendidikan Islam
     tahun: 1993
     jenis: Kumpulan Esai
 sumber:
@@ -29,7 +32,6 @@ sumber:
   - url: https://icmi.id/tokoh/azyumardi-azra/
     label: ICMI - Profil Azyumardi Azra
 ---
-
 Prof. Dr. Azyumardi Azra adalah sejarawan dan cendekiawan Muslim kelas dunia yang telah meletakkan standar baru bagi studi sejarah Islam di Asia Tenggara. Melalui karya monumentalnya, *Jaringan Ulama*, ia membongkar tradisi intelektual Islam di Nusantara yang ternyata terhubung erat dengan pusat-pusat pengetahuan di Timur Tengah dalam sebuah dialog yang dinamis dan setara. Azra membuktikan bahwa Islam Indonesia bukanlah "Islam pinggiran", melainkan bagian integral dari peradaban Islam global yang memiliki karakter moderat dan inklusif.
 
 Sebagai Rektor IAIN (kemudian UIN) Syarif Hidayatullah Jakarta, ia melakukan transformasi radikal dengan mengusung paradigma "Integrasi Ilmu". Ia percaya bahwa dikotomi antara ilmu agama dan ilmu umum adalah hambatan bagi kemajuan umat. Di bawah kepemimpinannya, pendidikan Islam didorong untuk lebih terbuka terhadap metodologi sains modern, filsafat, dan ilmu sosial-politik. Baginya, seorang sarjana Muslim yang ideal adalah mereka yang taat secara spiritual namun juga kompeten secara profesional di dunia modern.

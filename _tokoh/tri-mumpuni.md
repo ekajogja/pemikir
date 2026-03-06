@@ -4,21 +4,24 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Tri Mumpuni
 lahir: 1964-08-06
-wafat: 
+wafat: ''
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: IBEKA (Institut Bisnis dan Ekonomi Kerakyatan), BRIN
 periode: kontemporer
-bidang: [wirausaha sosial, energi terbarukan, pembangunan perdesaan]
+bidang:
+  - wirausaha sosial
+  - energi terbarukan
+  - pembangunan perdesaan
 pendidikan:
   - Institut Pertanian Bogor (Sosek Pertanian)
   - International Studies in Chiang Mai & Costa Rica
-pokok_pikiran: "Listrik sebagai alat pemberdayaan, bukan sekadar komoditas; model kemandirian energi berbasis komunitas (Mikrohidro); pembangunan peradaban desa melalui penguasaan sumber daya lokal; teknologi tepat guna yang inklusif."
+pokok_pikiran: Listrik sebagai alat pemberdayaan, bukan sekadar komoditas; model kemandirian energi berbasis komunitas (Mikrohidro); pembangunan peradaban desa melalui penguasaan sumber daya lokal; teknologi tepat guna yang inklusif.
 karya_utama:
-  - judul: "Program Listrik Mandiri Mikrohidro IBEKA"
+  - judul: Program Listrik Mandiri Mikrohidro IBEKA
     tahun: 1992-Sekarang
     jenis: Inovasi Sosial/Teknik
-  - judul: "Social Business for Rural Development"
-    tahun: -
+  - judul: Social Business for Rural Development
+    tahun: ''
     jenis: Metodologi Pemberdayaan
 sumber:
   - url: https://id.wikipedia.org/wiki/Tri_Mumpuni
@@ -26,7 +29,6 @@ sumber:
   - url: https://www.alumniipbpedia.id/profil-tri-mumpuni
     label: Alumni IPB - Profil Tri Mumpuni
 ---
-
 Tri Mumpuni, yang sering dijuluki sebagai "Wanita Listrik Indonesia", adalah seorang penggerak sosial visioner yang berhasil membuktikan bahwa teknologi tinggi dapat menjadi alat pembebasan yang paling efektif bagi masyarakat di pelosok nusantara. Melalui lembaga IBEKA yang didirikannya bersama sang suami, ia telah menerangi ratusan desa terpencil yang tidak terjangkau oleh jaringan listrik negara. Bagi Tri Mumpuni, sebatang kabel listrik di tengah hutan bukan sekadar pembawa cahaya, melainkan pembawa martabat dan pintu bagi kemajuan ekonomi rakyat jelata.
 
 Inti dari pemikirannya adalah model pembangunan berbasis komunitas. Ia tidak hanya datang untuk memberikan mesin turbin mikrohidro, tetapi membangun ekosistem sosial di mana masyarakat desa menjadi pemilik, pengoperasi, sekaligus pengambil manfaat dari energi yang dihasilkan. Ia percaya bahwa "Teknologi yang Baik adalah Teknologi yang Memberdayakan". Dalam pandangannya, kemiskinan di desa-desa Indonesia bukan hanya soal kekurangan materi, melainkan soal hilangnya akses terhadap sumber daya alam mereka sendiri yang kerap diambil oleh entitas besar.

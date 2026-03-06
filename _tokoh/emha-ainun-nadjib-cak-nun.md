@@ -4,27 +4,31 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Emha Ainun Nadjib (Cak Nun)
 lahir: 1953-05-27
-wafat: 
+wafat: ''
 tempat_lahir: Menturo, Sumobito, Jombang, Jawa Timur
 afiliasi: Maiyah, Gamelan KiaiKanjeng, Persada Studi Klub
 periode: pasca-kemerdekaan
-bidang: [budaya, sastra, tasawuf kultural, kritik sosial]
+bidang:
+  - budaya
+  - sastra
+  - tasawuf kultural
+  - kritik sosial
 pendidikan:
   - Pondok Modern Darussalam Gontor (Tidak selesai)
   - SMA Muhammadiyah 1 Yogyakarta
   - Universitas Gadjah Mada (Fakultas Ekonomi, tidak selesai)
-pokok_pikiran: "Konsep 'Segitiga Cinta' (Allah-Rasul-Makhluk); dakwah kultural melalui sinkretisme seni (Maiyah); kritik terhadap berhala modernitas dan kekuasaan; kearifan lokal 'Tata Tentrem Kerta Raharja'."
+pokok_pikiran: Konsep 'Segitiga Cinta' (Allah-Rasul-Makhluk); dakwah kultural melalui sinkretisme seni (Maiyah); kritik terhadap berhala modernitas dan kekuasaan; kearifan lokal 'Tata Tentrem Kerta Raharja'.
 karya_utama:
-  - judul: "Lautan Jilbab" (Puisi/Naskah Drama)
+  - judul: '"Lautan Jilbab" (Puisi/Naskah Drama)'
     tahun: 1989
     jenis: Seni
-  - judul: "Markesot Bertutur"
+  - judul: Markesot Bertutur
     tahun: 1993
     jenis: Kumpulan Esai
-  - judul: "Indonesia Bagian dari Desa Saya"
+  - judul: Indonesia Bagian dari Desa Saya
     tahun: 1990
     jenis: Buku
-  - judul: "Tuhan pun Berpuasa"
+  - judul: Tuhan pun Berpuasa
     tahun: 1995
     jenis: Buku
 sumber:
@@ -33,7 +37,6 @@ sumber:
   - url: https://www.caknun.com/biografi/
     label: CakNun.com - Profil Emha Ainun Nadjib
 ---
-
 Emha Ainun Nadjib, yang lebih dikenal dengan panggilan Cak Nun, adalah seorang intelektual multidimensi yang berdiri di luar tradisi akademik konvensional. Ia adalah fenomena kebudayaan Indonesia yang unik—seorang penyair, dramawan, sekaligus guru bangsa yang mampu menggerakkan massa melalui jalur kultural. Meski sempat mengenyam pendidikan di Gontor dan UGM, pendidikan sejatinya ia peroleh dari "sekolah jalanan" Malioboro dan pergaulannya yang luas dengan rakyat jelata, menjadikannya kritikus paling tajam terhadap kemapanan politik dan intelektual.
 
 Inti dari pemikiran Cak Nun adalah apa yang ia sebut dengan "Segitiga Cinta"—sebuah relasi yang menyatukan antara Allah, Rasulullah, dan seluruh makhluk. Melalui komunitas Maiyah yang ia inisiasi secara rutin di berbagai kota ("Ngaji Bareng"), ia menciptakan ruang publik yang egaliter untuk membedah masalah-masalah hidup dengan nalar yang jernih namun tetap berpijak pada etika ketuhanan. Cak Nun menolak istilah "dakwah" secara formal yang cenderung menggurui; baginya, setiap pertemuan adalah ajang "sinau bareng" (belajar bersama) di mana kebenaran dicari secara kolektif tanpa sekat kelas sosial atau latar belakang agama.

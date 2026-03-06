@@ -4,27 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Yanuar Rizky
 lahir: 1973-01-01
-wafat: 
+wafat: ''
 tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Bursa Efek Jakarta (BEI), PT Pupuk Indonesia, INDEF
 periode: kontemporer
-bidang: [pasar modal, akuntansi, regulasi keuangan]
+bidang:
+  - pasar modal
+  - akuntansi
+  - regulasi keuangan
 pendidikan:
   - Universitas Gadjah Mada (Akuntansi)
   - Universitas Indonesia (Magister Hukum Ekonomi)
-pokok_pikiran: "Hukum Ekonomi; transparansi pasar modal; perlindungan investor ritel; kritik terhadap praktik asimetri informasi; penguatan pengawasan sistem keuangan nasional."
+pokok_pikiran: Hukum Ekonomi; transparansi pasar modal; perlindungan investor ritel; kritik terhadap praktik asimetri informasi; penguatan pengawasan sistem keuangan nasional.
 karya_utama:
-  - judul: "Membedah Anatomi Pasar Modal Indonesia"
-    tahun: -
+  - judul: Membedah Anatomi Pasar Modal Indonesia
+    tahun: ''
     jenis: Buku/Analisis
-  - judul: "Opini-opini Kritis di Media Massa"
-    tahun: -
+  - judul: Opini-opini Kritis di Media Massa
+    tahun: ''
     jenis: Kumpulan Tulisan
 sumber:
   - url: http://elrizky.net/
     label: Blog Pribadi Yanuar Rizky
 ---
-
 Yanuar Rizky adalah sosok intelektual praktisi yang memiliki ketajaman luar biasa dalam membedah "isi perut" pasar keuangan dan pasar modal Indonesia. Memiliki latar belakang kuat di bidang akuntansi dan hukum ekonomi, ia dikenal sebagai pengamat yang mampu menerjemahkan kompleksitas transaksi finansial yang rumit menjadi bahasa yang bisa dipahami oleh masyarakat luas. Yanuar adalah pembela gigih bagi transparansi dan keadilan di pasar yang sering kali didominasi oleh asimetri informasi.
 
 Pemikiran utamanya berpusat pada pentingnya supremasi hukum dalam aktivitas ekonomi. Ia sering melontarkan kritik keras terhadap lemahnya pengawasan otoritas keuangan yang mengakibatkan kerugian bagi masyarakat kecil atau investor ritel. Baginya, pasar modal bukan sekadar tempat sirkulasi uang, melainkan instrumen pembangunan yang harus diatur dengan etika dan integritas tinggi. Ia tak segan membongkar modus-modus manipulasi pasar atau celah regulasi yang dimanfaatkan oleh segelintir spekulan untuk keuntungan pribadi di atas penderitaan publik.

@@ -3,20 +3,23 @@ layout: tokoh
 kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Mpu Tantular
-lahir: 
-wafat: 
-tempat_lahir: 
+lahir: ''
+wafat: ''
+tempat_lahir: ''
 afiliasi: Kerajaan Majapahit
 periode: klasik (abad 14)
-bidang: [sastra, filsafat agama, etika]
+bidang:
+  - sastra
+  - filsafat agama
+  - etika
 pendidikan:
   - Pendidikan Dharmawan (Pujangga/Resi Majapahit)
-pokok_pikiran: "Bhinneka Tunggal Ika (Kesatuan dalam Keragaman); Sinkretisme Siwa-Buddha; toleransi beragama sebagai pilar stabilitas negara; kearifan moral melalui cerita kepahlawanan."
+pokok_pikiran: Bhinneka Tunggal Ika (Kesatuan dalam Keragaman); Sinkretisme Siwa-Buddha; toleransi beragama sebagai pilar stabilitas negara; kearifan moral melalui cerita kepahlawanan.
 karya_utama:
-  - judul: "Kakawin Sutasoma"
+  - judul: Kakawin Sutasoma
     tahun: Abad ke-14
     jenis: Kakawin/Sastra Filosofis
-  - judul: "Kakawin Arjunawijaya"
+  - judul: Kakawin Arjunawijaya
     tahun: Abad ke-14
     jenis: Kakawin
 sumber:
@@ -25,7 +28,6 @@ sumber:
   - url: https://perpusnas.go.id/
     label: Perpusnas - Naskah Sutasoma
 ---
-
 Mpu Tantular adalah seorang pujangga besar dari masa keemasan Kerajaan Majapahit yang melalui tulisannya telah memberikan sumbangan paling berharga bagi ideologi bangsa Indonesia modern. Hidup di bawah pemerintahan Prabu Hayam Wuruk, ia dikenal sebagai penganut agama Buddha yang taat namun memiliki pandangan yang sangat terbuka terhadap ajaran Hindu Siwa. Tantular adalah arsitek filosofis dari apa yang kini kita kenal sebagai semangat toleransi dan keberagaman Nusantara.
 
 Warisan intelektual terbesarnya tertuang dalam *Kakawin Sutasoma*. Dalam karya ini, Tantular menuliskan kalimat keramat: *"Wanā hika dharma mangrwa, bhinnêka tunggal ika, tan hana dharma mangrwa,"* yang secara harfiah bermakna "Kebenaran itu tidak mendua, meski berbeda-beda namun tetap satu jua." Kalimat ini ia gunakan untuk menjelaskan bahwa meski ajaran Siwa dan Buddha memiliki jalan yang berbeda, pada hakikatnya keduanya menuju pada Kebenaran yang sama. Gagasan ini bukan sekadar puitis, melainkan sebuah solusi cerdas untuk menjaga kesatuan sosial di tengah masyarakat Majapahit yang majemuk.

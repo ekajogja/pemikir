@@ -4,26 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Mulyadhi Kartanegara
 lahir: 1959-06-11
-wafat: 
+wafat: ''
 tempat_lahir: Tangerang, Banten
 afiliasi: UIN Syarif Hidayatullah Jakarta
 periode: pasca-kemerdekaan
-bidang: [filsafat Islam, tasawuf, integrasi ilmu]
+bidang:
+  - filsafat Islam
+  - tasawuf
+  - integrasi ilmu
 pendidikan:
   - UIN Syarif Hidayatullah Jakarta
   - University of Chicago, AS (Ph.D., 1996)
-pokok_pikiran: "Integrasi ilmu melalui rekonstruksi epistemologi Islam; konsep 'Mystico-Philosophic' (Mistiko-Filosofis) yang menyatukan akal, indra, dan hati; penolakan terhadap pemisahan ilmu sekuler dan agama; reaktualisasi sains Islam klasik."
+pokok_pikiran: Integrasi ilmu melalui rekonstruksi epistemologi Islam; konsep 'Mystico-Philosophic' (Mistiko-Filosofis) yang menyatukan akal, indra, dan hati; penolakan terhadap pemisahan ilmu sekuler dan agama; reaktualisasi sains Islam klasik.
 karya_utama:
-  - judul: "Integrasi Ilmu: Sebuah Rekonstruksi Holistik"
+  - judul: 'Integrasi Ilmu: Sebuah Rekonstruksi Holistik'
     tahun: 2005
     jenis: Buku
-  - judul: "Mengislamkan Nalar: Sebuah Respons terhadap Modernitas"
+  - judul: 'Mengislamkan Nalar: Sebuah Respons terhadap Modernitas'
     tahun: 2007
     jenis: Buku
-  - judul: "Menyibak Tirai Kejahilan: Pengantar Epistemologi Islam"
+  - judul: 'Menyibak Tirai Kejahilan: Pengantar Epistemologi Islam'
     tahun: 2003
     jenis: Buku
-  - judul: "Nalar Religius: Memahami Hakikat Tuhan, Alam, dan Manusia"
+  - judul: 'Nalar Religius: Memahami Hakikat Tuhan, Alam, dan Manusia'
     tahun: 2007
     jenis: Buku
 sumber:
@@ -32,7 +35,6 @@ sumber:
   - url: https://uinjkt.ac.id/profil-mulyadhi-kartanegara/
     label: UIN Jakarta - Profil Mulyadhi Kartanegara
 ---
-
 Prof. Dr. Mulyadhi Kartanegara adalah salah satu pemikir garda depan di Indonesia yang secara konsisten memperjuangkan "Integrasi Ilmu". Sebagai Guru Besar di UIN Syarif Hidayatullah Jakarta, ia berupaya meruntuhkan tembok pemisah antara ilmu-ilmu umum (sains) dan ilmu-ilmu agama yang selama ini dianggap sebagai dua entitas yang berbeda. Bagi Mulyadhi, kegagalan dunia pendidikan Islam modern berakar pada dikotomi ilmu yang mencerabut kebenaran saintifik dari akar teologisnya.
 
 Kontribusi filosofis terpentingnya adalah pengembangan epistemologi "Mistiko-Filosofis". Ia berargumen bahwa dalam tradisi Islam klasik, pencarian kebenaran tidak hanya mengandalkan indra (empirisme) atau akal (rasionalisme) semata, tetapi juga melibatkan intuisi atau hati (*qalb*). Pendekatan ini memungkinkan manusia untuk memahami realitas fisik dan metafisik secara holistik. Ia menolak sains Barat yang cenderung sekular-materialistik karena dianggap meniadakan dimensi spiritual dalam memahami alam semesta.

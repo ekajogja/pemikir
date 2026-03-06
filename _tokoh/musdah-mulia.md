@@ -4,23 +4,26 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Musdah Mulia
 lahir: 1958-03-03
-wafat: 
+wafat: ''
 tempat_lahir: Bone, Sulawesi Selatan
 afiliasi: UIN Syarif Hidayatullah, ICRP, ITP
 periode: kontemporer
-bidang: [politik Islam, feminisme, hak asasi manusia]
+bidang:
+  - politik Islam
+  - feminisme
+  - hak asasi manusia
 pendidikan:
   - IAIN Syarif Hidayatullah Jakarta (Doktor Politik Islam, 1997)
-pokok_pikiran: "Muslimah Reformis; keadilan gender dalam perspektif Islam; kritik terhadap penafsiran patriarkal atas hukum Islam (Fiqih); pembelaan hak-hak kelompok minoritas; Islam sebagai agama pembebasan perempuan."
+pokok_pikiran: Muslimah Reformis; keadilan gender dalam perspektif Islam; kritik terhadap penafsiran patriarkal atas hukum Islam (Fiqih); pembelaan hak-hak kelompok minoritas; Islam sebagai agama pembebasan perempuan.
 karya_utama:
-  - judul: "Muslimah Reformis: Perempuan Pembaru Keagamaan"
+  - judul: 'Muslimah Reformis: Perempuan Pembaru Keagamaan'
     tahun: 2005
     jenis: Buku
-  - judul: "Islam dan Hak Reproduksi Perempuan"
-    tahun: -
+  - judul: Islam dan Hak Reproduksi Perempuan
+    tahun: ''
     jenis: Buku
-  - judul: "Reformasi Kontrak Perkawinan dalam Islam"
-    tahun: -
+  - judul: Reformasi Kontrak Perkawinan dalam Islam
+    tahun: ''
     jenis: Disertasi/Buku
 sumber:
   - url: https://id.wikipedia.org/wiki/Siti_Musdah_Mulia
@@ -28,7 +31,6 @@ sumber:
   - url: https://www.icrp-online.org/tokoh/musdah-mulia/
     label: ICRP - Profil Musdah Mulia
 ---
-
 Prof. Dr. Siti Musdah Mulia, MA, adalah srikandi intelektual Muslim Indonesia yang menjadi ikon perjuangan kesetaraan gender dalam ruang lingkup keagamaan. Sebagai perempuan pertama yang meraih gelar Doktor dalam bidang Politik Islam dan pengukuhan Profesor Riset di LIPI, ia telah mendobrak tembok patriarki yang kaku dalam tradisi akademik keislaman. Musdah adalah sosok yang berani melakukan reinterpretasi radikal terhadap teks-teks fiqih atau hukum Islam yang sering kali digunakan untuk memarginalkan harkat dan martabat perempuan.
 
 Inti dari pemikirannya terangkum dalam gagasan "Muslimah Reformis". Ia berargumen bahwa Islam pada hakikatnya adalah agama yang membebaskan perempuan dari tradisi jahiliyah, namun dalam perjalanannya, banyak tafsir yang justru mengembalikan perempuan ke subordinasi laki-laki. Ia vokal menggugat praktik-praktik seperti poligami yang tidak adil, perkawinan anak, hingga diskriminasi dalam hukum waris. Baginya, keadilan gender bukan sekadar isu impor dari Barat, melainkan merupakan amanat terdalam dari tauhid—yaitu keyakinan bahwa seluruh manusia adalah setara di hadapan Tuhan.

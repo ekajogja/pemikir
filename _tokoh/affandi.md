@@ -8,20 +8,23 @@ wafat: 1990-05-23
 tempat_lahir: Cirebon, Jawa Barat
 afiliasi: Pelukis Rakyat, Sanggar Bambu, LKN (Lembaga Kebudayaan Nasional)
 periode: pasca-kemerdekaan
-bidang: [seni lukis, estetika, humanisme]
+bidang:
+  - seni lukis
+  - estetika
+  - humanisme
 pendidikan:
   - AMS (Tidak tamat)
   - Otodidak (Seni Lukis)
-pokok_pikiran: "Ekspresionisme yang membumi (Realisme Humanis); lukisan sebagai luapan emosi spontan; keberpihakan pada subjek rakyat kecil dan keseharian; kebebasan artistik yang melepaskan diri dari teknik konvensional Barat."
+pokok_pikiran: Ekspresionisme yang membumi (Realisme Humanis); lukisan sebagai luapan emosi spontan; keberpihakan pada subjek rakyat kecil dan keseharian; kebebasan artistik yang melepaskan diri dari teknik konvensional Barat.
 karya_utama:
-  - judul: "Ibu"
+  - judul: Ibu
     tahun: 1941-an
     jenis: Lukisan
-  - judul: "Potret Diri" (Berbagai versi)
-    tahun: -
+  - judul: '"Potret Diri" (Berbagai versi)'
+    tahun: ''
     jenis: Lukisan
-  - judul: "Boeing 707"
-    tahun: -
+  - judul: Boeing 707
+    tahun: ''
     jenis: Lukisan
 sumber:
   - url: https://id.wikipedia.org/wiki/Affandi
@@ -29,7 +32,6 @@ sumber:
   - url: https://www.affandi.org/
     label: Museum Affandi
 ---
-
 Affandi Koesoema adalah Maestro Seni Lukis Indonesia yang diakui dunia sebagai salah satu pelopor aliran ekspresionisme modern yang paling orisinal. Karyanya tidak hanya menghiasi galeri-galeri ternama di Eropa dan Amerika, tetapi juga menjadi representasi dari jiwa kemanusiaan Indonesia yang jujur dan apa adanya. Affandi adalah seorang filsuf visual yang berbicara melalui tebalnya goresan cat dan energi emosional yang meluap-luap dari ujung tangannya. Ia melepaskan diri dari kungkungan teknik akademis untuk menemukan bahasa estetikanya sendiri.
 
 Gaya melukisnya yang unik—menumpahkan cat langsung dari tube dan mengoleskannya dengan jari—adalah cermin dari pemikirannya tentang spontanitas dan kejujuran rasa. Ia menolak seni yang hanya mengejar keindahan palsu (*Mooi Indie*). Baginya, seni haruslah mampu menangkap penderitaan, harapan, dan geliat hidup manusia-manusia biasa: petani, pengemis, adu ayam, hingga kerumunan di pasar. Inilah yang disebutnya sebagai humanisme dalam seni; sebuah upaya untuk memuliakan hidup melalui ekspresi yang bebas dari pretensi.

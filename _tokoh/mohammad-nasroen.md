@@ -8,25 +8,27 @@ wafat: 1968-09-28
 tempat_lahir: Lubuk Sikaping, Pasaman, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Kehakiman
 periode: pasca-kemerdekaan
-bidang: [filsafat, hukum, politik]
+bidang:
+  - filsafat
+  - hukum
+  - politik
 pendidikan:
   - Meester in de Rechten (Mr.), Universitas Leiden, Belanda (1938)
-pokok_pikiran: "Memperkenalkan secara akademis istilah 'Filsafat Indonesia' sebagai pemikiran yang khas (bukan Barat dan bukan Timur), yang termanifestasi dalam adat, mupakat, gotong royong, dan kekeluargaan."
+pokok_pikiran: Memperkenalkan secara akademis istilah 'Filsafat Indonesia' sebagai pemikiran yang khas (bukan Barat dan bukan Timur), yang termanifestasi dalam adat, mupakat, gotong royong, dan kekeluargaan.
 karya_utama:
-  - judul: "Falsafah Indonesia"
+  - judul: Falsafah Indonesia
     tahun: 1967
     jenis: Buku
-  - judul: "Dasar Falsafah Adat Minangkabau"
+  - judul: Dasar Falsafah Adat Minangkabau
     tahun: 1957
     jenis: Buku
-  - judul: "Asal Mula Negara"
+  - judul: Asal Mula Negara
     tahun: 1957
     jenis: Buku
 sumber:
   - url: https://id.wikipedia.org/wiki/Mohammad_Nasroen
     label: Wikipedia – Mohammad Nasroen
 ---
-
 Prof. Mr. Mohammad Nasroen (1907–1968) adalah seorang cendekiawan, birokrat, dan pelopor utama dalam studi filsafat Indonesia secara akademis. Lahir di Sumatera Barat dan dididik dalam tradisi hukum Belanda, ia membawa perspektif yang unik dalam upaya mendefinisikan identitas intelektual bangsa Indonesia yang baru merdeka.
 
 Kontribusi terbesarnya bagi dunia pemikiran adalah bukunya yang berjudul *Falsafah Indonesia* (1967). Dalam karya ini, Nasroen secara eksplisit menyatakan bahwa Indonesia memiliki tradisi filsafatnya sendiri yang berbeda dari tradisi Barat maupun Timur lainnya. Ia berpendapat bahwa filsafat Indonesia bukan sekadar kumpulan gagasan abstrak, melainkan hidup dalam praktik sosial seperti musyawarah untuk mufakat, gotong royong, dan prinsip kekeluargaan.

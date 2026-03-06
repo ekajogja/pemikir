@@ -4,27 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Anthony Budiawan
 lahir: 1963-01-01
-wafat: 
-tempat_lahir: 
+wafat: ''
+tempat_lahir: ''
 afiliasi: Political Economy and Policy Studies (PEPS), Kwik Kian Gie School of Business
 periode: kontemporer
-bidang: [ekonomi bisnis, kebijakan fiskal, akuntansi manajemen]
+bidang:
+  - ekonomi bisnis
+  - kebijakan fiskal
+  - akuntansi manajemen
 pendidikan:
   - Erasmus University Rotterdam, Belanda (Magister Ekonomi)
   - Institute of Certified Management Accountants, AS
-pokok_pikiran: "Kritik terhadap defisit anggaran; keberatan atas UU Cipta Kerja; transparansi fiskal; kedaulatan ekonomi melalui penguatan struktur domestik; ekonomi berbasis data dan rasionalitas."
+pokok_pikiran: Kritik terhadap defisit anggaran; keberatan atas UU Cipta Kerja; transparansi fiskal; kedaulatan ekonomi melalui penguatan struktur domestik; ekonomi berbasis data dan rasionalitas.
 karya_utama:
-  - judul: "Alternative Solutions for Bond Recapitalization Issues"
-    tahun: -
+  - judul: Alternative Solutions for Bond Recapitalization Issues
+    tahun: ''
     jenis: Riset/Buku
-  - judul: "Analisis Kebijakan Ekonomi Nasional (PEPS)"
-    tahun: -
+  - judul: Analisis Kebijakan Ekonomi Nasional (PEPS)
+    tahun: ''
     jenis: Laporan Kebijakan
 sumber:
   - url: https://www.peps.co.id/
     label: Political Economy and Policy Studies
 ---
-
 Anthony Budiawan adalah ekonom dan intelektual publik yang dikenal karena ketajaman analisis datanya dalam membedah kebijakan fiskal dan moneter pemerintah. Sebagai Direktur Eksekutif *Political Economy and Policy Studies* (PEPS), ia sering menjadi narasumber kunci yang memberikan perspektif kritis terhadap pengelolaan utang negara dan defisit anggaran. Anthony adalah tipe pengamat yang sangat mendasarkan kritiknya pada angka-angka empiris, menjadikannya lawan debat yang tangguh bagi para teknokrat pemerintah.
 
 Pemikirannya yang paling vokal sering berkaitan dengan isu-isu kedaulatan ekonomi dan keadilan fiskal. Ia secara konsisten menyuarakan kekhawatiran atas kebijakan yang dianggapnya terlalu membebani rakyat kecil namun sangat longgar terhadap kepentingan korporasi besar, seperti tercermin dalam kritiknya terhadap UU Cipta Kerja. Bagi Anthony, ekonomi negara haruslah dijalankan dengan prinsip kehati-hatian (prudence) dan kejujuran statistik. Ia percaya bahwa manipulasi terhadap persepsi ekonomi tanpa perubahan struktur riil hanya akan membawa bangsa ke dalam jurang krisis yang lebih dalam di masa depan.

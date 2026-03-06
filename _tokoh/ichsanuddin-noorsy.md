@@ -4,27 +4,29 @@ kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Ichsanuddin Noorsy
 lahir: 1958-09-09
-wafat: 
+wafat: ''
 tempat_lahir: Jakarta
 afiliasi: Universitas Gadjah Mada (Pusat Studi Kerakyatan), KS212
 periode: kontemporer
-bidang: [ekonomi politik, hukum tata negara, kebijakan publik]
+bidang:
+  - ekonomi politik
+  - hukum tata negara
+  - kebijakan publik
 pendidikan:
   - Universitas Indonesia (Hukum Tata Negara)
   - Universitas Airlangga (Doktor Ilmu Ekonomi)
-pokok_pikiran: "Kritik terhadap neoliberalisme; kedaulatan ekonomi nasional; ekonomi konstitusi (Pasal 33 UUD 1945); perlawanan terhadap dominasi kapital global; pentingnya intelijen ekonomi."
+pokok_pikiran: Kritik terhadap neoliberalisme; kedaulatan ekonomi nasional; ekonomi konstitusi (Pasal 33 UUD 1945); perlawanan terhadap dominasi kapital global; pentingnya intelijen ekonomi.
 karya_utama:
-  - judul: "Selamatkan Indonesia!"
+  - judul: Selamatkan Indonesia!
     tahun: 2006
     jenis: Buku
-  - judul: "Bangsa Terbelah"
-    tahun: -
+  - judul: Bangsa Terbelah
+    tahun: ''
     jenis: Buku
 sumber:
   - url: https://id.wikipedia.org/wiki/Ichsanuddin_Noorsy
     label: Wikipedia - Ichsanuddin Noorsy
 ---
-
 Dr. Ichsanuddin Noorsy adalah salah satu kritikus ekonomi politik paling vokal dan konsisten di Indonesia. Dikenal sebagai sosok yang tajam dan tak jarang memicu kontroversi, Noorsy memposisikan dirinya sebagai penjaga gawang "Ekonomi Konstitusi". Pemikirannya berakar kuat pada semangat Pasal 33 UUD 1945, di mana ia meyakini bahwa seluruh sumber daya alam dan cabang produksi penting harus dikuasai oleh negara untuk kemakmuran rakyat, bukan diserahkan kepada mekanisme pasar bebas yang neoliberal.
 
 Inti dari pemikiran Noorsy adalah perlawanan terhadap desain kebijakan ekonomi global yang dianggapnya merugikan kedaulatan nasional. Ia sering membongkar motif di balik utang luar negeri, ketergantungan pada investasi asing, dan privatisasi aset-aset strategis negara. Bagi Noorsy, ekonomi tidak bisa dilepaskan dari intelijen dan geopolitik; ia melihat kebijakan ekonomi sering kali merupakan perpanjangan tangan dari kepentingan kekuatan besar dunia untuk menjaga Indonesia tetap sebagai pasar dan penyedia bahan baku.

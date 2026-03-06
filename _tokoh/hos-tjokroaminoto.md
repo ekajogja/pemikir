@@ -8,22 +8,25 @@ wafat: 1934-12-17
 tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: Sarekat Islam (SI), PSII
 periode: pra-kemerdekaan
-bidang: [politik, Islam sosialisme, pendidikan]
+bidang:
+  - politik
+  - Islam sosialisme
+  - pendidikan
 pendidikan:
   - OSVIA, Magelang (1902)
   - Pendidikan Teknik Mesin, Surabaya
-pokok_pikiran: "Setinggi-tinggi ilmu, semurni-murni tauhid, sepintar-pintar siasat; Sosialisme Islam yang berakar pada hukum Tuhan; kemerdekaan sebagai kewajiban religius; Islam Bergerak."
+pokok_pikiran: Setinggi-tinggi ilmu, semurni-murni tauhid, sepintar-pintar siasat; Sosialisme Islam yang berakar pada hukum Tuhan; kemerdekaan sebagai kewajiban religius; Islam Bergerak.
 karya_utama:
-  - judul: "Islam dan Sosialisme"
+  - judul: Islam dan Sosialisme
     tahun: 1924
     jenis: Buku
-  - judul: "Tarich Agama Islam"
+  - judul: Tarich Agama Islam
     tahun: 1931
     jenis: Buku
-  - judul: "Reglemen Umum Bagi Ummat Islam"
+  - judul: Reglemen Umum Bagi Ummat Islam
     tahun: 1934
     jenis: Buku
-  - judul: "Program Tandhim"
+  - judul: Program Tandhim
     tahun: 1930
     jenis: Buku
 sumber:
@@ -32,7 +35,6 @@ sumber:
   - url: https://tirto.id/hos-tjokroaminoto-raja-jawa-tanpa-mahkota-guru-para-pendiri-bangsa-cFvE
     label: Tirto - H.O.S. Tjokroaminoto
 ---
-
 Haji Oemar Said (H.O.S.) Tjokroaminoto adalah raksasa dalam sejarah pergerakan nasional Indonesia yang dijuluki sebagai "Raja Jawa Tanpa Mahkota" oleh pemerintah kolonial. Sebagai pemimpin karismatik Sarekat Islam (SI), ia berhasil mengubah sebuah organisasi dagang menjadi organisasi massa nasional pertama yang memiliki jutaan anggota. Tjokroaminoto adalah "guru bangsa" yang rumahnya di Surabaya menjadi rumah persemaian bagi para pemimpin masa depan dengan ideologi yang beragam—mulai dari Soekarno (Nasionalis), Semaoen (Komunis), hingga Kartosoewirjo (Islam Politik).
 
 Semboyan terkenalnya, *"Setinggi-tinggi ilmu, semurni-murni tauhid, sepintar-pintar siasat,"* merangkum visinya tentang manusia Indonesia yang ideal. Bagi Tjokroaminoto, perlawanan terhadap penjajah bukan hanya soal kekuatan fisik, tetapi harus didasari oleh kecerdasan intelektual, kemurnian iman, dan kecerdikan strategi politik. Ia meletakkan dasar bagi kesadaran nasional bahwa kemerdekaan (*vrijheid*) adalah hak kodrati yang diberikan Tuhan, dan perjuangan mencapainya adalah bentuk ibadah kolektif.

@@ -8,22 +8,25 @@ wafat: 1926
 tempat_lahir: Kauman, Surakarta, Jawa Tengah
 afiliasi: Sarekat Islam (SI Merah), ISDV (PKI), Inlandsche Journalisten Bond
 periode: pra-kemerdekaan
-bidang: [politik, Islam sosialisme, jurnalistik]
+bidang:
+  - politik
+  - Islam sosialisme
+  - jurnalistik
 pendidikan:
   - Pesantren
   - Sekolah Bumiputera (Ongko Loro), Surakarta
-pokok_pikiran: "Integrasi Islam dan Komunisme sebagai alat pembebasan (Haji Revolusioner); perlawanan terhadap kapitalisme/penjajahan sebagai kewajiban religius; kritik tajam terhadap kemunafikan beragama; Islam Bergerak."
+pokok_pikiran: Integrasi Islam dan Komunisme sebagai alat pembebasan (Haji Revolusioner); perlawanan terhadap kapitalisme/penjajahan sebagai kewajiban religius; kritik tajam terhadap kemunafikan beragama; Islam Bergerak.
 karya_utama:
-  - judul: "Medan Moeslimin" (Surat Kabar)
+  - judul: '"Medan Moeslimin" (Surat Kabar)'
     tahun: 1915
     jenis: Jurnalistik
-  - judul: "Islam Bergerak" (Surat Kabar)
+  - judul: '"Islam Bergerak" (Surat Kabar)'
     tahun: 1917
     jenis: Jurnalistik
-  - judul: "Islam dan Komunisme"
+  - judul: Islam dan Komunisme
     tahun: 1925
     jenis: Artikel/Esai
-  - judul: "Semprong Wasiat"
+  - judul: Semprong Wasiat
     tahun: 1923
     jenis: Pamflet/Kritik
 sumber:
@@ -32,7 +35,6 @@ sumber:
   - url: https://tirto.id/haji-misbach-haji-revolusioner-yang-meramu-islam-komunisme-cbK5
     label: Tirto - Profil Haji Misbach
 ---
-
 Haji Mohamad Misbach, yang sering dijuluki sebagai "Haji Merah" atau "Haji Revolusioner", adalah salah satu figur paling unik dan berani dalam sejarah pergerakan nasional Indonesia. Berasal dari lingkungan pedagang batik kaya di Kauman, Solo, ia menggunakan seluruh hartanya dan pena tajamnya untuk melawan penindasan kolonial Belanda. Misbach adalah jembatan intelektual antara militansi Islam dan radikalisme komunis pada awal abad ke-20.
 
 Gagasan sentral Misbach adalah sintesis radikal antara Islam dan komunisme. Baginya, Islam adalah agama pembebasan yang secara inheren menolak segala bentuk perbudakan dan penghisapan manusia atas manusia. Ia berargumen bahwa seorang Muslim sejati tidak mungkin setuju dengan kapitalisme, karena sistem tersebut bertentangan dengan prinsip keadilan dalam Al-Qur'an. Visi "Islam-Komunisme" miliknya bukanlah sebuah pertentangan ideologis, melainkan satu tarikan napas dalam perjuangan emansipasi rakyat jelata (kaum kromo) melawan penjajah.
