@@ -13,7 +13,7 @@ bidang:
   - perencanaan pembangunan
   - demografi
 pendidikan:
-  - Universitas Indonesia (Ekonomi)
+  - Universitas Indonesia (S1 Ekonomi)
   - University of California, Berkeley, AS (Doktor Ekonomi, 1961)
 pokok_pikiran: Widjojonomics (Pembangunan ekonomi berbasis stabilitas dan pertumbuhan); perencanaan pembangunan nasional (Repelita); pengendalian penduduk; integrasi ekonomi Indonesia ke pasar global.
 karya_utama:

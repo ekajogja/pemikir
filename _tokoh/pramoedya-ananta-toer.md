@@ -13,8 +13,9 @@ bidang:
   - sejarah
   - sosiologi politik
 pendidikan:
-  - Sekolah Radio (Surabaya)
-  - Taman Siswa
+  - Radio Volkschool, Surabaya (1941)
+  - Taman Dewasa/Taman Siswa (1943)
+  - Sekolah Tinggi Islam, Jakarta (1945 - Tidak Tamat)
 pokok_pikiran: Sastra sebagai alat pembebasan (Realisme Sosialis); perlawanan terhadap penindasan kolonial dan feodal; pentingnya 'Berlaku Adil sejak dalam Pikiran'; rekonstruksi sejarah bangsa dari sudut pandang korban/rakyat jelata.
 karya_utama:
   - judul: Tetralogi Buru (Bumi Manusia, Anak Semua Bangsa, Jejak Langkah, Rumah Kaca)

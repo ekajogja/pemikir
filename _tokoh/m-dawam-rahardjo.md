@@ -14,7 +14,8 @@ bidang:
   - pluralisme
   - jurnalisme intelektual
 pendidikan:
-  - Universitas Gadjah Mada (Ekonomi, 1969)
+  - Universitas Gadjah Mada (S1 Ekonomi, 1969)
+  - Bora High School, Idaho, AS
 pokok_pikiran: Ekonomi sebagai jihad kemanusiaan; Islam dan pluralisme (pembelaan terhadap minoritas); transformasi sosial melalui pemikiran Al-Qur'an; integrasi intelektual Muslim dalam pembangunan nasional.
 karya_utama:
   - judul: 'Ensiklopedia Al-Qur''an: Tafsir Sosial Berdasarkan Tema-tema Pokok'

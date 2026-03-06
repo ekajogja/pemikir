@@ -13,9 +13,9 @@ bidang:
   - feminisme
   - gender
 pendidikan:
-  - Sarjana Filsafat, UI
-  - Magister Psikologi Sosial, EHESS Paris
-  - Doktor Filsafat, Universitas Indonesia
+  - Universitas Indonesia (D3 Sastra Prancis, Sarjana Filsafat)
+  - EHESS Paris, Prancis (M.A. Psikologi Sosial, 1994)
+  - Universitas Indonesia (Doktor Filsafat, 2002)
 pokok_pikiran: Filsuf feminis yang mengembangkan kajian feminisme dan filsafat di Indonesia serta mendirikan Jurnal Perempuan sebagai ruang wacana gender kritis.
 karya_utama:
   - judul: Filsafat Berperspektif Feminis

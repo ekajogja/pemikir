@@ -13,8 +13,9 @@ bidang:
   - energi terbarukan
   - pembangunan perdesaan
 pendidikan:
-  - Institut Pertanian Bogor (Sosek Pertanian)
-  - International Studies in Chiang Mai & Costa Rica
+  - Institut Pertanian Bogor (S1 Sosek Pertanian)
+  - Universidad da Costa Rica
+  - Chiang Mai University, Thailand
 pokok_pikiran: Listrik sebagai alat pemberdayaan, bukan sekadar komoditas; model kemandirian energi berbasis komunitas (Mikrohidro); pembangunan peradaban desa melalui penguasaan sumber daya lokal; teknologi tepat guna yang inklusif.
 karya_utama:
   - judul: Program Listrik Mandiri Mikrohidro IBEKA

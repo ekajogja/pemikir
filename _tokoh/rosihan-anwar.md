@@ -14,8 +14,11 @@ bidang:
   - sastra
   - kritik film
 pendidikan:
-  - AMS-A Yogyakarta (Klasik Barat)
-  - Yale University (School of Journalism)
+  - HIS (1935)
+  - MULO (1939)
+  - AMS-A II Yogyakarta (1942)
+  - Yale University (Drama Workshop, 1950)
+  - Columbia University (Journalism, 1954)
 pokok_pikiran: Jurnalisme sebagai pencatat sejarah sekaligus pengkritik kekuasaan; kejujuran intelektual wartawan; 'Menulis apa yang terjadi, bukan apa yang diinginkan penguasa'; pentingnya memori kolektif bangsa dalam bentuk catatan harian sejarah.
 karya_utama:
   - judul: '"Sejarah Kecil (Petite Histoire) Indonesia" (Multi-volume)'

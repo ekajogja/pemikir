@@ -14,8 +14,8 @@ bidang:
   - sastra
   - literasi
 pendidikan:
-  - IKIP Yogyakarta (Tidak tamat)
-  - IAIN Sunan Kalijaga (Tidak tamat)
+  - IKIP Yogyakarta (Teknik Bangunan, Tidak Tamat)
+  - IAIN Sunan Kalijaga (Sejarah Peradaban Islam, Tidak Tamat)
 pokok_pikiran: Arsip sebagai fondasi memori bangsa; aktivisme literasi melalui pengumpulan kliping dan majalah lama; penulisan ulang sejarah yang jujur (Petite Histoire); ideologi 'Pramis' (semangat perjuangan Pramoedya).
 karya_utama:
   - judul: Tuhan, Izinkan Aku Menjadi Pelacur!

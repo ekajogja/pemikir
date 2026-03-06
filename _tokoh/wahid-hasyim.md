@@ -13,9 +13,8 @@ bidang:
   - pendidikan
   - diplomasi
 pendidikan:
-  - Pondok Pesantren Tebuireng
-  - Lirboyo dan Siwalan Panji
-  - Makkah (Studi Mandiri)
+  - Pondok Pesantren Tebuireng, Lirboyo, dan Siwalan Panji
+  - Makkah (1932)
 pokok_pikiran: Sintesis Nasional Islam (Modernis-Tradisionalis); jembatan antara kelompok Islam dan Sekuler dalam BPUPKI; modernisasi kurikulum pesantren; prinsip Ketuhanan Yang Maha Esa sebagai dasar persatuan.
 karya_utama:
   - judul: Mempermodern Madrasah

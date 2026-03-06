@@ -15,8 +15,8 @@ bidang:
   - psikologi
 pendidikan:
   - Universitas Padjadjaran (Ilmu Komunikasi)
-  - Iowa State University, AS (M.Sc. Komunikasi)
-  - Australian National University (Doktor Ilmu Politik)
+  - Iowa State University, AS (M.Sc. Komunikasi, 1981)
+  - UIN Alauddin Makassar (Doktor)
 pokok_pikiran: Psikologi Komunikasi (Eksistensi manusia dalam interaksi); Islam Kerakyatan; pencerahan melalui akhlak daripada fiqih; pengenalan pemikiran Syiah yang moderat dan intelektual (IJABI).
 karya_utama:
   - judul: Psikologi Komunikasi

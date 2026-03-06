@@ -14,9 +14,9 @@ bidang:
   - pendidikan
   - Islamisasi Ilmu
 pendidikan:
-  - Pondok Modern Darussalam Gontor
-  - University of the Punjab, Pakistan (M.A.Ed.)
-  - University of Birmingham, Inggris (M.Phil.)
+  - Pondok Modern Darussalam Gontor/ISID (S1, 1982)
+  - University of the Punjab, Pakistan (M.A.Ed., 1986)
+  - University of Birmingham, Inggris (M.Phil., 1998)
   - ISTAC-IIUM, Malaysia (Doktor Filsafat Islam, 2006)
 pokok_pikiran: Islamisasi Ilmu Pengetahuan sebagai rekonstruksi epistemologi; Worldview Islam (Islamic Worldview) sebagai fondasi nalar; kritik terhadap sekularisme, pengaruh Westernisasi, dan liberalisme pemikiran Islam.
 karya_utama:

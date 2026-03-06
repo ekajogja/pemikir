@@ -13,7 +13,7 @@ bidang:
   - jurnalisme komunitas
   - advokasi sosial
 pendidikan:
-  - Universitas Gadjah Mada (Filsafat)
+  - Universitas Gadjah Mada (Fakultas Filsafat)
 pokok_pikiran: Narasi sebagai alat advokasi; literasi yang rendah hati dan membumi; kritik sosial melalui satir dan humor (Mojokism); pentingnya suara rakyat biasa dalam literatur Indonesia.
 karya_utama:
   - judul: Cinta Tak Pernah Tepat Waktu

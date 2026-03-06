@@ -15,7 +15,7 @@ bidang:
   - kebangsaan
 pendidikan:
   - Madrasah Muallimin Muhammadiyah, Yogyakarta
-  - Universitas Negeri Yogyakarta (S1 Sejarah)
+  - IKIP Yogyakarta (S1 Sejarah, 1968)
   - Ohio State University, AS (M.A., 1980)
   - University of Chicago, AS (Ph.D. Sejarah, 1983)
 pokok_pikiran: Islam dalam bingkai keindonesiaan dan kemanusiaan; energi moral Islam sebagai landasan demokrasi; menolak politik identitas; humanisme egaliter; sejarah kritis.

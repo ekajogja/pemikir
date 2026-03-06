@@ -13,8 +13,8 @@ bidang:
   - politik ekonomi
   - aktivisme
 pendidikan:
-  - Institut Teknologi Bandung (Teknik Fisika)
-  - Boston University (Ph.D Ekonomi)
+  - Institut Teknologi Bandung (S1 Teknik Fisika)
+  - Boston University, AS (Doktor Ekonomi, 1990)
 pokok_pikiran: Ekonomi Konstitusi; kritik terhadap 'utang untuk membayar bunga utang'; kedaulatan energi; perlunya terobosan ekonomi yang tidak konvensional (thinking out of the box).
 karya_utama:
   - judul: Membedah Krisis Ekonomi

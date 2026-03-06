@@ -15,7 +15,7 @@ bidang:
   - filantropi
 pendidikan:
   - Institut Teknologi Bandung (S1 Teknologi Industri, 1982)
-  - Harvard University, AS (M.A. Middle Eastern Studies)
+  - Harvard University, AS (M.A. Middle Eastern Studies, 1992)
   - Universitas Indonesia (Doktor Filsafat, 2005)
 pokok_pikiran: Islam Cinta dan Islam Rahmah; tasawuf positif sebagai spiritualisme modern; integrasi antara filsafat Islam (Mulla Sadra) dan Barat (Heidegger); pendidikan karakter berbasis welas asih.
 karya_utama:

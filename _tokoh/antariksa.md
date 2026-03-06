@@ -5,7 +5,7 @@ diperbarui: 2026-03-06
 nama: Antariksa
 lahir: 1971-01-01
 wafat: ''
-tempat_lahir: ''
+tempat_lahir: Yogyakarta
 afiliasi: KUNCI Cultural Studies Center (Yogyakarta)
 periode: kontemporer
 bidang:
@@ -13,6 +13,7 @@ bidang:
   - sejarah seni
   - kolektivisme
 pendidikan:
+  - Universitas Gadjah Mada (Hubungan Internasional)
   - Studi Mandiri/Penelitian Fellowship (Leiden, Paris, ISEAS)
 pokok_pikiran: Kolektivisme seni sebagai strategi bertahan dan perlawanan; sejarah seni di masa pendudukan Jepang; dekonstruksi narasi sejarah seni arus utama yang individualistis; pentingnya riset mikro-sejarah.
 karya_utama:

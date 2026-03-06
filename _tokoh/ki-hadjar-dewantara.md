@@ -13,8 +13,8 @@ bidang:
   - politik
   - kebudayaan
 pendidikan:
-  - Europeesche Lagere School (ELS)
-  - STOVIA (tidak tamat)
+  - ELS (Europeesche Lagere School)
+  - STOVIA (Sekolah Dokter Jawa, Tidak Tamat)
 pokok_pikiran: Merumuskan pendidikan nasional yang memerdekakan dan berakar pada kepribadian bangsa melalui sistem Taman Siswa dan semboyan 'Ing Ngarsa Sung Tuladha, Ing Madya Mangun Karsa, Tut Wuri Handayani'.
 karya_utama:
   - judul: Als ik een Nederlander was (Seandainya Aku Seorang Belanda)

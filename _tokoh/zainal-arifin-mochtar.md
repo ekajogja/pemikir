@@ -13,9 +13,9 @@ bidang:
   - antikorupsi
   - teori kekuasaan
 pendidikan:
-  - Universitas Gadjah Mada (Sarjana Hukum)
-  - Northwestern University, AS (LL.M.)
-  - Universitas Gadjah Mada (Doktor Ilmu Hukum)
+  - Universitas Gadjah Mada (S1 Ilmu Hukum, 2003)
+  - Northwestern University, AS (LL.M, 2006)
+  - Universitas Gadjah Mada (Doktor Ilmu Hukum, 2012)
 pokok_pikiran: Eksistensi lembaga negara independen; pemberantasan korupsi sebagai amanat konstitusi; kritik terhadap konsolidasi kekuasaan atau oligarki; pentingnya integritas penyelenggara negara.
 karya_utama:
   - judul: Lembaga Negara Independen

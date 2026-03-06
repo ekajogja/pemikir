@@ -13,7 +13,7 @@ bidang:
   - etika publik
   - filsafat politik
 pendidikan:
-  - Sarjana Filsafat, Universitas Indonesia (1986)
+  - Universitas Indonesia (Sarjana Filsafat, 1986)
 pokok_pikiran: Filsuf publik yang mempopulerkan kritik rasional terhadap kekuasaan dan ideologi melalui pembacaan filsafat Barat dalam konteks Indonesia (Akal Sehat).
 karya_utama:
   - judul: Obat Dungu Resep Akal Sehat

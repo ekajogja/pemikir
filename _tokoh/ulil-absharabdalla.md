@@ -14,7 +14,7 @@ bidang:
   - pemikiran liberal
   - tasawuf
 pendidikan:
-  - LIPIA, Jakarta
+  - LIPIA, Jakarta (S1 Syariah)
   - STF Driyarkara
   - Boston University, AS (M.A. Religion)
   - Harvard University, AS (Studi Doktoral)

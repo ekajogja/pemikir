@@ -15,7 +15,7 @@ bidang:
   - humanisme
 pendidikan:
   - Institut Teknologi Bandung (S1 Astronomi)
-  - University College London (M.Sc. Ilmu Keantariksaan)
+  - University College London (M.Sc. Ilmu Ruang Angkasa)
   - Universitas Indonesia (Doktor Filsafat, 1997)
 pokok_pikiran: Filsafat sains sebagai jembatan kemanusiaan; Kosmologi Empiris-Konstruktif; tanggung jawab intelektual terhadap ruang publik; hubungan antara nalar astronomis dan etika moral.
 karya_utama:

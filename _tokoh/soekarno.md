@@ -13,7 +13,7 @@ bidang:
   - filsafat negara
   - ideologi
 pendidikan:
-  - Technische Hoogeschool (THS) Bandung (Arsitektur)
+  - Technische Hoogeschool (THS) Bandung (S1 Teknik Sipil, 1926)
 pokok_pikiran: Pancasila (Gotong Royong); Marhaenisme (Sosio-Nasionalisme & Sosio-Demokrasi); Revolusi Belum Selesai; Anti-Imperialisme (NEFO vs OLDEFO); Jasmerah (Jangan Sekali-kali Meninggalkan Sejarah).
 karya_utama:
   - judul: Lahirnya Pancasila

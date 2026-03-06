@@ -13,7 +13,7 @@ bidang:
   - pendidikan perempuan
   - emansipasi
 pendidikan:
-  - Belajar Mandiri (Otodidak) - Ayah (Mohamad Rasjad Maharadja Soetan)
+  - Belajar Mandiri (Otodidak)
 pokok_pikiran: Emansipasi perempuan melalui kecerdasan intelektual dan ekonomi; kemandirian berpikir kaum wanita Minangkabau; pendidikan sebagai alat melawan kolonialisme; jurnalisme sebagai suara bagi perempuan yang terpingit.
 karya_utama:
   - judul: '"Soenting Melajoe" (Surat Kabar Perempuan pertama)'

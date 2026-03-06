@@ -13,9 +13,8 @@ bidang:
   - teologi
   - perjuangan anti-kolonial
 pendidikan:
-  - Gowa/Cikoang
-  - Banten & Aceh
-  - Yaman, Mekkah, Madinah, dan Damaskus
+  - Gowa & Cikoang (Agama & Tasawuf)
+  - Banten, Aceh, Yaman, Mekkah, Madinah, dan Damaskus
 pokok_pikiran: Penyelarasan syariat dan hakikat; ajaran tasawuf sebagai kekuatan moral melawan penindasan; tauhid sebagai kesadaran eksistensial ke-fanaan makhluk; penyebaran Islam di Afrika Selatan.
 karya_utama:
   - judul: '"Zubdat al-Asrar" (Intisari Rahasia-rahasia)'

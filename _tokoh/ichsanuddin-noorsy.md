@@ -13,8 +13,9 @@ bidang:
   - hukum tata negara
   - kebijakan publik
 pendidikan:
-  - Universitas Indonesia (Hukum Tata Negara)
-  - Universitas Airlangga (Doktor Ilmu Ekonomi)
+  - UPN Veteran (BSc. Teknik Tekstil, 1981)
+  - Universitas Indonesia (S1 Hukum Tata Negara, 1987; M.Si FISIP, 2001)
+  - Universitas Airlangga (Doktor Ilmu Ekonomi, 2011)
 pokok_pikiran: Kritik terhadap neoliberalisme; kedaulatan ekonomi nasional; ekonomi konstitusi (Pasal 33 UUD 1945); perlawanan terhadap dominasi kapital global; pentingnya intelijen ekonomi.
 karya_utama:
   - judul: Selamatkan Indonesia!

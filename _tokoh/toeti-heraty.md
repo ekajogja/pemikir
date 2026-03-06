@@ -14,8 +14,8 @@ bidang:
   - psikologi
   - sastra
 pendidikan:
-  - Universitas Indonesia (Psikologi)
-  - Rijksuniversiteit Leiden, Belanda (Filsafat, 1974)
+  - Universitas Indonesia (Psikologi, 1962)
+  - Rijksuniversiteit Leiden, Belanda (Sarjana Filsafat, 1974)
   - Universitas Indonesia (Doktor Filsafat, 1979)
 pokok_pikiran: Feminisme sebagai kesadaran subjek perempuan; kritik terhadap patriarki melalui simbol budaya (Calon Arang); 'Aku dalam Budaya' sebagai proses pembentukan identitas; pemberdayaan perempuan melalui literatur dan aktivisme.
 karya_utama:

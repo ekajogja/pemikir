@@ -13,7 +13,7 @@ bidang:
   - hukum
   - aktivisme sosial
 pendidikan:
-  - Universitas Brawijaya (Fakultas Hukum)
+  - Universitas Brawijaya (Sarjana Hukum, 1990)
 pokok_pikiran: Perjuangan melawan impunitas negara; pembelaan terhadap korban penghilangan paksa dan kekerasan; reformasi sektor keamanan; keberanian moral dalam menyerukan keadilan; HAM sebagai martabat universal tanpa pandang bulu.
 karya_utama:
   - judul: Laporan Pelanggaran HAM di Timor Timur dan Aceh

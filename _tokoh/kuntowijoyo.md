@@ -13,9 +13,9 @@ bidang:
   - sastra
   - ilmu sosial profetik
 pendidikan:
-  - Sarjana Sejarah, UGM
-  - M.A. American Studies, University of Connecticut
-  - Ph.D. Sejarah, Columbia University (1990)
+  - Universitas Gadjah Mada (S1 Sastra, 1969)
+  - University of Connecticut, AS (M.A. Sejarah Amerika, 1974)
+  - Columbia University, AS (Doktor Ilmu Sejarah, 1980)
 pokok_pikiran: Mengembangkan gagasan 'Ilmu Sosial Profetik' yang mengintegrasikan nilai-nilai kenabian (humanisasi, liberasi, transendensi) dalam analisis sejarah dan sosial Indonesia.
 karya_utama:
   - judul: 'Paradigma Islam: Interpretasi untuk Aksi'

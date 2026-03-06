@@ -13,8 +13,9 @@ bidang:
   - sejarah kuliner
   - sejarah lokal Solo
 pendidikan:
-  - Universitas Sanata Dharma (Pendidikan Sejarah)
-  - Universitas Gadjah Mada (Magister Sejarah)
+  - Universitas Sebelas Maret (S1 Sejarah, 2009)
+  - Universitas Gadjah Mada (S2 Sejarah, 2013)
+  - Universitas Diponegoro (S3 Sejarah)
 pokok_pikiran: Sejarah sebagai milik publik (Public History); pelestarian ingatan kota melalui narasi populer; sejarah kuliner sebagai identitas budaya lokal; pentingnya napak tilas sejarah berbasis riset arsip.
 karya_utama:
   - judul: 'Sejarah Solo: Dari Desa ke Kota'

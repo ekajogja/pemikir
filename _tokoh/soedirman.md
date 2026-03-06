@@ -13,8 +13,8 @@ bidang:
   - etika kepemimpinan
   - strategi pertahanan
 pendidikan:
-  - Sekolah Guru Muhammadiyah (Surakarta)
-  - Pendidikan Militer PETA (Bogor)
+  - HIK (Hollandsche Indische Kweekschool) Muhammadiyah, Solo
+  - Pendidikan Militer PETA, Bogor
 pokok_pikiran: Pertahanan Rakyat Semesta (Perang Gerilya); Netralitas TNI (Tentara adalah Milik Bangsa, bukan golongan); Kepemimpinan melalui pengorbanan (Manunggal dengan Rakyat); pentingnya integritas moral bagi prajurit.
 karya_utama:
   - judul: Amanat Panglima Besar Jenderal Soedirman

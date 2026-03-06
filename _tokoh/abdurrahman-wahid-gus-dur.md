@@ -15,8 +15,8 @@ bidang:
   - humanisme
 pendidikan:
   - Pesantren Krapyak, Tegalrejo, dan Tambakberas
-  - Universitas Al-Azhar, Kairo, Mesir
-  - Universitas Baghdad, Irak
+  - Al-Azhar University, Kairo, Mesir
+  - Baghdad University, Irak (1970)
 pokok_pikiran: Pribumisasi Islam sebagai penolakan terhadap Arabisasi; pluralisme sebagai pengakuan terhadap keberagaman; demokrasi sebagai proses budaya; humanisme universal di mana 'Tuhan tak perlu dibela'.
 karya_utama:
   - judul: Islamku, Islam Anda, Islam Kita

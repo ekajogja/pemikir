@@ -13,8 +13,8 @@ bidang:
   - filsafat kenegaraan
   - sejarah pemikiran
 pendidikan:
-  - Universitas Padjadjaran (Ilmu Komunikasi)
-  - Australian National University (S2 & S3 Sosiologi Politik)
+  - Universitas Padjadjaran (S1 Ilmu Komunikasi, 1990)
+  - Australian National University (M.A. 1999; Doktor Sosiologi Politik & Komunikasi, 2004)
 pokok_pikiran: Pancasila sebagai 'Negara Paripurna'; historisitas, rasionalitas, dan aktualitas Pancasila; agama dan negara dalam harmoni; pentingnya integritas etis dalam politik.
 karya_utama:
   - judul: 'Negara Paripurna: Historisitas, Rasionalitas, dan Aktualitas Pancasila'

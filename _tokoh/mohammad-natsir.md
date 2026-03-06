@@ -13,7 +13,10 @@ bidang:
   - diplomasi
   - pendidikan
 pendidikan:
-  - AMS (Algemeene Middelbare School), Bandung
+  - HIS Adabiyah, Padang
+  - MULO, Padang
+  - AMS-A II, Bandung (1930)
+  - Studi Islam kepada Ahmad Hassan (Persis)
 pokok_pikiran: Mosi Integral Natsir (Kembali ke NKRI); Islam sebagai dasar integral kehidupan dan negara; integrasi masjid, kampus, dan pesantren; politik sebagai dakwah; hubungan harmonis antara agama dan modernitas.
 karya_utama:
   - judul: Fiqhud Da’wah

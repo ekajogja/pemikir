@@ -13,8 +13,9 @@ bidang:
   - dokumentasi sastra
   - penerjemahan
 pendidikan:
-  - Universitas Indonesia (Fakultas Sastra)
-  - Yale University, AS (Sastra Bandingan)
+  - HBS Medan (1938)
+  - Universitas Indonesia (S1 Sastra, 1957)
+  - Yale University, AS (Sastra Bandingan, 1958-1959)
 pokok_pikiran: Pentingnya dokumentasi sebagai memori kolektif bangsa; kritik sastra yang apresiatif dan edukatif; pembelaan terhadap kebebasan kreatif seniman; kejujuran intelektual dalam menilai karya.
 karya_utama:
   - judul: Kesusastraan Indonesia Modern dalam Kritik dan Esei

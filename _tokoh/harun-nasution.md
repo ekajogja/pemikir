@@ -14,9 +14,9 @@ bidang:
   - pendidikan Islam
 pendidikan:
   - Moderne Islamietische Kweekschool, Bukittinggi
-  - Universitas Al-Azhar, Kairo, Mesir
-  - American University of Cairo
-  - McGill University, Kanada (Doktor Filsafat, 1968)
+  - Universitas Al-Azhar, Kairo (Sarjana Muda, 1940)
+  - American University of Cairo (Sarjana Muda, 1952)
+  - McGill University, Kanada (M.A., 1965; Doktor Filsafat, 1968)
 pokok_pikiran: Rekonstruksi Islam Rasional; pembaruan teologi dari fatalistik (Asy'ariyah) menuju teologi rasional (Neo-Mu'tazilah); integrasi akal dan wahyu; Islam sebagai peradaban yang luas melampaui fikih.
 karya_utama:
   - judul: Islam Ditinjau Dari Berbagai Aspeknya

@@ -13,8 +13,8 @@ bidang:
   - sejarah Islam
   - gerakan sosial
 pendidikan:
-  - Universitas Indonesia
-  - Cornell University, AS (Doktor Ilmu Politik, 1963)
+  - Universitas Indonesia (S1 Ekonomi, 1958)
+  - University of California, Berkeley, AS (M.A., 1962; Doktor Ekonomi, 1964)
 pokok_pikiran: Analisis sistematis atas gerakan modern Islam di Indonesia; hubungan antara agama dan politik; kritik terhadap sentralisme kekuasaan (otoritarianisme); pentingnya oposisi yang jujur dalam demokrasi.
 karya_utama:
   - judul: The Modernist Muslim Movement in Indonesia, 1900-1942

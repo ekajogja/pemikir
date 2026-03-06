@@ -13,7 +13,8 @@ bidang:
   - feminisme
   - hak asasi manusia
 pendidikan:
-  - IAIN Syarif Hidayatullah Jakarta (Doktor Politik Islam, 1997)
+  - IAIN Alauddin Makassar (S1 Sastra Arab)
+  - IAIN Syarif Hidayatullah Jakarta (M.A. Sejarah Pemikiran Islam; Doktor Pemikiran Politik Islam, 1997)
 pokok_pikiran: Muslimah Reformis; keadilan gender dalam perspektif Islam; kritik terhadap penafsiran patriarkal atas hukum Islam (Fiqih); pembelaan hak-hak kelompok minoritas; Islam sebagai agama pembebasan perempuan.
 karya_utama:
   - judul: 'Muslimah Reformis: Perempuan Pembaru Keagamaan'

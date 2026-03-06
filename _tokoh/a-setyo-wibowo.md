@@ -13,7 +13,8 @@ bidang:
   - fenomenologi
   - filsafat agama
 pendidikan:
-  - S2 & S3, Universitas Paris I Panthéon-Sorbonne, Prancis
+  - STF Driyarkara (S1)
+  - Université Paris 1 Panthéon-Sorbonne (S2 & S3, Filsafat)
 pokok_pikiran: Mendalami filsafat klasik (Platon, Nietzsche) dan fenomenologi untuk menggali akar pemikiran religius serta membidani seri 'Filsafat di Indonesia' sebagai upaya pencarian jati diri filsafat nasional.
 karya_utama:
   - judul: Gaya Filsafat Nietzsche

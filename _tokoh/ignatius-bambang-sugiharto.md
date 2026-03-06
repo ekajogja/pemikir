@@ -13,7 +13,8 @@ bidang:
   - estetika
   - filsafat kebudayaan
 pendidikan:
-  - S2 & S3 (Summa Cum Laude), Universitas San Tommaso, Roma
+  - Universitas Katolik Parahyangan (S1 Filsafat)
+  - Pontificia Università San Tommaso (Angelicum), Roma (S2 & S3 Filsafat)
 pokok_pikiran: Pakar postmodernisme Indonesia yang mengeksplorasi perubahan paradigma kebudayaan, seni kontemporer, dan dekonstruksi pemikiran mapan menuju keterbukaan makna.
 karya_utama:
   - judul: 'Postmodernisme: Tantangan bagi Filsafat'

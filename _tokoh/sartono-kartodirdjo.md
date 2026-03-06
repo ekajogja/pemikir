@@ -13,9 +13,9 @@ bidang:
   - historiografi
   - sosiologi perdesaan
 pendidikan:
-  - Universitas Gadjah Mada
-  - Yale University, AS (M.A.)
-  - Universiteit van Amsterdam (Doktor Sejarah, 1966)
+  - Universitas Indonesia (Sarjana Sastra/Sejarah, 1956)
+  - Yale University, AS (M.A. Sejarah, 1964)
+  - Universiteit van Amsterdam, Belanda (Doktor Sejarah, 1966)
 pokok_pikiran: Historiografi Indonesia-sentris; pendekatan multidimensi dalam sejarah; sejarah dari bawah (kaum petani/rakyat jelata); kritik terhadap sejarah yang hanya berfokus pada elit dan kekuasaan kolonial.
 karya_utama:
   - judul: The Peasants' Revolt of Banten in 1888

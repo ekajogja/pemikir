@@ -13,8 +13,9 @@ bidang:
   - sosiologi agama
   - politik keagamaan
 pendidikan:
-  - Pesantren Termas, Pacitan
-  - Sekolah Tinggi Islam (STI), Yogyakarta
+  - Pesantren Krapyak, Tegalrejo, dan Tambakberas
+  - Al-Azhar University, Kairo, Mesir (L.C., 1955)
+  - Baghdad University, Irak (Department of Religion, 1970)
   - McGill University, Kanada (M.A. Islamic Studies, 1957)
 pokok_pikiran: Metodologi Ilmiah-Agamais dalam studi agama; pelopor perbandingan agama di Indonesia; konsep 'Setuju dalam Perbedaan' (*Agree in Disagreement*); modernisasi birokrasi dan pendidikan agama.
 karya_utama:

@@ -14,8 +14,8 @@ bidang:
   - budaya visual
   - film
 pendidikan:
-  - Institut Kesenian Jakarta (Sinematografi)
-  - Universitas Indonesia (Magister Filsafat & Doktor Ilmu Sastra)
+  - Institut Kesenian Jakarta (S1 Sinematografi, 1994)
+  - Universitas Indonesia (Magister Filsafat, 2000; Doktor Ilmu Sastra, 2005)
 pokok_pikiran: Sastra sebagai saksi sejarah; 'Ketika jurnalisme dibungkam, sastra harus bicara'; pentingnya imajinasi sebagai alat kritik sosial; kemanusiaan sebagai nilai tertinggi di atas politik.
 karya_utama:
   - judul: Saksi Mata

@@ -13,8 +13,8 @@ bidang:
   - koperasi
   - filsafat ekonomi
 pendidikan:
-  - Universitas Indonesia (Ekonomi)
-  - University of Pittsburgh, AS (Doktor Ekonomi, 1969)
+  - Universitas Indonesia (S1 Ekonomi, 1963)
+  - University of Pittsburgh, AS (M.P.I.A, 1966; Doktor Ekonomi, 1969)
 pokok_pikiran: Ekonomi Konstitusi (Pasal 33 UUD 1945); Koperasi sebagai soko guru ekonomi; kritik terhadap neoliberalisme dan globalisasi yang eksploitatif; kemandirian nasional melalui pemberdayaan ekonomi rakyat.
 karya_utama:
   - judul: Ekonomi Rakyat dalam Bahaya

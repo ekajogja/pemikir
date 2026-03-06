@@ -13,8 +13,9 @@ bidang:
   - filsafat sosial
   - sastra
 pendidikan:
-  - Master of Art, Hochschule für Philosophie München (1982)
-  - Doktor Sosiologi, Universitas Bielefeld, Jerman (1995)
+  - STFT Ledalero (1972)
+  - Hochschule für Philosophie München (M.A., 1982)
+  - Universitas Bielefeld, Jerman (Doktor Sosiologi, 1995)
 pokok_pikiran: Intelektual multidisipliner yang memadukan sosiologi kritis dengan filsafat sosial untuk menganalisis kebudayaan, politik, dan sastra Indonesia (Dekolonisasi Ilmu Sosial).
 karya_utama:
   - judul: Sikap Ilmiah dan Kritik Kebudayaan
