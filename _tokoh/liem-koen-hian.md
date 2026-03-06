@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Liem Koen Hian
-lahir: 1897
+lahir: '1897'
 wafat: 1952
 tempat_lahir: Banjarmasin, Kalimantan Selatan
 afiliasi: Partai Tionghoa Indonesia (PTI), BPUPKI, Sin Tit Po
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - politik
   - jurnalisme

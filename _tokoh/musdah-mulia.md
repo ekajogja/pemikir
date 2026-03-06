@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Musdah Mulia
-lahir: 1958
+lahir: '1958'
 wafat: ''
 tempat_lahir: Bone, Sulawesi Selatan
 afiliasi: UIN Syarif Hidayatullah, ICRP, ITP
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - politik Islam
   - feminisme

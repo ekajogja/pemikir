@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: P.J. Zoetmulder
-lahir: 1906
+lahir: '1906'
 wafat: 1995
 tempat_lahir: Utrecht, Belanda
 afiliasi: Fakultas Sastra Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - sastra Jawa Kunon
   - filsafat

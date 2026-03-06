@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Harun Nasution
-lahir: 1919
+lahir: '1919'
 wafat: 1998
 tempat_lahir: Pematangsiantar, Sumatera Utara
 afiliasi: IAIN Syarif Hidayatullah, Kementerian Luar Negeri
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - teologi Islam
   - filsafat

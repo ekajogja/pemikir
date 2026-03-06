@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ki Ageng Suryomentaram
-lahir: 1892
+lahir: '1892'
 wafat: 1962
 tempat_lahir: Yogyakarta (Keraton)
 afiliasi: Kawruh Begja, Front Pembebasan Irian Barat
-periode: pra-kemerdekaan / pasca-kemerdekaan
+periode: 1900-1945
 bidang:
   - psikologi kejiwaan
   - filsafat Jawa

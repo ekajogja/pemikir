@@ -24,5 +24,4 @@ Lihat [panduan kontribusi di GitHub](https://github.com/ekajogja/pemikir) untuk 
 
 ### Lisensi
 
-- **Kode sumber**: [MIT License](https://github.com/ekajogja/pemikir/blob/main/LICENSE)
-- **Konten teks**: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Seluruh konten dan kode sumber dalam proyek ini dilepaskan ke dalam domain publik melalui lisensi **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)**. Anda bebas untuk menyalin, memodifikasi, dan mendistribusikan data ini untuk tujuan apa pun tanpa perlu meminta izin.

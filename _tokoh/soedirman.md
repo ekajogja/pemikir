@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Soedirman
-lahir: 1916
+lahir: '1916'
 wafat: 1950
 tempat_lahir: Purbalingga, Jawa Tengah
 afiliasi: Muhammadiyah, PETA, TNI (Panglima Besar pertama)
-periode: pra-kemerdekaan / transisi
+periode: 1900-1945
 bidang:
   - militer
   - etika kepemimpinan

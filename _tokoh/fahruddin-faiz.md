@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Fahruddin Faiz
-lahir: 1975
+lahir: '1975'
 wafat: ''
 tempat_lahir: Mojokerto, Jawa Timur
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Masjid Jenderal Sudirman Yogyakarta
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat Islam
   - hermeneutika

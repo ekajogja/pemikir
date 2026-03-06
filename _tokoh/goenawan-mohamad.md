@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Goenawan Mohamad
-lahir: 1941
+lahir: '1941'
 wafat: ''
 tempat_lahir: Batang, Jawa Tengah
 afiliasi: Majalah Tempo, Komunitas Salihara, Manifes Kebudayaan
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - jurnalisme
   - sastra

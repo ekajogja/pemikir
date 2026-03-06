@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Y.B. Mangunwijaya
-lahir: 1929
+lahir: '1929'
 wafat: 1999
 tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: Gereja Katolik, STF Driyarkara, Dinamika Edukasi Dasar
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - arsitektur
   - sastra

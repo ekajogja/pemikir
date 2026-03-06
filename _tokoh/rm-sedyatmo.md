@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: RM Sedyatmo
-lahir: 1909
+lahir: '1909'
 wafat: 1984
 tempat_lahir: Karanganyar, Jawa Tengah
 afiliasi: Institut Teknologi Bandung (ITB), PLN
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - teknik sipil
   - inovasi infrastruktur

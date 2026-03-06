@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: M. Dawam Rahardjo
-lahir: 1942
+lahir: '1942'
 wafat: 2018
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: LP3ES, Jurnal Prisma, ICMI, Universitas Muhammadiyah Malang
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - ekonomi Islam
   - filsafat sosial

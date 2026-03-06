@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ki Hadjar Dewantara
-lahir: 1889
+lahir: '1889'
 wafat: 1959
 tempat_lahir: Yogyakarta
 afiliasi: Taman Siswa, PNI, Indische Partij
-periode: pergerakan
+periode: 1900-1945
 bidang:
   - pendidikan
   - politik

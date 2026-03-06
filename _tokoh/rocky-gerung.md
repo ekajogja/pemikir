@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Rocky Gerung
-lahir: 1959
+lahir: '1959'
 wafat: ''
 tempat_lahir: Manado, Sulawesi Utara
 afiliasi: Universitas Indonesia (Mantan Dosen)
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat
   - etika publik

@@ -50,3 +50,4 @@ exclude:
 # Navigation
 header_pages:
   - about.md
+  - linimasa.md

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ignas Kleden
-lahir: 1948
+lahir: '1948'
 wafat: 2024
 tempat_lahir: Larantuka, Flores Timur
 afiliasi: Yayasan Obor Indonesia, Go East
-periode: kontemporer
+periode: 1998-2020
 bidang:
   - sosiologi
   - filsafat sosial

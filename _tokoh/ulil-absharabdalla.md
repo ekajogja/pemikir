@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ulil Abshar-Abdalla
-lahir: 1967
+lahir: '1967'
 wafat: ''
 tempat_lahir: Pati, Jawa Tengah
 afiliasi: Jaringan Islam Liberal (JIL), Nahdlatul Ulama, Komunitas Ghazaly Academy
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat Islam
   - teologi

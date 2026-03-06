@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Fery Amsari
-lahir: 1980
+lahir: '1980'
 wafat: ''
 tempat_lahir: Padang, Sumatera Barat
 afiliasi: Universitas Andalas (FH UNAND), PUSaKO
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - hukum tata negara
   - sosiologi hukum

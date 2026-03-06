@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Antariksa
-lahir: 1971
+lahir: '1971'
 wafat: ''
 tempat_lahir: Yogyakarta
 afiliasi: KUNCI Cultural Studies Center (Yogyakarta)
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - studi kebudayaan
   - sejarah seni

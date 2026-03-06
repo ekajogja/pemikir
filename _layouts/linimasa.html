@@ -1,0 +1,146 @@
+---
+layout: default
+---
+
+<div class="timeline-header" style="text-align: center; margin-bottom: 3rem;">
+    <h1>Linimasa Pemikir Indonesia</h1>
+</div>
+
+<div class="timeline-container">
+    {% assign tokoh_sorted = site.tokoh | sort: "lahir" %}
+    {% for tokoh in tokoh_sorted %}
+    <div class="timeline-item">
+        <div class="timeline-date">
+            {% if tokoh.lahir and tokoh.lahir != "" %}
+                {{ tokoh.lahir | slice: 0, 4 }}
+            {% else %}
+                ?
+            {% endif %}
+        </div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">
+                <a href="{{ tokoh.url | relative_url }}">{{ tokoh.nama }}</a>
+            </h3>
+            <div class="timeline-meta">
+                <span class="badge badge-periode">{{ tokoh.periode | capitalize }}</span>
+                {% if tokoh.wafat and tokoh.wafat != "" and tokoh.wafat != "''" and tokoh.wafat != '""' %} · Wafat: {{ tokoh.wafat | slice: 0, 4 }}{% endif %}
+            </div>
+            <p class="timeline-excerpt">{{ tokoh.pokok_pikiran | truncate: 200 }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+    .timeline-container {
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 0;
+    }
+
+    /* Garis tengah */
+    .timeline-container::after {
+        content: '';
+        position: absolute;
+        width: 2px;
+        background: var(--color-border);
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -1px;
+    }
+
+    .timeline-item {
+        padding: 1rem 2rem;
+        position: relative;
+        background: inherit;
+        width: 50%;
+        box-sizing: border-box;
+    }
+
+    /* Titik pada garis */
+    .timeline-item::after {
+        content: '';
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        right: -8px;
+        background-color: var(--color-background);
+        border: 2px solid var(--color-border);
+        top: 1.5rem;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+    /* Posisi kiri dan kanan */
+    .timeline-item:nth-child(odd) {
+        left: 0;
+        text-align: right;
+    }
+
+    .timeline-item:nth-child(even) {
+        left: 50%;
+        text-align: left;
+    }
+
+    .timeline-item:nth-child(even)::after {
+        left: -8px;
+    }
+
+    .timeline-date {
+        font-family: 'Cinzel', serif;
+        font-weight: bold;
+        color: var(--color-text-mute);
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .timeline-content {
+        padding: 1rem;
+        background: var(--color-background-soft);
+        border-radius: 8px;
+        border: 1px solid var(--color-border);
+        transition: transform 0.2s ease;
+    }
+
+    .timeline-content:hover {
+        transform: translateY(-3px);
+        border-color: var(--color-text-mute);
+    }
+
+    .timeline-title {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+    }
+
+    .timeline-meta {
+        font-size: 0.85rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .timeline-excerpt {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 0;
+    }
+
+    @media screen and (max-width: 600px) {
+        .timeline-container::after {
+            left: 31px;
+        }
+        .timeline-item {
+            width: 100%;
+            padding-left: 70px;
+            padding-right: 25px;
+            text-align: left !important;
+        }
+        .timeline-item::after {
+            left: 21px;
+            right: auto;
+        }
+        .timeline-item:nth-child(even) {
+            left: 0%;
+        }
+    }
+</style>

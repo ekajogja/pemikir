@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sutan Sjahrir
-lahir: 1909
+lahir: '1909'
 wafat: 1966
 tempat_lahir: Padang Panjang, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PNI Baru
-periode: pergerakan
+periode: 1900-1945
 bidang:
   - politik
   - filsafat sosial

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Zainal Arifin Mochtar
-lahir: 1978
+lahir: '1978'
 wafat: ''
 tempat_lahir: Makassar, Sulawesi Selatan
 afiliasi: Universitas Gadjah Mada (FH UGM), PUKAT Korupsi
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - hukum tata negara
   - antikorupsi

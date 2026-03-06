@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Haidar Bagir
-lahir: 1957
+lahir: '1957'
 wafat: ''
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Mizan Group, Yasmin Foundation, Lazuardi Hayati
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat Islam
   - tasawuf

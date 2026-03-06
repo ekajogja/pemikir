@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Raden Ajeng Kartini
-lahir: 1879
+lahir: '1879'
 wafat: 1904
 tempat_lahir: Jepara, Jawa Tengah
 afiliasi: Pelopor Emansipasi, Sekolah Kartini
-periode: pra-kemerdekaan (Kolonial)
+periode: 1900-1945
 bidang:
   - pendidikan
   - feminisme

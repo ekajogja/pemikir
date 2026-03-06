@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ahmad Dahlan
-lahir: 1868
+lahir: '1868'
 wafat: 1923
 tempat_lahir: Yogyakarta (Kauman)
 afiliasi: Muhammadiyah (Pendiri)
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - reformasi Islam
   - pendidikan

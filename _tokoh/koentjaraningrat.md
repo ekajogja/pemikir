@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Koentjaraningrat
-lahir: 1923
+lahir: '1923'
 wafat: 1999
 tempat_lahir: Yogyakarta
 afiliasi: Universitas Indonesia, Lembaga Ilmu Pengetahuan Indonesia (LIPI)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - antropologi
   - sosiologi

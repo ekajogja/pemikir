@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Roehana Koeddoes
-lahir: 1884
+lahir: '1884'
 wafat: 1972
 tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Soenting Melajoe (Pendiri), Amai Setia
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - jurnalisme
   - pendidikan perempuan

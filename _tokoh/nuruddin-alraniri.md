@@ -7,7 +7,7 @@ lahir: ''
 wafat: 1658
 tempat_lahir: Rander (Gujarat), India
 afiliasi: Kesultanan Aceh, Tarekat Rifaiyah, Mazhab Syafii
-periode: klasik (abad 17)
+periode: pra 1900
 bidang:
   - teologi
   - fikih

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjokorda Raka Sukawati
-lahir: 1931
+lahir: '1931'
 wafat: 2014
 tempat_lahir: Ubud, Bali
 afiliasi: Hutama Karya, Universitas Gadjah Mada
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - teknik sipil
   - inovasi konstruksi

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Martin Suryajaya
-lahir: 1986
+lahir: '1986'
 wafat: ''
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Institut Kesenian Jakarta (IKJ), Direktorat Jenderal Kebudayaan
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat
   - estetika

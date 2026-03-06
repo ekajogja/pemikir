@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sutan Takdir Alisjahbana
-lahir: 1908
+lahir: '1908'
 wafat: 1994
 tempat_lahir: Natal, Sumatera Utara
 afiliasi: Poedjangga Baroe, Universitas Nasional
-periode: pergerakan
+periode: 1900-1945
 bidang:
   - kebudayaan
   - sastra

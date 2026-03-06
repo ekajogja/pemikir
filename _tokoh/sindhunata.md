@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sindhunata
-lahir: 1952
+lahir: '1952'
 wafat: ''
 tempat_lahir: Batu, Malang, Jawa Timur
 afiliasi: Serikat Yesus (Jesuit), Harian Kompas, STF Driyarkara
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - teologi

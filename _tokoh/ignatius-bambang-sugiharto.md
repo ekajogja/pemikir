@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ignatius Bambang Sugiharto
-lahir: 1956
+lahir: '1956'
 wafat: ''
 tempat_lahir: Tasikmalaya, Jawa Barat
 afiliasi: Universitas Katolik Parahyangan (Unpar)
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - postmodernisme
   - estetika

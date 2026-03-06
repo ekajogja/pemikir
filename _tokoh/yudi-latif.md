@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Yudi Latif
-lahir: 1964
+lahir: '1964'
 wafat: ''
 tempat_lahir: Sukabumi, Jawa Barat
 afiliasi: Reform Institute, PSIK-Indonesia, UKP-PIP/BPIP
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - sosiologi politik
   - filsafat kenegaraan

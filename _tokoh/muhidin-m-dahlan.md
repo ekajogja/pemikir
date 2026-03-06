@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Muhidin M. Dahlan
-lahir: 1978
+lahir: '1978'
 wafat: ''
 tempat_lahir: Donggala, Sulawesi Tengah
 afiliasi: Indonesia Buku (iBuku), Warung Arsip, Radio Buku
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - pengarsipan
   - jurnalisme sejarah

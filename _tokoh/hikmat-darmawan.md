@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hikmat Darmawan
-lahir: 1970
+lahir: '1970'
 wafat: ''
 tempat_lahir: ''
 afiliasi: Akademi Samali, DKJ (Dewan Kesenian Jakarta), Madani Film Festival
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - budaya populer
   - kritik komik

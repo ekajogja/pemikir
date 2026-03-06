@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjan Tjoe Som
-lahir: 1903
+lahir: '1903'
 wafat: 1969
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Universitas Indonesia (Fakultas Sastra), Lembaga Sinologi
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - sinologi
   - filsafat Tiongkok

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Nurcholish Madjid
-lahir: 1939
+lahir: '1939'
 wafat: 2005
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: HMI (Himpunan Mahasiswa Islam), Paramadina, Universitas Paramadina, IAIN Syarif Hidayatullah
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - agama
   - filsafat

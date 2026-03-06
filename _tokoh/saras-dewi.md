@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Saras Dewi
-lahir: 1983
+lahir: '1983'
 wafat: ''
 tempat_lahir: Denpasar, Bali
 afiliasi: Universitas Indonesia, Gerakan Bali Tolak Reklamasi
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat lingkungan (ekofenomenologi)
   - ekofeminisme

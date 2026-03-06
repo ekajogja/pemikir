@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Jakob Sumardjo
-lahir: 1939
+lahir: '1939'
 wafat: ''
 tempat_lahir: Klaten, Jawa Tengah
 afiliasi: Institut Seni Budaya Indonesia (ISBI) Bandung, ITB
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat
   - seni

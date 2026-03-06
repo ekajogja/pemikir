@@ -1,0 +1,16 @@
+---
+layout: none
+---
+[
+  {% for tokoh in site.tokoh %}
+  {
+    "nama": {{ tokoh.nama | jsonify }},
+    "url": {{ tokoh.url | relative_url | jsonify }},
+    "lahir": {{ tokoh.lahir | jsonify }},
+    "wafat": {{ tokoh.wafat | jsonify }},
+    "periode": {{ tokoh.periode | jsonify }},
+    "bidang": {{ tokoh.bidang | jsonify }},
+    "pokok_pikiran": {{ tokoh.pokok_pikiran | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

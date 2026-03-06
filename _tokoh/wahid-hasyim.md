@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Wahid Hasyim
-lahir: 1914
+lahir: '1914'
 wafat: 1953
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama, BPUPKI, Panitia Sembilan, Menteri Agama pertama
-periode: pra-kemerdekaan (Transisi)
+periode: 1900-1945
 bidang:
   - politik keagamaan
   - pendidikan

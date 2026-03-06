@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tan Ling Djie
-lahir: 1904
+lahir: '1904'
 wafat: 1970
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Partai Komunis Indonesia (PKI), Partai Sosialis
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - politik
   - ideologi

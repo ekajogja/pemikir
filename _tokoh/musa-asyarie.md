@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Musa Asy’arie
-lahir: 1951
+lahir: '1951'
 wafat: ''
 tempat_lahir: Pekajangan, Pekalongan, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Muhammadiyah
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat Islam
   - etika ekonomi

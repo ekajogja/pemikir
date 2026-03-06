@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hasyim Asy’ari
-lahir: 1871
+lahir: '1871'
 wafat: 1947
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (Pendiri/Rais Akbar), Pondok Pesantren Tebuireng
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - teologi Islam
   - pendidikan pesantren

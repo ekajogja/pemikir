@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Haji Misbach
-lahir: 1876
+lahir: '1876'
 wafat: 1926
 tempat_lahir: Kauman, Surakarta, Jawa Tengah
 afiliasi: Sarekat Islam (SI Merah), ISDV (PKI), Inlandsche Journalisten Bond
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - politik
   - Islam sosialisme

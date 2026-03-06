@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Yanuar Rizky
-lahir: 1973
+lahir: '1973'
 wafat: ''
 tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Bursa Efek Jakarta (BEI), PT Pupuk Indonesia, INDEF
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - pasar modal
   - akuntansi

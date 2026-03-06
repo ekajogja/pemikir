@@ -1,178 +1,75 @@
 # Direktori Pemikir Indonesia
 
-Selamat datang di repositori **Direktori Pemikir Indonesia**. Proyek ini bertujuan mendokumentasikan secara sistematis para intelektual, ilmuwan, budayawan, filsuf, aktivis, dan pemikir lainnya dari Indonesia—mulai dari tokoh tradisional seperti Ki Ageng Suryomentaram, aktivis revolusioner seperti Tan Malaka, ilmuwan seperti BJ Habibie, hingga pemikir kontemporer seperti Rocky Gerung.
+Selamat datang di repositori **Direktori Pemikir Indonesia**. Proyek ini bertujuan mendokumentasikan secara sistematis para intelektual, ilmuwan, budayawan, filsuf, aktivis, dan pemikir lainnya dari Indonesia—mulai dari tokoh tradisional, aktivis revolusioner, hingga pemikir kontemporer.
 
 Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.github.io/pemikir)**
 
-## Latar Belakang
-
-Informasi mengenai para pemikir Indonesia saat ini masih tersebar di berbagai sumber dan belum terintegrasi dalam satu direktori khusus yang mencakup lintas disiplin. Proyek ini lahir untuk mengisi kekosongan tersebut dengan menyediakan:
-
-- Profil lengkap setiap tokoh (biografi singkat, pokok pikiran/kontribusi, karya utama)
-- Pengelompokan berdasarkan periode, bidang keilmuan, atau afiliasi
-- Data yang terstruktur, terbuka, dan siap digunakan untuk riset atau pengembangan lebih lanjut
-
-Dengan semangat **open source**, kami mengundang siapa pun untuk berkontribusi—baik peneliti, mahasiswa, maupun masyarakat umum—untuk bersama-sama membangun direktori ini.
-
 ## Fitur Utama
 
-- **Periodisasi Sejarah**  
-  Tokoh dikelompokkan dalam beberapa era: Tradisional/Klasik, Pergerakan Nasional, Pasca-Kemerdekaan, dan Kontemporer.
+- **Navigasi & Pencarian Canggih**  
+  Filter tokoh berdasarkan Nama, Periode, atau Bidang Keilmuan secara instan dengan indikator jumlah hasil yang dinamis.
+  
+- **Visualisasi Grafik Bidang**  
+  Diagram interaktif (Doughnut Chart) yang menunjukkan distribusi keilmuan para pemikir. Klik pada kategori grafik untuk memfilter daftar tokoh secara otomatis.
 
-- **Pengelompokan Bidang**  
-  Misalnya: Filsafat, Ilmu Pengetahuan Alam, Ilmu Sosial, Sastra/Budaya, Politik/Hukum, Agama/Spiritualitas, dan lain-lain.
+- **Linimasa Sejarah (Timeline)**  
+  Halaman khusus untuk menelusuri jejak intelektual nusantara berdasarkan urutan tahun kelahiran, memberikan konteks sejarah yang lebih mendalam.
 
-- **Profil Standar**  
-  Setiap entri memuat:  
-  - Nama lengkap (dengan gelar)  
-  - Tahun lahir-wafat  
-  - Tempat lahir  
-  - Pendidikan & afiliasi  
-  - Pokok pikiran/kontribusi utama  
-  - Daftar karya utama  
-  - Sumber referensi (wajib)
-  - Kontributor
-  - Tanggal terakhir diperbarui
+- **Data Terstruktur (Internal API)**  
+  Metadata tokoh diekspor secara otomatis ke dalam format JSON (`assets/data/tokoh.json`), memudahkan pengembangan fitur visualisasi di masa depan.
 
-- **Pencarian & Filter**  
-  Cari berdasarkan nama, periode, bidang, atau institusi.
-
-- **Rencana Pengembangan**  
-  - Garis waktu interaktif  
-  - Peta persebaran tokoh berdasarkan asal atau tempat berkarya  
-  - Indeks karya dengan tautan ke katalog perpustakaan
+- **Profil Standar & Terverifikasi**  
+  Setiap entri memuat data biografi, pokok pikiran, karya utama, dan **wajib menyertakan sumber referensi yang dapat diverifikasi**.
 
 ## Struktur Data
 
-Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`. Setiap file mewakili satu tokoh.
+Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`.
 
-### Contoh file `_tokoh/rocky-gerung.md`
+### Contoh file `_tokoh/a-mukti-ali.md`
 
 ```yaml
 ---
 layout: tokoh
-nama: Rocky Gerung
-kontributor: Eka Y Saputra
-diperbarui: 2026-03-06
-lahir: 1959-01-20
-wafat: 
-tempat_lahir: Manado, Sulawesi Utara
-afiliasi: Universitas Indonesia, Setara Institute
-periode: kontemporer
-bidang: [filsafat, politik, kritik sosial]
-pendidikan: 
-  - S1 Filsafat, Universitas Indonesia
-  - S2 Filsafat, Universitas Indonesia
-pokok_pikiran: "Kritik terhadap kuasa, demokrasi deliberatif, filsafat politik"
+nama: A. Mukti Ali
+lahir: '1923'
+wafat: '2004'
+periode: 1945-1965
+bidang: [ilmu perbandingan agama, sosiologi agama]
+pokok_pikiran: "Konsep 'Setuju dalam Perbedaan' (Agree in Disagreement)..."
 karya_utama:
-  - judul: "Filsafat Politik: Telaah atas Pemikiran Hannah Arendt"
-    tahun: 2006
+  - judul: Etika Agama dalam Membangun Masyarakat Modern
+    tahun: 1971
     jenis: Buku
-  - judul: "Demokrasi dan Post-Truth"
-    tahun: 2019
-    jenis: Esai
 sumber:
-  - url: https://id.wikipedia.org/wiki/Rocky_Gerung
+  - url: https://id.wikipedia.org/wiki/Abdul_Mukti_Ali
     label: Wikipedia
-  - url: https://www.liputan6.com/news/read/...
-    label: Liputan6 (wawancara)
 ---
 ```
 
-Konten deskripsi bebas ditulis dalam Markdown setelah front matter. Bagian ini bisa berisi narasi lebih panjang tentang pemikiran, perjalanan hidup, atau kontribusi tokoh.
+## Aturan Verifikasi Sumber
 
-## Aturan Sumber yang Wajib
-
-**Setiap data yang dimasukkan WAJIB menyertakan sumber yang dapat diverifikasi.** Ini untuk menjaga kredibilitas direktori dan menghindari informasi palsu.
-
-- **Sumber daring**: Jika informasi diambil dari situs web, jurnal online, atau arsip digital, cantumkan URL lengkap di bagian `sumber`.
-- **Sumber cetak (buku, jurnal fisik)**: Jika informasi berasal dari buku atau dokumen fisik yang tidak tersedia secara daring, Anda WAJIB menyertakan **foto atau pindaian halaman terkait** sebagai bukti. Foto tersebut dapat diunggah ke folder `assets/bukti/` dengan nama file yang merujuk pada tokoh (misal: `rocky-gerung-buku1.jpg`), lalu cantumkan path lokal sebagai sumber.
-  - Contoh:
-
-    ```yaml
-    sumber:
-      - url: /assets/bukti/rocky-gerung-hal-45.jpg
-        label: Buku "Filsafat Politik" hlm. 45 (foto pribadi)
-    ```
-
-- **Wawancara atau komunikasi pribadi**: Tidak diperkenankan, kecuali dapat diverifikasi melalui rekaman atau transkrip yang juga diunggah.
-
-Dengan aturan ini, setiap klaim dapat ditelusuri dan dipertanggungjawabkan.
-
-## Cara Berkontribusi
-
-Kami sangat terbuka terhadap kontribusi dari siapa pun. Berikut langkah-langkahnya:
-
-1. **Fork** repositori ini ke akun GitHub Anda.
-2. **Buat branch baru** untuk perubahan Anda (`git checkout -b tambah-tokoh-nama`).
-3. **Tambahkan data tokoh** baru di folder `_tokoh/` dengan format di atas. Pastikan:
-   - Nama file menggunakan format `nama-depan-nama-belakang.md` (tanpa gelar, huruf kecil, spasi diganti strip).
-   - Sertakan minimal satu sumber yang valid (lihat aturan di atas).
-4. **Jika menggunakan sumber cetak**, unggah foto bukti ke folder `assets/bukti/` dan rujuk path-nya di bagian `sumber`.
-5. **Commit** perubahan (`git commit -m 'Menambahkan tokoh: ...'`).
-6. **Push** ke branch Anda (`git push origin tambah-tokoh-nama`).
-7. Buat **Pull Request** ke repositori ini.
-
-Setiap Pull Request akan ditinjau oleh pengelola. Jika ada kekurangan, kami akan memberikan masukan.
-
-### Panduan Penulisan
-
-- Gunakan bahasa Indonesia yang baik dan benar.
-- Tuliskan pokok pikiran/kontribusi secara ringkas namun informatif.
-- Hindari opini subjektif; tuliskan berdasarkan rujukan.
-- Untuk tokoh yang masih hidup, kosongkan field `wafat`.
-- Jika ada beberapa bidang, gunakan daftar (list) YAML.
+Untuk menjaga kredibilitas, setiap data **WAJIB** menyertakan rujukan:
+- **Sumber daring**: URL jurnal, berita, atau ensiklopedia terpercaya.
+- **Sumber cetak**: Jika tidak ada versi daring, kontributor diminta menyertakan foto/pindaian halaman terkait yang diunggah ke `assets/bukti/`.
 
 ## Teknologi
 
-- **Static Site Generator:** [Jekyll](https://jekyllrb.com/) (native di GitHub Pages)
-- **Tema:** Disesuaikan (menggunakan tema minima dengan modifikasi)
+- **Static Site Generator:** [Jekyll](https://jekyllrb.com/)
+- **Visualisasi:** [Chart.js](https://www.chartjs.org/)
 - **Hosting:** GitHub Pages
-- **Data:** Markdown + front matter YAML
+- **Lisensi:** Creative Commons Zero v1.0 Universal (CC0 1.0) - *Public Domain*
 
-### Menjalankan secara lokal
+## Cara Berkontribusi
 
-1. Pastikan Ruby dan Bundler terinstal.
-2. Clone repositori:
+Kami mengundang siapa pun untuk berkontribusi menambahkan profil tokoh:
 
-   ```bash
-   git clone https://github.com/ekajogja/pemikir.git
-   cd pemikir
-   ```
+1. **Fork** repositori ini.
+2. **Buat file baru** di folder `_tokoh/` mengikuti format yang ada.
+3. **Commit & Push** perubahan Anda.
+4. Buat **Pull Request**.
 
-3. Install dependensi:
-
-   ```bash
-   bundle install
-   ```
-
-4. Jalankan server lokal:
-
-   ```bash
-   bundle exec jekyll serve
-   ```
-
-5. Akses `http://localhost:4000` untuk melihat situs.
-
-> **Catatan Khusus untuk Pengguna Ubuntu/Linux:**
-> Sering kali `bundle install` gagal karena ekosistem dependensi Jekyll terbaru membutuhkan kompilasi native (seperti `sass-embedded` atau `json`). Jika Anda menemui masalah tersebut, Anda dapat melompati langkah Bundler sepenuhnya dengan menginstal paket bawaan Ubuntu:
->
-> ```bash
-> sudo apt install jekyll
-> jekyll serve
-> ```
-
-## Lisensi
-
-Seluruh isi situs ini—termasuk konten teks (profil tokoh), kode sumber (HTML, CSS, JavaScript), dan konfigurasi—dilisensikan di bawah **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
-
-Anda bebas untuk menyalin, memodifikasi, mendistribusikan, dan menampilkan karya tersebut, bahkan untuk tujuan komersial, semuanya tanpa meminta izin. Kami tetap menghargai jika Anda memberikan atribusi kembali ke proyek ini sebagai bentuk dukungan terhadap keterbukaan data.
-
-## Kontak
-
-Jika Anda memiliki pertanyaan, saran, atau ingin melaporkan kesalahan data, silakan buka [issue](https://github.com/ekajogja/pemikir/issues) di repositori ini.
+Setiap perubahan pada file Markdown akan secara otomatis memperbarui grafik, linimasa, dan data JSON saat situs dibangun kembali.
 
 ---
 
-**Mari kita abadikan pemikiran anak bangsa, satu profil pada satu waktu.**  
-Terima kasih telah berkontribusi!
+**Mari abadikan pemikiran anak bangsa.**

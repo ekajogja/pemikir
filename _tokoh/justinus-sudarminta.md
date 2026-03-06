@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Justinus Sudarminta
-lahir: 1951
+lahir: '1951'
 wafat: ''
 tempat_lahir: Yogyakarta
 afiliasi: STF Driyarkara
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - etika
   - epistemologi

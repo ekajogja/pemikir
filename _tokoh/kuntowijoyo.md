@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kuntowijoyo
-lahir: 1943
+lahir: '1943'
 wafat: 2005
 tempat_lahir: Bantul, Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM)
-periode: kontemporer
+periode: 1998-2020
 bidang:
   - sejarah
   - sastra

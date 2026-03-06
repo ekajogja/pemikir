@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Yap Thiam Hien
-lahir: 1913
+lahir: '1913'
 wafat: 1989
 tempat_lahir: Kutaraja (Banda Aceh)
 afiliasi: Peradin, LBH (Pendiri), Gereja Kristen Indonesia (GKI)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - hukum
   - hak asasi manusia

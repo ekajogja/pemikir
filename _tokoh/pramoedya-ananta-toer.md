@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Pramoedya Ananta Toer
-lahir: 1925
+lahir: '1925'
 wafat: 2006
 tempat_lahir: Blora, Jawa Tengah
 afiliasi: Lekra, Jurnalis, Sastrawan
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - sastra
   - sejarah

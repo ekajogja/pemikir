@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Alwi Shihab
-lahir: 1946
+lahir: '1946'
 wafat: ''
 tempat_lahir: Rappang, Sidenreng Rappang, Sulawesi Selatan
 afiliasi: Universitas Al-Azhar, Temple University, PKB, Kementerian Luar Negeri
-periode: pasca-kemerdekaan (Reformasi)
+periode: pasca 2020
 bidang:
   - filsafat Islam
   - pluralisme

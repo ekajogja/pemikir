@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Leo Suryadinata
-lahir: 1941
+lahir: '1941'
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: National University of Singapore (NUS), ISEAS - Yusof Ishak Institute, LIPI
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - sinologi
   - ilmu politik

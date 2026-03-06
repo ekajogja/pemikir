@@ -7,7 +7,7 @@ lahir: ''
 wafat: ''
 tempat_lahir: ''
 afiliasi: Kerajaan Majapahit
-periode: klasik (abad 14)
+periode: pra 1900
 bidang:
   - sastra
   - filsafat agama

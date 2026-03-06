@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Jalaluddin Rakhmat
-lahir: 1949
+lahir: '1949'
 wafat: 2021
 tempat_lahir: Bandung, Jawa Barat
 afiliasi: IJABI, Universitas Padjadjaran, PDI-P
-periode: kontemporer
+periode: 1998-2020
 bidang:
   - ilmu komunikasi
   - filsafat Islam

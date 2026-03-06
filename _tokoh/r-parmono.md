@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: R. Parmono
-lahir: 1952
+lahir: '1952'
 wafat: ''
 tempat_lahir: Indonesia
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - filsafat etnik

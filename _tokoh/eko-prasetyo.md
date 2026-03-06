@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Eko Prasetyo
-lahir: 1972
+lahir: '1972'
 wafat: ''
 tempat_lahir: Pacitan, Jawa Timur
 afiliasi: Social Movement Institute (SMI), Resist Book, PUSHAM UII
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - aktivisme
   - hak asasi manusia

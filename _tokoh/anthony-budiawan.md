@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Anthony Budiawan
-lahir: 1963
+lahir: '1963'
 wafat: ''
 tempat_lahir: ''
 afiliasi: Political Economy and Policy Studies (PEPS), Kwik Kian Gie School of Business
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - ekonomi bisnis
   - kebijakan fiskal

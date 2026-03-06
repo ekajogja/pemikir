@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Munir Said Thalib
-lahir: 1965
+lahir: '1965'
 wafat: 2004
 tempat_lahir: Batu, Jawa Timur
 afiliasi: KontraS, Imparsial, LBH Surabaya
-periode: pasca-kemerdekaan (Reformasi)
+periode: 1998-2020
 bidang:
   - hak asasi manusia
   - hukum

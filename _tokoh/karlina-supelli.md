@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Karlina Supelli
-lahir: 1958
+lahir: '1958'
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: STF Driyarkara, Planetarium Jakarta, Suara Ibu Peduli
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - astronomi
   - filsafat sains (kosmologi)

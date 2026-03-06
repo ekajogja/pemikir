@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Abdurrahman Wahid (Gus Dur)
-lahir: 1940
+lahir: '1940'
 wafat: 2009
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (NU), Forum Demokrasi, Partai Kebangkitan Bangsa (PKB)
-periode: pasca-kemerdekaan (Reformasi)
+periode: 1998-2020
 bidang:
   - agama
   - politik

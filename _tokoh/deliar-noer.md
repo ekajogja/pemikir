@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Deliar Noer
-lahir: 1926
+lahir: '1926'
 wafat: 2008
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: IKIP Jakarta, Petisi 50, Griffith University
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - ilmu politik
   - sejarah Islam

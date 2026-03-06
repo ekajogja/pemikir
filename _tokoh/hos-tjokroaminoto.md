@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: H.O.S. Tjokroaminoto
-lahir: 1882
+lahir: '1882'
 wafat: 1934
 tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: Sarekat Islam (SI), PSII
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - politik
   - Islam sosialisme

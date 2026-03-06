@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tan Malaka
-lahir: 1897
+lahir: '1897'
 wafat: 1949
 tempat_lahir: Nagari Pandam Gadang, Suliki, Sumatera Barat
 afiliasi: Partai Komunis Indonesia (PKI), Partai Murba, Pari
-periode: pergerakan
+periode: 1900-1945
 bidang:
   - filsafat
   - politik

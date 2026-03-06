@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hamzah Fansuri
-lahir: Abad ke-16
+lahir: '15xx'
 wafat: ''
 tempat_lahir: Barus (atau Pancur), Sumatera Utara
 afiliasi: Kesultanan Aceh, Tarekat Qadiriyah
-periode: klasik (abad 16-17)
+periode: pra 1900
 bidang:
   - tasawuf
   - sastra Melayu

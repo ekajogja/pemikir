@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: M. Quraish Shihab
-lahir: 1944
+lahir: '1944'
 wafat: ''
 tempat_lahir: Rappang, Sulawesi Selatan
 afiliasi: IAIN Syarif Hidayatullah, Pusat Studi Al-Qur'an (PSQ), Al-Azhar (Mesir)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - tafsir Al-Qur'an
   - teologi

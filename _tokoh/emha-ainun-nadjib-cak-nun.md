@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Emha Ainun Nadjib (Cak Nun)
-lahir: 1953
+lahir: '1953'
 wafat: ''
 tempat_lahir: Menturo, Sumobito, Jombang, Jawa Timur
 afiliasi: Maiyah, Gamelan KiaiKanjeng, Persada Studi Klub
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - budaya
   - sastra

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Notonagoro
-lahir: 1905
+lahir: '1905'
 wafat: 1981
 tempat_lahir: Sragen, Jawa Tengah
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - hukum

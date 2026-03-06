@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Julia Suryakusuma
-lahir: 1954
+lahir: '1954'
 wafat: ''
 tempat_lahir: New Delhi, India
 afiliasi: Jurnal Perempuan, Komunitas Salihara, Yayasan Almanak Politik Indonesia (API)
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - studi gender
   - sosiologi

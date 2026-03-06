@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hamid Fahmy Zarkasyi
-lahir: 1958
+lahir: '1958'
 wafat: ''
 tempat_lahir: Gonto, Ponorogo, Jawa Timur
 afiliasi: Universitas Darussalam Gontor, INSISTS, MIUMI
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - teologi Islam
   - filsafat Islam

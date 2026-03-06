@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sartono Kartodirdjo
-lahir: 1921
+lahir: '1921'
 wafat: 2007
 tempat_lahir: Wonogiri, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - ilmu sejarah
   - historiografi

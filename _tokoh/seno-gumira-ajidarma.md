@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Seno Gumira Ajidarma
-lahir: 1958
+lahir: '1958'
 wafat: ''
 tempat_lahir: Boston, Amerika Serikat
 afiliasi: Institut Kesenian Jakarta (IKJ), Jurnal Jakarta, Komunitas Salihara
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - sastra
   - jurnalisme

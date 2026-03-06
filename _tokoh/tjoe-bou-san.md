@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjoe Bou San
-lahir: 1891
+lahir: '1891'
 wafat: 1925
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pendiri/Pemimpin Redaksi)
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - jurnalisme
   - politik

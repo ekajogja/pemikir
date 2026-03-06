@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Nirwan Ahmad Arsuka
-lahir: 1967
+lahir: '1967'
 wafat: 2023
 tempat_lahir: Barru, Sulawesi Selatan
 afiliasi: Pustaka Bergerak Indonesia, Komunitas Salihara
-periode: kontemporer
+periode: 1998-2020
 bidang:
   - literasi
   - esai

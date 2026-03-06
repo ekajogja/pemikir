@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: H.B. Jassin
-lahir: 1917
+lahir: '1917'
 wafat: 2000
 tempat_lahir: Gorontalo
 afiliasi: Balai Pustaka, Universitas Indonesia, Pusat Dokumentasi Sastra H.B. Jassin
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - kritik sastra
   - dokumentasi sastra

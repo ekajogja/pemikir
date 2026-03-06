@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Widjojo Nitisastro
-lahir: 1927
+lahir: '1927'
 wafat: 2012
 tempat_lahir: Malang, Jawa Timur
 afiliasi: Bappenas, Fakultas Ekonomi UI, Mafia Berkeley
-periode: pasca-kemerdekaan (Orde Baru)
+periode: 1965-1998
 bidang:
   - ekonomi
   - perencanaan pembangunan

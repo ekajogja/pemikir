@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Chairil Anwar
-lahir: 1922
+lahir: '1922'
 wafat: 1949
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: Pelopor Angkatan '45, Redaktur "Gelanggang"
-periode: pra-kemerdekaan / transisi
+periode: 1900-1945
 bidang:
   - puisi
   - sastra modern

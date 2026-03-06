@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Affandi
-lahir: 1907
+lahir: '1907'
 wafat: 1990
 tempat_lahir: Cirebon, Jawa Barat
 afiliasi: Pelukis Rakyat, Sanggar Bambu, LKN (Lembaga Kebudayaan Nasional)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - seni lukis
   - estetika

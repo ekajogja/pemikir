@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hamka (Haji Abdul Malik Karim Amrullah)
-lahir: 1908
+lahir: '1908'
 wafat: 1981
 tempat_lahir: Tanah Sirah, Agam, Sumatera Barat
 afiliasi: Muhammadiyah, Majelis Ulama Indonesia (MUI), Masyumi
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - tafsir Al-Qur'an
   - sastra

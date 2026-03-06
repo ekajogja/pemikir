@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ichsanuddin Noorsy
-lahir: 1958
+lahir: '1958'
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: Universitas Gadjah Mada (Pusat Studi Kerakyatan), KS212
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - ekonomi politik
   - hukum tata negara

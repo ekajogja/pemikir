@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Franz Magnis-Suseno
-lahir: 1936
+lahir: '1936'
 wafat: ''
 tempat_lahir: Eckersdorf, Jerman
 afiliasi: Sekolah Tinggi Filsafat Driyarkara
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - etika
   - filsafat politik

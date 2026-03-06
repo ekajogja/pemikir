@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Armahedi Mahzar
-lahir: 1943
+lahir: '1943'
 wafat: ''
 tempat_lahir: Genteng, Banyuwangi, Jawa Timur
 afiliasi: Institut Teknologi Bandung (ITB), Masjid Salman ITB
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - fisika
   - filsafat Islam

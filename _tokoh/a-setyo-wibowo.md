@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: A. Setyo Wibowo
-lahir: 1973
+lahir: '1973'
 wafat: ''
 tempat_lahir: Indonesia
 afiliasi: STF Driyarkara
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat klasik
   - fenomenologi

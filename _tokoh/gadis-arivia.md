@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Gadis Arivia
-lahir: 1964
+lahir: '1964'
 wafat: ''
 tempat_lahir: New Delhi, India
 afiliasi: Universitas Indonesia, Jurnal Perempuan
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat
   - feminisme

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mulyadhi Kartanegara
-lahir: 1959
+lahir: '1959'
 wafat: ''
 tempat_lahir: Tangerang, Banten
 afiliasi: UIN Syarif Hidayatullah Jakarta
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat Islam
   - tasawuf

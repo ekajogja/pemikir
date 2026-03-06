@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Dandhy Laksono
-lahir: 1976
+lahir: '1976'
 wafat: ''
 tempat_lahir: Lumajang, Jawa Timur
 afiliasi: Watchdoc, Aliansi Jurnalis Independen (AJI), Ekspedisi Indonesia Baru
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - jurnalisme investigasi
   - film dokumenter

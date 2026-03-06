@@ -94,11 +94,11 @@ layout: tokoh
 nama: Nama Lengkap Tokoh
 kontributor: Nama Lengkap Kontributor
 diperbarui: YYYY-MM-DD          # Wajib diisi: tanggal terakhir entri ini diperbarui
-lahir: YYYY-MM-DD          # format ISO 8601; isi perkiraan jika tidak pasti
-wafat: YYYY-MM-DD          # kosongkan jika masih hidup
+lahir: 'YYYY'                  # Wajib string (tanda kutip); gunakan '15xx' jika tidak pasti
+wafat: 'YYYY'                  # kosongkan ('') jika masih hidup
 tempat_lahir: Kota, Provinsi/Wilayah
 afiliasi: Institusi/Organisasi (pisahkan dengan koma jika lebih dari satu)
-periode: klasik            # pilih salah satu: klasik | pergerakan | pasca-kemerdekaan | kontemporer
+periode: 1998-2020             # pilih salah satu rentang tahun di bawah
 bidang:                    # satu atau lebih bidang
   - filsafat
   - sastra
@@ -129,12 +129,16 @@ Paragraf berikutnya bisa mengulas pemikiran, karya, perjalanan hidup, atau kontr
 
 ### Nilai Valid untuk Field `periode`
 
-| Nilai | Rentang Waktu (Perkiraan) |
-|-------|--------------------------|
-| `klasik` | Sebelum abad ke-20 |
-| `pergerakan` | 1900–1945 (era pergerakan nasional) |
-| `pasca-kemerdekaan` | 1945–1998 |
-| `kontemporer` | 1998–sekarang |
+Pilih periode berdasarkan **masa aktif/pengaruh utama** sang tokoh:
+
+| Nilai | Keterangan |
+|-------|------------|
+| `pra 1900` | Era klasik, tradisional, hingga akhir abad ke-19 |
+| `1900-1945` | Era Pergerakan Nasional hingga kemerdekaan |
+| `1945-1965` | Era Orde Lama / Awal Kemerdekaan |
+| `1965-1998` | Era Orde Baru |
+| `1998-2020` | Era Reformasi hingga awal dekade 2020 |
+| `pasca 2020` | Tokoh yang masih sangat aktif di masa sekarang |
 
 ### Nilai Contoh untuk Field `bidang`
 

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Emil Salim
-lahir: 1930
+lahir: '1930'
 wafat: ''
 tempat_lahir: Lahat, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Lingkungan Hidup, Mafia Berkeley
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - ekonomi pembangunan
   - etika lingkungan

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Damardjati Soepadjar
-lahir: 1934
+lahir: '1934'
 wafat: 2009
 tempat_lahir: Yogyakarta
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - metafisika

@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sunoto
-lahir: 1929
+lahir: '1929'
 wafat: 2000
 tempat_lahir: Indonesia
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - filsafat Pancasila

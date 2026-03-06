@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Taufik Abdullah
-lahir: 1936
+lahir: '1936'
 wafat: ''
 tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: LIPI (BRIN), Universitas Gadjah Mada, Akademi Ilmu Pengetahuan Indonesia (AIPI)
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - ilmu sejarah
   - sosiologi sejarah

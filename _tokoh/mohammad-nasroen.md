@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mohammad Nasroen
-lahir: 1907
+lahir: '1907'
 wafat: 1968
 tempat_lahir: Lubuk Sikaping, Pasaman, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Kehakiman
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - filsafat
   - hukum

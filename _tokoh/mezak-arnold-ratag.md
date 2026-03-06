@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mezak Arnold Ratag
-lahir: 1962
+lahir: '1962'
 wafat: 2020
 tempat_lahir: Manado, Sulawesi Utara
 afiliasi: Institut Teknologi Bandung (ITB), LAPAN
-periode: kontemporer
+periode: 1998-2020
 bidang:
   - astronomi
   - astrofisika

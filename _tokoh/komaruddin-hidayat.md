@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Komaruddin Hidayat
-lahir: 1953
+lahir: '1953'
 wafat: ''
 tempat_lahir: Magelang, Jawa Tengah
 afiliasi: UIN Syarif Hidayatullah, UIII, Paramadina
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat agama
   - hermeneutika

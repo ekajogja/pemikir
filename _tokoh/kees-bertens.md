@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kees Bertens
-lahir: 1936
+lahir: '1936'
 wafat: 2024
 tempat_lahir: Tilburg, Belanda
 afiliasi: Serikat Misionaris Hati Kudus (MSC), Unika Atma Jaya, STF Driyarkara
-periode: pasca-kemerdekaan
+periode: 1945-1965
 bidang:
   - etika
   - sejarah filsafat

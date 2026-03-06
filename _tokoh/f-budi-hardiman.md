@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: F. Budi Hardiman
-lahir: 1962
+lahir: '1962'
 wafat: ''
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: STF Driyarkara, Universitas Pelita Harapan
-periode: kontemporer
+periode: pasca 2020
 bidang:
   - filsafat
   - teori kritis

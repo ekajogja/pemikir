@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kwee Hing Tjiat
-lahir: 1891
+lahir: '1891'
 wafat: 1939
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Sin Po (Mantan Pemred), Harian Matahari, PTI (Simpatisan)
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - jurnalisme
   - politik

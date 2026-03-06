@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Agus Salim
-lahir: 1884
+lahir: '1884'
 wafat: 1954
 tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Sarekat Islam, Panitia Sembilan, Menteri Luar Negeri RI ke-3
-periode: pra-kemerdekaan / pasca-kemerdekaan
+periode: 1900-1945
 bidang:
   - diplomasi
   - jurnalisme

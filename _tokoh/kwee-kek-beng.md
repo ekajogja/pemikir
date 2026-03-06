@@ -3,11 +3,11 @@ layout: tokoh
 kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kwee Kek Beng
-lahir: 1900
+lahir: '1900'
 wafat: 1975
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pemimpin Redaksi)
-periode: pra-kemerdekaan
+periode: 1900-1945
 bidang:
   - jurnalisme
   - politik
