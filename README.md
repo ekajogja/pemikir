@@ -164,10 +164,9 @@ Setiap Pull Request akan ditinjau oleh pengelola. Jika ada kekurangan, kami akan
 
 ## Lisensi
 
-- **Kode sumber** (HTML, CSS, JavaScript, konfigurasi Jekyll) dilisensikan di bawah **MIT License** (lihat file [LICENSE](LICENSE)).
-- **Konten teks** (profil tokoh) dilisensikan di bawah **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Anda bebas menggunakan, membagikan, dan menggubah konten selama mencantumkan atribusi ke proyek ini dan membagikan turunan dengan lisensi yang sama.
+Seluruh isi situs ini—termasuk konten teks (profil tokoh), kode sumber (HTML, CSS, JavaScript), dan konfigurasi—dilisensikan di bawah **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
 
-Dengan lisensi ini, kami berharap data dapat digunakan seluas-luasnya untuk kepentingan pendidikan dan riset.
+Anda bebas untuk menyalin, memodifikasi, mendistribusikan, dan menampilkan karya tersebut, bahkan untuk tujuan komersial, semuanya tanpa meminta izin. Kami tetap menghargai jika Anda memberikan atribusi kembali ke proyek ini sebagai bentuk dukungan terhadap keterbukaan data.
 
 ## Kontak
 

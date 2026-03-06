@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'id' }}">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description"
+    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <!-- Google Fonts: Cinzel only -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,7 +17,8 @@
   {% feed_meta %}
   {% seo %}
 </head>
-<body>
+
+<body class="layout-{{ page.layout | default: 'default' }}">
   {%- include header.html -%}
 
   <main class="page-content" aria-label="Konten">
@@ -26,4 +29,5 @@
 
   {%- include footer.html -%}
 </body>
+
 </html>
