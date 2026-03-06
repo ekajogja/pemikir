@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Goenawan Mohamad
-lahir: 1941-07-29
+lahir: 1941
 wafat: ''
 tempat_lahir: Batang, Jawa Tengah
 afiliasi: Majalah Tempo, Komunitas Salihara, Manifes Kebudayaan

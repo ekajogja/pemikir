@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Zen RS
-lahir: 1981-04-18
+lahir: 1981
 wafat: ''
 tempat_lahir: Cirebon, Jawa Barat
 afiliasi: PanditFootball, Narasi TV, Tirto.id

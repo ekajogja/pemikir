@@ -30,14 +30,14 @@ layout: default
             {% if page.lahir %}
             <tr>
                 <td>Lahir</td>
-                <td>{{ page.lahir | date: "%-d %B %Y" }}{% if page.tempat_lahir %}<br><em>{{ page.tempat_lahir }}</em>{%
+                <td>{{ page.lahir }}{% if page.tempat_lahir %}<br><em>{{ page.tempat_lahir }}</em>{%
                     endif %}</td>
             </tr>
             {% endif %}
             {% if page.wafat %}
             <tr>
                 <td>Wafat</td>
-                <td>{{ page.wafat | date: "%-d %B %Y" }}</td>
+                <td>{{ page.wafat }}</td>
             </tr>
             {% endif %}
             {% if page.afiliasi %}

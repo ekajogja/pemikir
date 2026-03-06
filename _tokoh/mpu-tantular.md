@@ -1,6 +1,6 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mpu Tantular
 lahir: ''

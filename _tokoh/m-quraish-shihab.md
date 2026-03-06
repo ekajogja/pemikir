@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: M. Quraish Shihab
-lahir: 1944-02-16
+lahir: 1944
 wafat: ''
 tempat_lahir: Rappang, Sulawesi Selatan
 afiliasi: IAIN Syarif Hidayatullah, Pusat Studi Al-Qur'an (PSQ), Al-Azhar (Mesir)

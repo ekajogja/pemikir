@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Musdah Mulia
-lahir: 1958-03-03
+lahir: 1958
 wafat: ''
 tempat_lahir: Bone, Sulawesi Selatan
 afiliasi: UIN Syarif Hidayatullah, ICRP, ITP

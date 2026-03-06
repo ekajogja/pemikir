@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Koentjaraningrat
-lahir: 1923-06-15
-wafat: 1999-03-23
+lahir: 1923
+wafat: 1999
 tempat_lahir: Yogyakarta
 afiliasi: Universitas Indonesia, Lembaga Ilmu Pengetahuan Indonesia (LIPI)
 periode: pasca-kemerdekaan

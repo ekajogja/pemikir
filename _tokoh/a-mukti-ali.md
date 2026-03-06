@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: A. Mukti Ali
-lahir: 1923-08-23
-wafat: 2004-05-05
+lahir: 1923
+wafat: 2004
 tempat_lahir: Cepu, Jawa Tengah
 afiliasi: IAIN Sunan Kalijaga, Kementerian Agama RI
 periode: pasca-kemerdekaan (Orde Baru)

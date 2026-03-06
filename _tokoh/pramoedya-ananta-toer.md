@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Pramoedya Ananta Toer
-lahir: 1925-02-06
-wafat: 2006-04-30
+lahir: 1925
+wafat: 2006
 tempat_lahir: Blora, Jawa Tengah
 afiliasi: Lekra, Jurnalis, Sastrawan
 periode: pasca-kemerdekaan

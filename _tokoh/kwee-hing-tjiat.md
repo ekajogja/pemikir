@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kwee Hing Tjiat
 lahir: 1891
-wafat: 1939-09-27
+wafat: 1939
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Sin Po (Mantan Pemred), Harian Matahari, PTI (Simpatisan)
 periode: pra-kemerdekaan

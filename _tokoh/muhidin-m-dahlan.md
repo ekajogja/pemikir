@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Muhidin M. Dahlan
-lahir: 1978-05-12
+lahir: 1978
 wafat: ''
 tempat_lahir: Donggala, Sulawesi Tengah
 afiliasi: Indonesia Buku (iBuku), Warung Arsip, Radio Buku

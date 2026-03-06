@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Justinus Sudarminta
-lahir: 1951-04-12
+lahir: 1951
 wafat: ''
 tempat_lahir: Yogyakarta
 afiliasi: STF Driyarkara

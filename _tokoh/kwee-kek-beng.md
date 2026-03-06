@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kwee Kek Beng
-lahir: 1900-11-16
-wafat: 1975-05-31
+lahir: 1900
+wafat: 1975
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pemimpin Redaksi)
 periode: pra-kemerdekaan

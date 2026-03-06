@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mohammad Nasroen
-lahir: 1907-10-29
-wafat: 1968-09-28
+lahir: 1907
+wafat: 1968
 tempat_lahir: Lubuk Sikaping, Pasaman, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Kehakiman
 periode: pasca-kemerdekaan

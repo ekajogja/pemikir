@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Nurcholish Madjid
-lahir: 1939-03-17
-wafat: 2005-08-29
+lahir: 1939
+wafat: 2005
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: HMI (Himpunan Mahasiswa Islam), Paramadina, Universitas Paramadina, IAIN Syarif Hidayatullah
 periode: pasca-kemerdekaan

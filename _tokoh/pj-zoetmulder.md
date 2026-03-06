@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: P.J. Zoetmulder
-lahir: 1906-01-29
-wafat: 1995-07-08
+lahir: 1906
+wafat: 1995
 tempat_lahir: Utrecht, Belanda
 afiliasi: Fakultas Sastra Universitas Gadjah Mada (UGM)
 periode: pasca-kemerdekaan

@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Musa Asy’arie
-lahir: 1951-12-31
+lahir: 1951
 wafat: ''
 tempat_lahir: Pekajangan, Pekalongan, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Muhammadiyah

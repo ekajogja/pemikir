@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Y.B. Mangunwijaya
-lahir: 1929-05-06
-wafat: 1999-02-10
+lahir: 1929
+wafat: 1999
 tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: Gereja Katolik, STF Driyarkara, Dinamika Edukasi Dasar
 periode: pasca-kemerdekaan

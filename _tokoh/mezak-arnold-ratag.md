@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mezak Arnold Ratag
-lahir: 1962-09-24
-wafat: 2020-02-22
+lahir: 1962
+wafat: 2020
 tempat_lahir: Manado, Sulawesi Utara
 afiliasi: Institut Teknologi Bandung (ITB), LAPAN
 periode: kontemporer

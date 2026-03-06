@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Antariksa
-lahir: 1971-01-01
+lahir: 1971
 wafat: ''
 tempat_lahir: Yogyakarta
 afiliasi: KUNCI Cultural Studies Center (Yogyakarta)

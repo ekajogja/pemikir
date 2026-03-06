@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Joe Hin Tjio
-lahir: 1919-11-02
-wafat: 2001-11-27
+lahir: 1919
+wafat: 2001
 tempat_lahir: Pekalongan, Jawa Tengah
 afiliasi: Universitas Lund (Swedia), NIH (Amerika Serikat)
 periode: pasca-kemerdekaan

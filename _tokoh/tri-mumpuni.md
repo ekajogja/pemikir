@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tri Mumpuni
-lahir: 1964-08-06
+lahir: 1964
 wafat: ''
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: IBEKA (Institut Bisnis dan Ekonomi Kerakyatan), BRIN

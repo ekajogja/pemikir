@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ignatius Bambang Sugiharto
-lahir: 1956-03-06
+lahir: 1956
 wafat: ''
 tempat_lahir: Tasikmalaya, Jawa Barat
 afiliasi: Universitas Katolik Parahyangan (Unpar)

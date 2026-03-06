@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ahmad Syafii Maarif
-lahir: 1935-05-31
-wafat: 2022-05-27
+lahir: 1935
+wafat: 2022
 tempat_lahir: Sumpur Kudus, Sumatera Barat
 afiliasi: Muhammadiyah, Maarif Institute, IKIP Yogyakarta
 periode: pasca-kemerdekaan (Reformasi)

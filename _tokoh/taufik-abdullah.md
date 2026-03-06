@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Taufik Abdullah
-lahir: 1936-01-03
+lahir: 1936
 wafat: ''
 tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: LIPI (BRIN), Universitas Gadjah Mada, Akademi Ilmu Pengetahuan Indonesia (AIPI)

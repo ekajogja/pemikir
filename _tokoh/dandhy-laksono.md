@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Dandhy Laksono
-lahir: 1976-06-29
+lahir: 1976
 wafat: ''
 tempat_lahir: Lumajang, Jawa Timur
 afiliasi: Watchdoc, Aliansi Jurnalis Independen (AJI), Ekspedisi Indonesia Baru

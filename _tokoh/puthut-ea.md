@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Puthut EA
-lahir: 1977-03-28
+lahir: 1977
 wafat: ''
 tempat_lahir: Rembang, Jawa Tengah
 afiliasi: Mojok.co, Akademi Menulis Jepara, INSIST

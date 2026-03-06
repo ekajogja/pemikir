@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjokorda Raka Sukawati
-lahir: 1931-05-03
-wafat: 2014-11-11
+lahir: 1931
+wafat: 2014
 tempat_lahir: Ubud, Bali
 afiliasi: Hutama Karya, Universitas Gadjah Mada
 periode: pasca-kemerdekaan

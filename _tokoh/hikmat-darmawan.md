@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hikmat Darmawan
-lahir: 1970-01-01
+lahir: 1970
 wafat: ''
 tempat_lahir: ''
 afiliasi: Akademi Samali, DKJ (Dewan Kesenian Jakarta), Madani Film Festival

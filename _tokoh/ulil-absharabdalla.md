@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ulil Abshar-Abdalla
-lahir: 1967-01-11
+lahir: 1967
 wafat: ''
 tempat_lahir: Pati, Jawa Tengah
 afiliasi: Jaringan Islam Liberal (JIL), Nahdlatul Ulama, Komunitas Ghazaly Academy

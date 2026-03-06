@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sutan Takdir Alisjahbana
-lahir: 1908-02-11
-wafat: 1994-07-17
+lahir: 1908
+wafat: 1994
 tempat_lahir: Natal, Sumatera Utara
 afiliasi: Poedjangga Baroe, Universitas Nasional
 periode: pergerakan

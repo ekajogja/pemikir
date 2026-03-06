@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: F. Budi Hardiman
-lahir: 1962-07-31
+lahir: 1962
 wafat: ''
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: STF Driyarkara, Universitas Pelita Harapan

@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: B.J. Habibie
-lahir: 1936-06-25
-wafat: 2019-09-11
+lahir: 1936
+wafat: 2019
 tempat_lahir: Parepare, Sulawesi Selatan
 afiliasi: Messerschmitt-Bölkow-Blohm, PT DI (IPTN), ICMI, Presiden RI ke-3
 periode: pasca-kemerdekaan (Orde Baru / Reformasi)

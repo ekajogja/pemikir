@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Hasyim Asy’ari
-lahir: 1871-02-14
-wafat: 1947-07-25
+lahir: 1871
+wafat: 1947
 tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (Pendiri/Rais Akbar), Pondok Pesantren Tebuireng
 periode: pra-kemerdekaan

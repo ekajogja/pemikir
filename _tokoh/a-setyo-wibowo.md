@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: A. Setyo Wibowo
-lahir: 1973-01-01
+lahir: 1973
 wafat: ''
 tempat_lahir: Indonesia
 afiliasi: STF Driyarkara

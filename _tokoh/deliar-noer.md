@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Deliar Noer
-lahir: 1926-02-09
-wafat: 2008-06-18
+lahir: 1926
+wafat: 2008
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: IKIP Jakarta, Petisi 50, Griffith University
 periode: pasca-kemerdekaan

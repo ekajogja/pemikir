@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ichsanuddin Noorsy
-lahir: 1958-09-09
+lahir: 1958
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: Universitas Gadjah Mada (Pusat Studi Kerakyatan), KS212

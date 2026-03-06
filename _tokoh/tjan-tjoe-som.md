@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjan Tjoe Som
-lahir: 1903-10-26
-wafat: 1969-02-14
+lahir: 1903
+wafat: 1969
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Universitas Indonesia (Fakultas Sastra), Lembaga Sinologi
 periode: pasca-kemerdekaan

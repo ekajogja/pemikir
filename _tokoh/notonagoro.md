@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Notonagoro
-lahir: 1905-12-10
-wafat: 1981-09-23
+lahir: 1905
+wafat: 1981
 tempat_lahir: Sragen, Jawa Tengah
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: pasca-kemerdekaan

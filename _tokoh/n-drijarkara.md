@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: N. Drijarkara
-lahir: 1913-06-13
-wafat: 1967-02-11
+lahir: 1913
+wafat: 1967
 tempat_lahir: Kedunggubah, Purworejo, Jawa Tengah
 afiliasi: Serikat Yesus (Jesuit), STF Driyarkara (Pendiri), Sanata Dharma
 periode: pasca-kemerdekaan

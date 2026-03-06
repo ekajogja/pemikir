@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Jakob Sumardjo
-lahir: 1939-08-12
+lahir: 1939
 wafat: ''
 tempat_lahir: Klaten, Jawa Tengah
 afiliasi: Institut Seni Budaya Indonesia (ISBI) Bandung, ITB

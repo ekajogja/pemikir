@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Saras Dewi
-lahir: 1983-09-16
+lahir: 1983
 wafat: ''
 tempat_lahir: Denpasar, Bali
 afiliasi: Universitas Indonesia, Gerakan Bali Tolak Reklamasi

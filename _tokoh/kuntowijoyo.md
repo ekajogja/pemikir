@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kuntowijoyo
-lahir: 1943-09-18
-wafat: 2005-02-22
+lahir: 1943
+wafat: 2005
 tempat_lahir: Bantul, Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM)
 periode: kontemporer

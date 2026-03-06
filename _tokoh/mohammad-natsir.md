@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mohammad Natsir
-lahir: 1908-07-17
-wafat: 1993-02-06
+lahir: 1908
+wafat: 1993
 tempat_lahir: Alahan Panjang, Sumatera Barat
 afiliasi: Partai Masyumi, Perdana Menteri RI ke-5, DDII
 periode: pra-kemerdekaan / pasca-kemerdekaan

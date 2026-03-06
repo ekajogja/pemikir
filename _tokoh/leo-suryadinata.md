@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Leo Suryadinata
-lahir: 1941-02-21
+lahir: 1941
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: National University of Singapore (NUS), ISEAS - Yusof Ishak Institute, LIPI

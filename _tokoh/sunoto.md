@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sunoto
-lahir: 1929-01-01
-wafat: 2000-01-01
+lahir: 1929
+wafat: 2000
 tempat_lahir: Indonesia
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: pasca-kemerdekaan

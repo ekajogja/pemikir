@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Rosihan Anwar
-lahir: 1922-05-10
-wafat: 2011-04-14
+lahir: 1922
+wafat: 2011
 tempat_lahir: Kubu Gadang, Sumatera Barat
 afiliasi: Harian Pedoman, PWI, Perfini
 periode: pasca-kemerdekaan

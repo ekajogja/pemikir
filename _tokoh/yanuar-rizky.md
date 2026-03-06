@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Yanuar Rizky
-lahir: 1973-01-01
+lahir: 1973
 wafat: ''
 tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Bursa Efek Jakarta (BEI), PT Pupuk Indonesia, INDEF

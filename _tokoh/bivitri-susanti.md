@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Bivitri Susanti
-lahir: 1974-10-05
+lahir: 1974
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: PSHK (Pusat Studi Hukum dan Kebijakan), STH Indonesia Jentera

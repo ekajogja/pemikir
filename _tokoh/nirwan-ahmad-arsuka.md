@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Nirwan Ahmad Arsuka
-lahir: 1967-09-05
-wafat: 2023-08-06
+lahir: 1967
+wafat: 2023
 tempat_lahir: Barru, Sulawesi Selatan
 afiliasi: Pustaka Bergerak Indonesia, Komunitas Salihara
 periode: kontemporer

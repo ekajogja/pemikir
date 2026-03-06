@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Franz Magnis-Suseno
-lahir: 1936-05-26
+lahir: 1936
 wafat: ''
 tempat_lahir: Eckersdorf, Jerman
 afiliasi: Sekolah Tinggi Filsafat Driyarkara

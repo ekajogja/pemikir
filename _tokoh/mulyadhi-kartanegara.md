@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mulyadhi Kartanegara
-lahir: 1959-06-11
+lahir: 1959
 wafat: ''
 tempat_lahir: Tangerang, Banten
 afiliasi: UIN Syarif Hidayatullah Jakarta

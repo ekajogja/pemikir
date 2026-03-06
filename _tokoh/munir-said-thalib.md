@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Munir Said Thalib
-lahir: 1965-12-08
-wafat: 2004-09-07
+lahir: 1965
+wafat: 2004
 tempat_lahir: Batu, Jawa Timur
 afiliasi: KontraS, Imparsial, LBH Surabaya
 periode: pasca-kemerdekaan (Reformasi)

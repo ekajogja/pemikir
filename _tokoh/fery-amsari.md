@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Fery Amsari
-lahir: 1980-10-02
+lahir: 1980
 wafat: ''
 tempat_lahir: Padang, Sumatera Barat
 afiliasi: Universitas Andalas (FH UNAND), PUSaKO

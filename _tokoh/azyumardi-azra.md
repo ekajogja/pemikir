@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Azyumardi Azra
-lahir: 1955-03-04
-wafat: 2022-09-18
+lahir: 1955
+wafat: 2022
 tempat_lahir: Lubuk Alung, Sumatera Barat
 afiliasi: UIN Syarif Hidayatullah Jakarta, Dewan Pers, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: kontemporer

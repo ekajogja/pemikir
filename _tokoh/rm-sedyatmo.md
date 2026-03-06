@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: RM Sedyatmo
-lahir: 1909-10-24
-wafat: 1984-07-15
+lahir: 1909
+wafat: 1984
 tempat_lahir: Karanganyar, Jawa Tengah
 afiliasi: Institut Teknologi Bandung (ITB), PLN
 periode: pasca-kemerdekaan

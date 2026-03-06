@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Soedirman
-lahir: 1916-01-24
-wafat: 1950-01-29
+lahir: 1916
+wafat: 1950
 tempat_lahir: Purbalingga, Jawa Tengah
 afiliasi: Muhammadiyah, PETA, TNI (Panglima Besar pertama)
 periode: pra-kemerdekaan / transisi

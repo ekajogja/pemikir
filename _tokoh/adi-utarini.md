@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Adi Utarini
-lahir: 1965-06-04
+lahir: 1965
 wafat: ''
 tempat_lahir: Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM), World Mosquito Program (WMP)

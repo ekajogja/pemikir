@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Heri Priyatmoko
-lahir: 1985-01-01
+lahir: 1985
 wafat: ''
 tempat_lahir: Solo (Surakarta), Jawa Tengah
 afiliasi: Universitas Sanata Dharma, Solo Societeit

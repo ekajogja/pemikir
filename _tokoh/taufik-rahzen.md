@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Taufik Rahzen
-lahir: 1960-01-01
+lahir: 1960
 wafat: ''
 tempat_lahir: Sumbawa, Nusa Tenggara Barat
 afiliasi: Universitas Gadjah Mada, Komunitas Salihara, Borobudur Writers & Cultural Festival

@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tan Ling Djie
-lahir: 1904-08-05
+lahir: 1904
 wafat: 1970
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Partai Komunis Indonesia (PKI), Partai Sosialis

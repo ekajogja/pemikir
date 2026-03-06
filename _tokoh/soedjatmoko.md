@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Soedjatmoko
-lahir: 1922-01-10
-wafat: 1989-12-21
+lahir: 1922
+wafat: 1989
 tempat_lahir: Sawahlunto, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PBB, Universitas PBB (UNU)
 periode: pasca-kemerdekaan

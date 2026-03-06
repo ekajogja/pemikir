@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Fuad Hassan
-lahir: 1929-06-26
-wafat: 2007-12-07
+lahir: 1929
+wafat: 2007
 tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Universitas Indonesia, Kementerian Pendidikan dan Kebudayaan
 periode: pasca-kemerdekaan

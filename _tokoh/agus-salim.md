@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Agus Salim
-lahir: 1884-10-08
-wafat: 1954-11-04
+lahir: 1884
+wafat: 1954
 tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Sarekat Islam, Panitia Sembilan, Menteri Luar Negeri RI ke-3
 periode: pra-kemerdekaan / pasca-kemerdekaan

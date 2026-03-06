@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sri-Edi Swasono
-lahir: 1940-09-16
+lahir: 1940
 wafat: ''
 tempat_lahir: Ngawi, Jawa Timur
 afiliasi: Universitas Indonesia, Dewan Koperasi Indonesia (Dekopin)

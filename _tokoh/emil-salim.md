@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Emil Salim
-lahir: 1930-06-08
+lahir: 1930
 wafat: ''
 tempat_lahir: Lahat, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Lingkungan Hidup, Mafia Berkeley

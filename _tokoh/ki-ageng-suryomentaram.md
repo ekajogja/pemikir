@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ki Ageng Suryomentaram
-lahir: 1892-05-20
-wafat: 1962-03-18
+lahir: 1892
+wafat: 1962
 tempat_lahir: Yogyakarta (Keraton)
 afiliasi: Kawruh Begja, Front Pembebasan Irian Barat
 periode: pra-kemerdekaan / pasca-kemerdekaan

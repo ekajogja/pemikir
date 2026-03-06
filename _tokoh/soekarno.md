@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Soekarno
-lahir: 1901-06-06
-wafat: 1970-06-21
+lahir: 1901
+wafat: 1970
 tempat_lahir: Surabaya, Jawa Timur
 afiliasi: PNI, BPUPKI, Presiden RI pertama
 periode: pra-kemerdekaan / pasca-kemerdekaan

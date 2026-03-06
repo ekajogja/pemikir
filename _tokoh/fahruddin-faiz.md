@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Fahruddin Faiz
-lahir: 1975-08-16
+lahir: 1975
 wafat: ''
 tempat_lahir: Mojokerto, Jawa Timur
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Masjid Jenderal Sudirman Yogyakarta

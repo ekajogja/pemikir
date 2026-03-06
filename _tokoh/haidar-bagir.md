@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Haidar Bagir
-lahir: 1957-02-20
+lahir: 1957
 wafat: ''
 tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Mizan Group, Yasmin Foundation, Lazuardi Hayati

@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Karlina Supelli
-lahir: 1958-01-15
+lahir: 1958
 wafat: ''
 tempat_lahir: Jakarta
 afiliasi: STF Driyarkara, Planetarium Jakarta, Suara Ibu Peduli

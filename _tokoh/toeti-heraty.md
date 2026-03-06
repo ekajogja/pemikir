@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Toeti Heraty
-lahir: 1933-11-27
-wafat: 2021-06-13
+lahir: 1933
+wafat: 2021
 tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Indonesia, Jurnal Perempuan, Institut Kesenian Jakarta (IKJ)
 periode: pasca-kemerdekaan

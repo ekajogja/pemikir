@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Faisal Basri
-lahir: 1959-11-06
-wafat: 2024-09-05
+lahir: 1959
+wafat: 2024
 tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Universitas Indonesia (FEUI), INDEF, Tim Reformasi Tata Kelola Migas
 periode: kontemporer

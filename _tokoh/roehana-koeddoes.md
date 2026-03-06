@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Roehana Koeddoes
-lahir: 1884-12-20
-wafat: 1972-08-17
+lahir: 1884
+wafat: 1972
 tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Soenting Melajoe (Pendiri), Amai Setia
 periode: pra-kemerdekaan

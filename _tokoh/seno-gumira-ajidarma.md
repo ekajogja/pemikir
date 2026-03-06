@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Seno Gumira Ajidarma
-lahir: 1958-06-19
+lahir: 1958
 wafat: ''
 tempat_lahir: Boston, Amerika Serikat
 afiliasi: Institut Kesenian Jakarta (IKJ), Jurnal Jakarta, Komunitas Salihara

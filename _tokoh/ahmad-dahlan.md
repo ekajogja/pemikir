@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ahmad Dahlan
-lahir: 1868-08-01
-wafat: 1923-02-23
+lahir: 1868
+wafat: 1923
 tempat_lahir: Yogyakarta (Kauman)
 afiliasi: Muhammadiyah (Pendiri)
 periode: pra-kemerdekaan

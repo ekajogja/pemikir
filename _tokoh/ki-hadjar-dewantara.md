@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Ki Hadjar Dewantara
-lahir: 1889-05-02
-wafat: 1959-04-26
+lahir: 1889
+wafat: 1959
 tempat_lahir: Yogyakarta
 afiliasi: Taman Siswa, PNI, Indische Partij
 periode: pergerakan

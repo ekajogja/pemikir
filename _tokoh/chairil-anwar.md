@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Chairil Anwar
-lahir: 1922-07-26
-wafat: 1949-04-28
+lahir: 1922
+wafat: 1949
 tempat_lahir: Medan, Sumatera Utara
 afiliasi: Pelopor Angkatan '45, Redaktur "Gelanggang"
 periode: pra-kemerdekaan / transisi

@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Sutan Sjahrir
-lahir: 1909-03-05
-wafat: 1966-04-09
+lahir: 1909
+wafat: 1966
 tempat_lahir: Padang Panjang, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PNI Baru
 periode: pergerakan

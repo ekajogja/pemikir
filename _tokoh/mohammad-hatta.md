@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Mohammad Hatta
-lahir: 1902-08-12
-wafat: 1980-03-14
+lahir: 1902
+wafat: 1980
 tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: Perhimpunan Indonesia, PNI Baru, Wakil Presiden RI
 periode: pergerakan

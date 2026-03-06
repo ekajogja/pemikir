@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Rizal Ramli
-lahir: 1954-12-10
-wafat: 2024-01-02
+lahir: 1954
+wafat: 2024
 tempat_lahir: Padang, Sumatera Barat
 afiliasi: ECONIT Advisory Group, Menko Ekuin, Menteri Keuangan, Menko Kemaritiman
 periode: kontemporer

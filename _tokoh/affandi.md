@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Affandi
-lahir: 1907-05-23
-wafat: 1990-05-23
+lahir: 1907
+wafat: 1990
 tempat_lahir: Cirebon, Jawa Barat
 afiliasi: Pelukis Rakyat, Sanggar Bambu, LKN (Lembaga Kebudayaan Nasional)
 periode: pasca-kemerdekaan

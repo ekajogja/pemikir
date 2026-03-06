@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Okky Madasari
-lahir: 1984-10-30
+lahir: 1984
 wafat: ''
 tempat_lahir: Magetan, Jawa Timur
 afiliasi: OM Institute, National University of Singapore (NUS)

@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Kees Bertens
-lahir: 1936-06-29
-wafat: 2024-07-19
+lahir: 1936
+wafat: 2024
 tempat_lahir: Tilburg, Belanda
 afiliasi: Serikat Misionaris Hati Kudus (MSC), Unika Atma Jaya, STF Driyarkara
 periode: pasca-kemerdekaan

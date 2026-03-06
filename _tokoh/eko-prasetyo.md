@@ -1,9 +1,9 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Eko Prasetyo
-lahir: 1972-01-06
+lahir: 1972
 wafat: ''
 tempat_lahir: Pacitan, Jawa Timur
 afiliasi: Social Movement Institute (SMI), Resist Book, PUSHAM UII

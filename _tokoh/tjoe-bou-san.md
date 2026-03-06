@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Tjoe Bou San
 lahir: 1891
-wafat: 1925-11-03
+wafat: 1925
 tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pendiri/Pemimpin Redaksi)
 periode: pra-kemerdekaan

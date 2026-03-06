@@ -1,10 +1,10 @@
 ---
 layout: tokoh
-kontributor: Antigravity
+kontributor: Anonim
 diperbarui: 2026-03-06
 nama: Syekh Yusuf al-Makassari
-lahir: 1626-07-03
-wafat: 1699-05-23
+lahir: 1626
+wafat: 1699
 tempat_lahir: Moncongloe, Gowa, Sulawesi Selatan
 afiliasi: Kesultanan Banten, Tarekat Khalwatiyah, Kesultanan Gowa
 periode: klasik (abad 17)
