@@ -1,41 +1,39 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: H.B. Jassin
 lahir: 1917-07-31
 wafat: 2000-03-11
-tempat_lahir: Gorontalo, Sulawesi Utara
-afiliasi: Balai Pustaka, Majalah Kisah, Pusat Dokumentasi Sastra H.B. Jassin, Universitas Indonesia
+tempat_lahir: Gorontalo
+afiliasi: Balai Pustaka, Universitas Indonesia, Pusat Dokumentasi Sastra H.B. Jassin
 periode: pasca-kemerdekaan
-bidang: [sastra, kritik sastra, filologi]
+bidang: [kritik sastra, dokumentasi sastra, penerjemahan]
 pendidikan:
-  - Algemeene Middelbare School (AMS), Bandung
-  - Sekolah Tinggi Sastra dan Filologi, Jakarta (tidak tamat)
-pokok_pikiran: "Kesusastraan Indonesia sebagai medium pencarian identitas bangsa; kritik sastra yang berpijak pada teks, konteks sejarah, dan nurani manusia; pentingnya dokumentasi dan pelestarian arsip sastra."
+  - Universitas Indonesia (Fakultas Sastra)
+  - Yale University, AS (Sastra Bandingan)
+pokok_pikiran: "Pentingnya dokumentasi sebagai memori kolektif bangsa; kritik sastra yang apresiatif dan edukatif; pembelaan terhadap kebebasan kreatif seniman; kejujuran intelektual dalam menilai karya."
 karya_utama:
-  - judul: "Kesusastraan Indonesia Modern dalam Kritik dan Essei"
+  - judul: "Kesusastraan Indonesia Modern dalam Kritik dan Esei"
     tahun: 1954
-    jenis: Buku
-  - judul: "Chairil Anwar: Pelopor Angkatan 45"
+    jenis: Buku (Kritik)
+  - judul: "Chairil Anwar Penyair Angkatan 45"
     tahun: 1956
-    jenis: Buku
-  - judul: "Al-Qur'an Berwajah Puisi"
-    tahun: 1995
-    jenis: Terjemahan
+    jenis: Buku (Analisis)
+  - judul: "Al-Qur'anul Karim: Bacaan Mulia" (Terjemahan Puisi)
+    tahun: 1978
+    jenis: Penerjemahan
 sumber:
-  - url: https://id.wikipedia.org/wiki/H.B._Jassin
-    label: Wikipedia – H.B. Jassin
-  - url: https://pustakabudaya.kemdikbud.go.id/hb-jassin
-    label: Kemendikbud – Pusat Dokumentasi Sastra H.B. Jassin
+  - url: https://id.wikipedia.org/wiki/Hans_Bague_Jassin
+    label: Wikipedia - H.B. Jassin
+  - url: https://badanbahasa.kemdikbud.go.id/tokoh-detail/714/hans-bague-jassin
+    label: Badan Bahasa - Profil H.B. Jassin
 ---
 
-Hans Bague Jassin (1917–2000), atau lebih dikenal sebagai H.B. Jassin, adalah figur paling sentral dalam sejarah kesusastraan Indonesia modern—seorang kritikus, editor, dan arsiparis yang mendedikasikan hampir seluruh hidupnya untuk merawat dan memaknai karya sastra Indonesia.
+Hans Bague Jassin, atau yang lebih dikenal sebagai H.B. Jassin, adalah sosok legendaris yang dijuluki "Paus Sastra Indonesia". Julukan ini bukan tanpa alasan, karena selama lebih dari setengah abad, ia menjadi penjaga gawang sekaligus hakim paling berpengaruh bagi perkembangan sastra Indonesia modern. Melalui tangan dinginnya, ribuan karya penulis dari berbagai generasi dikurasi, dikritik, dan didokumentasikan dengan tingkat ketelitian yang luar biasa. Jassin adalah pilar yang memastikan bahwa sejarah intelektual Indonesia tidak hilang tertelan zaman.
 
-Ia dikenal sebagai "Paus Sastra Indonesia", sebuah julukan yang mencerminkan otoritasnya dalam dunia sastra nasional. Selama berpuluh tahun, ia menulis ulasan dan kritik yang menjangkau hampir semua penulis penting Indonesia: dari Chairil Anwar yang ia bela habis-habisan sebagai simbol pembaruan, hingga Pramoedya Ananta Toer yang ia pernah persengketakan secara estetis.
+Sumbangsih terbesarnya adalah pendirian Pusat Dokumentasi Sastra (PDS) H.B. Jassin. Baginya, dokumentasi adalah "ingatan kolektif" yang menjadi fondasi bagi peradaban sebuah bangsa. Ia mengumpulkan guntingan koran, majalah, hingga surat-menyurat pribadi para sastrawan sejak era kolonial. Dalam hal kritik, Jassin memperkenalkan pendekatan yang tidak menghakimi secara kaku, melainkan mencoba memahami jiwa di balik sebuah karya. Ia adalah orang pertama yang membela Chairil Anwar dari tuduhan plagiarisme, menegaskan bahwa orisinalitas dalam seni adalah tentang reinterpretasi makna.
 
-Yang membedakan Jassin dari banyak kritikus sezamannya adalah sikapnya terhadap arsip. Ia secara sadar dan sistematis mengumpulkan naskah, surat-menyurat, majalah sastra, dan dokumen terkait dunia sastra Indonesia sejak 1933. Koleksi inilah yang kemudian menjadi fondasi Pusat Dokumentasi Sastra H.B. Jassin di Taman Ismail Marzuki—warisan tak ternilai bagi generasi peneliti sastra.
+Kejujuran intelektual Jassin pernah diuji secara ekstrem ketika ia harus dipenjara karena menolak menyerahkan nama asli penulis cerpen "Langit Makin Mendung" yang dianggap menodai agama. Bagi Jassin, melindungi kerahasiaan penulis adalah bagian dari etika profesi jurnalis dan kritikus yang tidak bisa ditawar. Integritas ini menjadikannya figur moral yang sangat dihormati di dunia kebudayaan. Ia juga melakukan langkah berani dengan menerjemahkan Al-Qur'an ke dalam bentuk puitis agar lebih mudah dihayati secara estetis oleh pembaca Indonesia.
 
-Ia pernah menghadapi kontroversi besar ketika menerjemahkan Al-Qur'an ke dalam bahasa Indonesia berwajah puisi—sebuah proyek yang berujung pada tuntutan hukum dan tekanan sosial. Meski kontroversial, proyek ini menunjukkan keyakinannya bahwa bahasa sastra memiliki kapasitas untuk menembus yang sakral.
-
-Jassin wafat pada 2000, meninggalkan ribuan dokumen dan sebuah visi: bahwa sastra adalah sejarah batin bangsa.
+Hingga akhir hayatnya, H.B. Jassin tetap hidup dalam kesederhanaan di tengah tumpukan kertas dan buku. Warisannya adalah sebuah standar emas bagi dunia kritik dan pengarsipan di Indonesia. Ia mengajarkan bahwa mencintai bangsa dapat dilakukan melalui ketekunan merawat kata-kata. Tanpa dedikasi Jassin, wajah sastra Indonesia mungkin akan tampak buram dan tak tentu arah. Ia adalah bukti bahwa seorang "penjaga perpustakaan" bisa menjadi kompas bagi martabat budaya sebuah bangsa yang besar.

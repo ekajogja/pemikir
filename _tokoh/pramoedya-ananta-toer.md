@@ -1,50 +1,39 @@
 ---
 layout: tokoh
-kontributor: Eka Y Saputra
+kontributor: Antigravity
 diperbarui: 2026-03-06
 nama: Pramoedya Ananta Toer
 lahir: 1925-02-06
 wafat: 2006-04-30
 tempat_lahir: Blora, Jawa Tengah
-afiliasi: Lekra (Lembaga Kebudayaan Rakyat), Penerbit Hasta Mitra
+afiliasi: Lekra, Jurnalis, Sastrawan
 periode: pasca-kemerdekaan
-bidang: [sastra, sejarah, kritik sosial]
+bidang: [sastra, sejarah, sosiologi politik]
 pendidikan:
-  - Sekolah Menengah Kejuruan Radio, Surabaya (tidak tamat)
-  - Otodidak; banyak belajar dari penjara dan pengasingan
-pokok_pikiran: "Sastra sebagai alat pembebasan dan perlawanan; penggalian sejarah Indonesia dari perspektif rakyat biasa; kemanusiaan universal sebagai nilai tertinggi melampaui ideologi."
+  - Sekolah Radio (Surabaya)
+  - Taman Siswa
+pokok_pikiran: "Sastra sebagai alat pembebasan (Realisme Sosialis); perlawanan terhadap penindasan kolonial dan feodal; pentingnya 'Berlaku Adil sejak dalam Pikiran'; rekonstruksi sejarah bangsa dari sudut pandang korban/rakyat jelata."
 karya_utama:
-  - judul: "Bumi Manusia"
-    tahun: 1980
+  - judul: "Tetralogi Buru (Bumi Manusia, Anak Semua Bangsa, Jejak Langkah, Rumah Kaca)"
+    tahun: 1980-1988
     jenis: Novel
-  - judul: "Anak Semua Bangsa"
-    tahun: 1980
+  - judul: "Gadis Pantai"
+    tahun: 1962
     jenis: Novel
-  - judul: "Jejak Langkah"
-    tahun: 1985
-    jenis: Novel
-  - judul: "Rumah Kaca"
-    tahun: 1988
-    jenis: Novel
-  - judul: "Keluarga Gerilya"
-    tahun: 1950
-    jenis: Novel
-  - judul: "Nyanyi Sunyi Seorang Bisu"
-    tahun: 1995
-    jenis: Memoar
+  - judul: "Hoakiau di Indonesia"
+    tahun: 1960
+    jenis: Esai Sejarah
 sumber:
   - url: https://id.wikipedia.org/wiki/Pramoedya_Ananta_Toer
-    label: Wikipedia – Pramoedya Ananta Toer
-  - url: https://www.goodreads.com/author/show/36917.Pramoedya_Ananta_Toer
-    label: Goodreads – Pramoedya Ananta Toer
+    label: Wikipedia - Pramoedya Ananta Toer
+  - url: https://www.biografiku.com/biografi-pramoedya-ananta-toer/
+    label: Biografiku - Profil Pramoedya
 ---
 
-Pramoedya Ananta Toer (1925–2006) adalah novelis Indonesia terbesar dan salah satu sastrawan Asia yang paling diakui dunia—meski selama hidupnya karya-karyanya dilarang di negeri sendiri dan penulisnya dipenjara tanpa pengadilan selama bertahun-tahun.
+Pramoedya Ananta Toer adalah raksasa sastra Indonesia yang namanya berulang kali dinominasikan untuk Hadiah Nobel Sastra. Ia adalah suara paling lantang dalam menggugat segala bentuk penindasan, baik yang dilakukan oleh penjajah kolonial maupun oleh bangsa sendiri melalui struktur feodalisme. Kehidupan Pram adalah narasi tentang keteguhan prinsip; ia menghabiskan hampir separuh masa produktifnya di balik jeruji besi—mulai dari penjara kolonial, penjara Orde Lama, hingga pengasingan paksa di Pulau Buru selama 14 tahun tanpa pengadilan oleh rezim Orde Baru.
 
-Ia lahir di Blora, Jawa Tengah, dalam keluarga yang terbelit kemiskinan. Sejak muda, ia sudah menulis—dan sejak muda pula ia sudah merasakan penjara: pertama di era kolonial Belanda, lalu di masa revolusi, dan paling lama di era Orde Baru, di mana ia dibuang ke Pulau Buru selama hampir 14 tahun (1965–1979) tanpa dakwaan formal.
+Inti dari pemikiran Pramoedya tertuang dalam karyanya yang paling terkenal, *Tetralogi Buru*. Melalui tokoh Minke, ia menelusuri lahirnya kesadaran nasional Indonesia di awal abad ke-20. Ia memperkenalkan konsep "Berlaku adil sejak dalam pikiran" sebagai syarat mutlak bagi manusia terpelajar. Baginya, sastra bukan sekadar hiburan estetik, melainkan senjata untuk membongkar kemunafikan kekuasaan dan alat untuk memedulikan nasib "marhaen" atau rakyat kecil yang terpinggirkan oleh sejarah.
 
-Di Pulau Buru itulah ia menulis *Tetralogi Buru*, empat novel yang mengisahkan perjalanan Minke—tokoh fiksi berbasis Tirto Adi Soerjo—di masa kebangkitan nasional awal abad ke-20. Karena kertas dan pena hampir tak tersedia di awal pembuangannya, ia lebih dulu mendongengkan kisah itu kepada sesama tahanan. *Bumi Manusia*, novel pertama dalam tetralogi itu, dianggap sebagai salah satu novel terbaik Asia sepanjang masa.
+Pram juga dikenal sebagai sejarawan yang sangat kritis. Ia melakukan dekonstruksi terhadap historiografi umum dengan mengangkat peran orang-orang Tionghoa (dalam *Hoakiau di Indonesia*) dan perempuan dalam melawan kekuasaan patriarki dan kolonial. Meskipun karyanya sempat dilarang selama puluhan tahun di tanah airnya sendiri, pengaruh intelektualnya justru meluas ke seluruh dunia, menjadikannya ikon perlawanan global terhadap otoritarianisme. Ia percaya bahwa sebuah bangsa tidak akan pernah merdeka sepenuhnya selama mentalitas budak dan budaya takut masih bersemayam di benak rakyatnya.
 
-Pramoedya percaya bahwa sastra harus berpihak—bukan pada ideologi sempit, melainkan pada kemanusiaan dan kebenaran. Karyanya menempatkan sejarah Indonesia dalam konteks kolonialisme global dan perlawanan martabat manusia. Ia pernah masuk daftar kandidat Nobel Sastra namun tak pernah memperolehnya—sebuah ironi yang sering disebut sebagai salah satu kelalaian terbesar Komite Nobel.
-
-Ia wafat pada 2006, meninggalkan warisan sastra yang terus diterjemahkan dan dibaca di puluhan bahasa.
+Hingga masa senjanya, Pramoedya tetap menjadi pribadi yang disiplin dan tak henti-hentinya bekerja. Warisannya adalah sebuah komitmen moral tak tergoyahkan bahwa kebenaran harus terus disuarakan, apa pun risikonya. Ia telah membuktikan bahwa kata-kata yang lahir dari penderitaan dan kejujuran tidak akan bisa dibungkam oleh tembok penjara mana pun. Pramoedya Ananta Toer adalah napas dari sejarah Indonesia yang berdarah-darah, namun tetap tegak menatap cahaya kemanusiaan.
