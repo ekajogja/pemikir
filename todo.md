@@ -100,11 +100,41 @@
 
 | Tokoh | Status | File |
 | :--- | :---: | :--- |
-| Darmadjati Supadjar | ⏳ | `darmadjati-supadjar.md` |
-| Ernest Douwes Dekker | ⏳ | `ernest-douwes-dekker.md` |
-| Fahmi Idris | ⏳ | `fahmi-idris.md` |
-| Fajar Riza Ul Haq | ⏳ | `fajar-riza-ul-haq.md` |
-| FX Eko Armada Riyanto | ⏳ | `fx-eko-armada-riyanto.md` |
+| Damardjati Supadjar | ✅ | `damardjati-supadjar.md` |
+| Ernest Douwes Dekker | ✅ | `ernest-douwes-dekker.md` |
+| Fahmi Idris | ✅ | `fahmi-idris.md` |
+| Fajar Riza Ul Haq | ✅ | `fajar-riza-ul-haq.md` |
+| FX Eko Armada Riyanto | ✅ | `fx-eko-armada-riyanto.md` |
+
+## 📈 Log Kemajuan (Batch 6: 5 Tokoh Selanjutnya)
+
+| Tokoh | Status | File |
+| :--- | :---: | :--- |
+| Gita Wirjawan | ✅ | `gita-wirjawan.md` |
+| Hikmahanto Juwana | ✅ | `hikmahanto-juwana.md` |
+| Imam Barnadib | ✅ | `imam-barnadib.md` |
+| Ken Soetanto | ✅ | `ken-kawan-soetanto.md` |
+| Kusumah Atmadja | ✅ | `kusumah-atmadja.md` |
+
+## 📈 Log Kemajuan (Batch 7: 5 Tokoh Selanjutnya)
+
+| Tokoh | Status | File |
+| :--- | :---: | :--- |
+| L.N. Palar | ✅ | `ln-palar.md` |
+| Luthfi Assyaukanie | ✅ | `luthfi-assyaukanie.md` |
+| Mochtar Kusumaatmadja | ✅ | `mochtar-kusumaatmadja.md` |
+| Muhammad Arifin | ✅ | `muhammad-arifin.md` |
+| Mohammad Rokib | ✅ | `mohammad-rokib.md` |
+
+## 📈 Log Kemajuan (Batch 8: 5 Tokoh Selanjutnya)
+
+| Tokoh | Status | File |
+| :--- | :---: | :--- |
+| Nelson Tansu | ⏳ | `nelson-tansu.md` |
+| Noor Ichwan LS | ⏳ | `noor-ichwan-ls.md` |
+| Nova Ardiana | ⏳ | `nova-ardiana.md` |
+| Nova Nurwirbaki | ⏳ | `nova-nurwirbaki.md` |
+| Nunun Daradjatun | ⏳ | `nunun-daradjatun.md` |
 
 ---
 
