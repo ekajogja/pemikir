@@ -23,7 +23,7 @@ Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.g
 
 ## Struktur Data
 
-Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`.
+Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`. Daftar lengkap tokoh yang terdokumentasi juga dapat dilihat pada file `daftar-tokoh.txt`.
 
 ### Contoh file `_tokoh/a-mukti-ali.md`
 
