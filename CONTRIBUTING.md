@@ -23,6 +23,13 @@ Terima kasih sudah tertarik berkontribusi! Dokumen ini menjelaskan cara menambah
 - Git terinstal di komputer Anda
 - (Opsional) Ruby + Bundler untuk menjalankan situs secara lokal
 
+### Prosedur Self-Vetting (Pengecekan Mandiri)
+
+Sebelum mengusulkan profil tokoh baru, kontributor wajib melakukan pengecekan mandiri melalui mesin pencari atau database resmi untuk memastikan:
+- **Bukan Terpidana Korupsi**: Tidak ada catatan kasus korupsi yang sudah inkracht (berkekuatan hukum tetap).
+- **Bukan Pelaku Kekerasan**: Tidak ada catatan terverifikasi mengenai pelecehan seksual atau kekerasan.
+- **Substansi Pemikiran**: Pastikan tokoh memiliki warisan pemikiran (bukan sekadar birokrat murni tanpa sumbangan teori/konsep).
+
 ---
 
 ## Menambahkan Tokoh Baru

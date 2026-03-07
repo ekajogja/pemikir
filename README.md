@@ -31,8 +31,9 @@ Untuk menjaga standar kualitas dan kedalaman intelektual direktori ini, setiap t
 
 1.  **Warisan Intelektual (Intellectual Legacy)**: Memiliki karya tulis (buku/artikel), teori, konsep orisinal, atau kontribusi pemikiran yang fundamental dan diakui di bidangnya.
 2.  **Substansi di Atas Popularitas**: Fokus pada bobot pemikiran, bukan sekadar popularitas atau pengaruh media sosial. Proyek ini memprioritaskan profil "intelektual" daripada "selebritas".
-3.  **Verifikasi Sumber**: Setiap klaim fakta dan pokok pikiran wajib menyertakan rujukan kredibel (jurnal akademik, buku, atau media massa otoritatif).
-4.  **Inklusivitas Bidang**: Mencakup berbagai disiplin ilmu mulai dari filsafat, sains, teknologi, hukum, agama, hingga seni dan kebudayaan.
+3.  **Integritas & Etika**: Tokoh yang didaftarkan wajib memiliki rekam jejak moral yang bersih. Kami secara ketat mengevaluasi dan tidak menyertakan profil tokoh yang memiliki catatan terverifikasi terkait korupsi, pelecehan seksual, atau tindak kriminal berat lainnya yang mencederai martabat kemanusiaan dan intelektualitas.
+4.  **Verifikasi Sumber**: Setiap klaim fakta dan pokok pikiran wajib menyertakan rujukan kredibel (jurnal akademik, buku, atau media massa otoritatif).
+5.  **Inklusivitas Bidang**: Mencakup berbagai disiplin ilmu mulai dari filsafat, sains, teknologi, hukum, agama, hingga seni dan kebudayaan.
 
 ## Aturan Verifikasi Sumber
 

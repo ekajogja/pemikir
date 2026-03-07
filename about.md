@@ -15,6 +15,7 @@ Informasi mengenai para pemikir Indonesia tersebar di berbagai sumber dan belum 
 ### Prinsip
 
 - **Berdasarkan sumber**: setiap data wajib disertai sumber yang dapat diverifikasi.
+- **Integritas Moral**: Kami percaya bahwa kejeniusan intelektual harus berjalan seiring dengan integritas etis. Kurasi kami secara ketat menyaring dan tidak menyertakan tokoh dengan rekam jejak kriminalitas berat (seperti korupsi atau pelecehan) guna menjaga kehormatan direktori ini.
 - **Terbuka**: data bersifat open source dan bebas digunakan untuk kepentingan riset dan pendidikan.
 - **Kolaboratif**: siapa pun dapat berkontribusi melalui GitHub.
 
