@@ -1,3 +1,4 @@
+
 A. Mukti Ali
 A. Setyo Wibowo
 Abdoel Rivai
@@ -5,6 +6,7 @@ Abdul Hadi W.M.
 Abdurrahman Wahid
 Adi Utarini
 Adian Husaini
+Adnan Buyung Nasution
 Affandi
 Agus Salim
 Ahmad Azhar Basyir
@@ -14,6 +16,7 @@ Ahmad Syafii Maarif
 Ajip Rosidi
 Ali Akbar Navis
 Alwi Shihab
+Amin Abdullah
 Antariksa
 Anthony Budiawan
 Arief Budiman
@@ -34,7 +37,9 @@ Dandhy Laksono
 Danton Sihombing
 Deliar Noer
 Djoeanda Kartawidjaja
+Djohan Effendi
 Dorodjatun Kuntjoro-Jakti
+Eka Darmaputra
 Eko Prasetyo
 Emha Ainun Nadjib
 Emil Salim
@@ -67,6 +72,8 @@ Ichsanuddin Noorsy
 Ignas Kleden
 Ignatius Bambang Sugiharto
 Imam Barnadib
+Iman Budhi Santoso
+Jakob Oetama
 Jakob Sumardjo
 Jalaluddin Rakhmat
 Joe Hin Tjio
@@ -75,10 +82,13 @@ Justinus Sudarminta
 Karlina Supelli
 Kees Bertens
 Ken Soetanto
+Khoirul Anwar
 Ki Ageng Suryomentaram
 Ki Hadjar Dewantara
 Koentjaraningrat
+Koesnadi Hardjasoemantri
 Komaruddin Hidayat
+Kuntoro Mangkusubroto
 Kuntowijoyo
 Kusumah Atmadja
 Kwee Hing Tjiat
@@ -89,9 +99,13 @@ Liem Koen Hian
 Luthfi Assyaukanie
 M. Dawam Rahardjo
 M. Quraish Shihab
+M. Sastrapratedja
+Mahbub Djunaedi
+Maria Farida Indrati
 Martin Suryajaya
 Masdar F. Mas’udi
 Mezak Arnold Ratag
+Miriam Budiardjo
 Mochamad Nur Ichwan
 Mochtar Kusumaatmadja
 Mohammad Hatta
@@ -99,6 +113,7 @@ Mohammad Nasroen
 Mohammad Natsir
 Mpu Prapañca
 Mpu Tantular
+Mubyarto
 Muhammad Arifin
 Muhammad Rokib
 Muhidin M. Dahlan
@@ -113,32 +128,42 @@ Notonagoro
 Nurcholish Madjid
 Nuruddin al-Raniri
 Okky Madasari
+Ong Hok Ham
+Onno W. Purbo
 P.J. Zoetmulder
 Paulus Budi Kleden
+Popo Iskandar
 Pramoedya Ananta Toer
+Pratiwi Sudarmono
 Puthut EA
 R. Parmono
 Raden Ajeng Kartini
 Rahmah El Yunusiyah
+Remy Sylado
 Rizal Ramli
 RM Sedyatmo
 Rocky Gerung
 Roehana Koeddoes
 Roestam Effendi
 Rosihan Anwar
+Samaun Samadikun
 Sapardi Djoko Damono
 Saras Dewi
 Sartono Kartodirdjo
 Saur Marlina Manurung
+Sayogyo
 Seno Gumira Ajidarma
 Sindhunata
 Siti Musdah Mulia
+Slamet Rahardjo
 Soebadio Sastrosatomo
 Soedirman
 Soedjatmoko
 Soekarno
+Soetjipto Wirosardjono
 Sosrokartono
 Sri-Edi Swasono
+ST Sunardi
 Suardi Tasrif
 Sunoto
 Sutan Sjahrir
@@ -158,6 +183,8 @@ Toeti Heraty
 Tri Mumpuni
 Trimurti
 Ulil Abshar-Abdalla
+Umar Kayam
+Valerine J.L. Kriekhoff
 Wahid Hasyim
 Widjojo Nitisastro
 Witono Mardikoesoemo
@@ -166,35 +193,9 @@ Y.B. Mangunwijaya
 Yanuar Nugroho
 Yanuar Rizky
 Yap Thiam Hien
+Yogi Ahmad Erlangga
 Yudi Latif
 Zainal Arifin Mochtar
 Zakiah Daradjat
 Zen RS
 Zuhairi Misrawi
-Kuntoro Mangkusubroto
-ST Sunardi
-Mahbub Djunaedi
-Adnan Buyung Nasution
-Maria Farida Indrati
-Djohan Effendi
-Eka Darmaputra
-Umar Kayam
-Sayogyo
-Samaun Samadikun
-Pratiwi Sudarmono
-Jakob Oetama
-Slamet Rahardjo
-Onno W. Purbo
-Koesnadi Hardjasoemantri
-Iman Budhi Santoso
-Khoirul Anwar
-Yogi Ahmad Erlangga
-Valerine J.L. Kriekhoff
-Mubyarto
-Miriam Budiardjo
-Soetjipto Wirosardjono
-Amin Abdullah
-M. Sastrapratedja
-Ong Hok Ham
-Remy Sylado
-Popo Iskandar

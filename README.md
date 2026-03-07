@@ -25,26 +25,14 @@ Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.g
 
 Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`. Daftar lengkap tokoh yang terdokumentasi juga dapat dilihat pada file `daftar-tokoh.txt`.
 
-### Contoh file `_tokoh/a-mukti-ali.md`
+## Kebijakan Kurasi Tokoh
 
-```yaml
----
-layout: tokoh
-nama: A. Mukti Ali
-lahir: '1923'
-wafat: '2004'
-periode: 1945-1965
-bidang: [ilmu perbandingan agama, sosiologi agama]
-pokok_pikiran: "Konsep 'Setuju dalam Perbedaan' (Agree in Disagreement)..."
-karya_utama:
-  - judul: Etika Agama dalam Membangun Masyarakat Modern
-    tahun: 1971
-    jenis: Buku
-sumber:
-  - url: https://id.wikipedia.org/wiki/Abdul_Mukti_Ali
-    label: Wikipedia
----
-```
+Untuk menjaga standar kualitas dan kedalaman intelektual direktori ini, setiap tokoh yang didaftarkan harus memenuhi kriteria berikut:
+
+1.  **Warisan Intelektual (Intellectual Legacy)**: Memiliki karya tulis (buku/artikel), teori, konsep orisinal, atau kontribusi pemikiran yang fundamental dan diakui di bidangnya.
+2.  **Substansi di Atas Popularitas**: Fokus pada bobot pemikiran, bukan sekadar popularitas atau pengaruh media sosial. Proyek ini memprioritaskan profil "intelektual" daripada "selebritas".
+3.  **Verifikasi Sumber**: Setiap klaim fakta dan pokok pikiran wajib menyertakan rujukan kredibel (jurnal akademik, buku, atau media massa otoritatif).
+4.  **Inklusivitas Bidang**: Mencakup berbagai disiplin ilmu mulai dari filsafat, sains, teknologi, hukum, agama, hingga seni dan kebudayaan.
 
 ## Aturan Verifikasi Sumber
 

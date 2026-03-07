@@ -18,6 +18,14 @@ Informasi mengenai para pemikir Indonesia tersebar di berbagai sumber dan belum 
 - **Terbuka**: data bersifat open source dan bebas digunakan untuk kepentingan riset dan pendidikan.
 - **Kolaboratif**: siapa pun dapat berkontribusi melalui GitHub.
 
+### Kebijakan Kurasi
+
+Untuk menjaga martabat dan kualitas intelektual proyek ini, kurasi tokoh dilakukan berdasarkan kriteria berikut:
+
+1.  **Warisan Intelektual**: Tokoh harus memiliki sumbangan pemikiran nyata melalui karya tulis (buku, esai, jurnal), penemuan sains, atau rumusan teori yang diakui.
+2.  **Substansi di Atas Popularitas**: Kami mengutamakan kedalaman pemikiran daripada sekadar popularitas publik atau pengaruh di media sosial.
+3.  **Intelektualitas yang Berdampak**: Fokus pada tokoh yang pemikirannya telah memberikan kontribusi transformatif bagi kemajuan peradaban, kemanusiaan, atau keilmuan di Indonesia.
+
 ### Berkontribusi
 
 Lihat [panduan kontribusi di GitHub](https://github.com/ekajogja/pemikir) untuk memulai.
