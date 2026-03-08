@@ -23,7 +23,9 @@ Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.g
 
 ## Struktur Data
 
-Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`. Daftar lengkap tokoh yang terdokumentasi juga dapat dilihat pada file `daftar-tokoh.txt`.
+- Data tokoh disimpan dalam format **Markdown** dengan front matter YAML di folder `_tokoh/`.
+- Daftar lengkap tokoh yang terdokumentasi juga dapat dilihat pada file `daftar-tokoh.txt`.
+- Untuk transparansi, daftar nama yang tidak lolos kurasi beserta alasannya dapat dilihat di `daftar-tokoh-tereliminasi.txt`.
 
 ## Kebijakan Kurasi Tokoh
 

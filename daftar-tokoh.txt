@@ -17,6 +17,7 @@ Adnan Buyung Nasution
 Affandi
 Agus Salim
 Agus Sartono
+Ahmad Amiruddin
 Ahmad Azhar Basyir
 Ahmad Baso
 Ahmad Dahlan
@@ -34,17 +35,36 @@ Ali Hanafiah
 Ali Khomsan
 Aloei Saboe
 Alwi Shihab
+Amal Fathullah Zarkasyi
+Amalia E. Maulana
 Amin Abdullah
+Amzulian Rifai
+Anak Agung Ayu Mirah Adi
+Andi Mustari Pide
+Ani Widyani
 Antariksa
 Anthony Budiawan
+Antonius Suwanto
+Apridar
+Ari Fahrial Syam
+Ariel Heryanto
 Arief Budiman
+Arif Satria
 Armahedi Mahzar
 Armida Alisjahbana
 Arwani Syaerozi
+Asasriwarni
+Asman Boedisantoso Ranakusuma
+Asrinaldi
+Asrorun Ni'am Sholeh
+Asep Adang Supriyadi
+Asep Kadarohman
+Asep Saepudin Jahar
 Asrul Sani
 Azyumardi Azra
 B.J. Habibie
 B.M. Diah
+Bachtiar Aly
 Bahtiar Effendy
 Bambang Brodjonegoro
 Bernard Wilhelm Lapian
@@ -57,6 +77,7 @@ Danton Sihombing
 Deliar Noer
 Djoeanda Kartawidjaja
 Djohan Effendi
+Doddy Achdiat Tisna Amidjaja
 Dorodjatun Kuntjoro-Jakti
 Eka Darmaputra
 Eko Prasetyo
@@ -82,11 +103,12 @@ Haji Misbach
 Hamid Fahmy Zarkasyi
 Hamka
 Hamzah Fansuri
-Harun Nasution
+Harun Nation
 Hasyim Asy’ari
 Heri Priyatmoko
 Hikmahanto Juwana
 Hikmat Darmawan
+Ichlasul Amal
 Ichsanuddin Noorsy
 Ignas Kleden
 Ignatius Bambang Sugiharto
@@ -130,6 +152,7 @@ Miriam Budiardjo
 Mochamad Adnan
 Mochamad Nur Ichwan
 Mochtar Kusumaatmadja
+Mohammad Anis
 Mohammad Hatta
 Mohammad Nasroen
 Mohammad Natsir
@@ -223,3 +246,4 @@ Zainal Arifin Mochtar
 Zakiah Daradjat
 Zen RS
 Zuhairi Misrawi
+Wiranto Arismunandar
