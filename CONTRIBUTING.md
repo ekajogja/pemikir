@@ -28,7 +28,10 @@ Terima kasih sudah tertarik berkontribusi! Dokumen ini menjelaskan cara menambah
 Sebelum mengusulkan profil tokoh baru, kontributor wajib melakukan pengecekan mandiri melalui mesin pencari atau database resmi untuk memastikan:
 - **Bukan Terpidana Korupsi**: Tidak ada catatan kasus korupsi yang sudah inkracht (berkekuatan hukum tetap).
 - **Bukan Pelaku Kekerasan**: Tidak ada catatan terverifikasi mengenai pelecehan seksual atau kekerasan.
+- **Bukan Pelanggar Etik Berat**: Tidak memiliki rekam jejak pelanggaran etika serius yang mencederai integritas intelektual.
 - **Substansi Pemikiran**: Pastikan tokoh memiliki warisan pemikiran (bukan sekadar birokrat murni tanpa sumbangan teori/konsep).
+
+Kontributor disarankan untuk memeriksa `daftar-tokoh-tereliminasi.txt` terlebih dahulu untuk melihat daftar nama yang sebelumnya sudah ditolak oleh pengelola.
 
 ---
 
