@@ -24,7 +24,7 @@ karya_utama:
     tahun: ''
     jenis: Kumpulan Tulisan
 sumber:
-  - url: http://elrizky.net/
+  - url: https://elrizky.net/
     label: Blog Pribadi Yanuar Rizky
 ---
 Yanuar Rizky adalah sosok intelektual praktisi yang memiliki ketajaman luar biasa dalam membedah "isi perut" pasar keuangan dan pasar modal Indonesia. Memiliki latar belakang kuat di bidang akuntansi dan hukum ekonomi, ia dikenal sebagai pengamat yang mampu menerjemahkan kompleksitas transaksi finansial yang rumit menjadi bahasa yang bisa dipahami oleh masyarakat luas. Yanuar adalah pembela gigih bagi transparansi dan keadilan di pasar yang sering kali didominasi oleh asimetri informasi.
