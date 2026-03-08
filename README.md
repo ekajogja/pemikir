@@ -2,7 +2,7 @@
 
 Selamat datang di repositori **Direktori Pemikir Indonesia**. Proyek ini bertujuan mendokumentasikan secara sistematis para intelektual, ilmuwan, budayawan, filsuf, aktivis, dan pemikir lainnya dari Indonesia—mulai dari tokoh tradisional, aktivis revolusioner, hingga pemikir kontemporer.
 
-Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.github.io/pemikir)**
+Situs dapat diakses di **<http://pemikir.web.id/>**
 
 ## Fitur Utama
 
