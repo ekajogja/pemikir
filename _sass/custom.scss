@@ -60,7 +60,7 @@ h2 {
 h3 { font-size: 1.3rem; margin-top: 1.2em; }
 
 /* --- Link --- */
-a {
+a, a:visited {
     color: var(--color-link);
     text-decoration: none;
     border-bottom: 1px dotted var(--color-border);
@@ -305,6 +305,17 @@ a:hover {
     color: var(--color-bg-alt);
     border-top: 4px solid var(--color-accent);
     padding: 3rem 0;
+}
+
+.site-footer a, 
+.site-footer a:visited {
+    color: var(--color-bg-alt);
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+
+.site-footer a:hover {
+    color: #fff;
+    border-bottom-color: #fff;
 }
 
 /* --- Responsive --- */

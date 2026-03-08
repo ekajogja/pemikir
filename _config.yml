@@ -49,5 +49,6 @@ exclude:
 
 # Navigation
 header_pages:
+  - indeks.md
   - about.md
   - linimasa.md
