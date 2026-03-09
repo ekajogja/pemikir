@@ -74,10 +74,13 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 | Arief Hidayat | Pelanggaran kode etik berulang sebagai Hakim Konstitusi | MKMK, ICW |
 | Siti Nurbaya Bakar | Kasus korupsi tata kelola sawit (Kejagung 2026) | Tempo, CNN |
 
----
-
 ## 4. Konvensi Penulisan (Checklist Akhir)
-- [ ] Tidak menggunakan gelar akademik (Prof, Dr, dsb) di nama file.
-- [x] Menggunakan string tahun saja (contoh: "1945") untuk field `lahir` dan `wafat` di YAML.
-- [ ] Minimal 2 rujukan valid di bagian `sumber`.
-- [ ] Narasi menggunakan Bahasa Indonesia baku.
+- [x] Nama file: `nama-tokoh.md` (lowercase, kebab-case, tanpa gelar).
+- [x] Front Matter: Wajib ada `layout: tokoh`.
+- [x] Front Matter: Field `diperbarui` menggunakan format `YYYY-MM-DD`.
+- [x] Front Matter: Field `lahir` & `wafat` wajib string (contoh: `"1945"`).
+- [x] Front Matter: Field `sumber` wajib list objek dengan `url` dan `label`.
+- [x] Front Matter: Lengkapi field wajib (`periode`, `bidang`, `pendidikan`, `pokok_pikiran`, `karya_utama`).
+- [x] Narasi: Minimal 150-400 kata, Bahasa Indonesia baku, gaya ensiklopedis.
+- [x] Sinkronisasi: Tambahkan nama ke `daftar-tokoh.txt` secara alfabetis.
+- [x] Referensi: Bandingkan struktur dengan `_tokoh/a-mukti-ali.md` sebagai standar utama.
