@@ -1,15 +1,7 @@
-# Daftar Tokoh Tereliminasi
-
-Dokumen ini mencatat nama-nama tokoh yang tidak dimasukkan ke dalam direktori berdasarkan **Kebijakan Kurasi Tokoh Poin 3 (Integritas & Etika)**. Kami tidak menyertakan profil tokoh yang memiliki catatan terverifikasi terkait korupsi, pelecehan seksual, pelanggaran etik berat, atau kriminalitas lainnya yang mencederai martabat kemanusiaan dan intelektualitas.
-
-| Nama Tokoh | Alasan Eliminasi | Sumber Rujukan Utama |
-| :--- | :--- | :--- |
-| **Roeslan Abdulgani** | Catatan historis kasus korupsi Percetakan Negara (1956). | Historia.id, Voi.id |
-| **Tri Hanggono Achmad** | Laporan dugaan penyimpangan dana abadi Unpad (2019). | Tempo, Detik |
-| **Ahmad Amarullah** | Isu tata kelola keuangan (tunggakan hak dosen) & audit internal (2024). | Berita Banten |
-| **Anak Agung Raka Sudewi** | Keterlibatan (saksi kunci/cekal) skandal dana SPI Udayana (2023). | Antara, Kumparan |
-| **Ari Kuncoro** | Skandal rangkap jabatan Komisaris BUMN & pelemahan Statuta UI (2021). | Tempo, Tirto |
-| **Arief Hidayat** | Pelanggaran kode etik berulang (3 kali sanksi) sebagai Hakim Konstitusi. | MKMK, Detik, ICW |
-
----
-*Catatan: Daftar ini diperbarui secara berkala seiring dengan proses riset dan vetting.*
+Siti Nurbaya Bakar: Kasus korupsi tata kelola sawit 2015-2024 (Kejaksaan Agung, 2026).
+Roeslan Abdulgani: Kasus Korupsi Percetakan Negara (1956).
+Tri Hanggono Achmad: Dugaan penyimpangan dana abadi Unpad (Laporan KPK 2019).
+Ahmad Amarullah: Isu tunggakan hak dosen (Tukin) & audit internal (2024).
+Anak Agung Raka Sudewi: Keterlibatan (saksi/cekal) skandal dana SPI Udayana (2023).
+Ari Kuncoro: Skandal rangkap jabatan Komisaris BUMN & revisi Statuta UI (2021).
+Arief Hidayat: Pelanggaran kode etik berulang sebagai Hakim Konstitusi.

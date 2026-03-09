@@ -1,5 +1,3 @@
-A. Mukti Ali
-A. Setyo Wibowo
 Abdoel Rivai
 Abdul Aziz Dahlan
 Abdul Djalil Pirous
@@ -10,13 +8,15 @@ Abdul Mu'ti
 Abdurrahman Wahid
 Achdiat K. Mihardja
 Achmad Baiquni
+Adian Husaini
 Adi Maulana
 Adi Utarini
-Adian Husaini
 Adnan Buyung Nasution
 Affandi
 Agus Salim
 Agus Sartono
+Agustinus Purna Irawan
+Agustinus Suhardi
 Ahmad Amiruddin
 Ahmad Azhar Basyir
 Ahmad Baso
@@ -24,20 +24,19 @@ Ahmad Dahlan
 Ahmad Najib Burhani
 Ahmad Sutarmadi
 Ahmad Syafii Maarif
-Agustinus Purna Irawan
-Agustinus Suhardi
 Ahman
 Ajip Rosidi
 Akhmaloka
-Al Makin
 Ali Akbar Navis
 Ali Hanafiah
 Ali Khomsan
+Al Makin
 Aloei Saboe
 Alwi Shihab
 Amal Fathullah Zarkasyi
 Amalia E. Maulana
 Amin Abdullah
+A. Mukti Ali
 Amzulian Rifai
 Anak Agung Ayu Mirah Adi
 Andi Mustari Pide
@@ -46,29 +45,44 @@ Antariksa
 Anthony Budiawan
 Antonius Suwanto
 Apridar
-Ari Fahrial Syam
-Ariel Heryanto
 Arief Budiman
+Ariel Heryanto
+Ari Fahrial Syam
 Arif Satria
 Armahedi Mahzar
 Armida Alisjahbana
 Arwani Syaerozi
 Asasriwarni
-Asman Boedisantoso Ranakusuma
-Asrinaldi
-Asrorun Ni'am Sholeh
 Asep Adang Supriyadi
 Asep Kadarohman
 Asep Saepudin Jahar
+A. Setyo Wibowo
+Asman Boedisantoso Ranakusuma
+Asrinaldi
+Asrorun Ni'am Sholeh
 Asrul Sani
+Aswanto
+Aziz Haily
 Azyumardi Azra
-B.J. Habibie
-B.M. Diah
 Bachtiar Aly
+Baharuddin Syarif
+Bahrullah Akbar
 Bahtiar Effendy
 Bambang Brodjonegoro
+Bambang Guritno
+Bambang Hero Saharjo
+Bambang Sudibyo
+Bambang Suhendro
 Bernard Wilhelm Lapian
+Binti Maunah
 Bivitri Susanti
+B.J. Habibie
+B.M. Diah
+Boedi Harsono
+Boediono
+Boedisoesetya
+Boer Mauna
+Brian Yuliarto
 Chairil Anwar
 Cornel Simanjuntak
 Damardjati Supadjar
@@ -96,18 +110,19 @@ FX Eko Armada Riyanto
 Gadis Arivia
 Gita Wirjawan
 Goenawan Mohamad
-H.B. Jassin
-H.O.S. Tjokroaminoto
 Haidar Bagir
 Haji Misbach
 Hamid Fahmy Zarkasyi
 Hamka
 Hamzah Fansuri
+Harsja W. Bachtiar
 Harun Nation
 Hasyim Asy’ari
+H.B. Jassin
 Heri Priyatmoko
 Hikmahanto Juwana
 Hikmat Darmawan
+H.O.S. Tjokroaminoto
 Ichlasul Amal
 Ichsanuddin Noorsy
 Ignas Kleden
@@ -118,11 +133,14 @@ Iskandar Alisjahbana
 Jakob Oetama
 Jakob Sumardjo
 Jalaluddin Rakhmat
+Jamil Bakar
 Joe Hin Tjio
 Julia Suryakusuma
+Justika Baharsjah
 Justinus Sudarminta
 Kadir Abdussamad
 Karlina Supelli
+Kasmat Bahoewinangoen
 Kees Bertens
 Ken Soetanto
 Khoirul Anwar
@@ -136,17 +154,15 @@ Kuntowijoyo
 Kusumah Atmadja
 Kwee Hing Tjiat
 Kwee Kek Beng
-L.N. Palar
 Leo Suryadinata
 Liem Koen Hian
+L.N. Palar
 Luthfi Assyaukanie
-M. Dawam Rahardjo
-M. Quraish Shihab
-M. Sastrapratedja
 Mahbub Djunaedi
 Maria Farida Indrati
 Martin Suryajaya
 Masdar F. Mas’udi
+M. Dawam Rahardjo
 Mezak Arnold Ratag
 Miriam Budiardjo
 Mochamad Adnan
@@ -158,6 +174,8 @@ Mohammad Nasroen
 Mohammad Natsir
 Mpu Prapañca
 Mpu Tantular
+M. Quraish Shihab
+M. Sastrapratedja
 Mubyarto
 Muhammad Arifin
 Muhammad Rokib
@@ -165,8 +183,8 @@ Muhidin M. Dahlan
 Mulyadhi Kartanegara
 Munir Said Thalib
 Musa Asy’arie
-N. Drijarkara
 Nahrowi Dalhar
+N. Drijarkara
 Nelson Tansu
 Nirwan Ahmad Arsuka
 Notonagoro
@@ -175,13 +193,12 @@ Nuruddin al-Raniri
 Okky Madasari
 Ong Hok Ham
 Onno W. Purbo
-P.J. Zoetmulder
 Paulus Budi Kleden
+P.J. Zoetmulder
 Popo Iskandar
 Pramoedya Ananta Toer
 Pratiwi Sudarmono
 Puthut EA
-R. Parmono
 Raden Ajeng Kartini
 Rahmah El Yunusiyah
 Raudha Thaib
@@ -191,7 +208,9 @@ RM Sedyatmo
 Rocky Gerung
 Roehana Koeddoes
 Roestam Effendi
+Romli Atmasasmita
 Rosihan Anwar
+R. Parmono
 Saleh Afiff
 Samaun Samadikun
 Sapardi Djoko Damono
@@ -202,6 +221,7 @@ Sayogyo
 Seno Gumira Ajidarma
 Sindhunata
 Siti Musdah Mulia
+Sjarifuddin Baharsjah
 Slamet Rahardjo
 Soebadio Sastrosatomo
 Soedirman
@@ -234,16 +254,16 @@ Umar Kayam
 Valerine J.L. Kriekhoff
 Wahid Hasyim
 Widjojo Nitisastro
+Wiranto Arismunandar
 Witono Mardikoesoemo
 Witrianto
-Y.B. Mangunwijaya
 Yanuar Nugroho
 Yanuar Rizky
 Yap Thiam Hien
+Y.B. Mangunwijaya
 Yogi Ahmad Erlangga
 Yudi Latif
 Zainal Arifin Mochtar
 Zakiah Daradjat
 Zen RS
 Zuhairi Misrawi
-Wiranto Arismunandar
