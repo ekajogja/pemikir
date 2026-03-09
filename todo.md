@@ -32,31 +32,32 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 
 ### Batch 1-5: Selesai ✅ (25 Tokoh)
 
-### Batch 6: Selesai ✅ (5 Tokoh)
+### Batch 6-10: Selesai ✅ (25 Tokoh)
+- Semua profil telah diverifikasi integritas dan substansinya.
+- Perbaikan UI (Warna link footer & body) telah diimplementasikan.
+- Halaman Indeks Tokoh alfabetis (`indeks.md`) telah dibuat.
+- Perubahan telah di-merge ke branch `main` (kecuali `todo.md` & `tokohtambahan.md`).
 
-### Batch 7: Selesai ✅ (5 Tokoh)
+### Batch 11: Selesai ✅ (5 Tokoh)
+- Tokoh: Aswanto, Romli Atmasasmita, Aziz Haily, Harsja W. Bachtiar, Justika Baharsjah.
 
-### Batch 8: Selesai ✅ (5 Tokoh)
+### Batch 12: Selesai ✅ (5 Tokoh)
+- Tokoh: Sjarifuddin Baharsjah, Baharuddin Syarif, Kasmat Bahoewinangoen, Bahrullah Akbar, Jamil Bakar.
 
-### Batch 9: Selesai ✅ (5 Tokoh)
+### Batch 13: Selesai ✅ (5 Tokoh)
+- Tokoh: Bambang Guritno, Bambang Hero Saharjo, Bambang Sudibyo, Bambang Suhendro, Binti Maunah.
 
-### Batch 10: Selesai ✅
+### Batch 14: Selesai ✅ (5 Tokoh)
+- Tokoh: Boedi Harsono, Boediono, Boedisoesetya, Boer Mauna, Brian Yuliarto.
+
+### Batch 15: Sedang Diproses
 | Nama Tokoh | Integritas | Substansi | Status |
 | :--- | :---: | :---: | :--- |
-| Asep Kadarohman | [x] | [x] | Terbit |
-| Asep Saepudin Jahar | [x] | [x] | Terbit |
-| Asman Boedisantoso Ranakusuma | [x] | [x] | Terbit |
-| Asrinaldi | [x] | [x] | Terbit |
-| Asrorun Ni'am Sholeh | [x] | [x] | Terbit |
-
-### Batch 11: Riset Dimulai
-| Nama Tokoh | Integritas | Substansi | Status |
-| :--- | :---: | :---: | :--- |
-| Aswanto | [ ] | [ ] | Antre |
-| Romli Atmasasmita | [ ] | [ ] | Antre |
-| Aziz Haily | [ ] | [ ] | Antre |
-| Harsja W. Bachtiar | [ ] | [ ] | Antre |
-| Justika Baharsjah | [ ] | [ ] | Antre |
+| Satryo Brodjonegoro | [ ] | [ ] | Antrean |
+| Soemantri Brodjonegoro | [ ] | [ ] | Antrean |
+| Budi Darma | [ ] | [ ] | Antrean |
+| Budi Wiweko | [ ] | [ ] | Antrean |
+| Burhanuddin Daya | [ ] | [ ] | Antrean |
 
 ---
 
@@ -71,11 +72,12 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 | Anak Agung Raka Sudewi | Keterlibatan (saksi/cekal) skandal dana SPI Udayana (2023) | Antara, Kumparan |
 | Ari Kuncoro | Skandal rangkap jabatan Komisaris BUMN & revisi Statuta UI (2021) | Tempo, Tirto |
 | Arief Hidayat | Pelanggaran kode etik berulang sebagai Hakim Konstitusi | MKMK, ICW |
+| Siti Nurbaya Bakar | Kasus korupsi tata kelola sawit (Kejagung 2026) | Tempo, CNN |
 
 ---
 
 ## 4. Konvensi Penulisan (Checklist Akhir)
 - [ ] Tidak menggunakan gelar akademik (Prof, Dr, dsb) di nama file.
-- [ ] Menggunakan string untuk field `lahir` dan `wafat` di YAML.
+- [x] Menggunakan string tahun saja (contoh: "1945") untuk field `lahir` dan `wafat` di YAML.
 - [ ] Minimal 2 rujukan valid di bagian `sumber`.
 - [ ] Narasi menggunakan Bahasa Indonesia baku.
