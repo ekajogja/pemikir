@@ -1,14 +1,28 @@
 ---
+layout: tokoh
 nama: Baharuddin Syarif
+kontributor: Anonim
+diperbarui: 2026-03-08
 lahir: "1923"
 wafat: "1971"
-bidang: "Pendidikan Islam"
-afiliasi: "IAIN Imam Bonjol Padang"
-kontributor: "Anonim"
-terakhir_diperbarui: "2026-03-08"
+tempat_lahir: "Nagari Ladang Laweh, Banuhampu, Agam, Sumatera Barat"
+afiliasi: "IAIN Imam Bonjol Padang (sekarang UIN Imam Bonjol)"
+periode: "1965-1998"
+bidang:
+  - pendidikan islam
+  - manajemen pendidikan
+pendidikan:
+  - "Universitas Al-Azhar, Kairo, Mesir, 1963"
+pokok_pikiran: "Menekankan pada modernisasi institusi pendidikan Islam melalui penguatan visi akademik, integrasi ilmu pengetahuan, dan spiritualitas."
+karya_utama:
+  - judul: "Konsep Pengembangan Jangka Panjang IAIN Imam Bonjol"
+    tahun: 1971
+    jenis: Naskah Strategis (Draft)
 sumber:
-  - "https://id.wikipedia.org/wiki/Baharuddin_Syarif"
-  - "https://suarakampus.com/mengenal-baharuddin-syarif-rektor-kedua-iain-imam-bonjol-padang/"
+  - url: "https://id.wikipedia.org/wiki/Baharuddin_Syarif"
+    label: "Wikipedia - Baharuddin Syarif"
+  - url: "https://suarakampus.com/mengenal-baharuddin-syarif-rektor-kedua-iain-imam-bonjol-padang/"
+    label: "Suara Kampus - Profil Baharuddin Syarif"
 ---
 
 Baharuddin Syarif adalah seorang akademisi dan tokoh pendidikan Islam terkemuka dari Sumatera Barat yang menjabat sebagai Rektor kedua IAIN (sekarang UIN) Imam Bonjol Padang. Sebagai lulusan Universitas Al-Azhar, Kairo, beliau membawa semangat intelektualisme Timur Tengah yang progresif untuk diaplikasikan dalam sistem pendidikan tinggi Islam di Indonesia. Meskipun masa kepemimpinannya sangat singkat, sosoknya diingat sebagai pemikir visioner yang meletakkan dasar-dasar pengembangan jangka panjang bagi institusi yang dipimpinnya.
