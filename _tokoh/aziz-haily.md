@@ -1,14 +1,34 @@
 ---
+layout: tokoh
 nama: Aziz Haily
+kontributor: Anonim
+diperbarui: 2026-03-08
 lahir: "1943"
 wafat: "2012"
-bidang: "Ilmu Pemerintahan"
-afiliasi: "IPDN, STIA LAN"
-kontributor: "Anonim"
-terakhir_diperbarui: "2026-03-08"
+tempat_lahir: "Sialang, Kapur IX, Lima Puluh Kota, Sumatera Barat"
+afiliasi: "Institut Pemerintahan Dalam Negeri (IPDN), Pemerintah Kabupaten Lima Puluh Kota, STIA LAN"
+periode: "1965-1998"
+bidang:
+  - ilmu pemerintahan
+  - otonomi daerah
+pendidikan:
+  - "Akademi Pemerintahan Dalam Negeri (APDN)"
+  - "Institut Ilmu Pemerintahan (IIP) Jakarta, 1980"
+  - "Magister Ilmu Pemerintahan"
+  - "Doktor Ilmu Pemerintahan"
+pokok_pikiran: "Menekankan pada profesionalisme birokrasi, efektivitas otonomi daerah yang berbasis pada kebutuhan masyarakat lokal, serta integritas kepemimpinan pamong praja."
+karya_utama:
+  - judul: "Pemantapan Proses Otonomi Daerah dan Evaluasi Penyelenggaraan Pemerintahan"
+    tahun: 2009
+    jenis: Pidato Pengukuhan Guru Besar
+  - judul: "Pengalaman Saya Sebagai Pamong"
+    tahun: 2012
+    jenis: Otobiografi
 sumber:
-  - "https://id.wikipedia.org/wiki/Aziz_Haily"
-  - "http://pkm.ipdn.ac.id/"
+  - url: "https://id.wikipedia.org/wiki/Aziz_Haily"
+    label: "Wikipedia - Aziz Haily"
+  - url: "http://pkm.ipdn.ac.id/"
+    label: "PKM IPDN - Referensi Akademik"
 ---
 
 Aziz Haily adalah seorang birokrat tulen sekaligus akademisi terkemuka Indonesia yang memiliki kontribusi signifikan dalam pengembangan disiplin ilmu pemerintahan di tanah air. Ia dikenal sebagai sosok yang mampu menjembatani dunia praktisi pemerintahan dengan dunia akademis secara harmonis. Sepanjang kariernya, ia pernah menjabat sebagai Bupati Lima Puluh Kota (Sumatera Barat) selama dua periode dan kemudian dikukuhkan sebagai Guru Besar di Institut Pemerintahan Dalam Negeri (IPDN). Dedikasinya terhadap tata kelola publik menjadikannya rujukan penting dalam diskursus administrasi negara dan kebijakan daerah.

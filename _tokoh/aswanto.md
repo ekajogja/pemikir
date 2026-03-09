@@ -1,14 +1,35 @@
 ---
+layout: tokoh
 nama: Aswanto
+kontributor: Anonim
+diperbarui: 2026-03-08
 lahir: "1964"
 wafat: ""
-bidang: "Hukum Tata Negara"
+tempat_lahir: "Palopo, Sulawesi Selatan"
 afiliasi: "Universitas Hasanuddin, Mahkamah Konstitusi"
-kontributor: "Anonim"
-terakhir_diperbarui: "2026-03-08"
+periode: "pasca 2020"
+bidang:
+  - hukum tata negara
+  - hukum pidana
+  - hak asasi manusia
+pendidikan:
+  - "S1 Hukum, Universitas Hasanuddin, 1986"
+  - "S2 Ilmu Ketahanan Nasional, Universitas Gadjah Mada, 1992"
+  - "S3 Ilmu Hukum, Universitas Airlangga, 1999"
+  - "Diploma in Forensic Medicine and Human Rights, University of Groningen, 2002"
+pokok_pikiran: "Menekankan pada supremasi konstitusi dan independensi yudisial yang absolut; hakim konstitusi adalah penjaga konstitusi yang tidak mewakili lembaga pengusul."
+karya_utama:
+  - judul: "Jaminan Perlindungan Hak Asasi Manusia dalam KUHAP dan Peranan Bantuan Hukum Terhadap Penegakan Hak Asasi Manusia di Indonesia"
+    tahun: 1999
+    jenis: Disertasi
+  - judul: "Hukum Pidana dan Hak Asasi Manusia"
+    tahun: 2012
+    jenis: Buku
 sumber:
-  - "https://www.mkri.id/index.php?page=web.ProfilHakim&id=49"
-  - "https://nasional.kompas.com/read/2022/09/30/09423631/profil-aswanto-hakim-mk-yang-dicopot-dpr-pernah-jadi-tim-sel-pimpinan-kpk"
+  - url: "https://www.mkri.id/index.php?page=web.ProfilHakim&id=49"
+    label: "Profil Hakim Aswanto - Mahkamah Konstitusi RI"
+  - url: "https://nasional.kompas.com/read/2022/09/30/09423631/profil-aswanto-hakim-mk-yang-dicopot-dpr-pernah-jadi-tim-sel-pimpinan-kpk"
+    label: "Profil Aswanto - Kompas.com"
 ---
 
 Aswanto adalah seorang ahli hukum tata negara Indonesia yang pernah menjabat sebagai Hakim Konstitusi serta Wakil Ketua Mahkamah Konstitusi. Sebelum berkarier di Mahkamah Konstitusi, ia merupakan akademisi di Universitas Hasanuddin, Makassar, dan pernah menjabat sebagai Dekan Fakultas Hukum di universitas tersebut. Sosoknya dikenal luas tidak hanya karena keputusan-keputusan hukumnya, tetapi juga karena kontroversi pemberhentiannya oleh Dewan Perwakilan Rakyat (DPR) yang memicu perdebatan serius mengenai independensi kekuasaan kehakiman di Indonesia.
