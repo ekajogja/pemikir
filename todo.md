@@ -50,14 +50,23 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 ### Batch 14: Selesai ✅ (5 Tokoh)
 - Tokoh: Boedi Harsono, Boediono, Boedisoesetya, Boer Mauna, Brian Yuliarto.
 
-### Batch 15: Sedang Diproses
+### Batch 15: Selesai ✅ (5 Tokoh)
+- Tokoh: Satryo Brodjonegoro, Soemantri Brodjonegoro, Budi Darma, Budi Wiweko, Burhanuddin Daya.
+
+### Batch 16: Selesai ✅ (5 Tokoh)
+- Tokoh: Busthanul Arifin, Busyra Azheri, Busyra Zahir, Ellydar Chaidir, Conny R. Semiawan.
+
+### Batch 17: Selesai ✅ (5 Tokoh)
+- Tokoh: Dadan Wildan, Dadang Hawari, Muhammad Alwi Dahlan, Darmanto Jatman, Dayar Arbain.
+
+### Batch 18: Sedang Diproses
 | Nama Tokoh | Integritas | Substansi | Status |
 | :--- | :---: | :---: | :--- |
-| Satryo Brodjonegoro | [ ] | [ ] | Antrean |
-| Soemantri Brodjonegoro | [ ] | [ ] | Antrean |
-| Budi Darma | [ ] | [ ] | Antrean |
-| Budi Wiweko | [ ] | [ ] | Antrean |
-| Burhanuddin Daya | [ ] | [ ] | Antrean |
+| Deddy Ismatullah | [ ] | [ ] | Antrean |
+| Haryanto Dhanutirto | [ ] | [ ] | Antrean |
+| Didi Sukyadi | [ ] | [ ] | Antrean |
+| Rustam Didong | [ ] | [ ] | Antrean |
+| Surna Tjahya Djajadiningrat | [ ] | [ ] | Antrean |
 
 ---
 
@@ -84,3 +93,7 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 - [x] Narasi: Minimal 150-400 kata, Bahasa Indonesia baku, gaya ensiklopedis.
 - [x] Sinkronisasi: Tambahkan nama ke `daftar-tokoh.txt` secara alfabetis.
 - [x] Referensi: Bandingkan struktur dengan `_tokoh/a-mukti-ali.md` sebagai standar utama.
+
+## 5. Ricek Sintaks YAML
+
+Sebelum mengerjakan batch berikutnya, selalu lakukan ricek sintaks YAML agar sesuai dengan templat di `CONTRIBUTING.md`.
