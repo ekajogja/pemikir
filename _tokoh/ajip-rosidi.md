@@ -9,9 +9,11 @@ tempat_lahir: Jatiwangi, Majalengka, Jawa Barat
 afiliasi: Yayasan Kebudayaan Rancage, Universitas Osaka Gaidai, IKAPI
 periode: 1965-1998
 bidang:
-  - sastra
-  - budaya
-  - sejarah
+  - Humaniora & Kajian Budaya
+  - Sastra
+  - Sejarah
+  - Filsafat Nusantara
+  - Pendidikan
 pendidikan:
   - "Autodidak (Doktor Honoris Causa, Universitas Padjadjaran, 2011)"
 pokok_pikiran: "Mengusung konsep 'Renaisans Sunda' sebagai upaya revitalisasi nilai lokal untuk memperkuat identitas nasional, serta menekankan kemandirian intelektual melalui prinsip 'Hidup Tanpa Ijazah'."

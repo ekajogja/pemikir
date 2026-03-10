@@ -1,0 +1,11 @@
+Lanjutkan pengerjaan Fase 2: Refactoring Manual untuk metadata 'bidang' pada profil tokoh.
+
+Mohon pahami konteks proyek dari file-file berikut:
+1. @todo-bidang/todo-bidang.md (Rencana kerja & progres fase)
+2. @daftar-bidang.txt (Masterlist 48 kategori standar)
+3. @todo-bidang/mapping-bidang.md (Tabel padanan nilai lama ke baru)
+4. @todo-bidang/log-progress.txt (Daftar tokoh yang sudah selesai)
+
+Gunakan pendekatan 'Expert Editor': baca seluruh konten file tokoh (terutama pokok pikiran & karya), lalu tentukan kategori 'bidang' yang paling akurat berdasarkan masterlist (bukan sekadar ganti kata). Jangan ragu menambahkan kategori yang relevan dari masterlist meskipun sebelumnya tidak ada di file tersebut, asalkan didukung oleh konten dokumennya.
+
+Saat ini kita sudah menyelesaikan 30 tokoh (terakhir: Ajip Rosidi). Silakan lanjutkan ke tokoh berikutnya secara alfabetis di folder _tokoh/ satu per satu dengan kualitas tinggi.

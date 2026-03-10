@@ -9,8 +9,11 @@ tempat_lahir: Purwokerto, Jawa Tengah
 afiliasi: UIN Syarif Hidayatullah Jakarta, Dewan Masjid Indonesia
 periode: 1998-2020
 bidang:
-  - agama
-  - hukum
+  - Hukum Islam
+  - Agama & Teologi
+  - Bisnis & Manajemen
+  - Ekonomi Syariah
+  - Advokasi & Aktivisme
 pendidikan:
   - "S1, IAIN Syarif Hidayatullah Jakarta"
   - "Doktor, UIN Syarif Hidayatullah Jakarta"

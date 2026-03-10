@@ -9,9 +9,13 @@ tempat_lahir: Makassar, Sulawesi Selatan
 afiliasi: Nahdlatul Ulama (NU), Lakpesdam NU, Komnas HAM
 periode: 1998-2020
 bidang:
-  - agama
-  - sejarah
-  - sosiologi
+  - Filsafat Nusantara
+  - Agama & Teologi
+  - Ideologi & Teori Kritis
+  - Sejarah Islam
+  - Ilmu Sosial & Sosiologi
+  - Advokasi & Aktivisme
+  - Filologi & Linguistik
 pendidikan:
   - "Pondok Pesantren An-Nahdlah, Makassar"
   - "LIPIA Jakarta"
