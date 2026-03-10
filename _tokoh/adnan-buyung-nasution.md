@@ -9,9 +9,12 @@ tempat_lahir: Batavia (Jakarta)
 afiliasi: YLBHI (Lembaga Bantuan Hukum), Komnas HAM, Universitas Utrecht
 periode: 1965-1998
 bidang:
-  - hukum
-  - politik
-  - sosiologi
+  - Advokasi & Aktivisme
+  - Hukum Tata Negara
+  - Hukum
+  - Ilmu Sosial & Sosiologi
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
 pendidikan:
   - "Fakultas Hukum, Universitas Indonesia"
   - "Doktor (Dr.) Ilmu Hukum, Universitas Utrecht, Belanda"

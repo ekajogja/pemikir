@@ -9,9 +9,10 @@ tempat_lahir: Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM), World Mosquito Program (WMP)
 periode: pasca 2020
 bidang:
-  - kesehatan masyarakat
-  - kedokteran
-  - riset epidemiologi
+  - Kedokteran & Kesehatan
+  - Kebijakan Publik
+  - Advokasi & Aktivisme
+  - Sains & Teknologi
 pendidikan:
   - Universitas Gadjah Mada (Kedokteran, 1988)
   - University College London (M.Sc Child Health)

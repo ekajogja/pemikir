@@ -9,8 +9,10 @@ tempat_lahir: Meulaboh, Aceh
 afiliasi: Institut Teknologi Bandung (ITB)
 periode: 1965-1998
 bidang:
-  - seni
-  - desain
+  - Seni Rupa
+  - Desain & Komunikasi Visual
+  - Humaniora & Kajian Budaya
+  - Filsafat Nusantara
 pendidikan:
   - "Seni Rupa, ITB, 1964"
   - "Rochester Institute of Technology, New York, 1969"

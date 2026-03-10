@@ -9,8 +9,11 @@ tempat_lahir: Purworejo, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM), Kemenko PMK
 periode: 1998-2020
 bidang:
-  - pendidikan
-  - ekonomi
+  - Pendidikan
+  - Ekonomi & Keuangan
+  - Bisnis & Manajemen
+  - Kebijakan Publik
+  - Agama & Teologi
 pendidikan:
   - "Ekonomi, Universitas Gadjah Mada"
   - "MBA, Universitas Gadjah Mada"

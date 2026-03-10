@@ -3,10 +3,10 @@
 Dokumen ini mengatur proses restrukturisasi metadata `bidang` pada setiap profil tokoh untuk meningkatkan konsistensi dan navigasi pada halaman Indeks.
 
 ## Fase 1: Audit & Proposi (Minggu 1)
-- [ ] **Audit Data Eksisting:** Ekstraksi seluruh nilai unik dari field `bidang` pada semua file di `_tokoh/`.
-- [ ] **Klasterisasi:** Mengelompokkan istilah-istilah yang mirip (misal: "Hukum Islam", "Fikih", "Syariah" menjadi satu kategori standar).
-- [ ] **Penyusunan Masterlist:** Membuat file `daftar-bidang.txt` yang berisi maksimal 50 kategori standar.
-- [ ] **Validasi Masterlist:** Memastikan 50 kategori tersebut mencakup seluruh spektrum pemikir (Sastra, Sains, Hukum, Agama, Sosial, dll).
+- [x] **Audit Data Eksisting:** Ekstraksi seluruh nilai unik dari field `bidang` pada semua file di `_tokoh/`.
+- [x] **Klasterisasi:** Mengelompokkan istilah-istilah yang mirip menjadi kategori standar.
+- [x] **Penyusunan Masterlist:** Membuat file `daftar-bidang.txt` yang berisi 48 kategori standar.
+- [ ] **Validasi Masterlist:** Memastikan 48 kategori tersebut mencakup seluruh spektrum pemikir (Sastra, Sains, Hukum, Agama, Sosial, dll).
 
 ## Fase 2: Implementasi Metadata (Minggu 2-3)
 - [ ] **Mapping:** Membuat tabel pemetaan dari nilai lama ke nilai standar baru.
@@ -28,3 +28,4 @@ Dokumen ini mengatur proses restrukturisasi metadata `bidang` pada setiap profil
 
 ## Log Kemajuan
 - **2026-03-10:** Inisiasi rencana kerja dan pembuatan `todo-bidang.md`.
+- **2026-03-10:** Selesai melakukan audit data unik dan menyusun Masterlist 48 Bidang Standar di `daftar-bidang.txt`.

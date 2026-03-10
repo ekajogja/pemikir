@@ -9,9 +9,13 @@ tempat_lahir: Wajo, Sulawesi Selatan
 afiliasi: Universitas Hasanuddin, ITB, Pemerintah Provinsi Sulawesi Selatan
 periode: 1965-1998
 bidang:
-  - sains
-  - politik
-  - pendidikan
+  - Pembangunan Wilayah & Perdesaan
+  - Farmasi & Kimia
+  - Kebijakan Publik
+  - Sains & Teknologi
+  - Pendidikan
+  - Ilmu Politik
+  - Pertanian & Peternakan
 pendidikan:
   - "S1 Kimia, Institut Teknologi Bandung (UI Bandung)"
   - "Ph.D. Kimia Nuklir, University of Kentucky, AS, 1961"

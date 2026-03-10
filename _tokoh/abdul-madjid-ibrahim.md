@@ -9,8 +9,10 @@ tempat_lahir: Seulimeum, Aceh Besar
 afiliasi: Universitas Syiah Kuala, Bappenas
 periode: 1965-1998
 bidang:
-  - ekonomi
-  - politik
+  - Pembangunan Wilayah & Perdesaan
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Ilmu Pemerintahan
 pendidikan:
   - "Ekonomi, Universitas Indonesia"
 pokok_pikiran: "Penerapan teknokrasi dalam perencanaan wilayah (regional planning) yang menekankan pentingnya integrasi pembangunan pusat dan daerah secara berkelanjutan."

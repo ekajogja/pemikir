@@ -9,8 +9,10 @@ tempat_lahir: Klaten, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM), Kabinet Ali Sastroamidjojo II
 periode: 1945-1965
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Kebijakan Publik
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
 pendidikan:
   - "Recht Hooge School (Sekolah Tinggi Hukum), Batavia"
 pokok_pikiran: "Penyusunan fondasi hukum pertanahan nasional yang berkeadilan melalui penghapusan hukum kolonial dan perumusan Undang-Undang Pokok Agraria (UUPA) 1960."

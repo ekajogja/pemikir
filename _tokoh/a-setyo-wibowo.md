@@ -9,9 +9,9 @@ tempat_lahir: Indonesia
 afiliasi: STF Driyarkara
 periode: pasca 2020
 bidang:
-  - filsafat klasik
-  - fenomenologi
-  - filsafat agama
+  - Filsafat
+  - Filsafat Nusantara
+  - Humaniora & Kajian Budaya
 pendidikan:
   - STF Driyarkara (S1)
   - Université Paris 1 Panthéon-Sorbonne (S2 & S3, Filsafat)

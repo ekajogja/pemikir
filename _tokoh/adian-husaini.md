@@ -9,9 +9,10 @@ tempat_lahir: Bojonegoro, Jawa Timur
 afiliasi: Dewan Da'wah Islamiyah Indonesia (DDII), INSISTS, Universitas Ibn Khaldun Bogor
 periode: 1998-2020
 bidang:
-  - agama
-  - pendidikan
-  - filsafat
+  - Pendidikan
+  - Agama & Teologi
+  - Ideologi & Teori Kritis
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Fakultas Kedokteran Hewan, IPB University"
   - "Magister Hubungan Internasional, Universitas Jayabaya"

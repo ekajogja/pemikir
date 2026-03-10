@@ -9,9 +9,10 @@ tempat_lahir: Cepu, Jawa Tengah
 afiliasi: IAIN Sunan Kalijaga, Kementerian Agama RI
 periode: 1965-1998
 bidang:
-  - ilmu perbandingan agama
-  - sosiologi agama
-  - politik keagamaan
+  - Perbandingan Agama
+  - Ilmu Sosial & Sosiologi
+  - Politik Islam
+  - Agama & Teologi
 pendidikan:
   - Pesantren Krapyak, Tegalrejo, dan Tambakberas
   - Al-Azhar University, Kairo, Mesir (L.C., 1955)

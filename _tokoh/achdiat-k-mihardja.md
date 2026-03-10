@@ -3,14 +3,17 @@ layout: tokoh
 nama: Achdiat K. Mihardja
 kontributor: Anonim
 diperbarui: 2026-03-08
-lahir: '1911'
+lahir: '11911'
 wafat: '2010'
 tempat_lahir: Cibatu, Garut, Jawa Barat
 afiliasi: Partai Sosialis Indonesia (PSI), Australian National University
 periode: 1945-1965
 bidang:
-  - sastra
-  - filsafat
+  - Sastra
+  - Filsafat
+  - Ideologi & Teori Kritis
+  - Tasawuf & Spiritualitas
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "AMS-A, Solo"
 pokok_pikiran: "Eksplorasi dialektika antara tradisi spiritual Timur dengan ideologi modernitas Barat (Marxisme, Eksistensialisme) melalui medium sastra."

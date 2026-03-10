@@ -9,8 +9,9 @@ tempat_lahir: Kudus, Jawa Tengah
 afiliasi: Muhammadiyah, Kementerian Pendidikan Dasar dan Menengah
 periode: pasca 2020
 bidang:
-  - pendidikan
-  - agama
+  - Pendidikan
+  - Agama & Teologi
+  - Kebijakan Publik
 pendidikan:
   - "S1 Tarbiyah, IAIN Walisongo Semarang, 1991"
   - "Master of Education, Flinders University, Australia, 1996"
