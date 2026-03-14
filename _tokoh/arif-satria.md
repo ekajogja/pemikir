@@ -9,8 +9,10 @@ tempat_lahir: Pekalongan, Jawa Tengah
 afiliasi: IPB University, ICMI
 periode: pasca 2020
 bidang:
-  - sosiologi
-  - politik
+  - Ilmu Sosial & Sosiologi
+  - Ilmu Politik
+  - Kebijakan Publik
+  - Pertanian & Peternakan
 pendidikan:
   - "S1 Ekonomi Pertanian, IPB University"
   - "S2 Sosiologi Pedesaan, IPB University"

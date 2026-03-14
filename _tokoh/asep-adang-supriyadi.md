@@ -9,8 +9,10 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Universitas Pertahanan (Unhas), TNI AU
 periode: pasca 2020
 bidang:
-  - teknologi
-  - politik
+  - Sains & Teknologi
+  - Kebijakan Publik
+  - Bisnis & Manajemen
+  - Ilmu Politik
 pendidikan:
   - "Akademi Angkatan Udara (AAU), 1985"
   - "Doktor Ilmu Manajemen, Universitas Negeri Jakarta"

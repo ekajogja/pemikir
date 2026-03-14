@@ -9,8 +9,10 @@ tempat_lahir: Kampar, Riau
 afiliasi: UIN Imam Bonjol Padang
 periode: 1998-2020
 bidang:
-  - agama
-  - hukum
+  - Agama & Teologi
+  - Hukum
+  - Pendidikan
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "S1 Syariah, IAIN Imam Bonjol Padang"
   - "Magister Hukum, Universitas Muhammadiyah Jakarta"

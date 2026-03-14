@@ -8,4 +8,4 @@ Mohon pahami konteks proyek dari file-file berikut:
 
 Gunakan pendekatan 'Expert Editor': baca seluruh konten file tokoh (terutama pokok pikiran & karya), lalu tentukan kategori 'bidang' yang paling akurat berdasarkan masterlist (bukan sekadar ganti kata). Jangan ragu menambahkan kategori yang relevan dari masterlist meskipun sebelumnya tidak ada di file tersebut, asalkan didukung oleh konten dokumennya.
 
-Saat ini kita sudah menyelesaikan 30 tokoh (terakhir: Ajip Rosidi). Silakan lanjutkan ke tokoh berikutnya secara alfabetis di folder _tokoh/ satu per satu dengan kualitas tinggi.
+Saat ini kita sudah menyelesaikan 33 tokoh (terakhir: Ali Akbar Navis). Silakan lanjutkan ke tokoh berikutnya secara alfabetis di folder _tokoh/ satu per satu dengan kualitas tinggi.

@@ -9,8 +9,9 @@ tempat_lahir: Lhokseumawe, Aceh
 afiliasi: Universitas Syiah Kuala, Universitas Malikussaleh
 periode: pasca 2020
 bidang:
-  - ekonomi
-  - pendidikan
+  - Ekonomi & Keuangan
+  - Pendidikan
+  - Pertanian & Peternakan
 pendidikan:
   - "S1, S2, & S3 Ekonomi Pembangunan, Universitas Syiah Kuala"
 pokok_pikiran: "Transformasi ekonomi pasca-konflik melalui konvergensi pertumbuhan berbasis potensi lokal (kelautan/pertanian) dan pengalihan perjuangan militer menjadi perjuangan ekonomi berbasis SDM unggul."

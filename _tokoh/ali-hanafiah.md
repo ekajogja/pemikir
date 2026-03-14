@@ -9,8 +9,9 @@ tempat_lahir: Lubuk Jantan, Sumatera Barat
 afiliasi: Universitas Indonesia, Lembaga Eijkman
 periode: 1945-1965
 bidang:
-  - sains
-  - pendidikan
+  - Kedokteran & Kesehatan
+  - Farmasi & Kimia
+  - Pendidikan
 pendidikan:
   - "Dokter, STOVIA/NIAS"
   - "Asisten Profesor, Ika Dai Gaku (FKUI)"

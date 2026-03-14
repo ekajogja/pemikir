@@ -9,8 +9,12 @@ tempat_lahir: Bojonegoro, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta
 periode: pasca 2020
 bidang:
-  - filsafat
-  - agama
+  - Agama & Teologi
+  - Filsafat
+  - Perbandingan Agama
+  - Advokasi & Aktivisme
+  - Pendidikan
+  - Sejarah Islam
 pendidikan:
   - "S1, UIN Sunan Kalijaga Yogyakarta"
   - "M.A., McGill University, Kanada"
@@ -38,3 +42,4 @@ Al Makin adalah seorang intelektual progresif dan pakar filsafat agama yang memi
 Inti dari pemikiran Al Makin adalah pembelaannya yang konsisten terhadap keragaman. Melalui riset-risetnya tentang gerakan mesianik dan tokoh-tokoh yang dianggap "nabi palsu" dalam sejarah Islam, ia berupaya menunjukkan bagaimana konstruksi musuh dan ortodoksi bekerja untuk meminggirkan kelompok marginal. Baginya, pluralisme bukan sekadar hidup berdampingan secara damai, tetapi kesediaan untuk memberikan ruang bagi perbedaan yang paling radikal sekalipun. Ia menekankan bahwa peradaban Islam yang besar di masa lalu justru lahir dari kemampuan menyerap berbagai unsur budaya dan pemikiran yang berbeda-beda.
 
 Selain fokus pada isu minoritas, Al Makin juga dikenal sebagai penganjur penting bagi hak-hak penyandang disabilitas di lingkungan akademik. Di bawah kepemimpinannya, inklusi menjadi kebijakan administratif nyata, bukan sekadar jargon. Meskipun langkah-langkah progresifnya sering kali memicu perdebatan di kalangan konservatif, ia tetap teguh pada prinsip bahwa universitas harus menjadi laboratorium demokrasi dan kemanusiaan. Warisan intelektualnya mengingatkan bangsa Indonesia bahwa kekuatan sesungguhnya terletak pada kemampuan kita merayakan perbedaan sebagai aset intelektual dan spiritual yang tak ternilai.
+

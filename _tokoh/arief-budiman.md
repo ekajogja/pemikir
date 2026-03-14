@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Kristen Satya Wacana (UKSW), Universitas Melbourne
 periode: 1965-1998
 bidang:
-  - sosiologi
-  - sastra
-  - politik
+  - Ilmu Sosial & Sosiologi
+  - Sastra
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
 pendidikan:
   - "Fakultas Psikologi, Universitas Indonesia"
   - "Doktor (Ph.D) Sosiologi, Harvard University, Amerika Serikat"

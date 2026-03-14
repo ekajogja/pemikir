@@ -10,7 +10,7 @@ Dokumen ini mengatur proses restrukturisasi metadata `bidang` pada setiap profil
 
 ## Fase 2: Implementasi Metadata (Minggu 2-3)
 - [x] **Mapping:** Membuat file `todo-bidang/mapping-bidang.md` sebagai jembatan nilai lama ke nilai standar.
-- [/] **Refactoring Manual:** Memperbarui field `bidang` di setiap file `.md` dalam folder `_tokoh/` (30 file selesai).
+- [/] **Refactoring Manual:** Memperbarui field `bidang` di setiap file `.md` dalam folder `_tokoh/` (58 file selesai).
 - [ ] **Sinkronisasi JSON:** Memastikan perubahan tercermin dalam `assets/data/tokoh.json` (jika digunakan secara statis).
 
 ## Fase 3: Pembaruan UI & Dokumentasi (Minggu 4)

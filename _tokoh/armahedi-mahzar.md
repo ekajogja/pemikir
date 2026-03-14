@@ -9,10 +9,10 @@ tempat_lahir: Genteng, Banyuwangi, Jawa Timur
 afiliasi: Institut Teknologi Bandung (ITB), Masjid Salman ITB
 periode: 1945-1965
 bidang:
-  - fisika
-  - filsafat Islam
-  - integralisme
-  - sains Islam
+  - Sains & Teknologi
+  - Agama & Teologi
+  - Filsafat
+  - Ideologi & Teori Kritis
 pendidikan:
   - Institut Teknologi Bandung (S1 Fisika, 1972)
   - University of Arizona, AS (Geofisika)

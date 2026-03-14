@@ -9,8 +9,9 @@ tempat_lahir: Gorontalo
 afiliasi: Universitas Padjadjaran, RS Kusta Toto
 periode: 1945-1965
 bidang:
-  - kesehatan
-  - politik
+  - Kedokteran & Kesehatan
+  - Advokasi & Aktivisme
+  - Sejarah Islam
 pendidikan:
   - "Dokter, NIAS, Surabaya"
   - "Doktor Kedokteran, Universitas Padjadjaran"

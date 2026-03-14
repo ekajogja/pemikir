@@ -9,8 +9,9 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: BINUS University, ETNOMARK Consulting
 periode: pasca 2020
 bidang:
-  - ekonomi
-  - sosiologi
+  - Bisnis & Manajemen
+  - Antropologi
+  - Ilmu Komunikasi
 pendidikan:
   - "S1 Teknologi Pangan, IPB University"
   - "Ph.D. Marketing, University of New South Wales (UNSW), Australia"

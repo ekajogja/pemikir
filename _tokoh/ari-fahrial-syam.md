@@ -9,8 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Indonesia, RSUPN Dr. Cipto Mangunkusumo
 periode: pasca 2020
 bidang:
-  - kesehatan
-  - pendidikan
+  - Kedokteran & Kesehatan
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - "Dokter Umum, Universitas Indonesia, 1990"
   - "Master of Molecular Biology, University of Queensland, Australia"

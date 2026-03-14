@@ -9,10 +9,10 @@ tempat_lahir: Rappang, Sidenreng Rappang, Sulawesi Selatan
 afiliasi: Universitas Al-Azhar, Temple University, PKB, Kementerian Luar Negeri
 periode: pasca 2020
 bidang:
-  - filsafat Islam
-  - pluralisme
-  - dialog antaragama
-  - politik
+  - Agama & Teologi
+  - Perbandingan Agama
+  - Diplomasi & Hubungan Internasional
+  - Tasawuf & Spiritualitas
 pendidikan:
   - Universitas Al-Azhar, Kairo, Mesir (S1)
   - Universitas Ain Syam, Mesir (Doktor Filsafat, 1990)

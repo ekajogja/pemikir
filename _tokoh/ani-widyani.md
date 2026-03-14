@@ -9,8 +9,8 @@ tempat_lahir: Bali
 afiliasi: Universitas Udayana, RSUP Prof. Dr. I.G.N.G. Ngoerah
 periode: pasca 2020
 bidang:
-  - kesehatan
-  - pendidikan
+  - Kedokteran & Kesehatan
+  - Pendidikan
 pendidikan:
   - "Dokter Spesialis Urologi, Universitas Indonesia"
   - "Doktor Kedokteran, Universitas Udayana"
