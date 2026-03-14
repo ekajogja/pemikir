@@ -9,9 +9,12 @@ tempat_lahir: Banda Aceh, Aceh
 afiliasi: Harian Merdeka, PWI, Kementerian Penerangan
 periode: 1945-1965
 bidang:
-  - jurnalisme
-  - politik
-  - sejarah
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Diplomasi & Hubungan Internasional
+  - Sejarah
+  - Advokasi & Aktivisme
+  - Kebijakan Publik
 pendidikan:
   - "Ksatrian Instituut, Bandung"
 pokok_pikiran: "Menjadikan pers sebagai instrumen perjuangan kedaulatan nasional serta mengadvokasi kemandirian politik Indonesia melalui diplomasi opini publik."

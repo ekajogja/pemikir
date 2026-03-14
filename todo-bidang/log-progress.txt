@@ -1,7 +1,7 @@
 LOG PROGRES REFACTORING BIDANG TOKOH
 Status: Sedang Berjalan (Fase 2)
-Total Tokoh: 58/250+ (Estimasi)
-Terakhir Diperbarui: 2026-03-14
+Total Tokoh: 88/250+ (Estimasi)
+Terakhir Diperbarui: 2026-03-15
 
 DAFTAR TOKOH SELESAI:
 1. A. Mukti Ali
@@ -62,6 +62,36 @@ DAFTAR TOKOH SELESAI:
 56. Asasriwarni
 57. Asep Adang Supriyadi
 58. Asep Kadarohman
+59. Asep Saepudin Jahar
+60. Asman Boedisantoso Ranakusuma
+61. Asrinaldi
+62. Asrorun Ni'am Sholeh
+63. Asrul Sani
+64. Aswanto
+65. Aziz Haily
+66. Azyumardi Azra
+67. Bachtiar Aly
+68. Baharuddin Syarif
+69. Bahrullah Akbar
+70. Bahtiar Effendy
+71. Bambang Brodjonegoro
+72. Bambang Guritno
+73. Bambang Hero Saharjo
+74. Bambang Sudibyo
+75. Bambang Suhendro
+76. Bernard Wilhelm Lapian
+77. Binti Maunah
+78. Bivitri Susanti
+79. B.J. Habibie
+80. BM Diah
+81. Boedi Harsono
+82. Boediono
+83. Boedisoesetya
+84. Boer Mauna
+85. Brian Yuliarto
+86. Budi Darma
+87. Budi Wiweko
+88. Burhanuddin Daya
 
 SELANJUTNYA:
-- Ashadi Siregar
+- Busthanul Arifin

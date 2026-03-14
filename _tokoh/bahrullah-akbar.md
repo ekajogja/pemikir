@@ -9,9 +9,10 @@ tempat_lahir: "Jakarta"
 afiliasi: "Badan Pemeriksa Keuangan RI, Institut Pemerintahan Dalam Negeri (IPDN)"
 periode: "pasca 2020"
 bidang:
-  - keuangan publik
-  - akuntansi sektor publik
-  - audit
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Ilmu Pemerintahan
+  - Bisnis & Manajemen
 pendidikan:
   - "Sarjana Administrasi Niaga, Universitas 17 Agustus 1945 Jakarta, 1989"
   - "MBA in Accounting, University of Hull, Inggris, 1992"

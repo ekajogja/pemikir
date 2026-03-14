@@ -9,8 +9,11 @@ tempat_lahir: "Padang, Sumatera Barat"
 afiliasi: "Kementerian Luar Negeri RI, Universitas Indonesia"
 periode: "1965-1998"
 bidang:
-  - hukum internasional
-  - diplomasi
+  - Hukum
+  - Diplomasi & Hubungan Internasional
+  - Kebijakan Publik
+  - Pendidikan
+  - Ilmu Politik
 pendidikan:
   - "Sarjana (S1) Politik Internasional, Universitas Indonesia"
   - "Master (S2) Hukum Laut Internasional, Institut des Hautes Études Internationales, Paris, Prancis"

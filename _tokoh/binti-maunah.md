@@ -9,8 +9,10 @@ tempat_lahir: "Blitar, Jawa Timur"
 afiliasi: "UIN Sayyid Ali Rahmatullah Tulungagung"
 periode: "pasca 2020"
 bidang:
-  - sosiologi pendidikan
-  - gender
+  - Ilmu Sosial & Sosiologi
+  - Pendidikan
+  - Feminisme & Studi Gender
+  - Agama & Teologi
 pendidikan:
   - "Sarjana Pendidikan Agama Islam, IAIN Sunan Ampel Malang, 1989"
   - "Magister Pendidikan Islam, Universitas Islam Malang, 2002"

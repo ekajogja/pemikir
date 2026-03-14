@@ -9,8 +9,11 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Indonesia (FEB UI), ADB Institute (ADBI)
 periode: pasca 2020
 bidang:
-  - ekonomi
-  - teknologi
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Sains & Teknologi
+  - Pembangunan Wilayah & Perdesaan
+  - Pendidikan
 pendidikan:
   - "Fakultas Ekonomi, Universitas Indonesia"
   - "Doktor (Ph.D) Perencanaan Wilayah, Univ. of Illinois at Urbana-Champaign, AS"

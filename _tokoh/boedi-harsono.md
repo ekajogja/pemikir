@@ -9,8 +9,11 @@ tempat_lahir: "Berbek, Nganjuk, Jawa Timur"
 afiliasi: "Universitas Indonesia, Universitas Trisakti"
 periode: "1965-1998"
 bidang:
-  - hukum agraria
-  - hukum tanah
+  - Hukum
+  - Kebijakan Publik
+  - Pendidikan
+  - Sejarah
+  - Pembangunan Wilayah & Perdesaan
 pendidikan:
   - "Meester in de Rechten (Sarjana Hukum), Universitas Indonesia, 1956"
 pokok_pikiran: "Menekankan pada unifikasi hukum agraria nasional yang bersumber dari hukum adat, prinsip fungsi sosial hak atas tanah, serta pentingnya kepastian hukum melalui pendaftaran tanah."

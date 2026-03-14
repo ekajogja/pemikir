@@ -9,8 +9,10 @@ tempat_lahir: Banda Aceh, Aceh
 afiliasi: Universitas Indonesia, Partai NasDem
 periode: 1998-2020
 bidang:
-  - jurnalisme
-  - politik
+  - Ilmu Komunikasi
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - "Doktor (Dr. Phil), Universitas Münster, Jerman, 1983"
 pokok_pikiran: "Komunikasi politik sebagai instrumen pembangunan konsensus demokrasi dan pentingnya etika komunikasi dalam menjaga integritas informasi publik."

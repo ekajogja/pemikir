@@ -3,15 +3,16 @@ layout: tokoh
 nama: Asep Saepudin Jahar
 kontributor: Anonim
 diperbarui: 2026-03-08
-lahir: '1669'
+lahir: '1969'
 wafat: ''
 tempat_lahir: Pandeglang, Banten
 afiliasi: UIN Syarif Hidayatullah Jakarta
 periode: pasca 2020
 bidang:
-  - agama
-  - hukum
-  - sosiologi
+  - Agama & Teologi
+  - Hukum
+  - Ilmu Sosial & Sosiologi
+  - Ekonomi & Keuangan
 pendidikan:
   - "S1 Perbandingan Mazhab, IAIN Syarif Hidayatullah Jakarta"
   - "M.A. Islamic Studies, McGill University, Kanada"

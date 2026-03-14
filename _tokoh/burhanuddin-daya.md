@@ -9,9 +9,10 @@ tempat_lahir: Bukittinggi, Sumatra Barat
 afiliasi: UIN Sunan Kalijaga Yogyakarta
 periode: 1970-Sekarang
 bidang:
-  - Sosiologi Agama
-  - Ilmu Perbandingan Agama
-  - Sejarah Pemikiran Islam
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Sejarah Islam
+  - Perbandingan Agama
 pendidikan:
   - IAIN Sunan Kalijaga (Drs., 1968)
   - McGill University, Kanada (M.A. Islamic Studies, 1974)

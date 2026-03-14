@@ -9,7 +9,10 @@ tempat_lahir: Padang, Sumatera Barat
 afiliasi: Universitas Andalas (Unand)
 periode: pasca 2020
 bidang:
-  - politik
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
+  - Kebijakan Publik
+  - Hukum
 pendidikan:
   - "S1 Ilmu Politik, Universitas Andalas"
   - "M.Si. Ilmu Politik, Universitas Gadjah Mada"

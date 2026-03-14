@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Indonesia (FKUI), ASPIRE
 periode: 1995-Sekarang
 bidang:
-  - Kedokteran Reproduksi
-  - Infertilitas dan Obstetri Ginekologi
-  - Teknologi Kesehatan (AI/Genomik)
+  - Kedokteran & Kesehatan
+  - Sains & Teknologi
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - Universitas Indonesia (dr., 1996; Sp.OG, 2005)
   - Monash University, Australia (MPH, 2007)

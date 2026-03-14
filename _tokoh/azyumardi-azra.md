@@ -9,9 +9,12 @@ tempat_lahir: Lubuk Alung, Sumatera Barat
 afiliasi: UIN Syarif Hidayatullah Jakarta, Dewan Pers, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: 1998-2020
 bidang:
-  - sejarah Islam
-  - pendidikan Islam
-  - sosiologi agama
+  - Sejarah Islam
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Pendidikan
+  - Sejarah
+  - Jurnalisme & Media
 pendidikan:
   - IAIN Syarif Hidayatullah Jakarta
   - Columbia University, AS (M.A., M.Phil., Ph.D. Sejarah)

@@ -9,9 +9,10 @@ tempat_lahir: "Jakarta"
 afiliasi: "Institut Teknologi Bandung, Kementerian Pendidikan Tinggi, Sains, dan Teknologi"
 periode: "pasca 2020"
 bidang:
-  - nanoteknologi
-  - teknik fisika
-  - material fungsional
+  - Sains & Teknologi
+  - Teknik & Infrastruktur
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - "Sarjana Teknik Fisika (S1), Institut Teknologi Bandung, 1999"
   - "Magister (S2) Quantum Engineering and System Science, Universitas Tokyo, Jepang, 2002"

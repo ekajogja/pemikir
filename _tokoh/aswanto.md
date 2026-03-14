@@ -9,9 +9,10 @@ tempat_lahir: "Palopo, Sulawesi Selatan"
 afiliasi: "Universitas Hasanuddin, Mahkamah Konstitusi"
 periode: "pasca 2020"
 bidang:
-  - hukum tata negara
-  - hukum pidana
-  - hak asasi manusia
+  - Hukum
+  - Hukum Tata Negara
+  - Advokasi & Aktivisme
+  - Kebijakan Publik
 pendidikan:
   - "S1 Hukum, Universitas Hasanuddin, 1986"
   - "S2 Ilmu Ketahanan Nasional, Universitas Gadjah Mada, 1992"

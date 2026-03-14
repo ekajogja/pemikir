@@ -9,9 +9,10 @@ tempat_lahir: Rembang, Jawa Tengah
 afiliasi: Universitas Negeri Surabaya (UNESA)
 periode: 1970-2021
 bidang:
-  - Sastra Indonesia
-  - Kritik Sastra
-  - Psikologi Sastra
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Pendidikan
+  - Psikologi
 pendidikan:
   - Universitas Gadjah Mada (Drs., 1963)
   - University of Hawaii (M.A., 1971)

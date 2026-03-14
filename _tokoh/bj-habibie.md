@@ -9,9 +9,13 @@ tempat_lahir: Parepare, Sulawesi Selatan
 afiliasi: Messerschmitt-Bölkow-Blohm, PT DI (IPTN), ICMI, Presiden RI ke-3
 periode: 1998-2020
 bidang:
-  - aeronautika
-  - teknologi
-  - filsafat pembangunan
+  - Sains & Teknologi
+  - Teknik & Infrastruktur
+  - Kebijakan Publik
+  - Ilmu Pemerintahan
+  - Ilmu Politik
+  - Filsafat
+  - Pendidikan
 pendidikan:
   - Institut Teknologi Bandung (Teknik Mesin)
   - RWTH Aachen, Jerman (Doktor Teknik Dirgantara)

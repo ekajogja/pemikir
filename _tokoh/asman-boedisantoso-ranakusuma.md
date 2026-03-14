@@ -9,8 +9,10 @@ tempat_lahir: Magelang, Jawa Tengah
 afiliasi: Universitas Indonesia, RS Medistra
 periode: 1998-2020
 bidang:
-  - kesehatan
-  - pendidikan
+  - Kedokteran & Kesehatan
+  - Pendidikan
+  - Ilmu Politik
+  - Advokasi & Aktivisme
 pendidikan:
   - "Dokter Umum, Universitas Indonesia, 1970"
   - "Spesialis Ilmu Penyakit Dalam, FKUI/RSCM"
