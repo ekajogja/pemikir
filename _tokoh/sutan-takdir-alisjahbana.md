@@ -9,9 +9,10 @@ tempat_lahir: Natal, Sumatera Utara
 afiliasi: Poedjangga Baroe, Universitas Nasional
 periode: 1900-1945
 bidang:
-  - kebudayaan
-  - sastra
-  - bahasa
+  - Humaniora & Kajian Budaya
+  - Sastra
+  - Filologi & Linguistik
+  - Filsafat
 pendidikan:
   - HKS Bandung
   - Meester in de Rechten, Jakarta (1942)

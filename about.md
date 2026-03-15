@@ -23,9 +23,13 @@ Informasi mengenai para pemikir Indonesia tersebar di berbagai sumber dan belum 
 
 Untuk menjaga martabat dan kualitas intelektual proyek ini, kurasi tokoh dilakukan berdasarkan kriteria berikut:
 
-1.  **Warisan Intelektual**: Tokoh harus memiliki sumbangan pemikiran nyata melalui karya tulis (buku, esai, jurnal), penemuan sains, atau rumusan teori yang diakui.
-2.  **Substansi di Atas Popularitas**: Kami mengutamakan kedalaman pemikiran daripada sekadar popularitas publik atau pengaruh di media sosial.
-3.  **Intelektualitas yang Berdampak**: Fokus pada tokoh yang pemikirannya telah memberikan kontribusi transformatif bagi kemajuan peradaban, kemanusiaan, atau keilmuan di Indonesia.
+1. **Warisan Intelektual**: Tokoh harus memiliki sumbangan pemikiran nyata melalui karya tulis (buku, esai, jurnal), penemuan sains, atau rumusan teori yang diakui.
+2. **Substansi di Atas Popularitas**: Kami mengutamakan kedalaman pemikiran daripada sekadar popularitas publik atau pengaruh di media sosial.
+3. **Intelektualitas yang Berdampak**: Fokus pada tokoh yang pemikirannya telah memberikan kontribusi transformatif bagi kemajuan peradaban, kemanusiaan, atau keilmuan di Indonesia.
+
+### Metodologi Klasifikasi
+
+Untuk memastikan kemudahan dalam riset dan pencarian, profil tokoh dalam direktori ini dikelompokkan ke dalam 48 kategori bidang pemikiran yang telah distandardisasi. Pengelompokan ini dilakukan melalui proses audit metadata secara berkala guna mencerminkan evolusi disiplin keilmuan para pemikir di Indonesia secara akurat. Kategori lengkap dapat dilihat pada [dokumen inventaris teknis](https://github.com/ekajogja/pemikir/blob/main/daftar-bidang.txt) kami.
 
 ### Berkontribusi
 

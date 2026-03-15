@@ -9,9 +9,9 @@ tempat_lahir: Yogyakarta
 afiliasi: Institut Seni Indonesia (ISI) Yogyakarta
 periode: 1998-2020
 bidang:
-  - seni
-  - filsafat
-  - budaya
+  - Seni Rupa
+  - Filsafat
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Sarjana Seni Rupa, STSRI 'ASRI' Yogyakarta"
   - "Magister Seni, Institut Teknologi Bandung (ITB)"

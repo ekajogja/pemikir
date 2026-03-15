@@ -9,10 +9,11 @@ tempat_lahir: Kubu Gadang, Sumatera Barat
 afiliasi: Harian Pedoman, PWI, Perfini
 periode: 1945-1965
 bidang:
-  - jurnalisme
-  - sejarah
-  - sastra
-  - kritik film
+  - Jurnalisme & Media
+  - Sejarah
+  - Sastra
+  - Film & Sinematografi
+  - Humaniora & Kajian Budaya
 pendidikan:
   - HIS (1935)
   - MULO (1939)

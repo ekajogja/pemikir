@@ -9,9 +9,9 @@ tempat_lahir: Ngawi, Jawa Timur
 afiliasi: Universitas Indonesia, Dewan Koperasi Indonesia (Dekopin)
 periode: 1945-1965
 bidang:
-  - ekonomi kerakyatan
-  - koperasi
-  - filsafat ekonomi
+  - Ekonomi & Keuangan
+  - Pembangunan Wilayah & Perdesaan
+  - Filsafat Nusantara
 pendidikan:
   - Universitas Indonesia (S1 Ekonomi, 1963)
   - University of Pittsburgh, AS (M.P.I.A, 1966; Doktor Ekonomi, 1969)

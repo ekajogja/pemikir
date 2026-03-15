@@ -9,10 +9,11 @@ tempat_lahir: Rander (Gujarat), India
 afiliasi: Kesultanan Aceh, Tarekat Rifaiyah, Mazhab Syafii
 periode: pra 1900
 bidang:
-  - teologi
-  - fikih
-  - sejarah
-  - sastra
+  - Agama & Teologi
+  - Hukum Islam
+  - Sejarah Islam
+  - Sastra
+  - Perbandingan Agama
 pendidikan:
   - Rander, Gujarat
   - Tarim, Hadramaut (Yaman)

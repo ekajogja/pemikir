@@ -9,9 +9,9 @@ tempat_lahir: Padang Panjang, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PNI Baru
 periode: 1900-1945
 bidang:
-  - politik
-  - filsafat sosial
-  - diplomasi
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - Algemene Middelbare School (AMS) Bandung
   - Universitas Amsterdam, Belanda

@@ -9,10 +9,11 @@ tempat_lahir: Boston, Amerika Serikat
 afiliasi: Institut Kesenian Jakarta (IKJ), Jurnal Jakarta, Komunitas Salihara
 periode: pasca 2020
 bidang:
-  - sastra
-  - jurnalisme
-  - budaya visual
-  - film
+  - Sastra
+  - Jurnalisme & Media
+  - Film & Sinematografi
+  - Seni Rupa
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Institut Kesenian Jakarta (S1 Sinematografi, 1994)
   - Universitas Indonesia (Magister Filsafat, 2000; Doktor Ilmu Sastra, 2005)

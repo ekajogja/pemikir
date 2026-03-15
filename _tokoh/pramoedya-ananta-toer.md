@@ -9,9 +9,10 @@ tempat_lahir: Blora, Jawa Tengah
 afiliasi: Lekra, Jurnalis, Sastrawan
 periode: 1945-1965
 bidang:
-  - sastra
-  - sejarah
-  - sosiologi politik
+  - Sastra
+  - Sejarah
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Radio Volkschool, Surabaya (1941)
   - Taman Dewasa/Taman Siswa (1943)

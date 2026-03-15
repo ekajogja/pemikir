@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Institut Teknologi Bandung, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: 1985-Sekarang
 bidang:
-  - Teknik Mesin
-  - Kebijakan Pendidikan Tinggi
-  - Sains dan Teknologi
+  - Teknik & Infrastruktur
+  - Kebijakan Publik
+  - Pendidikan
+  - Sains & Teknologi
 pendidikan:
   - Institut Teknologi Bandung (Ir., 1980)
   - University of California, Berkeley (Ph.D., 1985)

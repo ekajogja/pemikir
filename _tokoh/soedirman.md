@@ -9,9 +9,9 @@ tempat_lahir: Purbalingga, Jawa Tengah
 afiliasi: Muhammadiyah, PETA, TNI (Panglima Besar pertama)
 periode: 1900-1945
 bidang:
-  - militer
-  - etika kepemimpinan
-  - strategi pertahanan
+  - Kepemimpinan & Etika
+  - Sejarah
+  - Ilmu Politik
 pendidikan:
   - HIK (Hollandsche Indische Kweekschool) Muhammadiyah, Solo
   - Pendidikan Militer PETA, Bogor

@@ -9,9 +9,9 @@ tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: LIPI (BRIN), Universitas Gadjah Mada, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: pasca 2020
 bidang:
-  - ilmu sejarah
-  - sosiologi sejarah
-  - intelektualitas Islam
+  - Sejarah
+  - Ilmu Sosial & Sosiologi
+  - Agama & Teologi
 pendidikan:
   - Universitas Gadjah Mada (Sejarah, 1961)
   - Cornell University, AS (M.A. & Ph.D. Sejarah, 1970)

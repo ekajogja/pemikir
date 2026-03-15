@@ -9,9 +9,11 @@ tempat_lahir: Bone, Sulawesi Selatan
 afiliasi: ICRP (Indonesian Conference on Religion and Peace), UIN Syarif Hidayatullah Jakarta
 periode: 1998-2020
 bidang:
-  - agama
-  - feminisme
-  - politik
+  - Agama & Teologi
+  - Feminisme & Studi Gender
+  - Ilmu Politik
+  - Advokasi & Aktivisme
+  - Hukum
 pendidikan:
   - "IAIN Alauddin Makassar"
   - "Doktor (Ph.D) Pemikiran Politik Islam, IAIN (UIN) Syarif Hidayatullah Jakarta"

@@ -9,9 +9,9 @@ tempat_lahir: Sragen, Jawa Tengah
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: 1945-1965
 bidang:
-  - filsafat
-  - hukum
-  - filsafat Pancasila
+  - Filsafat
+  - Hukum
+  - Filsafat Nusantara
 pendidikan:
   - Meester in de Rechten, Rechtshogeschool Jakarta (1929)
   - Doktorandus in Indologie, Leiden (1932)

@@ -9,9 +9,9 @@ tempat_lahir: Magetan, Jawa Timur
 afiliasi: Institut Teknologi Bandung (ITB), LIPI, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: 1965-1998
 bidang:
-  - teknologi
-  - sains
-  - pendidikan
+  - Sains & Teknologi
+  - Teknik & Infrastruktur
+  - Pendidikan
 pendidikan:
   - "Teknik Elektro, Institut Teknologi Bandung"
   - "Doktor (Ph.D) Electrical Engineering, Stanford University, AS"

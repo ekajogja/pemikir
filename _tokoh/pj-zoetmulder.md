@@ -9,9 +9,10 @@ tempat_lahir: Utrecht, Belanda
 afiliasi: Fakultas Sastra Universitas Gadjah Mada (UGM)
 periode: 1945-1965
 bidang:
-  - sastra Jawa Kunon
-  - filsafat
-  - filologi
+  - Sastra
+  - Filsafat
+  - Filologi & Linguistik
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Universitas Leiden, Belanda (1935)
 pokok_pikiran: Mengkaji secara mendalam filsafat Jawa klasik dan teks Sansekerta-Jawa, serta mendokumentasikan konsep keindahan (kalangwan) dan dimensi metafisik budaya Jawa.

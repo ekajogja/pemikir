@@ -9,9 +9,9 @@ tempat_lahir: Makassar, Sulawesi Selatan
 afiliasi: Universitas Gadjah Mada (FH UGM), PUKAT Korupsi
 periode: pasca 2020
 bidang:
-  - hukum tata negara
-  - antikorupsi
-  - teori kekuasaan
+  - Hukum Tata Negara
+  - Advokasi & Aktivisme
+  - Ilmu Politik
 pendidikan:
   - Universitas Gadjah Mada (S1 Ilmu Hukum, 2003)
   - Northwestern University, AS (LL.M, 2006)

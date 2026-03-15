@@ -9,9 +9,10 @@ tempat_lahir: Nagari Pandam Gadang, Suliki, Sumatera Barat
 afiliasi: Partai Komunis Indonesia (PKI), Partai Murba, Pari
 periode: 1900-1945
 bidang:
-  - filsafat
-  - politik
-  - pendidikan
+  - Filsafat
+  - Ilmu Politik
+  - Pendidikan
+  - Ideologi & Teori Kritis
 pendidikan:
   - Kweekschool (sekolah guru) Bukit Tinggi
   - Rijkskweekschool, Fort de Kock

@@ -9,9 +9,9 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Universitas Indonesia (UI), Majalah Tempo, Prisma
 periode: 1965-1998
 bidang:
-  - sejarah
-  - budaya
-  - sosiologi
+  - Sejarah
+  - Humaniora & Kajian Budaya
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Studi Sejarah, Universitas Indonesia"
   - "Doktor (Ph.D) Sejarah, Yale University, AS"

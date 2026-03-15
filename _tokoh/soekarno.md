@@ -9,9 +9,11 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: PNI, BPUPKI, Presiden RI pertama
 periode: 1900-1945
 bidang:
-  - politik
-  - filsafat negara
-  - ideologi
+  - Ilmu Politik
+  - Filsafat
+  - Ideologi & Teori Kritis
+  - Sejarah
+  - Arsitektur & Tata Kota
 pendidikan:
   - Technische Hoogeschool (THS) Bandung (S1 Teknik Sipil, 1926)
 pokok_pikiran: Pancasila (Gotong Royong); Marhaenisme (Sosio-Nasionalisme & Sosio-Demokrasi); Revolusi Belum Selesai; Anti-Imperialisme (NEFO vs OLDEFO); Jasmerah (Jangan Sekali-kali Meninggalkan Sejarah).

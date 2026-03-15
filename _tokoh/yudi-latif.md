@@ -9,9 +9,10 @@ tempat_lahir: Sukabumi, Jawa Barat
 afiliasi: Reform Institute, PSIK-Indonesia, UKP-PIP/BPIP
 periode: pasca 2020
 bidang:
-  - sosiologi politik
-  - filsafat kenegaraan
-  - sejarah pemikiran
+  - Ilmu Sosial & Sosiologi
+  - Filsafat
+  - Sejarah
+  - Ideologi & Teori Kritis
 pendidikan:
   - Universitas Padjadjaran (S1 Ilmu Komunikasi, 1990)
   - Australian National University (M.A. 1999; Doktor Sosiologi Politik & Komunikasi, 2004)

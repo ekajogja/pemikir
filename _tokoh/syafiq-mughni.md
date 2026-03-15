@@ -9,9 +9,9 @@ tempat_lahir: Lamongan, Jawa Timur
 afiliasi: Muhammadiyah, UIN Sunan Ampel Surabaya, Utusan Khusus Presiden
 periode: pasca 2020
 bidang:
-  - sejarah
-  - agama
-  - budaya
+  - Sejarah Islam
+  - Agama & Teologi
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Studi Islam, IAIN Sunan Ampel Surabaya"
   - "Master (M.A.) Islamic Studies, UCLA, Amerika Serikat"

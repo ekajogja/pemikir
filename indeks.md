@@ -30,10 +30,25 @@ permalink: /indeks/
             {% endif %}
             
             <li>
-                <a href="{{ tokoh.url | relative_url }}">{{ tokoh.title }}</a>
-                {% if tokoh.lahir or tokoh.wafat %}
-                    <span class="card-meta">({{ tokoh.lahir | default: "?" }}–{{ tokoh.wafat | default: "sekarang" }})</span>
-                {% endif %}
+                <div class="indeks-item">
+                    <div class="indeks-main">
+                        <a href="{{ tokoh.url | relative_url }}">{{ tokoh.title }}</a>
+                        {% if tokoh.lahir or tokoh.wafat %}
+                            <span class="card-meta">({{ tokoh.lahir | default: "?" }}–{{ tokoh.wafat | default: "sekarang" }})</span>
+                        {% endif %}
+                    </div>
+                    {% if tokoh.bidang or tokoh.periode %}
+                    <div class="indeks-meta">
+                        {% if tokoh.bidang %}
+                            <span class="indeks-bidang">{{ tokoh.bidang | join: ", " }}</span>
+                        {% endif %}
+                        {% if tokoh.periode %}
+                            <span class="indeks-periode-sep">•</span>
+                            <span class="indeks-periode">{{ tokoh.periode }}</span>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                </div>
             </li>
         {% endfor %}
         
@@ -67,13 +82,29 @@ permalink: /indeks/
         margin: 1rem 0;
     }
     .indeks-list li {
-        margin-bottom: 0.5rem;
+        margin-bottom: 1rem;
         font-size: 1.05rem;
+        border-bottom: 1px solid rgba(201, 176, 138, 0.2);
+        padding-bottom: 0.5rem;
     }
     .indeks-list a {
         font-weight: bold;
     }
-    @media (max-width: 600px) {
+    .indeks-meta {
+        font-size: 0.8rem;
+        color: var(--color-text-mute);
+        margin-top: 0.1rem;
+        line-height: 1.4;
+    }
+    .indeks-periode-sep {
+        margin: 0 0.4rem;
+        color: var(--color-border);
+    }
+    .indeks-periode {
+        text-transform: capitalize;
+        font-style: italic;
+    }
+    @media (max-width: 768px) {
         .indeks-container {
             column-count: 1;
         }

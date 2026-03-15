@@ -9,9 +9,9 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: ISEAS-Yusof Ishak Institute, STF Driyarkara, Kantor Staf Presiden (KSP)
 periode: pasca 2020
 bidang:
-  - teknologi
-  - politik
-  - sosiologi
+  - Sains & Teknologi
+  - Ilmu Politik
+  - Kebijakan Publik
 pendidikan:
   - "Teknik Industri, Institut Teknologi Bandung"
   - "Master (M.Sc.) Information Systems, University of Manchester, Inggris"

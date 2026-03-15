@@ -9,10 +9,10 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Indonesia, Jurnal Perempuan, Institut Kesenian Jakarta (IKJ)
 periode: 1945-1965
 bidang:
-  - filsafat
-  - feminisme
-  - psikologi
-  - sastra
+  - Filsafat
+  - Feminisme & Studi Gender
+  - Psikologi
+  - Sastra
 pendidikan:
   - Universitas Indonesia (Psikologi, 1962)
   - Rijksuniversiteit Leiden, Belanda (Sarjana Filsafat, 1974)

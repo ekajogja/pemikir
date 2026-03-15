@@ -9,9 +9,9 @@ tempat_lahir: Malang, Jawa Timur
 afiliasi: Bappenas, Fakultas Ekonomi UI, Mafia Berkeley
 periode: 1965-1998
 bidang:
-  - ekonomi
-  - perencanaan pembangunan
-  - demografi
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Universitas Indonesia (S1 Ekonomi)
   - University of California, Berkeley, AS (Doktor Ekonomi, 1961)

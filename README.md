@@ -31,15 +31,20 @@ Situs dapat diakses di **[https://ekajogja.github.io/pemikir](https://ekajogja.g
 
 Untuk menjaga standar kualitas dan kedalaman intelektual direktori ini, setiap tokoh yang didaftarkan harus memenuhi kriteria berikut:
 
-1.  **Warisan Intelektual (Intellectual Legacy)**: Memiliki karya tulis (buku/artikel), teori, konsep orisinal, atau kontribusi pemikiran yang fundamental dan diakui di bidangnya.
-2.  **Substansi di Atas Popularitas**: Fokus pada bobot pemikiran, bukan sekadar popularitas atau pengaruh media sosial. Proyek ini memprioritaskan profil "intelektual" daripada "selebritas".
-3.  **Integritas & Etika**: Tokoh yang didaftarkan wajib memiliki rekam jejak moral yang bersih. Kami secara ketat mengevaluasi dan tidak menyertakan profil tokoh yang memiliki catatan terverifikasi terkait korupsi, pelecehan seksual, atau tindak kriminal berat lainnya yang mencederai martabat kemanusiaan dan intelektualitas.
-4.  **Verifikasi Sumber**: Setiap klaim fakta dan pokok pikiran wajib menyertakan rujukan kredibel (jurnal akademik, buku, atau media massa otoritatif).
-5.  **Inklusivitas Bidang**: Mencakup berbagai disiplin ilmu mulai dari filsafat, sains, teknologi, hukum, agama, hingga seni dan kebudayaan.
+1. **Warisan Intelektual (Intellectual Legacy)**: Memiliki karya tulis (buku/artikel), teori, konsep orisinal, atau kontribusi pemikiran yang fundamental dan diakui di bidangnya.
+2. **Substansi di Atas Popularitas**: Fokus pada bobot pemikiran, bukan sekadar popularitas atau pengaruh media sosial. Proyek ini memprioritaskan profil "intelektual" daripada "selebritas".
+3. **Integritas & Etika**: Tokoh yang didaftarkan wajib memiliki rekam jejak moral yang bersih. Kami secara ketat mengevaluasi dan tidak menyertakan profil tokoh yang memiliki catatan terverifikasi terkait korupsi, pelecehan seksual, atau tindak kriminal berat lainnya yang mencederai martabat kemanusiaan dan intelektualitas.
+4. **Verifikasi Sumber**: Setiap klaim fakta dan pokok pikiran wajib menyertakan rujukan kredibel (jurnal akademik, buku, atau media massa otoritatif).
+5. **Inklusivitas Bidang**: Mencakup berbagai disiplin ilmu mulai dari filsafat, sains, teknologi, hukum, agama, hingga seni dan kebudayaan.
+
+### Sistem Klasifikasi Bidang
+
+Untuk menjaga konsistensi data dan kemudahan navigasi, setiap tokoh wajib dikategorikan menggunakan **48 Kategori Standar**. Daftar lengkap kategori ini dapat dilihat pada file `daftar-bidang.txt`. Hal ini memastikan statistik dan filter pada situs berfungsi secara akurat.
 
 ## Aturan Verifikasi Sumber
 
 Untuk menjaga kredibilitas, setiap data **WAJIB** menyertakan rujukan:
+
 - **Sumber daring**: URL jurnal, berita, atau ensiklopedia terpercaya.
 - **Sumber cetak**: Jika tidak ada versi daring, kontributor diminta menyertakan foto/pindaian halaman terkait yang diunggah ke `assets/bukti/`.
 

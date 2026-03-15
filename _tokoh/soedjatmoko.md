@@ -9,10 +9,11 @@ tempat_lahir: Sawahlunto, Sumatera Barat
 afiliasi: Partai Sosialis Indonesia (PSI), PBB, Universitas PBB (UNU)
 periode: 1945-1965
 bidang:
-  - filsafat pembangunan
-  - sejarah
-  - sosiologi
-  - diplomasi
+  - Filsafat
+  - Sejarah
+  - Ilmu Sosial & Sosiologi
+  - Ilmu Politik
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Sekolah Tinggi Kedokteran (Ika Daigaku), Jakarta (Tidak Selesai)
   - Harvard University, AS

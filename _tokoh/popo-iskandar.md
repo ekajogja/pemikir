@@ -9,9 +9,9 @@ tempat_lahir: Garut, Jawa Barat
 afiliasi: Seni Rupa ITB, IKIP Bandung, Akademi Jakarta
 periode: 1965-1998
 bidang:
-  - seni
-  - pendidikan
-  - budaya
+  - Seni Rupa
+  - Pendidikan
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Seni Rupa, Institut Teknologi Bandung"
 pokok_pikiran: "Merumuskan estetika 'Ekspresionisme Minimalis' (Esensialisme) dalam seni lukis modern guna menangkap 'jiwa' objek melalui penyederhanaan bentuk dan kejujuran ekspresi individual."

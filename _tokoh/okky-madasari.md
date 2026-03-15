@@ -9,9 +9,10 @@ tempat_lahir: Magetan, Jawa Timur
 afiliasi: OM Institute, National University of Singapore (NUS)
 periode: pasca 2020
 bidang:
-  - sastra
-  - sosiologi
-  - kritik sosial
+  - Sastra
+  - Ilmu Sosial & Sosiologi
+  - Advokasi & Aktivisme
+  - Feminisme & Studi Gender
 pendidikan:
   - Universitas Gadjah Mada (Ilmu Hubungan Internasional)
   - Universitas Indonesia (Magister Sosiologi)

@@ -9,8 +9,10 @@ tempat_lahir: Cirebon, Jawa Tengah
 afiliasi: Bappenas, Universitas Indonesia
 periode: 1965-1998
 bidang:
-  - ekonomi
-  - politik
+  - Ekonomi & Keuangan
+  - Pertanian & Peternakan
+  - Kebijakan Publik
+  - Ilmu Politik
 pendidikan:
   - "Ekonomi, Universitas Indonesia"
   - "MBA, University of California, Berkeley"

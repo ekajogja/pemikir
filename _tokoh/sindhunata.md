@@ -9,11 +9,11 @@ tempat_lahir: Batu, Malang, Jawa Timur
 afiliasi: Serikat Yesus (Jesuit), Harian Kompas, STF Driyarkara
 periode: 1945-1965
 bidang:
-  - filsafat
-  - teologi
-  - sastra
-  - budaya
-  - jurnalisme
+  - Filsafat
+  - Agama & Teologi
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Jurnalisme & Media
 pendidikan:
   - STF Driyarkara, Jakarta (S1)
   - Institut Filsafat Teologi Kentungan, Yogyakarta

@@ -9,9 +9,11 @@ tempat_lahir: Kedunggubah, Purworejo, Jawa Tengah
 afiliasi: Serikat Yesus (Jesuit), STF Driyarkara (Pendiri), Sanata Dharma
 periode: 1945-1965
 bidang:
-  - filsafat manusia (antropologi metafisik)
-  - pendidikan
-  - etika
+  - Filsafat
+  - Pendidikan
+  - Agama & Teologi
+  - Filsafat Nusantara
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Universitas Gregoriana, Roma (Doktor Filsafat, 1952)
 pokok_pikiran: Hominisasi dan Humanisasi (Memanusiakan manusia); Cinta Kasih sebagai penggerak eksistensi; pendidikan sebagai pembebasan potensi kemanusiaan; keselarasan antara iman katolik dan nasionalisme Pancasila.

@@ -9,9 +9,9 @@ tempat_lahir: Solo, Jawa Tengah
 afiliasi: Universitas Indonesia (FIB UI), Angkatan '70
 periode: 1998-2020
 bidang:
-  - sastra
-  - budaya
-  - sosiologi
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Sastra Inggris, Universitas Gadjah Mada"
   - "Humanities, University of Hawaii, AS"

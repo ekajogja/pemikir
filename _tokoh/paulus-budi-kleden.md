@@ -9,9 +9,10 @@ tempat_lahir: Flores, Nusa Tenggara Timur
 afiliasi: Serikat Sabda Allah (SVD), Keuskupan Agung Ende, STFK Ledalero
 periode: pasca 2020
 bidang:
-  - filsafat
-  - agama
-  - sosiologi
+  - Filsafat
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Sarjana Filsafat & Teologi, STFK Ledalero"
   - "Doktor (Ph.D) Teologi Sistematik, Universitas Albert Ludwig, Freiburg, Jerman"

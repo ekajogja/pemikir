@@ -9,9 +9,9 @@ tempat_lahir: Muara Botung, Tapanuli Selatan, Sumatera Utara
 afiliasi: LBH Jakarta, Lubis Santosa & Maramis, ICW
 periode: pasca 2020
 bidang:
-  - hukum
-  - politik
-  - sosiologi
+  - Hukum
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Fakultas Hukum, Universitas Indonesia"
   - "LL.M. Harvard Law School, Amerika Serikat"

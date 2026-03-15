@@ -9,8 +9,8 @@ tempat_lahir: Karanganyar, Jawa Tengah
 afiliasi: Institut Teknologi Bandung (ITB), PLN
 periode: 1945-1965
 bidang:
-  - teknik sipil
-  - inovasi infrastruktur
+  - Teknik & Infrastruktur
+  - Sains & Teknologi
 pendidikan:
   - Technische Hoogeschool (THS) Bandung (Sipil, 1934)
 pokok_pikiran: Sistem Fondasi Cakar Ayam (Efisiensi konstruksi di tanah lunak); kemandirian teknologi dalam pembangunan infrastruktur nasional; inovasi berbasis problem solving lapangan; penggunaan prinsip fisika yang kreatif untuk solusi praktis.

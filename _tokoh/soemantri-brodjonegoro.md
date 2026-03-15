@@ -9,9 +9,10 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Universitas Indonesia, Kementerian Pertambangan RI
 periode: 1950-1973
 bidang:
-  - Teknik Kimia
-  - Manajemen Pendidikan Tinggi
-  - Kebijakan Energi
+  - Kimia
+  - Sains & Teknologi
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - Technische Hoogeschool (ITB)
   - Delft University of Technology, Belanda (Ir., 1956)

@@ -9,9 +9,9 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: IBEKA (Institut Bisnis dan Ekonomi Kerakyatan), BRIN
 periode: pasca 2020
 bidang:
-  - wirausaha sosial
-  - energi terbarukan
-  - pembangunan perdesaan
+  - Advokasi & Aktivisme
+  - Kebijakan Publik
+  - Pembangunan Wilayah & Perdesaan
 pendidikan:
   - Institut Pertanian Bogor (S1 Sosek Pertanian)
   - Universidad da Costa Rica

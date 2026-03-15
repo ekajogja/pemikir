@@ -9,9 +9,9 @@ tempat_lahir: Sumbawa, Nusa Tenggara Barat
 afiliasi: Universitas Gadjah Mada, Komunitas Salihara, Borobudur Writers & Cultural Festival
 periode: pasca 2020
 bidang:
-  - kebudayaan
-  - kurasi seni
-  - filsafat nusantara
+  - Humaniora & Kajian Budaya
+  - Seni Rupa
+  - Filsafat Nusantara
 pendidikan:
   - Universitas Gadjah Mada (Arsitektur)
 pokok_pikiran: Negara dibentuk oleh pers!; kurasi kebudayaan sebagai manajemen memori; hubungan antara ruang suci dan identitas bangsa; sinkretisme intelektual dalam narasi Nusantara.

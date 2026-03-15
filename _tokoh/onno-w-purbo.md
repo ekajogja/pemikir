@@ -9,9 +9,10 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: OnnoCenter, Internet Society, Institut Teknologi Tangerang Selatan
 periode: pasca 2020
 bidang:
-  - teknologi
-  - pendidikan
-  - komunikasi
+  - Sains & Teknologi
+  - Pendidikan
+  - Ilmu Komunikasi
+  - Advokasi & Aktivisme
 pendidikan:
   - "Teknik Elektro, Institut Teknologi Bandung"
   - "Doktor (Ph.D) Integrated Circuits, University of Waterloo, Kanada"

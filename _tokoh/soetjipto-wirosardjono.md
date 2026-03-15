@@ -9,9 +9,11 @@ tempat_lahir: Blitar, Jawa Timur
 afiliasi: Badan Pusat Statistik (BPS), ICMI, Majalah Tempo
 periode: 1998-2020
 bidang:
-  - sosiologi
-  - statistik
-  - agama
+  - Ilmu Sosial & Sosiologi
+  - Sains & Teknologi
+  - Agama & Teologi
+  - Kebijakan Publik
+  - Jurnalisme & Media
 pendidikan:
   - "Akademi Ilmu Statistik, Jakarta"
   - "Doktor (Ph.D) Demografi & Sosiologi, Amerika Serikat"
