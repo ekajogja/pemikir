@@ -9,9 +9,11 @@ tempat_lahir: Pasuruan, Jawa Timur
 afiliasi: Indische Partij, Ksatrian Instituut
 periode: 1900-1945
 bidang:
-  - politik
-  - jurnalisme
-  - pendidikan
+  - Ilmu Politik
+  - Jurnalisme & Media
+  - Pendidikan
+  - Sejarah
+  - Ekonomi & Keuangan
 pendidikan:
   - "Gymnasium, Batavia"
   - "Doktor (Ph.D) Ekonomi-Politik, Universitas Zurich, Swiss"

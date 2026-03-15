@@ -9,9 +9,10 @@ tempat_lahir: Bukittinggi, Sumatra Barat
 afiliasi: Universitas Andalas (Unand)
 periode: 1995-Sekarang
 bidang:
-  - Hukum Bisnis
-  - Corporate Social Responsibility (CSR)
-  - Hukum Pertambangan
+  - Hukum
+  - Bisnis & Manajemen
+  - Kehutanan & Lingkungan
+  - Kebijakan Publik
 pendidikan:
   - Universitas Andalas (S.H., 1993)
   - Universitas Brawijaya (M.Hum., 2000; Doktor, 2010)

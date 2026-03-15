@@ -9,9 +9,9 @@ tempat_lahir: Gorontalo
 afiliasi: Balai Pustaka, Universitas Indonesia, Pusat Dokumentasi Sastra H.B. Jassin
 periode: 1945-1965
 bidang:
-  - kritik sastra
-  - dokumentasi sastra
-  - penerjemahan
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Jurnalisme & Media
 pendidikan:
   - HBS Medan (1938)
   - Universitas Indonesia (S1 Sastra, 1957)

@@ -1,6 +1,6 @@
 LOG PROGRES REFACTORING BIDANG TOKOH
 Status: Sedang Berjalan (Fase 2)
-Total Tokoh: 88/250+ (Estimasi)
+Total Tokoh: 138/250+ (Estimasi)
 Terakhir Diperbarui: 2026-03-15
 
 DAFTAR TOKOH SELESAI:
@@ -92,6 +92,56 @@ DAFTAR TOKOH SELESAI:
 86. Budi Darma
 87. Budi Wiweko
 88. Burhanuddin Daya
+89. Busthanul Arifin
+90. Busyra Azheri
+91. Busyra Zahir
+92. Chairil Anwar
+93. Conny R. Semiawan
+94. Cornel Simanjuntak
+95. Dadan Wildan
+96. Dadang Hawari
+97. Damardjati Supadjar
+98. Dandhy Laksono
+99. Danton Sihombing
+100. Darmanto Jatman
+101. Dayar Arbain
+102. Deliar Noer
+103. Dewi Fortuna Anwar
+104. Djoeanda Kartawidjaja
+105. Djohan Effendi
+106. Doddy Achdiat Tisna Amidjaja
+107. Dorodjatun Kuntjoro-Jakti
+108. Eka Darmaputra
+109. Eko Prasetyo
+110. Ellydar Chaidir
+111. Emha Ainun Nadjib (Cak Nun)
+112. Emil Salim
+113. Ernest Douwes Dekker
+114. F. Budi Hardiman
+115. Fahmi Idris
+116. Fahruddin Faiz
+117. Faisal Basri
+118. Fajar Riza Ul Haq
+119. Fery Amsari
+120. Franz Magnis-Suseno
+121. Fuad Hassan
+122. Fransiskus Xaverius Eko Armada Riyanto
+123. Gadis Arivia
+124. Gita Wirjawan
+125. Goenawan Mohamad
+126. Haidar Bagir
+127. Haji Misbach
+128. Hamid Fahmy Zarkasyi
+129. Hamka
+130. Hamzah Fansuri
+131. Harsja W. Bachtiar
+132. Harun Nasution
+133. Hasyim Asy'ari
+134. HB Jassin
+135. Heri Priyatmoko
+136. Hikmahanto Juwana
+137. Hikmat Darmawan
+138. HOS Tjokroaminoto
 
 SELANJUTNYA:
-- Busthanul Arifin
+- I Gede Pasek Suardika

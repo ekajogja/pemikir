@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Ancora Group, Harvard Kennedy School, MAARIF Institute
 periode: pasca 2020
 bidang:
-  - ekonomi
-  - pendidikan
-  - politik
+  - Ekonomi & Keuangan
+  - Pendidikan
+  - Ilmu Politik
+  - Bisnis & Manajemen
 pendidikan:
   - "B.B.A. University of Texas, Austin, AS"
   - "M.B.A. Baylor University, AS"

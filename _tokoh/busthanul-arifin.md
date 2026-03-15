@@ -10,8 +10,9 @@ afiliasi: Mahkamah Agung RI, UNISSULA
 periode: 1968-1994
 bidang:
   - Hukum Islam
-  - Hukum Nasional
-  - Peradilan Agama
+  - Hukum
+  - Kebijakan Publik
+  - Pendidikan
 pendidikan:
   - Universitas Gadjah Mada (S.H., 1956)
   - Universitas Islam Sultan Agung (Doktor HC)

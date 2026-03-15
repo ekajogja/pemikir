@@ -9,9 +9,10 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: STF Driyarkara, Universitas Pelita Harapan
 periode: pasca 2020
 bidang:
-  - filsafat
-  - teori kritis
-  - demokrasi
+  - Filsafat
+  - Ilmu Politik
+  - Humaniora & Kajian Budaya
+  - Jurnalisme & Media
 pendidikan:
   - STF Driyarkara (1988)
   - Magister, Hochschule für Philosophie München

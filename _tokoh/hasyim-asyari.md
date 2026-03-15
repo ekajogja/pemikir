@@ -9,9 +9,9 @@ tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (Pendiri/Rais Akbar), Pondok Pesantren Tebuireng
 periode: 1900-1945
 bidang:
-  - teologi Islam
-  - pendidikan pesantren
-  - hukum Islam (Fiqih)
+  - Agama & Teologi
+  - Pendidikan
+  - Hukum
 pendidikan:
   - Berbagai Pesantren di Jawa
   - Makkah al-Mukarramah (Haji/Studi Khusus)

@@ -9,9 +9,10 @@ tempat_lahir: Tasikmalaya, Jawa Barat
 afiliasi: Perdana Menteri Indonesia, Bappenas
 periode: 1945-1965
 bidang:
-  - politik
-  - hukum
-  - ekonomi
+  - Ilmu Politik
+  - Hukum
+  - Ekonomi & Keuangan
+  - Ilmu Pemerintahan
 pendidikan:
   - "Technische Hoogeschool te Bandoeng (ITB)"
 pokok_pikiran: "Merumuskan konsep Negara Kepulauan (Archipelagic State) melalui Deklarasi Djuanda yang menyatukan seluruh perairan Nusantara sebagai wilayah kedaulatan utuh NKRI."

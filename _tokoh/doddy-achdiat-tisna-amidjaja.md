@@ -9,8 +9,9 @@ tempat_lahir: Garut, Jawa Barat
 afiliasi: Institut Teknologi Bandung (ITB), LIPI, UNESCO
 periode: 1965-1998
 bidang:
-  - sains
-  - pendidikan
+  - Sains & Teknologi
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - "Doktor (Dr. rer. nat.), Universitas Bonn, Jerman"
 pokok_pikiran: "Peletakan fondasi tata kelola riset strategis nasional serta advokasi otonomi kampus dan kebebasan akademik sebagai syarat mutlak kemajuan sains."

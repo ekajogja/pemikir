@@ -9,9 +9,10 @@ tempat_lahir: Rangkasbitung, Banten
 afiliasi: Universitas Indonesia (FEB UI), LP3ES
 periode: 1998-2020
 bidang:
-  - ekonomi
-  - politik
-  - sosiologi
+  - Ekonomi & Keuangan
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - "Fakultas Ekonomi, Universitas Indonesia"
   - "Doktor (Ph.D) Ekonomi-Politik, University of California, Berkeley, AS"

@@ -9,9 +9,9 @@ tempat_lahir: Solo (Surakarta), Jawa Tengah
 afiliasi: Universitas Sanata Dharma, Solo Societeit
 periode: pasca 2020
 bidang:
-  - sejarah publik
-  - sejarah kuliner
-  - sejarah lokal Solo
+  - Sejarah
+  - Humaniora & Kajian Budaya
+  - Pariwisata & Perhotelan
 pendidikan:
   - Universitas Sebelas Maret (S1 Sejarah, 2009)
   - Universitas Gadjah Mada (S2 Sejarah, 2013)

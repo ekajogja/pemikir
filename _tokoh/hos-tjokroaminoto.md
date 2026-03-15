@@ -9,9 +9,10 @@ tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: Sarekat Islam (SI), PSII
 periode: 1900-1945
 bidang:
-  - politik
-  - Islam sosialisme
-  - pendidikan
+  - Ilmu Politik
+  - Agama & Teologi
+  - Pendidikan
+  - Sejarah
 pendidikan:
   - OSVIA, Magelang (1902)
   - Pendidikan Teknik Mesin, Surabaya

@@ -10,8 +10,9 @@ afiliasi: Kementerian Sekretariat Negara RI, Universitas Galuh
 periode: 1990-Sekarang
 bidang:
   - Sejarah Islam
-  - Tata Kelola Birokrasi
-  - Hubungan Kelembagaan
+  - Ilmu Pemerintahan
+  - Kebijakan Publik
+  - Sejarah
 pendidikan:
   - IKIP Bandung (S.Pd., 1991)
   - Universitas Padjadjaran (M.Hum., 1998; Doktor, 2003)

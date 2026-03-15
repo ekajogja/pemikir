@@ -9,10 +9,10 @@ tempat_lahir: ''
 afiliasi: Akademi Samali, DKJ (Dewan Kesenian Jakarta), Madani Film Festival
 periode: pasca 2020
 bidang:
-  - budaya populer
-  - kritik komik
-  - kurasi film
-  - jurnalisme budaya
+  - Humaniora & Kajian Budaya
+  - Seni Rupa
+  - Film & Sinematografi
+  - Jurnalisme & Media
 pendidikan:
   - Universitas Indonesia (Ilmu Komunikasi)
 pokok_pikiran: Komik sebagai medium literasi dan ekspresi intelektual; globalisasi subkultur (seperti Manga) di Indonesia; pentingnya kurasi dalam menata ekosistem seni; budaya populer sebagai bahasa pemersatu lintas generasi.

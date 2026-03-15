@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Diponegoro (UNDIP)
 periode: 1970-2018
 bidang:
-  - Psikologi Sastra
-  - Kebudayaan Jawa
-  - Filsafat Sosial
+  - Psikologi
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Filsafat
 pendidikan:
   - Universitas Gadjah Mada (Drs. Psikologi, 1968)
   - East-West Center, Hawaii (1972)

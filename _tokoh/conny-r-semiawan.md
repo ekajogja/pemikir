@@ -9,9 +9,9 @@ tempat_lahir: Ngawi, Jawa Timur
 afiliasi: Universitas Negeri Jakarta (UNJ), UNESCO
 periode: 1960-2021
 bidang:
-  - Pedagogik (Ilmu Pendidikan)
-  - Psikologi Pendidikan
-  - Pendidikan Anak Berbakat
+  - Pendidikan
+  - Psikologi
+  - Kebijakan Publik
 pendidikan:
   - Universitas Indonesia (Drs., 1955)
   - IKIP Jakarta (Doktor, 1978)

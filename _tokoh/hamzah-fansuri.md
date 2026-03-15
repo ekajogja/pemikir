@@ -9,9 +9,9 @@ tempat_lahir: Barus (atau Pancur), Sumatera Utara
 afiliasi: Kesultanan Aceh, Tarekat Qadiriyah
 periode: pra 1900
 bidang:
-  - tasawuf
-  - sastra Melayu
-  - teologi
+  - Agama & Teologi
+  - Sastra
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Barus/Pancur
   - Perjalanan ke India, Persia, dan Arab (Mekkah/Madinah)

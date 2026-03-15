@@ -10,8 +10,9 @@ afiliasi: Universitas Islam Riau (UIR), APHTN-HAN
 periode: 1985-Sekarang
 bidang:
   - Hukum Tata Negara
-  - Teori Konstitusi
-  - Hukum Progresif
+  - Hukum
+  - Kebijakan Publik
+  - Kehutanan & Lingkungan
 pendidikan:
   - Universitas Islam Riau (S.H., 1982)
   - Universitas Padjadjaran (M.Hum., 1996)

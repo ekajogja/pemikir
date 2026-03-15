@@ -9,9 +9,10 @@ tempat_lahir: Eckersdorf, Jerman
 afiliasi: Sekolah Tinggi Filsafat Driyarkara
 periode: pasca 2020
 bidang:
-  - etika
-  - filsafat politik
-  - teologi
+  - Filsafat
+  - Ilmu Politik
+  - Agama & Teologi
+  - Etika
 pendidikan:
   - Philosophische Hochschule Pullach, Jerman (1960)
   - Institut Filsafat Teologi, Yogyakarta (1968)

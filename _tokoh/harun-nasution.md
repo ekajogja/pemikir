@@ -9,9 +9,9 @@ tempat_lahir: Pematangsiantar, Sumatera Utara
 afiliasi: IAIN Syarif Hidayatullah, Kementerian Luar Negeri
 periode: 1945-1965
 bidang:
-  - teologi Islam
-  - filsafat
-  - pendidikan Islam
+  - Agama & Teologi
+  - Filsafat
+  - Pendidikan
 pendidikan:
   - Moderne Islamietische Kweekschool, Bukittinggi
   - Universitas Al-Azhar, Kairo (Sarjana Muda, 1940)

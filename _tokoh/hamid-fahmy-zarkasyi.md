@@ -9,10 +9,9 @@ tempat_lahir: Gonto, Ponorogo, Jawa Timur
 afiliasi: Universitas Darussalam Gontor, INSISTS, MIUMI
 periode: pasca 2020
 bidang:
-  - teologi Islam
-  - filsafat Islam
-  - pendidikan
-  - Islamisasi Ilmu
+  - Agama & Teologi
+  - Filsafat
+  - Pendidikan
 pendidikan:
   - Pondok Modern Darussalam Gontor/ISID (S1, 1982)
   - University of the Punjab, Pakistan (M.A.Ed., 1986)

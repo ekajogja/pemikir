@@ -9,9 +9,9 @@ tempat_lahir: Bukittinggi, Sumatra Barat
 afiliasi: Universitas Andalas (Unand)
 periode: 1975-Sekarang
 bidang:
-  - Farmasi Bahan Alam
-  - Kimia Fitokimia
-  - Saintifikasi Jamu
+  - Kedokteran & Kesehatan
+  - Sains & Teknologi
+  - Kehutanan & Lingkungan
 pendidikan:
   - Institut Teknologi Bandung (Drs. Farmasi, 1974)
   - University of Western Australia (Ph.D., 1984)

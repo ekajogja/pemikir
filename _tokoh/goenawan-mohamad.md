@@ -9,10 +9,11 @@ tempat_lahir: Batang, Jawa Tengah
 afiliasi: Majalah Tempo, Komunitas Salihara, Manifes Kebudayaan
 periode: 1945-1965
 bidang:
-  - jurnalisme
-  - sastra
-  - filsafat
-  - seni rupa
+  - Jurnalisme & Media
+  - Sastra
+  - Filsafat
+  - Seni Rupa
+  - Ilmu Politik
 pendidikan:
   - Universitas Indonesia (Psikologi)
   - College d'Europe, Belgia

@@ -9,9 +9,10 @@ tempat_lahir: Nganjuk, Jawa Timur
 afiliasi: STFT Widya Sasana Malang, Universitas Airlangga, Asosiasi Filsuf Katolik Indonesia
 periode: pasca 2020
 bidang:
-  - filsafat
-  - etika
-  - politik
+  - Filsafat
+  - Agama & Teologi
+  - Ilmu Politik
+  - Etika
 pendidikan:
   - "STFT Widya Sasana, Malang"
   - "Doktor (Ph.D) Filsafat, Universitas Gregoriana, Roma, Italia"

@@ -9,8 +9,9 @@ tempat_lahir: Medan, Sumatera Utara
 afiliasi: Pelopor Angkatan '45, Redaktur "Gelanggang"
 periode: 1900-1945
 bidang:
-  - puisi
-  - sastra modern
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Sejarah
 pendidikan:
   - MULO (Tidak tamat)
 pokok_pikiran: Individualisme yang merdeka (Vitalisme); revolusi bahasa puisi dari kata-kata klise; 'Si Binatang Jalang' sebagai simbol pemberontakan eksistensial; vitalitas hidup di tengah bayang-bayang kematian.

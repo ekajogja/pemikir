@@ -9,9 +9,9 @@ tempat_lahir: Pekalongan, Jawa Tengah
 afiliasi: Universitas Indonesia (FKUI), RS Islam Jakarta
 periode: 1970-2021
 bidang:
-  - Psikiatri (Ilmu Kedokteran Jiwa)
-  - Kesehatan Mental
-  - Kedokteran Religi
+  - Kedokteran & Kesehatan
+  - Psikologi
+  - Agama & Teologi
 pendidikan:
   - Universitas Indonesia (dr., 1965; Spesialis, 1973; Doktor, 1990)
 pokok_pikiran: Psikiatri Religi (Integrasi Medis dan Spiritual); Metode BPSS (Biopsikososiospiritual); Penguatan Iman sebagai Terapi Mental; Peran Keluarga dalam Rehabilitasi Narkoba.

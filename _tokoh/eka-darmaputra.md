@@ -9,9 +9,9 @@ tempat_lahir: Magelang, Jawa Tengah
 afiliasi: Sekolah Tinggi Filsafat Teologi (STFT) Jakarta, PGI
 periode: 1965-1998
 bidang:
-  - agama
-  - filsafat
-  - politik
+  - Agama & Teologi
+  - Filsafat
+  - Ilmu Politik
 pendidikan:
   - "Sekolah Tinggi Teologi, Jakarta"
   - "Doktor (Ph.D) Teologi & Etika, Boston College, Amerika Serikat"

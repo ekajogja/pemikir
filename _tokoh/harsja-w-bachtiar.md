@@ -9,9 +9,9 @@ tempat_lahir: "Bandung, Jawa Barat"
 afiliasi: "Universitas Indonesia, Sekolah Tinggi Ilmu Kepolisian (STIK-PTIK)"
 periode: "1965-1998"
 bidang:
-  - sosiologi
-  - sosiologi sejarah
-  - ilmu kepolisian
+  - Ilmu Sosial & Sosiologi
+  - Sejarah
+  - Hukum
 pendidikan:
   - "Sosiologi, Universitas Amsterdam, Belanda, 1955"
   - "Master of Arts (M.A.), Cornell University, Amerika Serikat"

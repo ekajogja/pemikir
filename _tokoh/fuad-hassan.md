@@ -9,10 +9,10 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Universitas Indonesia, Kementerian Pendidikan dan Kebudayaan
 periode: 1945-1965
 bidang:
-  - psikologi
-  - filsafat (eksistensialisme)
-  - pendidikan
-  - budaya
+  - Psikologi
+  - Filsafat
+  - Pendidikan
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Universitas Indonesia (Psikologi, 1958)
   - University of Toronto, Kanada (S2)

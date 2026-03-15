@@ -9,8 +9,9 @@ tempat_lahir: Bukittinggi, Sumatra Barat
 afiliasi: Universitas Andalas (Unand)
 periode: 1950-1985
 bidang:
-  - Kedokteran (Penyakit Dalam)
-  - Manajemen Pendidikan Tinggi
+  - Kedokteran & Kesehatan
+  - Pendidikan
+  - Bisnis & Manajemen
 pendidikan:
   - Perguruan Tinggi Kedokteran Jakarta (Dokter, 1948)
   - Spesialis Penyakit Dalam
