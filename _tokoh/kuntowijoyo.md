@@ -9,9 +9,10 @@ tempat_lahir: Bantul, Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM)
 periode: 1998-2020
 bidang:
-  - sejarah
-  - sastra
-  - ilmu sosial profetik
+  - Sejarah
+  - Sastra
+  - Ilmu Sosial & Sosiologi
+  - Agama & Teologi
 pendidikan:
   - Universitas Gadjah Mada (S1 Sastra, 1969)
   - University of Connecticut, AS (M.A. Sejarah Amerika, 1974)

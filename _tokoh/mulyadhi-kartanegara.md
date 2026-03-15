@@ -9,9 +9,9 @@ tempat_lahir: Tangerang, Banten
 afiliasi: UIN Syarif Hidayatullah Jakarta
 periode: 1945-1965
 bidang:
-  - filsafat Islam
-  - tasawuf
-  - integrasi ilmu
+  - Filsafat
+  - Tasawuf & Spiritualitas
+  - Pendidikan
 pendidikan:
   - UIN Syarif Hidayatullah Jakarta
   - University of Chicago, AS (Ph.D., 1996)

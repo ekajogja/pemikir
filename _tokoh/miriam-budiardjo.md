@@ -9,8 +9,10 @@ tempat_lahir: Kediri, Jawa Timur
 afiliasi: Universitas Indonesia (FISIP UI), Komnas HAM
 periode: 1965-1998
 bidang:
-  - politik
-  - hukum
+  - Ilmu Politik
+  - Hukum
+  - Kebijakan Publik
+  - Advokasi & Aktivisme
 pendidikan:
   - "Studi Ilmu Politik, Universitas Indonesia"
   - "M.A. Ilmu Politik, Georgetown University, AS"

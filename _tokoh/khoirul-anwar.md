@@ -9,8 +9,8 @@ tempat_lahir: Kediri, Jawa Timur
 afiliasi: Universitas Telkom, JAIST (Jepang), AdWiTech
 periode: pasca 2020
 bidang:
-  - teknologi
-  - sains
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "Teknik Elektro, Institut Teknologi Bandung"
   - "Doktor (Eng.) Wireless Communications, Nara Institute of Science and Technology, Jepang"

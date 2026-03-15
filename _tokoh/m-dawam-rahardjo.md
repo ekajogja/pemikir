@@ -9,10 +9,10 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: LP3ES, Jurnal Prisma, ICMI, Universitas Muhammadiyah Malang
 periode: 1945-1965
 bidang:
-  - ekonomi Islam
-  - filsafat sosial
-  - pluralisme
-  - jurnalisme intelektual
+  - Ekonomi Syariah
+  - Filsafat
+  - Agama & Teologi
+  - Jurnalisme & Media
 pendidikan:
   - Universitas Gadjah Mada (S1 Ekonomi, 1969)
   - Bora High School, Idaho, AS

@@ -1,6 +1,6 @@
 LOG PROGRES REFACTORING BIDANG TOKOH
 Status: Sedang Berjalan (Fase 2)
-Total Tokoh: 138/250+ (Estimasi)
+Total Tokoh: 198/250+ (Estimasi)
 Terakhir Diperbarui: 2026-03-15
 
 DAFTAR TOKOH SELESAI:
@@ -142,6 +142,66 @@ DAFTAR TOKOH SELESAI:
 136. Hikmahanto Juwana
 137. Hikmat Darmawan
 138. HOS Tjokroaminoto
+139. Ichlasul Amal
+140. Ichsanuddin Noorsy
+141. Ignas Kleden
+142. Ignatius Bambang Sugiharto
+143. Imam Barnadib
+144. Iman Budhi Santoso
+145. Iskandar Alisjahbana
+146. Jakob Oetama
+147. Jakob Sumardjo
+148. Jalaluddin Rakhmat
+149. Jamil Bakar
+150. Joe Hin Tjio
+151. Julia Suryakusuma
+152. Justika Baharsjah
+153. Justinus Sudarminta
+154. Kadir Abdussamad
+155. Karlina Supelli
+156. Kasmat Bahoewinangoen
+157. Kees Bertens
+158. Ken Kawan Soetanto
+159. Khoirul Anwar
+160. Ki Ageng Suryomentaram
+161. Ki Hadjar Dewantara
+162. Koentjaraningrat
+163. Koesnadi Hardjasoemantri
+164. Komaruddin Hidayat
+165. Kuntoro Mangkusubroto
+166. Kuntowijoyo
+167. Kusumah Atmadja
+168. Kwee Hing Tjiat
+169. Kwee Kek Beng
+170. Leo Suryadinata
+171. Liem Koen Hian
+172. LN Palar
+173. Luthfi Assyaukanie
+174. Mahbub Djunaedi
+175. Maria Farida Indrati
+176. Martin Suryajaya
+177. Masdar F. Masudi
+178. M. Dawam Rahardjo
+179. Mezak Arnold Ratag
+180. Miriam Budiardjo
+181. Mochamad Adnan
+182. Mochamad Nur Ichwan
+183. Mochtar Kusumaatmadja
+184. Mohammad Hatta
+185. Mohammad Nasroen
+186. Mohammad Natsir
+187. Mohammad Rokib
+188. Mpu Prapanca
+189. Mpu Tantular
+190. M. Quraish Shihab
+191. M. Sastrapratedja
+192. Mubyarto
+193. Muhammad Alwi Dahlan
+194. Muhammad Anis
+195. Muzayyin Arifin
+196. Muhidin M. Dahlan
+197. Mulyadhi Kartanegara
+198. Munir Said Thalib
 
 SELANJUTNYA:
-- I Gede Pasek Suardika
+- Musa Asy'arie

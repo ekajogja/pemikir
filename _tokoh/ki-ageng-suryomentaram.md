@@ -9,9 +9,9 @@ tempat_lahir: Yogyakarta (Keraton)
 afiliasi: Kawruh Begja, Front Pembebasan Irian Barat
 periode: 1900-1945
 bidang:
-  - psikologi kejiwaan
-  - filsafat Jawa
-  - etika
+  - Psikologi
+  - Filsafat Nusantara
+  - Filsafat
 pendidikan:
   - Kursus Klein Ambtenaar (Pegawai Rendah)
   - Studi Mandiri (Bahasa Belanda, Inggris, Arab)

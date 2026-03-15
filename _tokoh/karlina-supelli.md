@@ -9,10 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: STF Driyarkara, Planetarium Jakarta, Suara Ibu Peduli
 periode: pasca 2020
 bidang:
-  - astronomi
-  - filsafat sains (kosmologi)
-  - etika
-  - humanisme
+  - Astronomi & Astrofisika
+  - Filsafat
+  - Ideologi & Teori Kritis
+  - Advokasi & Aktivisme
 pendidikan:
   - Institut Teknologi Bandung (S1 Astronomi)
   - University College London (M.Sc. Ilmu Ruang Angkasa)

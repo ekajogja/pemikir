@@ -9,10 +9,10 @@ tempat_lahir: Donggala, Sulawesi Tengah
 afiliasi: Indonesia Buku (iBuku), Warung Arsip, Radio Buku
 periode: pasca 2020
 bidang:
-  - pengarsipan
-  - jurnalisme sejarah
-  - sastra
-  - literasi
+  - Humaniora & Kajian Budaya
+  - Jurnalisme & Media
+  - Sastra
+  - Pendidikan
 pendidikan:
   - IKIP Yogyakarta (Teknik Bangunan, Tidak Tamat)
   - IAIN Sunan Kalijaga (Sejarah Peradaban Islam, Tidak Tamat)

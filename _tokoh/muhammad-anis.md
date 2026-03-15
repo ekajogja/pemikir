@@ -9,8 +9,8 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Indonesia
 periode: 1998-2020
 bidang:
-  - teknologi
-  - pendidikan
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "S1 Teknik Metalurgi, Universitas Indonesia, 1983"
   - "Doktor (Ph.D.), University of Sheffield, Inggris, 1991"

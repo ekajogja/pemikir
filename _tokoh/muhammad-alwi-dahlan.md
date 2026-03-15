@@ -10,7 +10,6 @@ afiliasi: Universitas Indonesia, Kementerian Penerangan RI
 periode: 1960-2024
 bidang:
   - Ilmu Komunikasi
-  - Komunikasi Pembangunan
   - Kebijakan Publik
 pendidikan:
   - Universitas Indonesia

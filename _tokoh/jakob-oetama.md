@@ -9,9 +9,10 @@ tempat_lahir: Borobudur, Magelang, Jawa Tengah
 afiliasi: Harian Kompas, Kompas Gramedia (KG), PWI
 periode: 1965-1998
 bidang:
-  - jurnalisme
-  - sejarah
-  - sosiologi
+  - Jurnalisme & Media
+  - Sejarah
+  - Ilmu Sosial & Sosiologi
+  - Bisnis & Manajemen
 pendidikan:
   - "Seminari Menengah, Yogyakarta"
   - "Publisistik, Universitas Gadjah Mada"

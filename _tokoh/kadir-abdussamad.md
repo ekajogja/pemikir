@@ -9,8 +9,9 @@ tempat_lahir: Gorontalo
 afiliasi: Universitas Negeri Gorontalo, Universitas Sam Ratulangi
 periode: 1965-1998
 bidang:
-  - pendidikan
-  - antropologi
+  - Pendidikan
+  - Antropologi
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "FKIP, Yogyakarta"
 pokok_pikiran: "Transformasi lembaga pendidikan daerah melalui penguatan identitas budaya lokal dan etika pelayanan publik yang berbasis pada nilai-nilai adat Gorontalo."

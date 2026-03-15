@@ -9,9 +9,11 @@ tempat_lahir: Alahan Panjang, Sumatera Barat
 afiliasi: Partai Masyumi, Perdana Menteri RI ke-5, DDII
 periode: 1900-1945
 bidang:
-  - politik Islam
-  - diplomasi
-  - pendidikan
+  - Politik Islam
+  - Ilmu Politik
+  - Diplomasi & Hubungan Internasional
+  - Pendidikan
+  - Agama & Teologi
 pendidikan:
   - HIS Adabiyah, Padang
   - MULO, Padang

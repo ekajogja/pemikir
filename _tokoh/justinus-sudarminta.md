@@ -9,9 +9,8 @@ tempat_lahir: Yogyakarta
 afiliasi: STF Driyarkara
 periode: pasca 2020
 bidang:
-  - etika
-  - epistemologi
-  - filsafat ilmu
+  - Filsafat
+  - Agama & Teologi
 pendidikan:
   - Sarjana Muda, IKIP Sanata Dharma
   - Doktor Filsafat (Ph.D.), Fordham University, New York (1989)

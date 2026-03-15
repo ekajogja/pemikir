@@ -9,9 +9,10 @@ tempat_lahir: Yogyakarta
 afiliasi: Taman Siswa, PNI, Indische Partij
 periode: 1900-1945
 bidang:
-  - pendidikan
-  - politik
-  - kebudayaan
+  - Pendidikan
+  - Ilmu Politik
+  - Humaniora & Kajian Budaya
+  - Sejarah
 pendidikan:
   - ELS (Europeesche Lagere School)
   - STOVIA (Sekolah Dokter Jawa, Tidak Tamat)

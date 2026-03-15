@@ -9,8 +9,9 @@ tempat_lahir: "Kotagede, Yogyakarta"
 afiliasi: "Muhammadiyah, Universitas Islam Indonesia, Partai Masyumi"
 periode: "1945-1965"
 bidang:
-  - hukum
-  - politik islam
+  - Hukum
+  - Politik Islam
+  - Pendidikan
 pendidikan:
   - "Rechtshoogeschool (RHS) Batavia, Meester in de Rechten (Mr.), 1928"
   - "Doktoral Hukum, Rijksuniversiteit te Leiden, Belanda, 1933"

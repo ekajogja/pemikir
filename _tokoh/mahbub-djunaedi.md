@@ -9,9 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Nahdlatul Ulama (NU), Persatuan Wartawan Indonesia (PWI), PMII
 periode: 1965-1998
 bidang:
-  - jurnalisme
-  - agama
-  - sastra
+  - Jurnalisme & Media
+  - Agama & Teologi
+  - Sastra
 pendidikan:
   - "Madrasah Mambaul Ulum, Solo"
   - "SMA Budi Utomo, Jakarta"

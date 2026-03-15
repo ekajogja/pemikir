@@ -9,9 +9,9 @@ tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pemimpin Redaksi)
 periode: 1900-1945
 bidang:
-  - jurnalisme
-  - politik
-  - sastra
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Sastra
 pendidikan:
   - Hollandsch Chineesche School (HCS)
   - MULO, Batavia

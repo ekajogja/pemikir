@@ -9,10 +9,11 @@ tempat_lahir: Klaten, Jawa Tengah
 afiliasi: Institut Seni Budaya Indonesia (ISBI) Bandung, ITB
 periode: pasca 2020
 bidang:
-  - filsafat
-  - seni
-  - sastra
-  - budaya
+  - Filsafat
+  - Seni Rupa
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Sejarah
 pendidikan:
   - IKIP Sanata Dharma Yogyakarta (1962)
   - Sarjana Sejarah, IKIP Bandung (1970)

@@ -9,9 +9,9 @@ tempat_lahir: "Kualasimpang, Aceh Tamiang (Asal Pariaman, Sumatera Barat)"
 afiliasi: "Universitas Negeri Padang (IKIP Padang), DPRD Sumatera Barat"
 periode: "1965-1998"
 bidang:
-  - pendidikan
-  - politik
-  - sastra minangkabau
+  - Pendidikan
+  - Ilmu Politik
+  - Sastra
 pendidikan:
   - "Sarjana (S1), Fakultas Ilmu Sosial dan Ilmu Politik (FISIP), Universitas Padjadjaran (Unpad), 1962"
 pokok_pikiran: "Menekankan pada pengembangan institusi pendidikan keguruan yang modern namun tetap berakar pada nilai-nilai budaya lokal (Minangkabau)."

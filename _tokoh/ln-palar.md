@@ -9,8 +9,9 @@ tempat_lahir: Tomohon, Sulawesi Utara
 afiliasi: PBB (Wakil Tetap RI Pertama), PDI (Indische Sociaal-Democratische Partij)
 periode: 1945-1965
 bidang:
-  - politik
-  - sosiologi
+  - Diplomasi & Hubungan Internasional
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Studi Ekonomi & Sosiologi, Universitas Amsterdam, Belanda"
 pokok_pikiran: "Merumuskan strategi 'Diplomasi Perjuangan' untuk menginternasionalisasi isu kemerdekaan Indonesia di PBB, serta memperjuangkan kesetaraan bangsa-bangsa Asia-Afrika."

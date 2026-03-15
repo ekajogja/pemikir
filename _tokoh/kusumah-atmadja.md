@@ -9,8 +9,9 @@ tempat_lahir: Purwakarta, Jawa Barat
 afiliasi: Mahkamah Agung RI, Universitas Gadjah Mada, Universitas Islam Indonesia
 periode: 1945-1965
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Ilmu Politik
+  - Hukum Tata Negara
 pendidikan:
   - "Rechtsschool, Batavia"
   - "Doktor (Dr.) Ilmu Hukum, Universitas Leiden, Belanda"

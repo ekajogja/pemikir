@@ -9,9 +9,9 @@ tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: UIN Sunan Kalijaga Yogyakarta, MAARIF Institute, ICRS
 periode: pasca 2020
 bidang:
-  - agama
-  - sosiologi
-  - politik
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Ilmu Politik
 pendidikan:
   - "Tafsir Hadis, IAIN Sunan Kalijaga Yogyakarta"
   - "Master (M.A.) Islamic Studies, Leiden University, Belanda"

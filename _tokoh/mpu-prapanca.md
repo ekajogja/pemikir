@@ -9,10 +9,10 @@ tempat_lahir: ''
 afiliasi: Kerajaan Majapahit
 periode: pra 1900
 bidang:
-  - sastra
-  - historiografi
-  - politik
-  - kosmologi
+  - Sastra
+  - Sejarah
+  - Ilmu Politik
+  - Agama & Teologi
 pendidikan:
   - Pendidikan Dharmawan (Pendeta/Intelektual Majapahit)
 pokok_pikiran: Legitimasi kekuasaan melalui keselarasan mikrokosmos (kerajaan) dan makrokosmos (alam semesta); konsep Nusantara sebagai entitas politik-budaya; historiografi sebagai alat pembentukan kesadaran kolektif negara.

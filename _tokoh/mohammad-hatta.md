@@ -9,9 +9,9 @@ tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: Perhimpunan Indonesia, PNI Baru, Wakil Presiden RI
 periode: 1900-1945
 bidang:
-  - ekonomi
-  - politik
-  - kebudayaan
+  - Ekonomi & Keuangan
+  - Ilmu Politik
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Prins Hendrik School, Batavia
   - Handels Hogeschool (Erasmus University), Rotterdam

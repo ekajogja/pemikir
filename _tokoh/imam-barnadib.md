@@ -9,8 +9,8 @@ tempat_lahir: Pacitan, Jawa Timur
 afiliasi: Universitas Negeri Yogyakarta (UNY), Universitas Sarjanawiyata Tamansiswa (UST)
 periode: 1965-1998
 bidang:
-  - pendidikan
-  - filsafat
+  - Pendidikan
+  - Filsafat
 pendidikan:
   - "Pedagogik, Universitas Gadjah Mada"
   - "Doktor (Ph.D) Pendidikan, New York University (NYU), AS"

@@ -9,8 +9,8 @@ tempat_lahir: "Cianjur, Jawa Barat"
 afiliasi: "Institut Pertanian Bogor, Food and Agriculture Organization (FAO)"
 periode: "pasca 2020"
 bidang:
-  - meteorologi pertanian
-  - fisiologi tanaman
+  - Pertanian & Peternakan
+  - Kebijakan Publik
 pendidikan:
   - "Sarjana (S1), Institut Pertanian Bogor (IPB)"
   - "Master of Science (M.Sc.), University of Kentucky, Amerika Serikat"

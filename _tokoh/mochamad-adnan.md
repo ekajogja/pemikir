@@ -9,8 +9,8 @@ tempat_lahir: Blora, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM)
 periode: 1965-1998
 bidang:
-  - teknologi
-  - sains
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "S1 Pertanian, Universitas Gadjah Mada, 1961"
   - "Master of Science, University of California, Davis"

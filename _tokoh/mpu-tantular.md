@@ -9,9 +9,8 @@ tempat_lahir: ''
 afiliasi: Kerajaan Majapahit
 periode: pra 1900
 bidang:
-  - sastra
-  - filsafat agama
-  - etika
+  - Sastra
+  - Filsafat
 pendidikan:
   - Pendidikan Dharmawan (Pujangga/Resi Majapahit)
 pokok_pikiran: Bhinneka Tunggal Ika (Kesatuan dalam Keragaman); Sinkretisme Siwa-Buddha; toleransi beragama sebagai pilar stabilitas negara; kearifan moral melalui cerita kepahlawanan.

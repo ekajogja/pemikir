@@ -9,8 +9,8 @@ tempat_lahir: Jakarta
 afiliasi: Institut Teknologi Bandung (ITB)
 periode: 1965-1998
 bidang:
-  - teknologi
-  - pendidikan
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "Sarjana Muda Teknik, Universitas Indonesia di Bandung (ITB)"
   - "Diplom-Ingenieur, Technische Hochschule München, Jerman"

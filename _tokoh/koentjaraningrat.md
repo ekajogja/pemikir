@@ -9,9 +9,9 @@ tempat_lahir: Yogyakarta
 afiliasi: Universitas Indonesia, Lembaga Ilmu Pengetahuan Indonesia (LIPI)
 periode: 1945-1965
 bidang:
-  - antropologi
-  - sosiologi
-  - ilmu budaya
+  - Antropologi
+  - Ilmu Sosial & Sosiologi
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Criminologische Instituten, Batavia (Rechtshoogeschool)
   - Yale University, AS (M.A. Antropologi, 1956)
