@@ -9,7 +9,9 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: BRIN, The Habibie Center
 periode: pasca 2020
 bidang:
-  - politik
+  - Ilmu Politik
+  - Diplomasi & Hubungan Internasional
+  - Kebijakan Publik
 pendidikan:
   - "B.A. & M.A., SOAS University of London, Inggris"
   - "Ph.D., Monash University, Australia"

@@ -9,9 +9,9 @@ tempat_lahir: Wonosobo, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM), Kementerian Pendidikan dan Kebudayaan
 periode: 1965-1998
 bidang:
-  - hukum
-  - lingkungan
-  - pendidikan
+  - Hukum
+  - Kehutanan & Lingkungan
+  - Pendidikan
 pendidikan:
   - "Sarjana Hukum, Universitas Gadjah Mada"
   - "Master of Laws (M.L.), University of California, Berkeley, AS"

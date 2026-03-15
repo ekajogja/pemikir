@@ -9,9 +9,10 @@ tempat_lahir: Padang, Sumatera Barat
 afiliasi: ECONIT Advisory Group, Menko Ekuin, Menteri Keuangan, Menko Kemaritiman
 periode: 1998-2020
 bidang:
-  - ekonomi makro
-  - politik ekonomi
-  - aktivisme
+  - Ekonomi & Keuangan
+  - Ilmu Politik
+  - Advokasi & Aktivisme
+  - Kebijakan Publik
 pendidikan:
   - Institut Teknologi Bandung (S1 Teknik Fisika)
   - Boston University, AS (Doktor Ekonomi, 1990)

@@ -9,10 +9,11 @@ tempat_lahir: Barru, Sulawesi Selatan
 afiliasi: Pustaka Bergerak Indonesia, Komunitas Salihara
 periode: 1998-2020
 bidang:
-  - literasi
-  - esai
-  - sains
-  - kebudayaan
+  - Pendidikan
+  - Sastra
+  - Sains & Teknologi
+  - Humaniora & Kajian Budaya
+  - Advokasi & Aktivisme
 pendidikan:
   - Universitas Gadjah Mada (Teknik Nuklir)
 pokok_pikiran: Literasi sebagai hak asasi dasar; gerakan memasyarakatkan buku (Pustaka Bergerak); kaitan antara nalar sains dan kebudayaan; kemandirian ilmu pengetahuan melalui akses informasi yang bebas dan merata.

@@ -9,10 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: National University of Singapore (NUS), ISEAS - Yusof Ishak Institute, LIPI
 periode: pasca 2020
 bidang:
-  - sinologi
-  - ilmu politik
-  - sejarah
-  - sosiologi
+  - Humaniora & Kajian Budaya
+  - Ilmu Politik
+  - Sejarah
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Universitas Indonesia (Sastra)
   - Nanyang University, Singapura (B.A.)

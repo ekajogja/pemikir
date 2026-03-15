@@ -9,8 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Asosiasi Desainer Grafis Indonesia (ADGI), Inkara Brand Consulting
 periode: pasca 2020
 bidang:
-  - seni
-  - komunikasi
+  - Seni & Desain
+  - Ilmu Komunikasi
+  - Kebijakan Publik
 pendidikan:
   - "Institut Kesenian Jakarta (IKJ)"
   - "MFA Graphic Design, Savannah College of Art and Design (SCAD), AS"

@@ -9,9 +9,9 @@ tempat_lahir: Solok, Sumatera Barat
 afiliasi: Universitas Andalas (Unand)
 periode: pasca 2020
 bidang:
-  - sejarah
-  - sosiologi
-  - ekonomi
+  - Sejarah
+  - Ilmu Sosial & Sosiologi
+  - Ekonomi & Keuangan
 pendidikan:
   - "Sarjana Sastra Ilmu Sejarah, Universitas Andalas"
   - "Magister Humaniora Ilmu Sejarah, Universitas Gadjah Mada"

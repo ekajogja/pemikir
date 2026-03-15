@@ -9,9 +9,10 @@ tempat_lahir: Cirebon, Jawa Barat
 afiliasi: Pelukis Rakyat, Sanggar Bambu, LKN (Lembaga Kebudayaan Nasional)
 periode: 1945-1965
 bidang:
-  - seni lukis
-  - estetika
-  - humanisme
+  - Seni Rupa
+  - Filsafat
+  - Humaniora & Kajian Budaya
+  - Advokasi & Aktivisme
 pendidikan:
   - AMS (Tidak tamat)
   - Otodidak (Seni Lukis)

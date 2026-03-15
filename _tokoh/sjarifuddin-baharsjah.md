@@ -9,8 +9,9 @@ tempat_lahir: "Cirebon, Jawa Barat"
 afiliasi: "Institut Pertanian Bogor, Kementerian Pertanian RI, FAO"
 periode: "1965-1998"
 bidang:
-  - ekonomi pertanian
-  - agribisnis
+  - Ekonomi & Keuangan
+  - Pertanian & Peternakan
+  - Kebijakan Publik
 pendidikan:
   - "Sarjana (S1), Fakultas Pertanian Universitas Indonesia (sekarang IPB), 1960"
   - "Master of Science (M.Sc.), University of Kentucky, AS, 1962"

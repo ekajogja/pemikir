@@ -9,9 +9,9 @@ tempat_lahir: Ngawi, Jawa Timur
 afiliasi: Universitas Gadjah Mada, Akademi Jakarta, Dewan Kesenian Jakarta
 periode: 1965-1998
 bidang:
-  - sosiologi
-  - sastra
-  - budaya
+  - Ilmu Sosial & Sosiologi
+  - Sastra
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Sarjana Sastra, Universitas Gadjah Mada"
   - "Master (M.A.) Education, New York University, AS"

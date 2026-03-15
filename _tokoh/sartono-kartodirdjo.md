@@ -9,9 +9,9 @@ tempat_lahir: Wonogiri, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM)
 periode: 1945-1965
 bidang:
-  - ilmu sejarah
-  - historiografi
-  - sosiologi perdesaan
+  - Sejarah
+  - Historiografi
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Universitas Indonesia (Sarjana Sastra/Sejarah, 1956)
   - Yale University, AS (M.A. Sejarah, 1964)

@@ -9,8 +9,9 @@ tempat_lahir: Malang, Jawa Timur
 afiliasi: Monash University, Universitas Kristen Satya Wacana
 periode: pasca 2020
 bidang:
-  - sosiologi
-  - budaya
+  - Ilmu Sosial & Sosiologi
+  - Humaniora & Kajian Budaya
+  - Ideologi & Teori Kritis
 pendidikan:
   - "Sarjana, Universitas Kristen Satya Wacana"
   - "M.A., University of Michigan, AS"

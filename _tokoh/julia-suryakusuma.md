@@ -9,10 +9,10 @@ tempat_lahir: New Delhi, India
 afiliasi: Jurnal Perempuan, Komunitas Salihara, Yayasan Almanak Politik Indonesia (API)
 periode: pasca 2020
 bidang:
-  - studi gender
-  - sosiologi
-  - politik
-  - jurnalisme
+  - Feminisme & Studi Gender
+  - Ilmu Sosial & Sosiologi
+  - Ilmu Politik
+  - Jurnalisme & Media
 pendidikan:
   - City University, London (Sosiologi)
   - Institute of Social Studies, Den Haag (M.Sc. Politik)

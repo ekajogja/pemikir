@@ -9,8 +9,10 @@ tempat_lahir: Bali
 afiliasi: Universitas Udayana
 periode: 1998-2020
 bidang:
-  - sains
-  - kesehatan
+  - Sains & Teknologi
+  - Biologi & Genetika
+  - Kedokteran & Kesehatan
+  - Pertanian & Peternakan
 pendidikan:
   - "Dokter Hewan, Institut Pertanian Bogor, 1987"
   - "Magister, Institut Pertanian Bogor, 1995"

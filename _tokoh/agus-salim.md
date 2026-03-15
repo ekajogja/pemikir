@@ -9,10 +9,13 @@ tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Sarekat Islam, Panitia Sembilan, Menteri Luar Negeri RI ke-3
 periode: 1900-1945
 bidang:
-  - diplomasi
-  - jurnalisme
-  - filsafat
-  - politik
+  - Diplomasi & Hubungan Internasional
+  - Jurnalisme & Media
+  - Filsafat
+  - Ilmu Politik
+  - Hukum Tata Negara
+  - Agama & Teologi
+  - Filologi & Linguistik
 pendidikan:
   - Hogere Burgerschool (HBS) Batavia
 pokok_pikiran: Leiden is Lijden (Memimpin adalah Menderita); modernisme Islam yang kritis dan rasional; diplomasi dengan kecerdasan bahasa; kemandirian berpikir di tengah dominasi Barat; integritas di atas kemewahan.

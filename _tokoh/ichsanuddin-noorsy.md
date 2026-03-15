@@ -9,9 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Gadjah Mada (Pusat Studi Kerakyatan), KS212
 periode: pasca 2020
 bidang:
-  - ekonomi politik
-  - hukum tata negara
-  - kebijakan publik
+  - Ekonomi & Keuangan
+  - Hukum Tata Negara
+  - Kebijakan Publik
 pendidikan:
   - UPN Veteran (BSc. Teknik Tekstil, 1981)
   - Universitas Indonesia (S1 Hukum Tata Negara, 1987; M.Si FISIP, 2001)

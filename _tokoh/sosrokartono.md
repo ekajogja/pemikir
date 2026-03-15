@@ -9,9 +9,10 @@ tempat_lahir: Mayong, Jepara, Jawa Tengah
 afiliasi: New York Herald Tribune, Liga Bangsa-Bangsa, Taman Siswa
 periode: 1900-1945
 bidang:
-  - filsafat
-  - jurnalisme
-  - bahasa
+  - Filsafat
+  - Jurnalisme & Media
+  - Filologi & Linguistik
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Studi Bahasa dan Sastra Timur, Universitas Leiden, Belanda"
 pokok_pikiran: "Meneguhkan nilai-nilai kemanusiaan melalui 'Filsafat Alif' yang menekankan kejujuran, keteguhan batin, dan etika pengabdian sosial tanpa pamrih (Sugih Tanpa Banda)."

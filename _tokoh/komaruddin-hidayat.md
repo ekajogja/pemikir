@@ -9,10 +9,10 @@ tempat_lahir: Magelang, Jawa Tengah
 afiliasi: UIN Syarif Hidayatullah, UIII, Paramadina
 periode: pasca 2020
 bidang:
-  - filsafat agama
-  - hermeneutika
-  - psikologi kematian
-  - pendidikan
+  - Agama & Teologi
+  - Filsafat
+  - Psikologi
+  - Pendidikan
 pendidikan:
   - IAIN Syarif Hidayatullah Jakarta
   - Middle East Technical University, Turki (Ph.D Filsafat)

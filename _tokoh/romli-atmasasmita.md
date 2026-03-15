@@ -9,8 +9,9 @@ tempat_lahir: "Cianjur, Jawa Barat"
 afiliasi: "Universitas Padjadjaran, Kementerian Hukum and HAM RI"
 periode: "pasca 2020"
 bidang:
-  - hukum pidana
-  - hukum pidana internasional
+  - Hukum
+  - Kebijakan Publik
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Sarjana Hukum (S.H.), Universitas Padjadjaran, 1969"
   - "Master of Laws (LL.M.), University of California, Berkeley, AS, 1981"

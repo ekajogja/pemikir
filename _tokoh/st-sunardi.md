@@ -9,9 +9,10 @@ tempat_lahir: Indonesia
 afiliasi: Universitas Sanata Dharma, IRB (Ilmu Religi dan Budaya), Bentara Budaya
 periode: pasca 2020
 bidang:
-  - filsafat
-  - budaya
-  - sastra
+  - Filsafat
+  - Humaniora & Kajian Budaya
+  - Sastra
+  - Filologi & Linguistik
 pendidikan:
   - "Sarjana Filsafat, STF Driyarkara Jakarta"
   - "S2 Pontificium Institutum Studiorum Arabicorum (PISAI), Roma, Italia"

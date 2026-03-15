@@ -9,8 +9,10 @@ tempat_lahir: Muntilan, Magelang, Jawa Tengah
 afiliasi: Tarekat Syadziliyah, Pesantren Darussalam Watucongol
 periode: 1900-1945
 bidang:
-  - agama
-  - filsafat
+  - Agama & Teologi
+  - Tasawuf & Spiritualitas
+  - Filsafat
+  - Ekonomi Syariah
 pendidikan:
   - "Studi Islam & Tasawuf, Makkah, Arab Saudi (22 Tahun)"
 pokok_pikiran: "Melakukan pribumisasi ajaran Tarekat Syadziliyah di Nusantara melalui penguatan literasi 'manaqib' sebagai sarana edukasi spiritual dan keseimbangan antara syariat dan hakikat."

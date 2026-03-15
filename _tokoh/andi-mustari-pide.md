@@ -9,8 +9,10 @@ tempat_lahir: Soppeng, Sulawesi Selatan
 afiliasi: Universitas Ekasakti (UNES) Padang, Universitas Hasanuddin
 periode: 1998-2020
 bidang:
-  - hukum
-  - budaya
+  - Hukum
+  - Humaniora & Kajian Budaya
+  - Arsitektur & Perencanaan
+  - Pendidikan
 pendidikan:
   - "Sarjana Hukum, Universitas Andalas"
   - "Doktor Hukum, Universitas Hasanuddin"

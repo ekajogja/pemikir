@@ -9,9 +9,9 @@ tempat_lahir: Salatiga, Jawa Tengah
 afiliasi: Interfidei (Institut DIAN), Sekolah Tinggi Teologia (STT) Jakarta
 periode: 1998-2020
 bidang:
-  - agama
-  - filsafat
-  - sejarah
+  - Agama & Teologi
+  - Filsafat
+  - Sejarah
 pendidikan:
   - "Sarjana Teologi, STT Jakarta"
   - "Doktor (Ph.D) Teologi, Vrije Universiteit, Amsterdam, Belanda"

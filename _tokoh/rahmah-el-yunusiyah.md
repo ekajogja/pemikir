@@ -9,9 +9,10 @@ tempat_lahir: Padang Panjang, Sumatera Barat
 afiliasi: Madrasah Diniyyah Puteri, Masyumi, PDRI
 periode: 1900-1945
 bidang:
-  - pendidikan
-  - agama
-  - politik
+  - Pendidikan
+  - Agama & Teologi
+  - Ilmu Politik
+  - Feminisme & Studi Gender
 pendidikan:
   - "Diniyyah School, Padang Panjang"
   - "Syaikhah (Gelar Kehormatan), Universitas Al-Azhar, Mesir"

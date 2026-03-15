@@ -9,9 +9,11 @@ tempat_lahir: Pekajangan, Pekalongan, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Muhammadiyah
 periode: 1945-1965
 bidang:
-  - filsafat Islam
-  - etika ekonomi
-  - kewirausahaan
+  - Filsafat
+  - Agama & Teologi
+  - Ekonomi Syariah
+  - Bisnis & Manajemen
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Pondok Pesantren Tremas, Pacitan
   - IAIN Sunan Kalijaga, Yogyakarta (Doktor Filsafat, 1991)

@@ -9,9 +9,9 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Universitas Waseda (Jepang), Universitas Internasional Venice (Italia)
 periode: pasca 2020
 bidang:
-  - teknologi
-  - pendidikan
-  - sains
+  - Sains & Teknologi
+  - Pendidikan
+  - Kedokteran & Kesehatan
 pendidikan:
   - "Doktor (Dr.) Engineering, Universitas Tokyo, Jepang"
   - "Doktor (Dr.) Medicine, Universitas Tohoku, Jepang"

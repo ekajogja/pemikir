@@ -9,9 +9,11 @@ tempat_lahir: Yogyakarta (Kauman)
 afiliasi: Muhammadiyah (Pendiri)
 periode: 1900-1945
 bidang:
-  - reformasi Islam
-  - pendidikan
-  - sosial
+  - Agama & Teologi
+  - Pendidikan
+  - Advokasi & Aktivisme
+  - Ideologi & Teori Kritis
+  - Filsafat Nusantara
 pendidikan:
   - Pendidikan Tradisional (Haji/Mekkah)
 pokok_pikiran: Pembaruan Islam (Purifikasi dan Modernisme); Teologi Al-Ma'un (Keberpihakan pada kaum duafa); integrasi pendidikan agama dan umum; pembasmian TBC (Takhayul, Bid'ah, Churafat).

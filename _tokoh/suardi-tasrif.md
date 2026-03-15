@@ -9,9 +9,9 @@ tempat_lahir: Cimahi, Jawa Barat
 afiliasi: Persatuan Wartawan Indonesia (PWI), Persatuan Advokat Indonesia (PERADIN), LBH
 periode: 1965-1998
 bidang:
-  - jurnalisme
-  - hukum
-  - etika
+  - Jurnalisme & Media
+  - Hukum
+  - Advokasi & Aktivisme
 pendidikan:
   - "Sarjana Hukum, Universitas Indonesia"
 pokok_pikiran: "Merumuskan landasan moral profesi jurnalis melalui Kode Etik Jurnalistik pertama di Indonesia serta mengadvokasi hukum sebagai instrumen pembelaan hak asasi manusia."

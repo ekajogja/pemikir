@@ -9,10 +9,10 @@ tempat_lahir: Mojokerto, Jawa Timur
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Masjid Jenderal Sudirman Yogyakarta
 periode: pasca 2020
 bidang:
-  - filsafat Islam
-  - hermeneutika
-  - etika
-  - filsafat populer
+  - Filsafat
+  - Agama & Teologi
+  - Humaniora & Kajian Budaya
+  - Pendidikan
 pendidikan:
   - UIN Sunan Kalijaga Yogyakarta (S1, S2, Doktor Filsafat Islam)
 pokok_pikiran: Ngaji Filsafat sebagai sarana 'menjernihkan pikiran dan menenangkan hati'; filsafat bukan untuk berdebat tetapi untuk memahami diri dan Tuhan; integrasi etika Islam dengan kearifan filsafat dunia (Barat, Timur, Klasik).

@@ -9,9 +9,13 @@ tempat_lahir: Makassar, Sulawesi Selatan
 afiliasi: Angkatan '70, Gerakan Puisi Mbeling
 periode: 1998-2020
 bidang:
-  - sastra
-  - bahasa
-  - seni
+  - Sastra
+  - Filologi & Linguistik
+  - Seni Rupa
+  - Musik
+  - Film & Sinematografi
+  - Sejarah
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Akademi Teater Nasional Indonesia (ATNI)"
   - "Akademi Bahasa Asing, Jakarta"

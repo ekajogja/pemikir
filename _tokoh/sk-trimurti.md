@@ -9,9 +9,11 @@ tempat_lahir: Boyolali, Jawa Tengah
 afiliasi: Barisan Buruh Wanita (BBW), Gerakan Wanita Sedar (Gerwis), Petisi 50
 periode: 1945-1965
 bidang:
-  - jurnalisme
-  - politik
-  - feminisme
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Feminisme & Studi Gender
+  - Advokasi & Aktivisme
+  - Ekonomi & Keuangan
 pendidikan:
   - "Meisjes Normaal School (Sekolah Guru Putri)"
   - "Doktoranda (Dra.) Ekonomi, Universitas Indonesia"

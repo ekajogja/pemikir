@@ -9,8 +9,9 @@ tempat_lahir: "Sialang, Kapur IX, Lima Puluh Kota, Sumatera Barat"
 afiliasi: "Institut Pemerintahan Dalam Negeri (IPDN), Pemerintah Kabupaten Lima Puluh Kota, STIA LAN"
 periode: "1965-1998"
 bidang:
-  - ilmu pemerintahan
-  - otonomi daerah
+  - Ilmu Pemerintahan
+  - Kebijakan Publik
+  - Pembangunan Wilayah & Perdesaan
 pendidikan:
   - "Akademi Pemerintahan Dalam Negeri (APDN)"
   - "Institut Ilmu Pemerintahan (IIP) Jakarta, 1980"

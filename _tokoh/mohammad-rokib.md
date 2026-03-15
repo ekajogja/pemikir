@@ -9,9 +9,10 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Universitas Negeri Surabaya (UNESA), Goethe Universität Frankfurt
 periode: pasca 2020
 bidang:
-  - budaya
-  - agama
-  - sastra
+  - Humaniora & Kajian Budaya
+  - Agama & Teologi
+  - Sastra
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Sastra Arab, IAIN Sunan Ampel Surabaya"
   - "Master (M.A.) Studi Agama dan Lintas Budaya, UGM"

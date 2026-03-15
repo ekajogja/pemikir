@@ -9,9 +9,10 @@ tempat_lahir: Jakarta
 afiliasi: Sokola Institute (Sokola Rimba), Ramon Magsaysay Award Foundation
 periode: pasca 2020
 bidang:
-  - pendidikan
-  - antropologi
-  - aktivisme
+  - Pendidikan
+  - Antropologi
+  - Advokasi & Aktivisme
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Antropologi dan Sastra Indonesia, Universitas Padjadjaran"
   - "Master (M.A.) Antropologi Terapan, Australian National University"

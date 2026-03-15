@@ -9,9 +9,10 @@ tempat_lahir: Koto Gadang, Sumatera Barat
 afiliasi: Soenting Melajoe (Pendiri), Amai Setia
 periode: 1900-1945
 bidang:
-  - jurnalisme
-  - pendidikan perempuan
-  - emansipasi
+  - Jurnalisme & Media
+  - Pendidikan
+  - Feminisme & Studi Gender
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Belajar Mandiri (Otodidak)
 pokok_pikiran: Emansipasi perempuan melalui kecerdasan intelektual dan ekonomi; kemandirian berpikir kaum wanita Minangkabau; pendidikan sebagai alat melawan kolonialisme; jurnalisme sebagai suara bagi perempuan yang terpingit.

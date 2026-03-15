@@ -9,7 +9,10 @@ tempat_lahir: Kuningan, Jawa Barat
 afiliasi: Universitas Pendidikan Indonesia (UPI), ISPI
 periode: 1998-2020
 bidang:
-  - pendidikan
+  - Pendidikan
+  - Psikologi
+  - Kebijakan Publik
+  - Advokasi & Aktivisme
 pendidikan:
   - "S1, S2, & S3 Bimbingan dan Konseling, IKIP Bandung (UPI)"
 pokok_pikiran: "Integrasi bimbingan dan konseling dalam sistem pendidikan nasional untuk membangun keseimbangan antara kecerdasan intelektual dengan kematangan kepribadian (social skills)."

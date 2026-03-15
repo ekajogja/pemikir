@@ -9,8 +9,11 @@ tempat_lahir: "Probolinggo, Jawa Timur"
 afiliasi: "Universitas Airlangga, Universitas Surabaya (UBAYA)"
 periode: "1945-1965"
 bidang:
-  - hukum tata negara
-  - ilmu negara
+  - Hukum Tata Negara
+  - Hukum
+  - Pendidikan
+  - Sejarah
+  - Kebijakan Publik
 pendidikan:
   - "Meester in de Rechten (Mr.), Rechtshoogeschool te Batavia, 1939"
 pokok_pikiran: "Menekankan pada pembangunan institusi hukum yang berintegritas and bervisi kebangsaan serta penguatan dasar-dasar keilmuan hukum tata negara di masa awal kemerdekaan."

@@ -9,9 +9,11 @@ tempat_lahir: Jakarta
 afiliasi: PSHK (Pusat Studi Hukum dan Kebijakan), STH Indonesia Jentera
 periode: pasca 2020
 bidang:
-  - hukum tata negara
-  - sosiologi hukum
-  - kebijakan publik
+  - Hukum
+  - Hukum Tata Negara
+  - Kebijakan Publik
+  - Ilmu Sosial & Sosiologi
+  - Advokasi & Aktivisme
 pendidikan:
   - Universitas Indonesia (Sarjana Hukum)
   - University of Warwick, Inggris (LL.M.)

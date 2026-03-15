@@ -9,10 +9,11 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: IJABI, Universitas Padjadjaran, PDI-P
 periode: 1998-2020
 bidang:
-  - ilmu komunikasi
-  - filsafat Islam
-  - tasawuf
-  - psikologi
+  - Ilmu Komunikasi
+  - Filsafat
+  - Tasawuf & Spiritualitas
+  - Psikologi
+  - Agama & Teologi
 pendidikan:
   - Universitas Padjadjaran (Ilmu Komunikasi)
   - Iowa State University, AS (M.Sc. Komunikasi, 1981)

@@ -9,8 +9,9 @@ tempat_lahir: "Surabaya, Jawa Timur"
 afiliasi: "Universitas Brawijaya"
 periode: "pasca 2020"
 bidang:
-  - agronomi
-  - pertanian
+  - Pertanian & Peternakan
+  - Pendidikan
+  - Sains & Teknologi
 pendidikan:
   - "Sarjana Pertanian (S1), Universitas Brawijaya, 1969"
   - "Master of Science (M.S.), University of California, Davis (UC Davis), AS"

@@ -9,8 +9,8 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Indonesia, Unjani, Asian Society of International Law
 periode: pasca 2020
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Ilmu Politik
 pendidikan:
   - "Fakultas Hukum, Universitas Indonesia"
   - "LL.M. Keio University, Jepang"

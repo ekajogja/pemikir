@@ -9,8 +9,10 @@ tempat_lahir: Pagaruyung, Sumatera Barat
 afiliasi: Universitas Andalas, Bundo Kanduang Sumatera Barat
 periode: pasca 2020
 bidang:
-  - sastra
-  - budaya
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Antropologi
+  - Feminisme & Studi Gender
 pendidikan:
   - "S1 Pertanian, Universitas Andalas"
   - "Doktor, Universitas Andalas"

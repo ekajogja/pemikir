@@ -9,8 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Padjadjaran (Unpad), Kementerian Luar Negeri, Kementerian Kehakiman
 periode: 1965-1998
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Ilmu Politik
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - "Fakultas Hukum, Universitas Indonesia"
   - "LL.M. Yale Law School, Amerika Serikat"

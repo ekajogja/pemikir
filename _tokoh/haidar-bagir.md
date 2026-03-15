@@ -9,10 +9,10 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Mizan Group, Yasmin Foundation, Lazuardi Hayati
 periode: pasca 2020
 bidang:
-  - filsafat Islam
-  - tasawuf
-  - pendidikan
-  - filantropi
+  - Filsafat
+  - Agama & Teologi
+  - Pendidikan
+  - Ekonomi & Keuangan
 pendidikan:
   - Institut Teknologi Bandung (S1 Teknologi Industri, 1982)
   - Harvard University, AS (M.A. Middle Eastern Studies, 1992)

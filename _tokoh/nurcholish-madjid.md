@@ -9,9 +9,10 @@ tempat_lahir: Jombang, Jawa Timur
 afiliasi: HMI (Himpunan Mahasiswa Islam), Paramadina, Universitas Paramadina, IAIN Syarif Hidayatullah
 periode: 1945-1965
 bidang:
-  - agama
-  - filsafat
-  - pembaruan Islam
+  - Agama & Teologi
+  - Filsafat
+  - Ilmu Politik
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Pesantren Darul Ulum, Rejoso, Jombang
   - Pesantren Gontor, Ponorogo

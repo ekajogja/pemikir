@@ -9,9 +9,10 @@ tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Universitas Indonesia (FEUI), INDEF, Tim Reformasi Tata Kelola Migas
 periode: 1998-2020
 bidang:
-  - ekonomi pembangunan
-  - politik ekonomi
-  - antikorupsi
+  - Ekonomi & Keuangan
+  - Ilmu Politik
+  - Kebijakan Publik
+  - Advokasi & Aktivisme
 pendidikan:
   - Universitas Indonesia (Ekonomi)
   - Vanderbilt University, AS (M.A. Ekonomi)

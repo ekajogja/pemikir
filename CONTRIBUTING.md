@@ -26,6 +26,7 @@ Terima kasih sudah tertarik berkontribusi! Dokumen ini menjelaskan cara menambah
 ### Prosedur Self-Vetting (Pengecekan Mandiri)
 
 Sebelum mengusulkan profil tokoh baru, kontributor wajib melakukan pengecekan mandiri melalui mesin pencari atau database resmi untuk memastikan:
+
 - **Bukan Terpidana Korupsi**: Tidak ada catatan kasus korupsi yang sudah inkracht (berkekuatan hukum tetap).
 - **Bukan Pelaku Kekerasan**: Tidak ada catatan terverifikasi mengenai pelecehan seksual atau kekerasan.
 - **Bukan Pelanggar Etik Berat**: Tidak memiliki rekam jejak pelanggaran etika serius yang mencederai integritas intelektual.
@@ -109,9 +110,9 @@ wafat: 'YYYY'                  # kosongkan ('') jika masih hidup
 tempat_lahir: Kota, Provinsi/Wilayah
 afiliasi: Institusi/Organisasi (pisahkan dengan koma jika lebih dari satu)
 periode: 1998-2020             # pilih salah satu rentang tahun di bawah
-bidang:                    # satu atau lebih bidang
-  - filsafat
-  - sastra
+bidang:                    # satu atau lebih bidang (WAJIB merujuk daftar-bidang.txt)
+  - Filsafat
+  - Sastra
 pendidikan:
   - "Gelar, Institusi, Tahun (jika diketahui)"
   - "Gelar, Institusi, Tahun"
@@ -150,9 +151,13 @@ Pilih periode berdasarkan **masa aktif/pengaruh utama** sang tokoh:
 | `1998-2020` | Era Reformasi hingga awal dekade 2020 |
 | `pasca 2020` | Tokoh yang masih sangat aktif di masa sekarang |
 
-### Nilai Contoh untuk Field `bidang`
-
-`filsafat`, `sastra`, `politik`, `ekonomi`, `agama`, `antropologi`, `jurnalisme`, `astronomi`, `sains`, `teknologi`, `hukum`, `pendidikan`, `seni`, `musik`, `sejarah`, `sosiologi`, `linguistik`, `feminisme`, `aktivisme`
+### Nilai Valid untuk Field `bidang`
+  
+  Setiap tokoh wajib diklasifikasikan menggunakan kategori standar untuk memudahkan pemfilteran. Silakan merujuk pada:
+  
+  👉 **[daftar-bidang.txt](daftar-bidang.txt)**
+  
+  (Contoh: `Advokasi & Aktivisme`, `Agama & Teologi`, `Sains & Teknologi`, `Ilmu Sosial & Sosiologi`, dll.)
 
 ---
 

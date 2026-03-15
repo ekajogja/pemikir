@@ -9,8 +9,9 @@ tempat_lahir: Pangkalan Brandan, Sumatera Timur
 afiliasi: Partai Sosialis Indonesia (PSI), BP-KNIP
 periode: 1945-1965
 bidang:
-  - politik
-  - sosiologi
+  - Ilmu Politik
+  - Ilmu Sosial & Sosiologi
+  - Ideologi & Teori Kritis
 pendidikan:
   - "Sekolah Tinggi Hukum (Rechtshoogeschool), Batavia"
 pokok_pikiran: "Mengadvokasi 'Sosialisme Demokrasi' yang menjunjung tinggi martabat kemanusiaan dan kedaulatan rakyat sebagai antitesis terhadap komunisme totaliter dan fasisme."

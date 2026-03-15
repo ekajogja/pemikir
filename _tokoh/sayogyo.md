@@ -9,9 +9,9 @@ tempat_lahir: Kebumen, Jawa Tengah
 afiliasi: IPB University, Sayogyo Institute, Bappenas
 periode: 1965-1998
 bidang:
-  - sosiologi
-  - ekonomi
-  - pertanian
+  - Ilmu Sosial & Sosiologi
+  - Ekonomi & Keuangan
+  - Pertanian & Peternakan
 pendidikan:
   - "Doktor (Dr.) Ilmu Pertanian, Universitas Indonesia (Bogor)"
   - "Post-doctoral, University of Chicago, AS"

@@ -9,9 +9,8 @@ tempat_lahir: Pekalongan, Jawa Tengah
 afiliasi: Universitas Lund (Swedia), NIH (Amerika Serikat)
 periode: 1945-1965
 bidang:
-  - genetika
-  - sitogenetika
-  - pemuliaan tanaman
+  - Biologi & Genetika
+  - Pertanian & Peternakan
 pendidikan:
   - Sekolah Ilmu Pertanian (Bogor)
   - Universitas Lund, Swedia (Studi Genetika)

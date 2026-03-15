@@ -9,9 +9,11 @@ tempat_lahir: Karangkajen, Yogyakarta
 afiliasi: Muhammadiyah, Universitas Gadjah Mada (UGM), IAIN Sunan Kalijaga
 periode: 1965-1998
 bidang:
-  - agama
-  - hukum
-  - filsafat
+  - Hukum Islam
+  - Agama & Teologi
+  - Ekonomi Syariah
+  - Filsafat
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Studi Islam, Universitas Al-Azhar, Mesir"
   - "Master (M.A.) Filsafat, Universitas Kairo, Mesir"

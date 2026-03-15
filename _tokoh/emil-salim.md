@@ -9,9 +9,11 @@ tempat_lahir: Lahat, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Lingkungan Hidup, Mafia Berkeley
 periode: 1945-1965
 bidang:
-  - ekonomi pembangunan
-  - etika lingkungan
-  - kebijakan publik
+  - Ekonomi & Keuangan
+  - Kehutanan & Lingkungan
+  - Kebijakan Publik
+  - Pendidikan
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Universitas Indonesia (Ekonomi)
   - University of California, Berkeley, AS (Doktor Ekonomi, 1964)

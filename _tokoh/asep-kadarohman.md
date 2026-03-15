@@ -9,8 +9,9 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Pendidikan Indonesia (UPI)
 periode: 1998-2020
 bidang:
-  - sains
-  - pendidikan
+  - Sains & Teknologi
+  - Pendidikan
+  - Farmasi & Kimia
 pendidikan:
   - "S1 Pendidikan Kimia, IKIP Bandung (UPI)"
   - "Magister Kimia, Institut Teknologi Bandung (ITB)"

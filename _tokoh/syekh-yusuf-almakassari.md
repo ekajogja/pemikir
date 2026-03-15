@@ -9,9 +9,9 @@ tempat_lahir: Moncongloe, Gowa, Sulawesi Selatan
 afiliasi: Kesultanan Banten, Tarekat Khalwatiyah, Kesultanan Gowa
 periode: pra 1900
 bidang:
-  - tasawuf
-  - teologi
-  - perjuangan anti-kolonial
+  - Tasawuf & Spiritualitas
+  - Agama & Teologi
+  - Militer & Pertahanan
 pendidikan:
   - Gowa & Cikoang (Agama & Tasawuf)
   - Banten, Aceh, Yaman, Mekkah, Madinah, dan Damaskus

@@ -9,9 +9,9 @@ tempat_lahir: Indonesia
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: 1945-1965
 bidang:
-  - filsafat
-  - filsafat etnik
-  - filsafat Jawa
+  - Filsafat
+  - Filsafat Nusantara
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Sarjana Filsafat, UGM (1976)
   - Magister Jurusan Filsafat Indonesia, UGM

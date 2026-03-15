@@ -9,9 +9,9 @@ tempat_lahir: Purwokerto, Jawa Tengah
 afiliasi: ITB (SBM ITB), BRR Aceh-Nias, UKP4
 periode: pasca 2020
 bidang:
-  - teknologi
-  - politik
-  - sosiologi
+  - Bisnis & Manajemen
+  - Kebijakan Publik
+  - Sains & Teknologi
 pendidikan:
   - "Teknik Industri, Institut Teknologi Bandung"
   - "M.S. Industrial Engineering, Stanford University, AS"

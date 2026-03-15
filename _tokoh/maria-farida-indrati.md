@@ -9,8 +9,9 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Universitas Indonesia (FH UI), Mahkamah Konstitusi RI
 periode: pasca 2020
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Hukum Tata Negara
+  - Ilmu Politik
 pendidikan:
   - "Fakultas Hukum, Universitas Indonesia"
   - "Doktor (Dr.) Ilmu Hukum, Universitas Indonesia"

@@ -9,9 +9,10 @@ tempat_lahir: Nganjuk, Jawa Timur
 afiliasi: Majelis Ulama Indonesia (MUI), Kemenpora, UIN Jakarta
 periode: pasca 2020
 bidang:
-  - agama
-  - hukum
-  - politik
+  - Agama & Teologi
+  - Hukum
+  - Kebijakan Publik
+  - Pendidikan
 pendidikan:
   - "S1, LIPIA Jakarta"
   - "M.A. Hukum Islam, Al-Azhar University, Mesir"

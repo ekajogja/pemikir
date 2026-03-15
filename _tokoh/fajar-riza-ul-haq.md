@@ -9,9 +9,10 @@ tempat_lahir: Sukabumi, Jawa Barat
 afiliasi: Muhammadiyah, MAARIF Institute, Kementerian Pendidikan Dasar dan Menengah
 periode: pasca 2020
 bidang:
-  - agama
-  - politik
-  - pendidikan
+  - Agama & Teologi
+  - Ilmu Politik
+  - Pendidikan
+  - Kebijakan Publik
 pendidikan:
   - "Fakultas Agama Islam, Universitas Muhammadiyah Surakarta"
   - "S2 Center for Religious and Cross-cultural Studies (CRCS), UGM"

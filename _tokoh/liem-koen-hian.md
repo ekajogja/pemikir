@@ -9,9 +9,9 @@ tempat_lahir: Banjarmasin, Kalimantan Selatan
 afiliasi: Partai Tionghoa Indonesia (PTI), BPUPKI, Sin Tit Po
 periode: 1900-1945
 bidang:
-  - politik
-  - jurnalisme
-  - nasionalisme
+  - Ilmu Politik
+  - Jurnalisme & Media
+  - Ideologi & Teori Kritis
 pendidikan:
   - Europesche Lagere School (ELS), Banjarmasin
 pokok_pikiran: Konsep 'Indonesierschap' (Kewarganegaraan Indonesia); integrasi etnis Tionghoa ke dalam bangsa Indonesia; nasionalisme berbasis tanah air (Hindia Belanda/Indonesia) bukan ras.

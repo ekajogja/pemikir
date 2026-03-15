@@ -9,10 +9,14 @@ tempat_lahir: Sumpur Kudus, Sumatera Barat
 afiliasi: Muhammadiyah, Maarif Institute, IKIP Yogyakarta
 periode: 1998-2020
 bidang:
-  - sejarah
-  - humanisme Islam
-  - politik
-  - kebangsaan
+  - Sejarah
+  - Filsafat Nusantara
+  - Ilmu Politik
+  - Agama & Teologi
+  - Ideologi & Teori Kritis
+  - Humaniora & Kajian Budaya
+  - Advokasi & Aktivisme
+  - Hukum Tata Negara
 pendidikan:
   - Madrasah Muallimin Muhammadiyah, Yogyakarta
   - IKIP Yogyakarta (S1 Sejarah, 1968)

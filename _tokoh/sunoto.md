@@ -9,8 +9,9 @@ tempat_lahir: Indonesia
 afiliasi: Fakultas Filsafat Universitas Gadjah Mada (UGM)
 periode: 1945-1965
 bidang:
-  - filsafat
-  - filsafat Pancasila
+  - Filsafat
+  - Filsafat Nusantara
+  - Ideologi & Teori Kritis
 pendidikan:
   - Sarjana & Magister Ilmu Sosial dan Politik, UGM
   - Doktor Ilmu Sosial dan Politik, Vrije Universiteit Amsterdam

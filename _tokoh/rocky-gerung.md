@@ -9,9 +9,10 @@ tempat_lahir: Manado, Sulawesi Utara
 afiliasi: Universitas Indonesia (Mantan Dosen)
 periode: pasca 2020
 bidang:
-  - filsafat
-  - etika publik
-  - filsafat politik
+  - Filsafat
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
+  - Kebijakan Publik
 pendidikan:
   - Universitas Indonesia (Sarjana Filsafat, 1986)
 pokok_pikiran: Filsuf publik yang mempopulerkan kritik rasional terhadap kekuasaan dan ideologi melalui pembacaan filsafat Barat dalam konteks Indonesia (Akal Sehat).

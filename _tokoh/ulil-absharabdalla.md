@@ -9,10 +9,10 @@ tempat_lahir: Pati, Jawa Tengah
 afiliasi: Jaringan Islam Liberal (JIL), Nahdlatul Ulama, Komunitas Ghazaly Academy
 periode: pasca 2020
 bidang:
-  - filsafat Islam
-  - teologi
-  - pemikiran liberal
-  - tasawuf
+  - Filsafat
+  - Agama & Teologi
+  - Ideologi & Teori Kritis
+  - Tasawuf & Spiritualitas
 pendidikan:
   - LIPIA, Jakarta (S1 Syariah)
   - STF Driyarkara

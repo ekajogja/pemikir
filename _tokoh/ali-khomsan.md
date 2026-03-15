@@ -9,8 +9,9 @@ tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: IPB University
 periode: pasca 2020
 bidang:
-  - sains
-  - kesehatan
+  - Kedokteran & Kesehatan
+  - Pertanian & Peternakan
+  - Sains & Teknologi
 pendidikan:
   - "S1 Peternakan, IPB University"
   - "Master Ilmu Gizi Masyarakat, IPB University"

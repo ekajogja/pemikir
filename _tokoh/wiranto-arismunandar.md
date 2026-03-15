@@ -9,8 +9,9 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Institut Teknologi Bandung (ITB), BPPT, LAPAN
 periode: 1965-1998
 bidang:
-  - teknologi
-  - pendidikan
+  - Teknik & Infrastruktur
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "Sarjana Teknik Mesin, Universitas Indonesia Bandung (ITB), 1959"
   - "Master of Science (MSME), Purdue University, AS, 1960"

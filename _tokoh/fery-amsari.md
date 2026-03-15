@@ -9,9 +9,10 @@ tempat_lahir: Padang, Sumatera Barat
 afiliasi: Universitas Andalas (FH UNAND), PUSaKO
 periode: pasca 2020
 bidang:
-  - hukum tata negara
-  - sosiologi hukum
-  - kebijakan publik
+  - Hukum Tata Negara
+  - Hukum
+  - Ilmu Sosial & Sosiologi
+  - Kebijakan Publik
 pendidikan:
   - Universitas Andalas (Sarjana Hukum & Magister Hukum)
   - William & Mary Law School, AS (LL.M.)

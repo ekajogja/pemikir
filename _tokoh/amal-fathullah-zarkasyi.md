@@ -9,8 +9,10 @@ tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: Pondok Modern Darussalam Gontor, Universitas Darussalam (UNIDA)
 periode: pasca 2020
 bidang:
-  - agama
-  - filsafat
+  - Agama & Teologi
+  - Filsafat
+  - Pendidikan
+  - Perbandingan Agama
 pendidikan:
   - "M.A. Islamic Studies, Universitas Kairo, Mesir"
   - "Doktor, Universiti Malaya, Malaysia, 2006"

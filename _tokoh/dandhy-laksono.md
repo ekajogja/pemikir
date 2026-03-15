@@ -9,9 +9,10 @@ tempat_lahir: Lumajang, Jawa Timur
 afiliasi: Watchdoc, Aliansi Jurnalis Independen (AJI), Ekspedisi Indonesia Baru
 periode: pasca 2020
 bidang:
-  - jurnalisme investigasi
-  - film dokumenter
-  - sosiologi visual
+  - Jurnalisme & Media
+  - Film & Sinematografi
+  - Ilmu Sosial & Sosiologi
+  - Kehutanan & Lingkungan
 pendidikan:
   - Universitas Indonesia (Ilmu Komunikasi)
 pokok_pikiran: Kedaulatan pangan dan energi; kritik terhadap oligarki pertambangan; jurnalisme warga dan komunitas; visualisasi isu-isu struktural yang tersembunyi; keberpihakan pada masyarakat adat.

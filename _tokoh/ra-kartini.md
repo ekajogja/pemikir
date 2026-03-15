@@ -9,9 +9,10 @@ tempat_lahir: Jepara, Jawa Tengah
 afiliasi: Pelopor Emansipasi, Sekolah Kartini
 periode: 1900-1945
 bidang:
-  - pendidikan
-  - feminisme
-  - kebudayaan
+  - Pendidikan
+  - Feminisme & Studi Gender
+  - Humaniora & Kajian Budaya
+  - Advokasi & Aktivisme
 pendidikan:
   - Europese Lagere School (ELS), Jepara
 pokok_pikiran: Emansipasi wanita melalui pendidikan; kritik terhadap feodalisme dan patriarki; pentingnya kesetaraan hak bagi kaum bumiputera; nasionalisme berbasis kemanusiaan universal.

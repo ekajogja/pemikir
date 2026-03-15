@@ -9,8 +9,10 @@ tempat_lahir: Musi Rawas, Sumatera Selatan
 afiliasi: Universitas Sriwijaya, Ombudsman RI, Komisi Yudisial
 periode: pasca 2020
 bidang:
-  - hukum
-  - politik
+  - Hukum
+  - Hukum Tata Negara
+  - Kebijakan Publik
+  - Advokasi & Aktivisme
 pendidikan:
   - "S1 Hukum, Universitas Sriwijaya"
   - "LL.M., Melbourne University, Australia"

@@ -9,8 +9,9 @@ tempat_lahir: Sidoarjo, Jawa Timur
 afiliasi: IPB University, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: pasca 2020
 bidang:
-  - sains
-  - teknologi
+  - Sains & Teknologi
+  - Biologi & Genetika
+  - Pertanian & Peternakan
 pendidikan:
   - "S1 Biologi, IPB University"
   - "Doktor (Ph.D.) Mikrobiologi, University of Illinois, AS"

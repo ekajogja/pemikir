@@ -9,9 +9,8 @@ tempat_lahir: Manado, Sulawesi Utara
 afiliasi: Institut Teknologi Bandung (ITB), LAPAN
 periode: 1998-2020
 bidang:
-  - astronomi
-  - astrofisika
-  - pemodelan iklim
+  - Astronomi & Astrofisika
+  - Sains & Teknologi
 pendidikan:
   - Institut Teknologi Bandung (Astronomi, 1985)
   - Rijksuniversiteit Groningen, Belanda (Doktor Astrofisika, 1991)

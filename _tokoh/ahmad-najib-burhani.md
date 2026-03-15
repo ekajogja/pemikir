@@ -9,8 +9,11 @@ tempat_lahir: Blora, Jawa Tengah
 afiliasi: BRIN, Muhammadiyah, Kemdiktisaintek
 periode: pasca 2020
 bidang:
-  - sosiologi
-  - agama
+  - Ilmu Sosial & Sosiologi
+  - Agama & Teologi
+  - Advokasi & Aktivisme
+  - Perbandingan Agama
+  - Kebijakan Publik
 pendidikan:
   - "S1 Perbandingan Agama, UIN Syarif Hidayatullah Jakarta"
   - "M.A. Islamic Studies, Leiden University"

@@ -9,8 +9,10 @@ tempat_lahir: Cirebon, Jawa Barat
 afiliasi: Institut Teknologi Bandung (ITB), Universitas Pertamina
 periode: 1998-2020
 bidang:
-  - sains
-  - teknologi
+  - Biologi & Genetika
+  - Sains & Teknologi
+  - Pendidikan
+  - Kehutanan & Lingkungan
 pendidikan:
   - "S1 Biologi, ITB"
   - "Doktor (Ph.D.), University of Kent, Inggris"

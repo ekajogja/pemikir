@@ -9,8 +9,10 @@ tempat_lahir: "Nagari Ladang Laweh, Banuhampu, Agam, Sumatera Barat"
 afiliasi: "IAIN Imam Bonjol Padang (sekarang UIN Imam Bonjol)"
 periode: "1965-1998"
 bidang:
-  - pendidikan islam
-  - manajemen pendidikan
+  - Pendidikan
+  - Agama & Teologi
+  - Bisnis & Manajemen
+  - Kebijakan Publik
 pendidikan:
   - "Universitas Al-Azhar, Kairo, Mesir, 1963"
 pokok_pikiran: "Menekankan pada modernisasi institusi pendidikan Islam melalui penguatan visi akademik, integrasi ilmu pengetahuan, dan spiritualitas."

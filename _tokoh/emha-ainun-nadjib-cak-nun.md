@@ -9,10 +9,11 @@ tempat_lahir: Menturo, Sumobito, Jombang, Jawa Timur
 afiliasi: Maiyah, Gamelan KiaiKanjeng, Persada Studi Klub
 periode: 1945-1965
 bidang:
-  - budaya
-  - sastra
-  - tasawuf kultural
-  - kritik sosial
+  - Humaniora & Kajian Budaya
+  - Sastra
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Musik
 pendidikan:
   - Pondok Modern Darussalam Gontor (Tidak selesai)
   - SMA Muhammadiyah 1 Yogyakarta

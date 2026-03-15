@@ -9,9 +9,9 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Partai Komunis Indonesia (PKI), Partai Sosialis
 periode: 1945-1965
 bidang:
-  - politik
-  - ideologi
-  - jurnalisme
+  - Ilmu Politik
+  - Ideologi & Teori Kritis
+  - Jurnalisme & Media
 pendidikan:
   - Rechts Hoge School (RHS), Batavia
   - Universitas Leiden, Belanda (Ilmu Hukum)

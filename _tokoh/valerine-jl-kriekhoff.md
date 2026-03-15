@@ -9,9 +9,9 @@ tempat_lahir: Indonesia
 afiliasi: Universitas Indonesia (FH UI), Mahkamah Agung RI
 periode: 1998-2020
 bidang:
-  - hukum
-  - antropologi
-  - sosiologi
+  - Hukum
+  - Antropologi
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - "Sarjana Hukum, Universitas Indonesia"
   - "Doktor (Dr.) Antropologi Hukum, Universitas Indonesia"

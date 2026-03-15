@@ -9,8 +9,10 @@ tempat_lahir: Muntilan, Magelang, Jawa Tengah
 afiliasi: Universitas Gadjah Mada (UGM), Pusat Studi Pancasila (PSP) UGM
 periode: 1965-1998
 bidang:
-  - filsafat
-  - budaya
+  - Filsafat
+  - Humaniora & Kajian Budaya
+  - Filsafat Nusantara
+  - Pendidikan
 pendidikan:
   - "Fakultas Filsafat, Universitas Gadjah Mada"
   - "Studi Filsafat, Rijksuniversiteit Leiden, Belanda"

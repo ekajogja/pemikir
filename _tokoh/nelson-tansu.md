@@ -9,8 +9,9 @@ tempat_lahir: Medan, Sumatera Barat
 afiliasi: Lehigh University (AS), University of Adelaide (Australia), IEEE Fellow
 periode: pasca 2020
 bidang:
-  - teknologi
-  - sains
+  - Sains & Teknologi
+  - Fisika & Matematika
+  - Teknik & Infrastruktur
 pendidikan:
   - "B.S. Applied Mathematics, Electrical Engineering, & Physics, University of Wisconsin-Madison, AS"
   - "Doktor (Ph.D) Applied Physics, University of Wisconsin-Madison, AS"

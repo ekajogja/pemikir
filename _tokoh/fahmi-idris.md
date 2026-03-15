@@ -9,9 +9,11 @@ tempat_lahir: Jakarta
 afiliasi: Partai Golkar, Universitas Indonesia, Kadin
 periode: 1998-2020
 bidang:
-  - politik
-  - ekonomi
-  - filsafat
+  - Ilmu Politik
+  - Bisnis & Manajemen
+  - Ekonomi & Keuangan
+  - Filsafat
+  - Hukum
 pendidikan:
   - "Fakultas Ekonomi, Universitas Indonesia"
   - "Doktor (Dr.) Manajemen Sumber Daya Manusia, UNJ"

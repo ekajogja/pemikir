@@ -9,9 +9,10 @@ tempat_lahir: Kauman, Surakarta, Jawa Tengah
 afiliasi: Sarekat Islam (SI Merah), ISDV (PKI), Inlandsche Journalisten Bond
 periode: 1900-1945
 bidang:
-  - politik
-  - Islam sosialisme
-  - jurnalistik
+  - Ilmu Politik
+  - Agama & Teologi
+  - Jurnalisme & Media
+  - Sejarah
 pendidikan:
   - Pesantren
   - Sekolah Bumiputera (Ongko Loro), Surakarta

@@ -9,9 +9,10 @@ tempat_lahir: Tasikmalaya, Jawa Barat
 afiliasi: Universitas Katolik Parahyangan (Unpar)
 periode: pasca 2020
 bidang:
-  - postmodernisme
-  - estetika
-  - filsafat kebudayaan
+  - Ideologi & Teori Kritis
+  - Filsafat
+  - Humaniora & Kajian Budaya
+  - Seni Rupa
 pendidikan:
   - Universitas Katolik Parahyangan (S1 Filsafat)
   - Pontificia Università San Tommaso (Angelicum), Roma (S2 & S3 Filsafat)

@@ -9,10 +9,10 @@ tempat_lahir: Tanah Sirah, Agam, Sumatera Barat
 afiliasi: Muhammadiyah, Majelis Ulama Indonesia (MUI), Masyumi
 periode: 1945-1965
 bidang:
-  - tafsir Al-Qur'an
-  - sastra
-  - filsafat
-  - tasawuf
+  - Agama & Teologi
+  - Sastra
+  - Filsafat
+  - Humaniora & Kajian Budaya
 pendidikan:
   - Pelatihan di Sumatera Thawalib, Padang Panjang
   - Belajar mandiri (Otodidak) di Mekkah dan perpustakaan-perpustakaan besar

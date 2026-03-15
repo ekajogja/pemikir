@@ -9,10 +9,11 @@ tempat_lahir: Denpasar, Bali
 afiliasi: Universitas Indonesia, Gerakan Bali Tolak Reklamasi
 periode: pasca 2020
 bidang:
-  - filsafat lingkungan (ekofenomenologi)
-  - ekofeminisme
-  - etika
-  - sastra
+  - Filsafat
+  - Etika
+  - Feminisme & Studi Gender
+  - Sastra
+  - Lingkungan & Ekologi
 pendidikan:
   - Universitas Indonesia (S1, S2, Doktor Filsafat, 2012)
 pokok_pikiran: Ekofenomenologi sebagai cara pandang subjek terhadap alam; hak hidup alam (biotik) yang setara; ekofeminisme sebagai perlawanan terhadap eksploitasi alam dan perempuan oleh patriarki; Tri Hita Karana dalam konteks modern.

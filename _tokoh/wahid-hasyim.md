@@ -9,9 +9,9 @@ tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama, BPUPKI, Panitia Sembilan, Menteri Agama pertama
 periode: 1900-1945
 bidang:
-  - politik keagamaan
-  - pendidikan
-  - diplomasi
+  - Politik Islam
+  - Pendidikan
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - Pondok Pesantren Tebuireng, Lirboyo, dan Siwalan Panji
   - Makkah (1932)

@@ -9,9 +9,9 @@ tempat_lahir: Purwokerto, Jawa Tengah
 afiliasi: Perhimpunan Pengembangan Pesantren dan Masyarakat (P3M), Nahdlatul Ulama (PBNU)
 periode: pasca 2020
 bidang:
-  - fiqih sosial
-  - etika politik
-  - teologi emansipatoris
+  - Hukum Islam
+  - Filsafat
+  - Agama & Teologi
 pendidikan:
   - IAIN Sunan Kalijaga, Yogyakarta (Fakultas Syariah)
   - Universitas Indonesia (Pascasarjana Filsafat)

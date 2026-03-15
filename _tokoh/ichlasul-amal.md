@@ -9,8 +9,9 @@ tempat_lahir: Jember, Jawa Timur
 afiliasi: Universitas Gadjah Mada (UGM), Dewan Pers
 periode: 1998-2020
 bidang:
-  - politik
-  - jurnalisme
+  - Ilmu Politik
+  - Jurnalisme & Media
+  - Pendidikan
 pendidikan:
   - "S1 Ilmu Politik, Universitas Gadjah Mada"
   - "M.A., Northern Illinois University, AS"

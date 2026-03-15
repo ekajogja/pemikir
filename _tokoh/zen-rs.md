@@ -9,10 +9,10 @@ tempat_lahir: Cirebon, Jawa Barat
 afiliasi: PanditFootball, Narasi TV, Tirto.id
 periode: pasca 2020
 bidang:
-  - jurnalisme
-  - kebudayaan
-  - esai
-  - olahraga
+  - Jurnalisme & Media
+  - Humaniora & Kajian Budaya
+  - Sejarah
+  - Olahraga
 pendidikan:
   - Universitas Negeri Yogyakarta (Ilmu Sejarah)
 pokok_pikiran: Sepak bola sebagai mikrokosmos sosial-politik; narasi tandingan (counter-narrative) melalui sejarah; literasi sebagai alat pembebasan nalar; jurnalisme naratif yang mendalam.

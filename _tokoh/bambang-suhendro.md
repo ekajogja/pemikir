@@ -9,8 +9,10 @@ tempat_lahir: "Yogyakarta"
 afiliasi: "Universitas Gadjah Mada"
 periode: "pasca 2020"
 bidang:
-  - teknik sipil
-  - forensik infrastruktur
+  - Teknik & Infrastruktur
+  - Pendidikan
+  - Sains & Teknologi
+  - Hukum
 pendidikan:
   - "Sarjana Teknik Sipil (S1), Universitas Gadjah Mada, 1979"
   - "Master of Science (M.Sc.) Structural Engineering, Michigan State University, AS, 1985"

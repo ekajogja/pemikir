@@ -9,9 +9,10 @@ tempat_lahir: Pati, Jawa Tengah
 afiliasi: UIN Sunan Kalijaga Yogyakarta, Akademi Ilmu Pengetahuan Indonesia (AIPI)
 periode: pasca 2020
 bidang:
-  - agama
-  - filsafat
-  - pendidikan
+  - Agama & Teologi
+  - Filsafat
+  - Pendidikan
+  - Perbandingan Agama
 pendidikan:
   - "Studi Agama, IAIN Sunan Kalijaga Yogyakarta"
   - "Doktor (Ph.D) Filsafat, Middle East Technical University (METU), Ankara, Turki"

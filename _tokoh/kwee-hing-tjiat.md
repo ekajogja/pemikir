@@ -9,9 +9,9 @@ tempat_lahir: Surabaya, Jawa Timur
 afiliasi: Sin Po (Mantan Pemred), Harian Matahari, PTI (Simpatisan)
 periode: 1900-1945
 bidang:
-  - jurnalisme
-  - politik
-  - ekonomi
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Ekonomi & Keuangan
 pendidikan:
   - Otodidak (Pendidikan Mandiri/Pengalaman Luar Negeri)
 pokok_pikiran: Evolusi dari Nasionalisme Tionghoa ke Asimilasi Total; perjuangan kesetaraan hak ekonomi dan politik bagi etnis Tionghoa; kritik tajam terhadap birokrasi kolonial; visi jurnalisme sebagai penggerak perubahan sosial.

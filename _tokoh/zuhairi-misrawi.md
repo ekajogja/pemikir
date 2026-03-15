@@ -9,9 +9,9 @@ tempat_lahir: Sumenep, Madura, Jawa Timur
 afiliasi: Nahdlatul Ulama (NU), Duta Besar RI untuk Tunisia
 periode: pasca 2020
 bidang:
-  - agama
-  - politik
-  - sejarah
+  - Agama & Teologi
+  - Ilmu Politik
+  - Sejarah
 pendidikan:
   - "Fakultas Ushuluddin, Universitas Al-Azhar, Kairo, Mesir"
 pokok_pikiran: "Mengadvokasi moderasi beragama (Wasathiyah) dan pluralisme melalui reinterpretasi sejarah politik Islam (Piagam Madinah) serta penguatan nilai-nilai toleransi dalam Al-Qur'an."

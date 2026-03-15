@@ -9,9 +9,10 @@ tempat_lahir: "Jambi"
 afiliasi: "IPB University"
 periode: "pasca 2020"
 bidang:
-  - ekologi hutan
-  - silvikultur
-  - forensik kebakaran
+  - Kehutanan & Lingkungan
+  - Hukum
+  - Sains & Teknologi
+  - Pendidikan
 pendidikan:
   - "Sarjana Kehutanan (S1), IPB University, 1987"
   - "Master of Agriculture (M.Agr.), Kyoto University, Jepang, 1996"

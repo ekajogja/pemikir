@@ -9,9 +9,10 @@ tempat_lahir: Pacitan, Jawa Timur
 afiliasi: Social Movement Institute (SMI), Resist Book, PUSHAM UII
 periode: pasca 2020
 bidang:
-  - aktivisme
-  - hak asasi manusia
-  - pendidikan kritis
+  - Advokasi & Aktivisme
+  - Hak Asasi Manusia
+  - Pendidikan
+  - Agama & Teologi
 pendidikan:
   - Universitas Islam Indonesia (Hukum)
 pokok_pikiran: Islam sebagai agama perlawanan; pendidikan kritis bagi kaum tertindas; kritik terhadap komersialisasi pendidikan dan layanan publik; pentingnya gerakan sosial (social movement) dari bawah.

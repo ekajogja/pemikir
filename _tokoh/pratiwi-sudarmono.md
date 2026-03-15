@@ -9,9 +9,9 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Indonesia (FKUI), NASA (Payload Specialist)
 periode: pasca 2020
 bidang:
-  - sains
-  - kedokteran
-  - teknologi
+  - Biologi & Genetika
+  - Kedokteran & Kesehatan
+  - Sains & Teknologi
 pendidikan:
   - "Dokter (M.D.), Universitas Indonesia"
   - "Doktor (Ph.D) Biologi Molekuler, Universitas Osaka, Jepang"

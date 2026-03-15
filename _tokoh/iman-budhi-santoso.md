@@ -9,9 +9,9 @@ tempat_lahir: Magetan, Jawa Timur
 afiliasi: Persada Studi Klub (PSK), Sanggar Bambu
 periode: 1998-2020
 bidang:
-  - sastra
-  - budaya
-  - antropologi
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Antropologi
 pendidikan:
   - "Sekolah Menengah Pertanian Atas (SPMA), Yogyakarta"
 pokok_pikiran: "Mengembangkan 'Sastra Antropologis' sebagai metodologi untuk merekam dunia batin dan kearifan lokal masyarakat Jawa agraris di tengah arus modernisasi."

@@ -9,9 +9,9 @@ tempat_lahir: Jakarta
 afiliasi: Universitas Paramadina, Jaringan Islam Liberal (JIL), Freedom Institute
 periode: pasca 2020
 bidang:
-  - agama
-  - filsafat
-  - politik
+  - Agama & Teologi
+  - Filsafat
+  - Ilmu Politik
 pendidikan:
   - "Sarjana Bahasa dan Sastra Arab, Universitas Yordania"
   - "Master (M.A.) Studi Islam, ISTAC-IIUM, Malaysia"

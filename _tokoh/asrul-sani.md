@@ -9,9 +9,10 @@ tempat_lahir: Rao, Pasaman, Sumatera Barat
 afiliasi: Angkatan '45, Lesbumi (NU), Akademi Teater Nasional Indonesia (ATNI)
 periode: 1945-1965
 bidang:
-  - sastra
-  - seni
-  - budaya
+  - Sastra
+  - Film & Sinematografi
+  - Humaniora & Kajian Budaya
+  - Seni Pertunjukan
 pendidikan:
   - "Fakultas Kedokteran Hewan, Universitas Indonesia"
   - "Dramaturgi & Sinematografi, University of Southern California, AS"

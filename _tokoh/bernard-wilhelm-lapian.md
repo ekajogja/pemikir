@@ -9,9 +9,10 @@ tempat_lahir: Kawangkoan, Sulawesi Utara
 afiliasi: KGPM (Kerapatan Gereja Protestan Minahasa), Volksraad
 periode: 1900-1945
 bidang:
-  - agama
-  - jurnalisme
-  - politik
+  - Agama & Teologi
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Sejarah
 pendidikan:
   - "Studi Jurnalisme & Politik, Batavia (Jakarta)"
 pokok_pikiran: "Mengadvokasi kemandirian institusi keagamaan dan politik melalui pendirian KGPM sebagai upaya dekolonisasi gereja serta memobilisasi massa lewat jurnalisme perjuangan."

@@ -9,9 +9,9 @@ tempat_lahir: Bukittinggi, Sumatera Barat
 afiliasi: UIN Syarif Hidayatullah Jakarta, Kementerian Agama RI
 periode: 1965-1998
 bidang:
-  - agama
-  - pendidikan
-  - psikologi
+  - Agama & Teologi
+  - Pendidikan
+  - Psikologi
 pendidikan:
   - "Studi Agama, IAIN Syarif Hidayatullah"
   - "Doktor (Ph.D) Psikologi, Universitas Ein Shams, Mesir"

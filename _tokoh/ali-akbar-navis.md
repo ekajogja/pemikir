@@ -9,9 +9,10 @@ tempat_lahir: Padang Panjang, Sumatera Barat
 afiliasi: Dewan Kesenian Sumatra Barat, Angkatan '66
 periode: 1945-1965
 bidang:
-  - sastra
-  - budaya
-  - agama
+  - Sastra
+  - Humaniora & Kajian Budaya
+  - Agama & Teologi
+  - Filsafat Nusantara
 pendidikan:
   - "Indonesisch-Nederlandsche School (INS) Kayutanam"
 pokok_pikiran: "Melakukan kritik tajam terhadap kemunafikan religius dan stagnasi budaya melalui satire, menekankan pentingnya kesalehan sosial di samping ritualitas keagamaan."

@@ -9,8 +9,8 @@ tempat_lahir: Ubud, Bali
 afiliasi: Hutama Karya, Universitas Gadjah Mada
 periode: 1945-1965
 bidang:
-  - teknik sipil
-  - inovasi konstruksi
+  - Teknik & Infrastruktur
+  - Sains & Teknologi
 pendidikan:
   - Institut Teknologi Bandung (Teknik Sipil, 1962)
   - Universitas Gadjah Mada (Doktor Teknik Sipil, 1996)

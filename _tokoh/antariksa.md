@@ -9,9 +9,9 @@ tempat_lahir: Yogyakarta
 afiliasi: KUNCI Cultural Studies Center (Yogyakarta)
 periode: pasca 2020
 bidang:
-  - studi kebudayaan
-  - sejarah seni
-  - kolektivisme
+  - Humaniora & Kajian Budaya
+  - Sejarah
+  - Ideologi & Teori Kritis
 pendidikan:
   - Universitas Gadjah Mada (Hubungan Internasional)
   - Studi Mandiri/Penelitian Fellowship (Leiden, Paris, ISEAS)

@@ -9,9 +9,10 @@ tempat_lahir: Larantuka, Flores Timur
 afiliasi: Yayasan Obor Indonesia, Go East
 periode: 1998-2020
 bidang:
-  - sosiologi
-  - filsafat sosial
-  - sastra
+  - Ilmu Sosial & Sosiologi
+  - Filsafat
+  - Sastra
+  - Humaniora & Kajian Budaya
 pendidikan:
   - STFT Ledalero (1972)
   - Hochschule für Philosophie München (M.A., 1982)

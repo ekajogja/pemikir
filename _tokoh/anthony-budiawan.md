@@ -9,9 +9,9 @@ tempat_lahir: ''
 afiliasi: Political Economy and Policy Studies (PEPS), Kwik Kian Gie School of Business
 periode: pasca 2020
 bidang:
-  - ekonomi bisnis
-  - kebijakan fiskal
-  - akuntansi manajemen
+  - Ekonomi & Keuangan
+  - Bisnis & Manajemen
+  - Kebijakan Publik
 pendidikan:
   - Erasmus University Rotterdam, Belanda (Magister Ekonomi)
   - Institute of Certified Management Accountants, AS

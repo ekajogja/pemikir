@@ -9,9 +9,9 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Universitas Indonesia (Fakultas Sastra), Lembaga Sinologi
 periode: 1945-1965
 bidang:
-  - sinologi
-  - filsafat Tiongkok
-  - sejarah budaya
+  - Humaniora & Kajian Budaya
+  - Filsafat
+  - Sejarah
 pendidikan:
   - Hollandsch Chineesche School (HCS)
   - AMS, Yogyakarta

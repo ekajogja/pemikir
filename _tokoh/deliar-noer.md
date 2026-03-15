@@ -9,9 +9,10 @@ tempat_lahir: Medan, Sumatera Utara
 afiliasi: IKIP Jakarta, Petisi 50, Griffith University
 periode: 1945-1965
 bidang:
-  - ilmu politik
-  - sejarah Islam
-  - gerakan sosial
+  - Ilmu Politik
+  - Sejarah
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
 pendidikan:
   - Universitas Indonesia (S1 Ekonomi, 1958)
   - University of California, Berkeley, AS (M.A., 1962; Doktor Ekonomi, 1964)

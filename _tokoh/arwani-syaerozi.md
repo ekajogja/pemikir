@@ -9,9 +9,10 @@ tempat_lahir: Cirebon, Jawa Timur
 afiliasi: Ma'had Aly Al-Hikamus Salafiyah, PBNU, Universitas Indonesia
 periode: pasca 2020
 bidang:
-  - agama
-  - filsafat
-  - hukum
+  - Agama & Teologi
+  - Filsafat
+  - Hukum
+  - Pendidikan
 pendidikan:
   - "S1 Universitas Al-Ahgaff, Yaman"
   - "Magister Universitas Ezzitouna, Tunisia"

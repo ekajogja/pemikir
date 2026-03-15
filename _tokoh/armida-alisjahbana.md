@@ -9,8 +9,9 @@ tempat_lahir: Bandung, Jawa Barat
 afiliasi: Universitas Padjadjaran, Bappenas, UN ESCAP
 periode: pasca 2020
 bidang:
-  - ekonomi
-  - politik
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Diplomasi & Hubungan Internasional
 pendidikan:
   - "S1 Ekonomi, Universitas Indonesia"
   - "M.A. Ekonomi, Northwestern University, AS"

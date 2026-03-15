@@ -9,10 +9,9 @@ tempat_lahir: Tilburg, Belanda
 afiliasi: Serikat Misionaris Hati Kudus (MSC), Unika Atma Jaya, STF Driyarkara
 periode: 1945-1965
 bidang:
-  - etika
-  - sejarah filsafat
-  - filsafat Barat
-  - psikoanalisis
+  - Filsafat
+  - Psikologi
+  - Agama & Teologi
 pendidikan:
   - Universitas Katolik Leuven, Belgia (Doktor Filsafat, 1968)
 pokok_pikiran: Sistematisasi etika terapan (etika bisnis dan biomedis) di Indonesia; sejarah filsafat sebagai fondasi cara berpikir kritis; etika sebagai refleksi filosofis atas moralitas; pengenalan pemikiran psikoanalisis Freud dalam konteks filsafat.

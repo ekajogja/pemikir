@@ -9,9 +9,9 @@ tempat_lahir: Sleman, Yogyakarta
 afiliasi: Universitas Gadjah Mada (UGM), Mubyarto Institute, Bappenas
 periode: 1965-1998
 bidang:
-  - ekonomi
-  - sosiologi
-  - pertanian
+  - Ekonomi & Keuangan
+  - Ilmu Sosial & Sosiologi
+  - Pertanian & Peternakan
 pendidikan:
   - "Fakultas Ekonomi, Universitas Gadjah Mada"
   - "Doktor (Ph.D) Ekonomi Pertanian, Iowa State University, AS"

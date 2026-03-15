@@ -9,9 +9,9 @@ tempat_lahir: Bandung, Jawa Tengah
 afiliasi: Bursa Efek Jakarta (BEI), PT Pupuk Indonesia, INDEF
 periode: pasca 2020
 bidang:
-  - pasar modal
-  - akuntansi
-  - regulasi keuangan
+  - Ekonomi & Keuangan
+  - Hukum
+  - Bisnis & Manajemen
 pendidikan:
   - Universitas Gadjah Mada (Akuntansi)
   - Universitas Indonesia (Magister Hukum Ekonomi)

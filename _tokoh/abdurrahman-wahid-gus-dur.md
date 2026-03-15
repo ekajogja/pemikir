@@ -9,10 +9,12 @@ tempat_lahir: Jombang, Jawa Timur
 afiliasi: Nahdlatul Ulama (NU), Forum Demokrasi, Partai Kebangkitan Bangsa (PKB)
 periode: 1998-2020
 bidang:
-  - agama
-  - politik
-  - pluralisme
-  - humanisme
+  - Agama & Teologi
+  - Ilmu Politik
+  - Filsafat Nusantara
+  - Humaniora & Kajian Budaya
+  - Advokasi & Aktivisme
+  - Kebijakan Publik
 pendidikan:
   - Pesantren Krapyak, Tegalrejo, dan Tambakberas
   - Al-Azhar University, Kairo, Mesir

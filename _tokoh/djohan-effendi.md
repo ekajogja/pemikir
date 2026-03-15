@@ -9,9 +9,10 @@ tempat_lahir: Kandangan, Kalimantan Selatan
 afiliasi: ICRP (Indonesian Conference on Religion and Peace), Dian Interfidei
 periode: 1998-2020
 bidang:
-  - agama
-  - politik
-  - filsafat
+  - Agama & Teologi
+  - Ilmu Politik
+  - Filsafat
+  - Ilmu Pemerintahan
 pendidikan:
   - "IAIN Sunan Kalijaga, Yogyakarta"
 pokok_pikiran: "Mengadvokasi pluralisme sebagai keniscayaan teologis serta memperjuangkan kebebasan beragama dan pembelaan terhadap kelompok minoritas yang terpinggirkan."

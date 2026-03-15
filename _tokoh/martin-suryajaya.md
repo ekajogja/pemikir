@@ -9,10 +9,9 @@ tempat_lahir: Semarang, Jawa Tengah
 afiliasi: Institut Kesenian Jakarta (IKJ), Direktorat Jenderal Kebudayaan
 periode: pasca 2020
 bidang:
-  - filsafat
-  - estetika
-  - sastra
-  - Marxisme
+  - Filsafat
+  - Sastra
+  - Ideologi & Teori Kritis
 pendidikan:
   - STF Driyarkara, Jakarta (S1, S2, Doktor Filsafat)
 pokok_pikiran: Sejarah estetika sebagai morfologi kritik; rekonstruksi materialisme dialektis; kritik terhadap modernitas seni melalui arkeologi alat (kapak batu vs lukisan gua); konsep 'Infrakrasi' dan 'General Intellect'.

@@ -9,9 +9,8 @@ tempat_lahir: Batu, Jawa Timur
 afiliasi: KontraS, Imparsial, LBH Surabaya
 periode: 1998-2020
 bidang:
-  - hak asasi manusia
-  - hukum
-  - aktivisme sosial
+  - Advokasi & Aktivisme
+  - Hukum
 pendidikan:
   - Universitas Brawijaya (Sarjana Hukum, 1990)
 pokok_pikiran: Perjuangan melawan impunitas negara; pembelaan terhadap korban penghilangan paksa dan kekerasan; reformasi sektor keamanan; keberanian moral dalam menyerukan keadilan; HAM sebagai martabat universal tanpa pandang bulu.

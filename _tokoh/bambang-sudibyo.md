@@ -9,9 +9,11 @@ tempat_lahir: "Temanggung, Jawa Tengah"
 afiliasi: "Universitas Gadjah Mada, Badan Amil Zakat Nasional (BAZNAS)"
 periode: "pasca 2020"
 bidang:
-  - ekonomi
-  - akuntansi
-  - pendidikan
+  - Ekonomi & Keuangan
+  - Bisnis & Manajemen
+  - Pendidikan
+  - Kebijakan Publik
+  - Ekonomi Syariah
 pendidikan:
   - "Sarjana Akuntansi, Universitas Gadjah Mada, 1977"
   - "Master of Business Administration (MBA), North Carolina University, AS, 1981"

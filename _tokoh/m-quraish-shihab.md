@@ -9,9 +9,7 @@ tempat_lahir: Rappang, Sulawesi Selatan
 afiliasi: IAIN Syarif Hidayatullah, Pusat Studi Al-Qur'an (PSQ), Al-Azhar (Mesir)
 periode: 1945-1965
 bidang:
-  - tafsir Al-Qur'an
-  - teologi
-  - moderasi beragama
+  - Agama & Teologi
 pendidikan:
   - Pesantren Darul-Hadist al-Faqihiyyah, Malang
   - Universitas Al-Azhar, Kairo, Mesir (S1, S2, Doktor Tafsir, 1982)

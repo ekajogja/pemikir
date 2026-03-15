@@ -9,9 +9,9 @@ tempat_lahir: Kutaraja (Banda Aceh)
 afiliasi: Peradin, LBH (Pendiri), Gereja Kristen Indonesia (GKI)
 periode: 1945-1965
 bidang:
-  - hukum
-  - hak asasi manusia
-  - kesetaraan minoritas
+  - Hukum
+  - Advokasi & Aktivisme
+  - Hukum Tata Negara
 pendidikan:
   - Rijksuniversiteit Leiden, Belanda (Doktor Ilmu Hukum)
 pokok_pikiran: Keadilan yang tidak memihak ideologi; hak hukum bagi kaum tertindas; pembelaan terhadap tahanan politik (apapun latar belakangnya); integritas tanpa kompromi (Anti-Suap); pembela minoritas di hadapan mayoritas.

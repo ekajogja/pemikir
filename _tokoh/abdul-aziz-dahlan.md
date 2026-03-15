@@ -9,9 +9,10 @@ tempat_lahir: Padang Pariaman, Sumatera Barat
 afiliasi: UIN Syarif Hidayatullah Jakarta
 periode: 1998-2020
 bidang:
-  - agama
-  - filsafat
-  - sejarah
+  - Agama & Teologi
+  - Hukum Islam
+  - Sejarah Islam
+  - Filsafat
 pendidikan:
   - "Doktor, UIN Syarif Hidayatullah Jakarta"
 pokok_pikiran: "Pelopor sistematisasi pengetahuan Islam di Indonesia melalui proyek ensiklopedis yang menyajikan ajaran Islam secara akademis, objektif, dan komprehensif."

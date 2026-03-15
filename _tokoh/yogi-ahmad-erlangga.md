@@ -9,8 +9,8 @@ tempat_lahir: Tasikmalaya, Jawa Barat
 afiliasi: ITB, Zayed University (UEA), Shell (Riseter)
 periode: pasca 2020
 bidang:
-  - sains
-  - teknologi
+  - Fisika & Matematika
+  - Sains & Teknologi
 pendidikan:
   - "Teknik Penerbangan, Institut Teknologi Bandung"
   - "Doktor (Ph.D) Matematika Terapan, TU Delft, Belanda"

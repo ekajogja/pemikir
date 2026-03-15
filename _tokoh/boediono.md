@@ -9,9 +9,12 @@ tempat_lahir: "Blitar, Jawa Timur"
 afiliasi: "Universitas Gadjah Mada, Bank Indonesia, Pemerintah RI"
 periode: "pasca 2020"
 bidang:
-  - ekonomi
-  - makroekonomi
-  - kebijakan publik
+  - Ekonomi & Keuangan
+  - Kebijakan Publik
+  - Ilmu Pemerintahan
+  - Ilmu Politik
+  - Pendidikan
+  - Sejarah
 pendidikan:
   - "Bachelor of Economics, University of Western Australia, 1967"
   - "Master of Economics, Monash University, Australia, 1972"

@@ -9,9 +9,9 @@ tempat_lahir: Batavia (Jakarta)
 afiliasi: Sin Po (Pendiri/Pemimpin Redaksi)
 periode: 1900-1945
 bidang:
-  - jurnalisme
-  - politik
-  - aktivisme
+  - Jurnalisme & Media
+  - Ilmu Politik
+  - Advokasi & Aktivisme
 pendidikan:
   - Otodidak (Pendidikan Mandiri/Tradisional)
 pokok_pikiran: Nasionalisme Tionghoa di Hindia Belanda; menentang Undang-Undang Kewarganegaraan Belanda; penegasan jati diri sebagai bangsa Tionghoa; penggunaan pers sebagai alat penyadar politik.

@@ -9,9 +9,9 @@ tempat_lahir: Indonesia
 afiliasi: Sekolah Tinggi Filsafat (STF) Driyarkara, Universitas Sanata Dharma
 periode: pasca 2020
 bidang:
-  - filsafat
-  - pendidikan
-  - budaya
+  - Filsafat
+  - Pendidikan
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Sarjana Filsafat, STF Driyarkara Jakarta"
   - "Doktor (Dr.) Filsafat, Universitas Gregoriana, Roma, Italia"

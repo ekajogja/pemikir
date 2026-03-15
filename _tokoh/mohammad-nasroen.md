@@ -9,9 +9,10 @@ tempat_lahir: Lubuk Sikaping, Pasaman, Sumatera Barat
 afiliasi: Universitas Indonesia, Kementerian Kehakiman
 periode: 1945-1965
 bidang:
-  - filsafat
-  - hukum
-  - politik
+  - Filsafat Nusantara
+  - Filsafat
+  - Hukum
+  - Ilmu Politik
 pendidikan:
   - Meester in de Rechten (Mr.), Universitas Leiden, Belanda (1938)
 pokok_pikiran: Memperkenalkan secara akademis istilah 'Filsafat Indonesia' sebagai pemikiran yang khas (bukan Barat dan bukan Timur), yang termanifestasi dalam adat, mupakat, gotong royong, dan kekeluargaan.

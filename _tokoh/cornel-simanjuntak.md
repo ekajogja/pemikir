@@ -9,9 +9,9 @@ tempat_lahir: Pematang Siantar, Sumatera Utara
 afiliasi: Keimin Bunka Shidosho, Angkatan '45
 periode: 1900-1945
 bidang:
-  - seni
-  - musik
-  - politik
+  - Musik
+  - Ilmu Politik
+  - Sejarah
 pendidikan:
   - "HIK Xaverius College, Muntilan, Jawa Tengah"
 pokok_pikiran: "Merumuskan filosofi 'Musik sebagai Senjata' perjuangan nasionalisme dan memelopori hibriditas budaya dengan mengadaptasi sistem nada diatonis Barat untuk aspirasi kemerdekaan Timur."

@@ -9,8 +9,11 @@ tempat_lahir: Surakarta, Jawa Tengah
 afiliasi: Badan Tenaga Atom Nasional (BATAN), ICMI
 periode: 1965-1998
 bidang:
-  - sains
-  - agama
+  - Fisika & Matematika
+  - Sains & Teknologi
+  - Agama & Teologi
+  - Astronomi & Astrofisika
+  - Kebijakan Publik
 pendidikan:
   - "S1 Fisika, Universitas Indonesia (Bandung), 1952"
   - "Doktor Fisika Nuklir, University of Chicago, 1964"

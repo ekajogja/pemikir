@@ -9,9 +9,10 @@ tempat_lahir: New Delhi, India
 afiliasi: Universitas Indonesia, Jurnal Perempuan
 periode: pasca 2020
 bidang:
-  - filsafat
-  - feminisme
-  - gender
+  - Filsafat
+  - Humaniora & Kajian Budaya
+  - Ilmu Sosial & Sosiologi
+  - Advokasi & Aktivisme
 pendidikan:
   - Universitas Indonesia (D3 Sastra Prancis, Sarjana Filsafat)
   - EHESS Paris, Prancis (M.A. Psikologi Sosial, 1994)

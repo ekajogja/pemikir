@@ -9,8 +9,10 @@ tempat_lahir: Padang, Sumatera Barat
 afiliasi: Communistische Partij Nederland (CPN), Angkatan Pujangga Baru
 periode: 1900-1945
 bidang:
-  - sastra
-  - politik
+  - Sastra
+  - Ilmu Politik
+  - Sejarah
+  - Humaniora & Kajian Budaya
 pendidikan:
   - "Kweekschool, Bukittinggi"
   - "Hogere Kweekschool (HKS), Bandung"

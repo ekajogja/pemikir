@@ -9,10 +9,10 @@ tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: Gereja Katolik, STF Driyarkara, Dinamika Edukasi Dasar
 periode: 1945-1965
 bidang:
-  - arsitektur
-  - sastra
-  - teologi pembebasan
-  - pendidikan
+  - Arsitektur & Perencanaan
+  - Sastra
+  - Agama & Teologi
+  - Pendidikan
 pendidikan:
   - Seminari Tinggi St. Paulus, Yogyakarta
   - Institut Teknologi Bandung (Arsitektur)

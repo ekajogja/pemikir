@@ -9,8 +9,11 @@ tempat_lahir: Ambarawa, Jawa Tengah
 afiliasi: Muhammadiyah, UIN Syarif Hidayatullah Jakarta
 periode: 1998-2020
 bidang:
-  - politik
-  - agama
+  - Ilmu Politik
+  - Politik Islam
+  - Agama & Teologi
+  - Ilmu Sosial & Sosiologi
+  - Pendidikan
 pendidikan:
   - "IAIN (UIN) Syarif Hidayatullah Jakarta"
   - "Doktor (Ph.D) Ilmu Politik, Ohio State University, AS"

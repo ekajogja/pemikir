@@ -9,8 +9,8 @@ tempat_lahir: Ponorogo, Jawa Timur
 afiliasi: Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta
 periode: 1965-1998
 bidang:
-  - pendidikan
-  - agama
+  - Pendidikan
+  - Agama & Teologi
 pendidikan:
   - "Studi Agama, IAIN Syarif Hidayatullah"
   - "Master (M.Ed.) Pendidikan, Stanford University, AS"

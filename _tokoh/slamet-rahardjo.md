@@ -9,9 +9,10 @@ tempat_lahir: Serang, Banten
 afiliasi: Teater Populer, Institut Kesenian Jakarta (IKJ)
 periode: pasca 2020
 bidang:
-  - seni
-  - budaya
-  - filsafat
+  - Film & Sinematografi
+  - Seni Pertunjukan
+  - Humaniora & Kajian Budaya
+  - Filsafat
 pendidikan:
   - "Akademi Teater Nasional Indonesia (ATNI)"
 pokok_pikiran: "Merumuskan estetika peran sebagai medium pemaknaan realitas hidup serta memosisikan film nasional sebagai instrumen refleksi budaya dan kritik sosial yang berakar pada integritas artistik."
