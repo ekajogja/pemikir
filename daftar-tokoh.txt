@@ -62,10 +62,12 @@ Asrinaldi
 Asrorun Ni'am Sholeh
 Asrul Sani
 Aswanto
+Awaloedin Djamin
 Aziz Haily
 Azyumardi Azra
 Bachtiar Aly
 Baharuddin Syarif
+Bahder Djohan
 Bahrullah Akbar
 Bahtiar Effendy
 Bambang Brodjonegoro
@@ -90,31 +92,38 @@ Busthanul Arifin
 Busyra Azheri
 Busyra Zahir
 Chairil Anwar
-Cornel Simanjuntak
 Conny R. Semiawan
-Dadan Wildan
+Cornel Simanjuntak
 Dadang Hawari
-Darmanto Jatman
-Dayar Arbain
+Dadan Wildan
 Damardjati Supadjar
 Dandhy Laksono
 Danton Sihombing
+Darmanto Jatman
+Dayar Arbain
 Deliar Noer
+Didi Sukyadi
+Djajusman Tanudikusumah
+Djanius Djamin
+Djenal Asikin Widjaja Koesoema
 Djoeanda Kartawidjaja
 Djohan Effendi
+Djoko Hartanto
 Doddy Achdiat Tisna Amidjaja
 Dorodjatun Kuntjoro-Jakti
+Duski Samad
+Dwia Aries Tina Pulubuhu
 Eka Darmaputra
 Eko Prasetyo
 Ellydar Chaidir
 Emha Ainun Nadjib
 Emil Salim
 Ernest Douwes Dekker
-F. Budi Hardiman
 Fahmi Idris
 Fahruddin Faiz
 Faisal Basri
 Fajar Riza Ul Haq
+F. Budi Hardiman
 Fery Amsari
 Franz Magnis-Suseno
 Fuad Hassan
@@ -189,8 +198,8 @@ Mpu Tantular
 M. Quraish Shihab
 M. Sastrapratedja
 Mubyarto
-Muhammad Arifin
 Muhammad Alwi Dahlan
+Muhammad Arifin
 Muhammad Rokib
 Muhidin M. Dahlan
 Mulyadhi Kartanegara
@@ -199,8 +208,10 @@ Musa Asy’arie
 Nahrowi Dalhar
 N. Drijarkara
 Nelson Tansu
+Nicolaus Driyarkara
 Nirwan Ahmad Arsuka
 Notonagoro
+Nur Anas Djamil
 Nurcholish Madjid
 Nuruddin al-Raniri
 Okky Madasari
@@ -224,8 +235,10 @@ Roestam Effendi
 Romli Atmasasmita
 Rosihan Anwar
 R. Parmono
+Rustam Didong
 Saleh Afiff
 Samaun Samadikun
+Samsuridjal Djauzi
 Sapardi Djoko Damono
 Saras Dewi
 Sartono Kartodirdjo
@@ -242,12 +255,14 @@ Soedirman
 Soedjatmoko
 Soekarno
 Soemantri Brodjonegoro
+Soemitro Djojohadikoesoemo
 Soetjipto Wirosardjono
 Sosrokartono
 Sri-Edi Swasono
 ST Sunardi
 Suardi Tasrif
 Sunoto
+Surna Tjahya Djajadiningrat
 Sutan Sjahrir
 Sutan Takdir Alisjahbana
 Syafiq Mughni
@@ -268,6 +283,7 @@ Ulil Abshar-Abdalla
 Umar Kayam
 Valerine J.L. Kriekhoff
 Wahid Hasyim
+Wardiman Djojonegoro
 Widjojo Nitisastro
 Wiranto Arismunandar
 Witono Mardikoesoemo
