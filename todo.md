@@ -59,14 +59,35 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 ### Batch 17: Selesai ✅ (5 Tokoh)
 - Tokoh: Dadan Wildan, Dadang Hawari, Muhammad Alwi Dahlan, Darmanto Jatman, Dayar Arbain.
 
-### Batch 18: Sedang Diproses
+### Batch 18: Selesai ✅ (5 Tokoh)
 | Nama Tokoh | Integritas | Substansi | Status |
 | :--- | :---: | :---: | :--- |
-| Deddy Ismatullah | [ ] | [ ] | Antrean |
-| Haryanto Dhanutirto | [ ] | [ ] | Antrean |
-| Didi Sukyadi | [ ] | [ ] | Antrean |
-| Rustam Didong | [ ] | [ ] | Antrean |
-| Surna Tjahya Djajadiningrat | [ ] | [ ] | Antrean |
+| Didi Sukyadi | [x] | [x] | Diterbitkan |
+| Rustam Didong | [x] | [x] | Diterbitkan |
+| Surna Tjahya Djajadiningrat | [x] | [x] | Diterbitkan |
+| Nur Anas Djamil | [x] | [x] | Diterbitkan |
+| Djajusman Tanudikusumah | [x] | [x] | Diterbitkan |
+
+### Batch 19: Selesai ✅ (5 Tokoh)
+| Nama Tokoh | Integritas | Substansi | Status |
+| :--- | :---: | :---: | :--- |
+| Awaloedin Djamin | [x] | [x] | Diterbitkan |
+| Djanius Djamin | [x] | [x] | Diterbitkan |
+| Samsuridjal Djauzi | [x] | [x] | Diterbitkan |
+| Djenal Asikin Widjaja Koesoema | [x] | [x] | Diterbitkan |
+| Bahder Djohan | [x] | [x] | Diterbitkan |
+
+### Batch 20: Selesai ✅ (Special 6 Tokoh)
+| Nama Tokoh | Integritas | Substansi | Status |
+| :--- | :---: | :---: | :--- |
+| Soemitro Djojohadikoesoemo | [x] | [x] | Diterbitkan |
+| Wardiman Djojonegoro | [x] | [x] | Diterbitkan |
+| Djoko Hartanto | [x] | [x] | Diterbitkan |
+| Nicolaus Driyarkara | [x] | [x] | Diterbitkan |
+| Duski Samad (akademisi) | [x] | [x] | Diterbitkan |
+| Dwia Aries Tina Pulubuhu | [x] | [x] | Diterbitkan |
+
+Tujuan tercapai: Total 300 Tokoh.
 
 ---
 
@@ -82,6 +103,9 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 | Ari Kuncoro | Skandal rangkap jabatan Komisaris BUMN & revisi Statuta UI (2021) | Tempo, Tirto |
 | Arief Hidayat | Pelanggaran kode etik berulang sebagai Hakim Konstitusi | MKMK, ICW |
 | Siti Nurbaya Bakar | Kasus korupsi tata kelola sawit (Kejagung 2026) | Tempo, CNN |
+| Deddy Ismatullah | Dugaan irreguler keuangan & pemberhentian oleh Kemenag (2015) | Republika, Kemenag |
+| Haryanto Dhanutirto | Skandal markup audit BPKP (1995) & rekam jejak kontroversial | Media Indonesia, ICW |
+| Sudrajad Djiwandono | Keterlibatan utama dalam skandal BLBI (Tersangka/SP3) | Tempo, Antikorupsi.org |
 
 ## 4. Konvensi Penulisan (Checklist Akhir)
 - [x] Nama file: `nama-tokoh.md` (lowercase, kebab-case, tanpa gelar).
