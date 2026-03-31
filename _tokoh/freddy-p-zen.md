@@ -19,7 +19,7 @@ pendidikan:
   - D.Sc (Doktor), Hiroshima University, Jepang (1994)
 pokok_pikiran: Eksplorasi Teori String (*String Theory*) dan Teori-M (*M-Theory*) dalam konteks gravitasi kuantum (2+1) dimensi; pengembangan model kosmologi teoretis; komputasi kuantum sebagai masa depan teknologi informasi fisis.
 karya_utama:
-  - judul: Selected Topics in Theoretical Physics: Two Dimensional Quantum Gravity and Conformal Field Theory
+  - judul: "Selected Topics in Theoretical Physics: Two Dimensional Quantum Gravity and Conformal Field Theory"
     tahun: 2005
     jenis: Buku
   - judul: Superstring Theory, D-Brane and Cosmology

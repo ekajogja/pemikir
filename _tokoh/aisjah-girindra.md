@@ -20,10 +20,10 @@ karya_utama:
   - judul: Pengukir Sejarah Sertifikasi Halal (LPPOM MUI)
     tahun: 1998
     jenis: Buku
-  - judul: Biokimia 1: Dasar-Dasar Kimia Kehidupan
+  - judul: "Biokimia 1: Dasar-Dasar Kimia Kehidupan"
     tahun: 1991
     jenis: Buku Teks Akademik
-  - judul: Faktor anti-Triptik Kedelai: Kajian Biokimiawi
+  - judul: "Faktor anti-Triptik Kedelai: Kajian Biokimiawi"
     tahun: 1973
     jenis: Disertasi/Penelitian
 sumber:

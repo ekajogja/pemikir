@@ -19,13 +19,13 @@ pendidikan:
   - Doktor Ilmu Pendidikan, Universitas Negeri Jakarta (UNJ)
 pokok_pikiran: Pendidikan sebagai eskalator sosial tercepat untuk kemajuan daerah; manajemen pendidikan tinggi berbasis kemandirian yayasan; integrasi kebijakan politik dan anggaran untuk beasiswa pendidikan nasional.
 karya_utama:
-  - judul: Perilaku Organisasi: Teori dan Implementasi dalam Pendidikan
+  - judul: "Perilaku Organisasi: Teori dan Implementasi dalam Pendidikan"
     tahun: 2022
     jenis: Buku
   - judul: Psikologi Pendidikan dalam Perspektif Manajemen Konteks Regional
     tahun: 2021
     jenis: Buku
-  - judul: Pengantar Ilmu Pendidikan: Dasar Filosofis dan Praktis
+  - judul: "Pengantar Ilmu Pendidikan: Dasar Filosofis dan Praktis"
     tahun: 2020
     jenis: Buku
 sumber:

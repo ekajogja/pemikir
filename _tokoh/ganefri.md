@@ -18,7 +18,7 @@ pendidikan:
   - Ph.D (Doktor) Pendidikan Teknikal Vokasional, Universiti Kebangsaan Malaysia (2011)
 pokok_pikiran: Integrasi *Technopreneurship* dalam pendidikan vokasi; pendidikan teknik adaptif di era Industri 4.0; modernisasi tata kelola perguruan tinggi negeri eks-IKIP.
 karya_utama:
-  - judul: Technopreneurship and Vocational Education Training: Peran dan Tantangan
+  - judul: "Technopreneurship and Vocational Education Training: Peran dan Tantangan"
     tahun: 2011
     jenis: Disertasi/Penelitian
   - judul: Psikologi Kerja dan Manajemen Hubungan Industrial

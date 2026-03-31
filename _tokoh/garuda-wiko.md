@@ -18,10 +18,10 @@ pendidikan:
   - Doktor Ilmu Hukum, Universitas Diponegoro (2006)
 pokok_pikiran: Rekonstruksi sistem hukum yang berkeadilan melalui perspektif sosio-legal; transformasi digital universitas menuju "Cyber University"; perlindungan hukum bagi nelayan tradisional di tengah dominasi regulasi negara.
 karya_utama:
-  - judul: Redefinisi Pemikiran Dalam Pembangunan Hukum di Indonesia: Suatu Tinjauan Tentang Peran Teori Hukum Sosiologis
+  - judul: "Redefinisi Pemikiran Dalam Pembangunan Hukum di Indonesia: Suatu Tinjauan Tentang Peran Teori Hukum Sosiologis"
     tahun: 2022
     jenis: Orasi Ilmiah/Artikel
-  - judul: Nelayan Tradisional Ditengah Kuasa Regulasi Negara: Analisis Sosio-legal Terhadap Peraturan Sektor Perikanan
+  - judul: "Nelayan Tradisional Ditengah Kuasa Regulasi Negara: Analisis Sosio-legal Terhadap Peraturan Sektor Perikanan"
     tahun: 2021
     jenis: Buku (Kontributor/Publikasi)
   - judul: Pilihan Hukum Dalam Kontrak Bisnis (Law Choice in Business Contract)
