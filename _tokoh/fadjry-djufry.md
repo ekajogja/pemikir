@@ -25,7 +25,7 @@ karya_utama:
   - judul: Pemodelan Pertumbuhan dan Produksi Kelapa Sawit Berdasarkan Konsep Satuan Panas (*Thermal Unit*)
     tahun: 2005
     jenis: Disertasi/Penelitian
-  - judul: Climate Smart Agriculture: Strategi Menghadapi Perubahan Iklim di Sektor Pertanian
+  - judul: "Climate Smart Agriculture: Strategi Menghadapi Perubahan Iklim di Sektor Pertanian"
     tahun: 2021
     jenis: Buku/Artikel
 sumber:

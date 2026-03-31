@@ -18,7 +18,7 @@ pendidikan:
   - Doktor Linguistik Bahasa Inggris, Unika Atma Jaya Jakarta
 pokok_pikiran: Integrasi media sosial dan teknologi digital dalam menciptakan lingkungan pembelajaran otentik; penguatan literasi dan berpikir kritis sebagai orientasi utama pendidikan masa depan; modernisasi tata kelola perguruan tinggi berbasis nilai-nilai kemuhammadiyahan yang adaptif.
 karya_utama:
-  - judul: Media Sosial: Alternatif Menciptakan Lingkungan Pembelajaran Otentik
+  - judul: "Media Sosial: Alternatif Menciptakan Lingkungan Pembelajaran Otentik"
     tahun: 2021
     jenis: Buku
   - judul: "EFL Teaching and Pragmatics in Digital Era"

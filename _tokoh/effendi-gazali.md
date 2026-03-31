@@ -22,7 +22,7 @@ karya_utama:
   - judul: "Communication of Politics & Politics of Communication in Indonesia: A Study on Media Performance, Responsibility, and Accountability"
     tahun: 2004
     jenis: Disertasi/Penelitian
-  - judul: Konstruksi Sosial Dunia Penyiaran: Plus Acuan Tentang Penyiaran Publik dan Komunitas
+  - judul: "Konstruksi Sosial Dunia Penyiaran: Plus Acuan Tentang Penyiaran Publik dan Komunitas"
     tahun: 2003
     jenis: Buku
   - judul: Republik Mimpi (Program Televisi/Satire Politik)

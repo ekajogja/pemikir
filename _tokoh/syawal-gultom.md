@@ -23,7 +23,7 @@ karya_utama:
   - judul: Kajian Perilaku Kepemimpinan dalam Organisasi Pendidikan
     tahun: 2020
     jenis: Buku
-  - judul: Pelatihan dan Pendampingan Implementasi Kurikulum 2013: Strategi Nasional
+  - judul: "Pelatihan dan Pendampingan Implementasi Kurikulum 2013: Strategi Nasional"
     tahun: 2014
     jenis: Artikel/Modul
 sumber:

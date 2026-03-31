@@ -52,10 +52,12 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 - [x] Front Matter: Field `lahir` & `wafat` wajib string (contoh: `"1945"`).
 - [x] Front Matter: Field `sumber` wajib list objek dengan `url` dan `label`.
 - [x] Front Matter: Lengkapi field wajib (`periode`, `bidang`, `pendidikan`, `pokok_pikiran`, `karya_utama`).
+- [ ] Front Matter: **Wajib gunakan tanda kutip** pada nilai string yang mengandung titik dua (contoh: `judul: "Judul: Subjudul"`).
 - [x] Narasi: Minimal 150-400 kata, Bahasa Indonesia baku, gaya ensiklopedis.
 - [x] Sinkronisasi: Tambahkan nama ke `daftar-tokoh.txt` secara alfabetis.
 - [x] Referensi: Bandingkan struktur dengan `_tokoh/a-mukti-ali.md` sebagai standar utama.
 
 ## 5. Ricek Sintaks YAML
 
-Sebelum mengerjakan batch berikutnya, selalu lakukan ricek sintaks YAML agar sesuai dengan templat di `CONTRIBUTING.md`.
+Sebelum mengerjakan batch berikutnya, selalu lakukan ricek sintaks YAML agar sesuai dengan templat di `CONTRIBUTING.md`. Pastikan tidak ada "unquoted colons" di dalam nilai (value) YAML, karena akan menyebabkan error pada Jekyll build (Mapping values are not allowed in this context).
+

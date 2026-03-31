@@ -21,7 +21,7 @@ karya_utama:
   - judul: Buku Ajar Pulmonologi dan Kedokteran Respirasi
     tahun: 2017
     jenis: Buku
-  - judul: Penyakit Paru Kerja: Diagnosis dan Penatalaksanaan
+  - judul: "Penyakit Paru Kerja: Diagnosis dan Penatalaksanaan"
     tahun: 2014
     jenis: Buku/Modul
   - judul: Peranan Pemeriksaan Faal Paru (Spirometri) dalam Diagnosis dan Monitoring Penyakit Paru

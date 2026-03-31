@@ -21,7 +21,7 @@ karya_utama:
   - judul: Pengembangan Model Intervensi Penurunan Kelelahan Kerja pada Pegawai Pengguna Komputer 
     tahun: 2017
     jenis: Disertasi/Penelitian
-  - judul: Manajemen Olahraga dan Ergonomi: Teori dan Implementasi
+  - judul: "Manajemen Olahraga dan Ergonomi: Teori dan Implementasi"
     tahun: 2022
     jenis: Buku
   - judul: Implementasi Zona Integritas di Lingkungan Perguruan Tinggi Negeri

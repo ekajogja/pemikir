@@ -19,7 +19,7 @@ pendidikan:
   - Doktor (S3), Universiti Malaya, Kuala Lumpur
 pokok_pikiran: Pengembangan metodologi Ilmu Kalam yang pragmatis dan bermanfaat (*wasathiyah*); pendidikan sebagai lokomotif utama dakwah dan pemberdayaan umat; penguatan jati diri organisasi Al-Irsyad melalui *at-ta'lim* (pendidikan).
 karya_utama:
-  - judul: Ilmu Kalam Wasathiyah: Metodologi dan Implementasi Moderasi Beragama
+  - judul: "Ilmu Kalam Wasathiyah: Metodologi dan Implementasi Moderasi Beragama"
     tahun: 2024
     jenis: Orasi Profesor
   - judul: Sejarah dan Dinamika Pemikiran Al-Irsyad Al-Islamiyyah

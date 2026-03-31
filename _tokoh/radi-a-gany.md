@@ -18,7 +18,7 @@ pendidikan:
   - Magister & Doktor Ekonomi Pertanian, Unhas/Program Internasional
 pokok_pikiran: Inovasi sistem irigasi "Pompanisasi" (Irigasi Tanpa Bendungan) untuk swasembada pangan; integrasi kebijakan pertanian-birokrasi dalam pembangunan daerah; otonomi kampus dan pengembangan pusat studi HAM di perguruan tinggi.
 karya_utama:
-  - judul: Inovasi Pompanisasi: Strategi Pengelolaan Lahan di Sekitar Danau Tempe
+  - judul: "Inovasi Pompanisasi: Strategi Pengelolaan Lahan di Sekitar Danau Tempe"
     tahun: 1990
     jenis: Laporan/Inovasi (Bupati Wajo)
   - judul: Ekonomi Pertanian Indonesia dalam Perspektif Daerah

@@ -18,7 +18,7 @@ pendidikan:
   - S3 Doktor Pendidikan Bahasa dan Sastra Indonesia, Universitas Negeri Surabaya (2018)
 pokok_pikiran: Inovasi *Center of Excellence* (CoE) dalam pendidikan tinggi; pusat pengembangan kerja masa depan (*Center for Future Work* - CFW); program Profesor Penggerak Pembangunan Masyarakat (P3M) untuk relevansi nyata antara akademik dan industri.
 karya_utama:
-  - judul: Center of Excellence (CoE): Menyongsong Masa Depan Pendidikan Tinggi (Strategi Relevansi Industri)
+  - judul: "Center of Excellence (CoE): Menyongsong Masa Depan Pendidikan Tinggi (Strategi Relevansi Industri)"
     tahun: 2023
     jenis: Buku/Modul
   - judul: Pembelajaran Membaca Kritis dan Berpikir Kritis bagi Mahasiswa
