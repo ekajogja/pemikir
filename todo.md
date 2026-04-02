@@ -38,7 +38,9 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 - **Batch 24 (Selesai):** Fadjry Djufry, Faisal Yunus, Faisol Nasar bin Madi, Fauzan, Freddy P. Zen.
 - **Batch 25 (Selesai):** Furqon, Furtasan Ali Yusuf, Ganefri, Radi A. Gany, Garuda Wiko.
 - **Batch 26 (Selesai):** Effendi Gazali, Aisjah Girindra, Syamsul Gultom, Syawal Gultom, Gunawan Suryoputro. (Catatan: Miranda Goeltom didiskualifikasi).
-- **Batch 27 (Antrean):** Gunawan Tjahjono, H.B. Saanin, Sutrisno Hadi, Soejono Hadinoto, Toyib Hadiwijaya.
+- **Batch 27 (Selesai):** Gunawan Tjahjono, H.B. Saanin, Sutrisno Hadi, Soejono Hadinoto, Toyib Hadiwijaya.
+- **Batch 28 (Selesai):** Haedar Nashir, Didin Hafidhuddin, Hafrijal Syandri, Hamdi Muluk, Aliyah Hamka.
+- **Batch 29 (Antrean):** Andi Hamzah, Andar Amin Harahap, A. Sobana Hardjasaputra, Hardjoso Prodjopangarso, Sudarsono Hardjosoekarto.
 
 ---
 
