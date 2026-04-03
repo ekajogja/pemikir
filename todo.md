@@ -40,7 +40,9 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 - **Batch 26 (Selesai):** Effendi Gazali, Aisjah Girindra, Syamsul Gultom, Syawal Gultom, Gunawan Suryoputro. (Catatan: Miranda Goeltom didiskualifikasi).
 - **Batch 27 (Selesai):** Gunawan Tjahjono, H.B. Saanin, Sutrisno Hadi, Soejono Hadinoto, Toyib Hadiwijaya.
 - **Batch 28 (Selesai):** Haedar Nashir, Didin Hafidhuddin, Hafrijal Syandri, Hamdi Muluk, Aliyah Hamka.
-- **Batch 29 (Antrean):** Andi Hamzah, Andar Amin Harahap, A. Sobana Hardjasaputra, Hardjoso Prodjopangarso, Sudarsono Hardjosoekarto.
+- **Batch 29 (Selesai):** Andi Hamzah, A. Sobana Hardjasaputra, Hardjoso Prodjopangarso, Sudarsono Hardjosoekarto. (Catatan: Andar Amin Harahap didiskualifikasi - murni praktisi).
+- **Batch 30 (Selesai):** Harkristuti Harkrisnowo, Hasan Zaini, Basri Hasanuddin, Ibrahim Hasan. (Catatan: Hasbi Hasan didiskualifikasi - skandal korupsi MA, Haswandi ditangguhkan - praktisi & kontroversial).
+- **Batch 31 (Selesai):** Meutia Hatta, Gusti Muhammad Hatta. (Catatan: Muhammad Hatta Ali ditangguhkan - murni praktisi).
 
 ---
 
