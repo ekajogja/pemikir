@@ -17,10 +17,10 @@ pendidikan:
   - Universitas Leiden, Belanda (Ph.D. Sastra Timur, 1913)
 pokok_pikiran: Kritik sejarah (metode kritis) dalam penelitian historiografi tradisional nusantara; pionir kajian filologi modern di Indonesia; integrasi disiplin ilmu Barat untuk memahami kebudayaan dan hukum Islam di Hindia Belanda; prinsip objektivitas ilmiah dalam menafsirkan naskah kuno.
 karya_utama:
-  - judul: "Critische Beschouwing van de Sadjarah Banten" (Tinjauan Kritis Sejarah Banten)
+  - judul: '"Critische Beschouwing van de Sadjarah Banten" (Tinjauan Kritis Sejarah Banten)'
     tahun: 1913
     jenis: Buku/Disertasi
-  - judul: "Atjeh-Nederlandsch Woordenboek" (Kamus Aceh-Belanda)
+  - judul: '"Atjeh-Nederlandsch Woordenboek" (Kamus Aceh-Belanda)'
     tahun: 1934
     jenis: Buku
   - judul: "De Magische Gestalte van de Islam di Indonesia"

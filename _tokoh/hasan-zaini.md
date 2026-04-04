@@ -23,7 +23,7 @@ karya_utama:
   - judul: Perspektif Al-Qur'an tentang Manajemen Kehidupan
     tahun: 2015
     jenis: Buku
-  - judul: Moderasi Beragama: Tantangan dan Harapan
+  - judul: "Moderasi Beragama: Tantangan dan Harapan"
     tahun: 2020
     jenis: Jurnal/Artikel
 sumber:
