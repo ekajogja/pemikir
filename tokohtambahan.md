@@ -1,8 +1,3 @@
-[I Made Damriyasa](https://id.wikipedia.org/wiki/I_Made_Damriyasa)
-[I Nengah Kerta Besung](https://id.wikipedia.org/wiki/I_Nengah_Kerta_Besung)
-[I Nyoman Suartha](https://id.wikipedia.org/wiki/I_Nyoman_Suartha)
-[I Wayan Bawa](https://id.wikipedia.org/wiki/I_Wayan_Bawa)
-[Idrus Paturusi](https://id.wikipedia.org/wiki/Idrus_Paturusi)
 [Riswandha Imawan](https://id.wikipedia.org/wiki/Riswandha_Imawan)
 [Denny Indrayana](https://id.wikipedia.org/wiki/Denny_Indrayana)
 [Irwan Prayitno](https://id.wikipedia.org/wiki/Irwan_Prayitno)
