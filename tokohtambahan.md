@@ -1,8 +1,3 @@
-[Fasli Jalal](https://id.wikipedia.org/wiki/Fasli_Jalal)
-[Jamaluddin Jompa](https://id.wikipedia.org/wiki/Jamaluddin_Jompa)
-[James Hellyward](https://id.wikipedia.org/wiki/James_Hellyward)
-[Umar Anggara Jenie](https://id.wikipedia.org/wiki/Umar_Anggara_Jenie)
-[Joenil Kahar](https://id.wikipedia.org/wiki/Joenil_Kahar)
 [Joni Hermana](https://id.wikipedia.org/wiki/Joni_Hermana)
 [Jurnalis Kamil](https://id.wikipedia.org/wiki/Jurnalis_Kamil)
 [Kadarsah Suryadi](https://id.wikipedia.org/wiki/Kadarsah_Suryadi)
