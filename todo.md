@@ -46,6 +46,8 @@ Setiap tokoh harus melalui fase-fase berikut sebelum file `.md` dibuat di folder
 - **Batch 32 (Selesai):** Lilik Hendrajaya, Herry Suhardiyanto, Bambang Hidayat, Aida Vitayala Sjafri Hubeis, Hussein Jayadiningrat. (Catatan: Eddy Hiariej didiskualifikasi - skandal suap KPK, Hendrawan Supratikno ditangguhkan - praktisi politik, Heri Hermansyah ditangguhkan - kontroversi akademik).
 - **Batch 33 (Selesai):** Himsar Ambarita, Hoepoediono Soewondho, Jannes Humuntal Hutasoit, Huzaemah Tahido Yanggo, Ibenzani Usman. (Catatan: Sholeh Hidayat didiskualifikasi - plagiarisme, I Made Bakta didiskualifikasi - pemalsuan akta, Hendrawan Supratikno ditangguhkan - praktisi politik).
 - **Batch 34 (Selesai):** I Made Damriyasa, I Nengah Kerta Besung, I Nyoman Suartha, I Wayan Bawa, Idrus Paturusi.
+- **Batch 35 (Selesai):** Riswandha Imawan, Irwan Prayitno, Ismail Novel, Iwan Sugihartono, Teuku Jacob. (Catatan: Denny Indrayana didiskualifikasi - tersangka korupsi).
+
 
 ---
 
